@@ -1,0 +1,22 @@
+<!doctype html><html lang="vi"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Review prediction groups</title>
+<style>:root{color-scheme:light dark;font:15px system-ui}body{margin:20px}main{max-width:1500px;margin:auto}button,select{font:inherit;padding:8px;max-width:100%}.controls{display:flex;flex-wrap:wrap;gap:12px;align-items:center}.pair{display:grid;grid-template-columns:1fr 1fr;gap:12px}figure{margin:12px 0;min-width:0}svg{width:100%;height:auto;display:block}.text{overflow-wrap:anywhere;margin:12px 0}@media(max-width:650px){.pair{grid-template-columns:1fr}}</style>
+<main><h2>GT được prediction group phủ thêm</h2><div class="controls"><label>Mức <select id="mode"><option value="union_support">Hợp diện tích thực</option><option value="structural_proxy">Structural proxy — thử nghiệm</option></select></label><label>GT <select id="case"></select></label><label>Nhóm <select id="group"></select></label><label>Khung <select id="view"><option value="roi">GT + nhóm</option><option value="full">Toàn ảnh</option></select></label></div>
+<p>Đỏ: GT · Cam nét đứt: bbox nhóm · Xanh: bbox thành viên từng ảnh · Xanh nét đứt: envelope thành viên. Chưa được xác nhận đúng bằng review thủ công.</p>
+<div id="title" class="text" aria-live="polite"></div><div class="pair"><figure><figcaption>Before</figcaption><div id="before"></div></figure><figure><figcaption>After</figcaption><div id="after"></div></figure></div><div id="metrics" class="text"></div><div id="members" class="text"></div>
+<script id="data" type="application/json">__GROUP_CASES__</script><script>
+(()=>{const data=JSON.parse(document.getElementById('data').textContent),get=id=>document.getElementById(id),ns='http://www.w3.org/2000/svg';let current=0,group=0;
+const node=(tag,a)=>{const n=document.createElementNS(ns,tag);for(const [k,v] of Object.entries(a))n.setAttribute(k,v);return n};
+const choices=()=>data.filter(c=>c.mode===get('mode').value);
+function render(reset=false){const cs=choices();if(reset)current=0;if(!cs[current])current=0;const c=cs[current];if(!c){get('title').textContent='Không có trường hợp';return}
+get('case').replaceChildren(...cs.map((c,i)=>{const o=document.createElement('option');o.value=i;o.textContent=c.id+' · '+c.gt.selector;return o}));get('case').value=current;
+if(!c.groups[group])group=0;const link=c.groups[group],g=link.group;
+get('group').replaceChildren(...c.groups.map((g,i)=>{const o=document.createElement('option');o.value=i;o.textContent=g.group_id+' · '+g.kind+' · '+g.group.members.length+' thành viên';return o}));get('group').value=group;
+get('title').textContent=c.id+' · '+(current+1)+'/'+cs.length+' · '+c.gt.selector+' · '+link.evidence_type;
+for(const side of ['before','after']){const [w,h]=c.image_size,b=g.prediction_region,t=[c.gt.x,c.gt.y,c.gt.x+c.gt.w,c.gt.y+c.gt.h];let v=[0,0,w,h];if(get('view').value==='roi'){const x=Math.max(0,Math.min(b[0],t[0])-30),y=Math.max(0,Math.min(b[1],t[1])-30),x2=Math.min(w,Math.max(b[2],t[2])+30),y2=Math.min(h,Math.max(b[3],t[3])+30);if(x2>x&&y2>y)v=[x,y,x2-x,y2-y]}
+const svg=node('svg',{viewBox:v.join(' '),role:'img','aria-label':c.id+' '+side});svg.append(node('image',{href:'../data/geometry-v3/'+c.pair_id+'/'+side+'.png',width:w,height:h}));
+const rect=(b,color,dash='',width=2)=>svg.append(node('rect',{x:b[0],y:b[1],width:b[2]-b[0],height:b[3]-b[1],fill:'none',stroke:color,'stroke-width':width,'stroke-dasharray':dash,'vector-effect':'non-scaling-stroke'}));
+g.member_regions.forEach(b=>rect(b,'#319ed8','3 3',1));g.members.forEach(m=>rect(m[side+'_bbox'],'#319ed8'));rect(b,'#e7a238','8 5');rect(t,'#ef4457','',3);get(side).replaceChildren(svg)}
+get('metrics').textContent='Union support: IoU '+(link.support_iou*100).toFixed(1)+'%, CCR '+(link.support_ccr*100).toFixed(1)+'% · Bbox nhóm: IoU '+(link.bbox_iou*100).toFixed(1)+'%, CCR '+(link.bbox_ccr*100).toFixed(1)+'% · '+g.members.length+' thành viên · spread '+g.spatial_spread.toFixed(2);
+get('members').textContent='Thành viên: '+g.members.map(m=>m.before_id+' → '+m.after_id).join('; ')+(g.parent?' · Parent '+g.parent.before_id+' → '+g.parent.after_id:' · Không có parent xác nhận; nhóm theo chuyển động lân cận');}
+get('mode').addEventListener('change',()=>{group=0;render(true)});get('case').addEventListener('change',e=>{current=Number(e.target.value);group=0;render()});get('group').addEventListener('change',e=>{group=Number(e.target.value);render()});get('view').addEventListener('change',()=>render());render();})();
+</script></main></html>

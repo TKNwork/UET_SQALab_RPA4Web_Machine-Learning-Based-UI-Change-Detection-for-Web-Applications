@@ -1,0 +1,64 @@
+<div id="content-change-catalog-97">
+  <style>
+    #content-change-catalog-97 { color:var(--foreground); }
+    #content-change-catalog-97 .catalog-grid { display:grid;grid-template-columns:repeat(auto-fit,minmax(48px,1fr));gap:6px;margin:16px 0; }
+    #content-change-catalog-97 .catalog-pair { display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:16px;margin:12px 0; }
+    #content-change-catalog-97 .catalog-pair figure { min-width:0;margin:0; }
+    #content-change-catalog-97 .catalog-pair img { max-width:100%;max-height:240px;object-fit:contain;object-position:left top; }
+    #content-change-catalog-97 .catalog-text { white-space:pre-wrap;overflow-wrap:anywhere;margin:8px 0; }
+    #content-change-catalog-97 .catalog-label { font-weight:500;margin:6px 0; }
+    #content-change-catalog-97 .catalog-meta { overflow-wrap:anywhere;margin:8px 0; }
+    #content-change-catalog-97 .catalog-details { white-space:pre-wrap;overflow-wrap:anywhere; }
+    @media(max-width:480px){#content-change-catalog-97 .catalog-pair{grid-template-columns:minmax(0,1fr);}}
+  </style>
+  <h2>97 mẫu content change</h2>
+  <div class="text-small text-muted">501 mẫu nguồn · 6 mẫu đã chấm GT · 91 mẫu chưa có GT content hiện hành</div>
+  <div class="catalog-grid" data-catalog="grid" role="group" aria-label="Chọn mẫu content theo ID"></div>
+  <div data-catalog="selection" class="catalog-label" aria-live="polite"></div>
+  <div data-catalog="description" class="catalog-meta"></div>
+  <div class="catalog-pair">
+    <figure><figcaption class="catalog-label">Before</figcaption><img data-catalog="before-image" alt=""><div data-catalog="before-kind" class="text-small text-muted"></div><div data-catalog="before-text" class="catalog-text"></div></figure>
+    <figure><figcaption class="catalog-label">After</figcaption><img data-catalog="after-image" alt=""><div data-catalog="after-kind" class="text-small text-muted"></div><div data-catalog="after-text" class="catalog-text"></div></figure>
+  </div>
+  <div data-catalog="status" class="text-small"></div>
+  <details><summary>Selector, vùng ảnh và các phần tử liên quan</summary><pre data-catalog="details" class="catalog-details text-small"></pre></details>
+</div>
+<script>
+(function(){
+  const samples=__CONTENT_CATALOG_DATA__;
+  const root=document.getElementById('content-change-catalog-97');
+  const el=key=>root.querySelector('[data-catalog="'+key+'"]');
+  const buttons=new Map();
+  function textOf(target){
+    if(!target)return 'Không tìm được phần tử theo selector';
+    const lines=[];
+    if(target.text)lines.push(target.text);
+    for(const key of ['placeholder','value','alt','title'])if(Object.prototype.hasOwnProperty.call(target.attributes,key))lines.push(key+': '+(target.attributes[key]||'(rỗng)'));
+    if(target.attributes.src)lines.push('src: '+target.attributes.src);
+    return lines.join('\n')||'(Không có text/thuộc tính nội dung trong snapshot)';
+  }
+  function select(id,persist){
+    const sample=samples.find(s=>s.id===id)||samples[0];
+    for(const [key,button]of buttons)button.setAttribute('aria-pressed',String(key===sample.id));
+    const host=sample.name.substring(sample.id.length+1).replaceAll('_','.');
+    el('selection').textContent=sample.id+' · '+host+' · '+(sample.evaluated?'Đã chấm: '+sample.covered+'/'+sample.gt_count+' GT vùng':'Chưa có đánh giá GT content');
+    el('description').textContent=sample.operations.map(o=>o.description).join(' · ');
+    const operation=sample.operations.find(o=>o.changed_target_indices.length)||sample.operations[0];
+    const index=operation.changed_target_indices[0]??0;
+    for(const side of ['before','after']){
+      const image=el(side+'-image');image.src=sample.images[side];image.alt=side+' '+sample.id+': '+operation.description;
+      el(side+'-kind').textContent=sample.roi_kind[side];
+      el(side+'-text').textContent=textOf(operation[side][index]);
+    }
+    const observed=sample.operations.some(o=>o.changed_target_indices.length);
+    el('status').textContent=(observed?'Có khác biệt text/thuộc tính trong snapshot':'Metadata khai báo content; snapshot chưa xác nhận khác biệt text/thuộc tính')+(sample.other_labels.length?' · Nhãn kèm: '+sample.other_labels.join(', '):'');
+    el('details').textContent=JSON.stringify({id:sample.id,url:sample.domain,roi:sample.roi,roi_kind:sample.roi_kind,operations:sample.operations},null,2);
+    if(persist){const result=window.openai?.setWidgetState?.({modelContent:{selected_id:sample.id,scope:'metadata content review; not matching predictions'},privateContent:null});if(result?.catch)result.catch(()=>{});}
+  }
+  for(const sample of samples){
+    const button=document.createElement('button');button.type='button';button.className='btn viz-tile';button.textContent=sample.id;button.setAttribute('aria-label',sample.id+' '+sample.operations.map(o=>o.description).join('; '));button.setAttribute('aria-pressed','false');button.addEventListener('click',()=>select(sample.id,true));el('grid').append(button);buttons.set(sample.id,button);
+  }
+  select(window.openai?.widgetState?.modelContent?.selected_id||'008',false);
+  window.addEventListener('openai:set_globals',event=>{const id=event.detail?.globals?.widgetState?.modelContent?.selected_id;if(id)select(id,false);});
+})();
+</script>

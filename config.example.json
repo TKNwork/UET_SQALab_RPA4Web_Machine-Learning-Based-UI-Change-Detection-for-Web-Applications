@@ -1,0 +1,8 @@
+{
+  "dataset1": "dataset1",
+  "baseline": "output_dataset1/baseline/json",
+  "inject": "output_dataset1/inject/json",
+  "groundtruth": "output_dataset1/groundtruth",
+  "geometry_pairs": "output_dataset1/geometry/pairs",
+  "yolo_model": "OCR + Yolo26/yolo/models/yl26best.pt"
+}

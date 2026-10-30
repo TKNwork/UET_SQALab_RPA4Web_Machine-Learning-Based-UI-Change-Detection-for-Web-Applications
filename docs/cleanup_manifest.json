@@ -1,0 +1,147 @@
+[
+  {
+    "path": "OCR + Yolo26/yolo/__pycache__",
+    "bytes": 14814,
+    "reason": "generated Python bytecode"
+  },
+  {
+    "path": "OCR + Yolo26/ocr/__pycache__",
+    "bytes": 14509,
+    "reason": "generated Python bytecode"
+  },
+  {
+    "path": "OCR + Yolo26/cv/__pycache__",
+    "bytes": 25225,
+    "reason": "generated Python bytecode"
+  },
+  {
+    "path": "OCR + Yolo26/eval_groundtruth/__pycache__",
+    "bytes": 7105,
+    "reason": "generated Python bytecode"
+  },
+  {
+    "path": "OCR + Yolo26/combine/large_x_large/__pycache__",
+    "bytes": 3585,
+    "reason": "generated Python bytecode"
+  },
+  {
+    "path": "OCR + Yolo26/combine/small_x_yolo/__pycache__",
+    "bytes": 4247,
+    "reason": "generated Python bytecode"
+  },
+  {
+    "path": "OCR + Yolo26/combine/medium_x_large/__pycache__",
+    "bytes": 3590,
+    "reason": "generated Python bytecode"
+  },
+  {
+    "path": "OCR + Yolo26/combine/ocr_x_large/__pycache__",
+    "bytes": 3580,
+    "reason": "generated Python bytecode"
+  },
+  {
+    "path": "OCR + Yolo26/combine/full_pipeline/__pycache__",
+    "bytes": 8835,
+    "reason": "generated Python bytecode"
+  },
+  {
+    "path": "OCR + Yolo26/combine/small_x_cv/__pycache__",
+    "bytes": 3644,
+    "reason": "generated Python bytecode"
+  },
+  {
+    "path": "OCR + Yolo26/combine/small_x_ocr/__pycache__",
+    "bytes": 6568,
+    "reason": "generated Python bytecode"
+  },
+  {
+    "path": "OCR + Yolo26/combine/medium_x_ocr/__pycache__",
+    "bytes": 3672,
+    "reason": "generated Python bytecode"
+  },
+  {
+    "path": "OCR + Yolo26/combine/_core/__pycache__",
+    "bytes": 20203,
+    "reason": "generated Python bytecode"
+  },
+  {
+    "path": "OCR + Yolo26/combine/medium_x_cv/__pycache__",
+    "bytes": 3578,
+    "reason": "generated Python bytecode"
+  },
+  {
+    "path": "OCR + Yolo26/combine/cv_x_large/__pycache__",
+    "bytes": 3572,
+    "reason": "generated Python bytecode"
+  },
+  {
+    "path": "OCR + Yolo26/gemini/__pycache__",
+    "bytes": 28828,
+    "reason": "generated Python bytecode"
+  },
+  {
+    "path": "output_dataset1/__pycache__",
+    "bytes": 143196,
+    "reason": "generated Python bytecode"
+  },
+  {
+    "path": "output_dataset1/content/__pycache__",
+    "bytes": 43112,
+    "reason": "generated Python bytecode"
+  },
+  {
+    "path": "output_dataset1/content/tests/__pycache__",
+    "bytes": 16978,
+    "reason": "generated Python bytecode"
+  },
+  {
+    "path": "output_dataset1/content/scripts/__pycache__",
+    "bytes": 49344,
+    "reason": "generated Python bytecode"
+  },
+  {
+    "path": "output_dataset1/shared/__pycache__",
+    "bytes": 40420,
+    "reason": "generated Python bytecode"
+  },
+  {
+    "path": "output_dataset1/shared/tests/__pycache__",
+    "bytes": 2019,
+    "reason": "generated Python bytecode"
+  },
+  {
+    "path": "output_dataset1/shared/scripts/__pycache__",
+    "bytes": 2783,
+    "reason": "generated Python bytecode"
+  },
+  {
+    "path": "output_dataset1/tests/__pycache__",
+    "bytes": 43688,
+    "reason": "generated Python bytecode"
+  },
+  {
+    "path": "output_dataset1/scripts/__pycache__",
+    "bytes": 42529,
+    "reason": "generated Python bytecode"
+  },
+  {
+    "path": "output_dataset1/geometry/__pycache__",
+    "bytes": 94021,
+    "reason": "generated Python bytecode"
+  },
+  {
+    "path": "output_dataset1/geometry/tests/__pycache__",
+    "bytes": 55832,
+    "reason": "generated Python bytecode"
+  },
+  {
+    "path": "output_dataset1/geometry/scripts/__pycache__",
+    "bytes": 264113,
+    "reason": "generated Python bytecode"
+  },
+  {
+    "path": "output_dataset1/geometry/report_viewer/dist",
+    "bytes": 100914783,
+    "reason": "regenerable viewer build"
+  }
+]

@@ -1,0 +1,3 @@
+-r perception.txt
+matplotlib==3.10.9
+pycocotools>=2.0.7,<3

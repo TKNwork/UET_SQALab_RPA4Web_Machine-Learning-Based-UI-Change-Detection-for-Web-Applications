@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="vi">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>GT geometry — Dataset2</title>
+<style>
+:root{color-scheme:light dark;--bg:light-dark(#f7f8fb,#141820);--fg:light-dark(#18202b,#e9edf6);--panel:light-dark(#fff,#1e2430);--line:light-dark(#d5dce7,#3a4457);--muted:light-dark(#4d596d,#b3bfd3);--gt:#f24949;--selected:#00b97d}*{box-sizing:border-box}body{margin:0;padding:24px;background:var(--bg);color:var(--fg);font:15px system-ui}h1{margin:0 0 8px}p{color:var(--muted)}button,select,input{font:inherit;padding:9px;border:1px solid var(--line);border-radius:6px;background:var(--panel);color:var(--fg)}button{cursor:pointer}button:disabled{opacity:.4}label{display:inline-flex;align-items:center;gap:7px}.controls{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin:12px 0}#sample{max-width:100%;min-width:200px}.panels{display:grid;grid-template-columns:1fr 1fr;gap:16px}section{min-width:0}h2{font-size:17px}.canvas{border:1px solid var(--line);background:var(--panel)}svg{display:block;width:100%;height:auto;aspect-ratio:1.86}.box{fill:transparent;stroke:var(--gt);stroke-width:2;vector-effect:non-scaling-stroke;cursor:pointer}.box.active{stroke:var(--selected);stroke-width:3;fill:color-mix(in srgb,var(--selected) 10%,transparent)}.label{fill:var(--gt);font:17px system-ui;paint-order:stroke;stroke:var(--panel);stroke-width:3px;pointer-events:none}.label.active{fill:var(--selected)}.table-wrap{overflow:auto;max-height:340px;margin-top:12px}table{border-collapse:collapse;width:100%;font-size:13px}th,td{text-align:left;padding:8px;border-bottom:1px solid var(--line);vertical-align:top}td.selector{overflow-wrap:anywhere}tr.selected{background:color-mix(in srgb,var(--selected) 13%,var(--bg))}td button{padding:5px 8px}#detail{white-space:pre-wrap;overflow-wrap:anywhere;background:var(--panel);padding:12px;min-height:55px}.note{font-size:13px}#stats{font-weight:500}#error{color:var(--gt)}@media(max-width:850px){body{padding:12px}.panels{grid-template-columns:1fr}h1{font-size:22px}}
+</style>
+<h1>GT geometry · 505 mẫu sau</h1>
+<p>GT gốc trên từng ảnh. B = before, A = after; các số là index gốc + 1. Không nối hoặc gộp hai phía thành cặp GT.</p>
+<div class="controls">
+<label><input id="geometryOnly" type="checkbox" checked>Chỉ mẫu có geometry</label>
+<button id="prev" type="button">← Trước</button>
+<label>Mẫu <select id="sample" aria-label="Chọn mẫu"></select></label>
+<button id="next" type="button">Sau →</button>
+<label><input id="show" type="checkbox" checked>Hiện bbox</label>
+<label><input id="numbers" type="checkbox" checked>Hiện số</label>
+<button id="focus" type="button" disabled>Phóng vùng GT đã chọn</button>
+<button id="reset" type="button">Toàn ảnh</button>
+</div>
+<div id="stats" aria-live="polite"></div>
+<p class="note">Đỏ: GT geometry · Xanh: GT đang chọn. Bbox đa nhãn vẫn được giữ nếu có geometry. GT ngoài viewport được giữ nguyên; chọn trong bảng rồi “Phóng vùng GT” để xem tọa độ.</p>
+<div id="error" role="alert"></div>
+<div class="panels">
+<section><h2 id="beforeTitle">Before</h2><div class="canvas"><svg id="before" role="img" aria-label="Ảnh before và GT geometry"></svg></div><div class="table-wrap"><table><thead><tr><th>GT</th><th>Selector / nhãn</th><th>Bbox x,y,w,h</th></tr></thead><tbody id="beforeRows"></tbody></table></div></section>
+<section><h2 id="afterTitle">After</h2><div class="canvas"><svg id="after" role="img" aria-label="Ảnh after và GT geometry"></svg></div><div class="table-wrap"><table><thead><tr><th>GT</th><th>Selector / nhãn</th><th>Bbox x,y,w,h</th></tr></thead><tbody id="afterRows"></tbody></table></div></section>
+</div>
+<h2>GT đang chọn</h2><div id="detail" aria-live="polite">Chọn bbox hoặc một hàng trong bảng.</div>
+<script>
+const samples=/*SAMPLES*/[];
+const $=id=>document.getElementById(id), ns='http://www.w3.org/2000/svg';
+let visible=[],selected=null,zoom=false;
+const current=()=>samples.find(s=>s.id===$('sample').value);
+function element(tag,attrs={}){const e=document.createElementNS(ns,tag);for(const [k,v] of Object.entries(attrs))e.setAttribute(k,v);return e}
+function selectGT(side,index){selected={side,index};zoom=false;render();}
+function options(){const old=$('sample').value;visible=samples.filter(s=>!$('geometryOnly').checked||s.count>0);$('sample').replaceChildren();visible.forEach(s=>{const o=document.createElement('option');o.value=s.id;o.textContent=`${s.name} · B:${s.sides.before.boxes.length} A:${s.sides.after.boxes.length}`;$('sample').append(o)});if(visible.some(s=>s.id===old))$('sample').value=old;selected=null;zoom=false;render()}
+function render(){const s=current();if(!s)return;const position=visible.findIndex(x=>x.id===s.id);$('prev').disabled=position===0;$('next').disabled=position===visible.length-1;$('stats').textContent=`${position+1}/${visible.length} mẫu đang hiển thị · Tập sau: ${samples.length} mẫu, ${samples.filter(x=>x.count>0).length} mẫu geometry · 409 bbox before + 390 bbox after = 799 annotation`;$('error').textContent='';
+const chosen=selected?s.sides[selected.side].boxes.find(b=>b.original_index===selected.index):null;$('focus').disabled=!chosen;
+$('detail').textContent=chosen?JSON.stringify({sample_id:s.id,side:selected.side,original_index:chosen.original_index,selector:chosen.selector,type:chosen.type,bbox:{x:chosen.x,y:chosen.y,w:chosen.w,h:chosen.h},outside_viewport:chosen.outside_viewport},null,2):'Chọn bbox hoặc một hàng trong bảng.';
+for(const side of ['before','after']){const source=s.sides[side],svg=$(side),prefix=side==='before'?'B':'A';let view=[0,0,source.width,source.height];if(zoom&&chosen&&selected.side===side){const margin=Math.max(20,Math.max(chosen.w,chosen.h)*.1);view=[chosen.x-margin,chosen.y-margin,chosen.w+2*margin,chosen.h+2*margin]};svg.setAttribute('viewBox',view.join(' '));svg.style.aspectRatio=`${view[2]}/${view[3]}`;svg.replaceChildren();const image=element('image',{href:source.image,width:source.width,height:source.height});image.addEventListener('error',()=>{$('error').textContent='Không đọc được ảnh. Hãy mở trang từ thư mục output_dataset1 hoặc qua server của project.'});svg.append(image);$(side+'Title').textContent=`${side==='before'?'Before':'After'} · ${source.boxes.length} bbox geometry · ${source.boxes.filter(b=>b.outside_viewport).length} ngoài viewport`;
+if($('show').checked){for(const b of source.boxes){const active=selected?.side===side&&selected.index===b.original_index;const rect=element('rect',{x:b.x,y:b.y,width:b.w,height:b.h,class:'box'+(active?' active':''),role:'button','aria-label':`${prefix}${b.original_index+1} ${b.selector}`});rect.addEventListener('click',()=>selectGT(side,b.original_index));svg.append(rect);if($('numbers').checked){const text=element('text',{x:b.x+3,y:b.y+17,class:'label'+(active?' active':'')});text.textContent=`${prefix}${b.original_index+1}`;svg.append(text)}}}
+const tbody=$(side+'Rows');tbody.replaceChildren();for(const b of source.boxes){const tr=document.createElement('tr');if(selected?.side===side&&selected.index===b.original_index)tr.className='selected';const a=document.createElement('td'),button=document.createElement('button');button.type='button';button.textContent=`${prefix}${b.original_index+1}`;button.onclick=()=>selectGT(side,b.original_index);a.append(button);const c=document.createElement('td');c.className='selector';c.textContent=`${b.selector||'(không có selector)'} · ${b.type.join(', ')}`;const d=document.createElement('td');d.textContent=[b.x,b.y,b.w,b.h].join(', ')+(b.outside_viewport?' · ngoài ảnh':'');tr.append(a,c,d);tbody.append(tr)}if(!source.boxes.length){const tr=document.createElement('tr'),td=document.createElement('td');td.colSpan=3;td.textContent='Không có GT geometry ở phía này.';tr.append(td);tbody.append(tr)}}}
+$('geometryOnly').onchange=options;$('sample').onchange=()=>{selected=null;zoom=false;render()};['show','numbers'].forEach(id=>$(id).onchange=render);$('focus').onclick=()=>{zoom=true;render()};$('reset').onclick=()=>{zoom=false;render()};for(const [id,step] of [['prev',-1],['next',1]])$(id).onclick=()=>{const i=visible.findIndex(s=>s.id===$('sample').value)+step;if(i>=0&&i<visible.length){$('sample').value=visible[i].id;selected=null;zoom=false;render()}};options();
+</script>
+</html>

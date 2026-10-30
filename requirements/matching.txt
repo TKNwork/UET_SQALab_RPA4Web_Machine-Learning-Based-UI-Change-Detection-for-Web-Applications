@@ -1,0 +1,4 @@
+# Geometry + content. Python 3.12 recommended; versions validated in local runtime.
+numpy==2.5.2
+scipy==1.18.1
+Pillow==10.2.0

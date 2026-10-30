@@ -1,0 +1,5 @@
+-r matching.txt
+requests==2.34.2
+opencv-python==5.0.0.93
+ultralytics==8.4.128
+# Install torch/torchvision separately for the chosen CPU/CUDA platform.

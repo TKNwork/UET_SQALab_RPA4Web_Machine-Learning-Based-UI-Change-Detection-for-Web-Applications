@@ -1,0 +1,72 @@
+# Local environments, caches and builds
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+node_modules/
+dist/
+*.tsbuildinfo
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.agents/
+.aws/
+.codex/
+
+# Secrets and machine-specific configuration
+.env
+.env.*
+!.env.example
+config.local.json
+**/config/*.txt
+**/ocrkey.txt
+**/geminiapi.txt
+**/proxy_url.txt
+*.pem
+*.key
+
+# Research assets: preserved locally, distributed separately
+/dataset1/
+/output_dataset1/dataset2/
+/output_dataset1/dataset2_detection/
+/output_dataset1/baseline/
+/output_dataset1/inject/
+/output_dataset1/groundtruth/
+/output_dataset1/image_full_hierarchy.*
+/output_dataset1/geometry/pairs/
+/output_dataset1/geometry/study_first5/
+**/results/
+**/output/
+/outputs/
+/output_perception/
+/artifacts/
+/OCR + Yolo26/data/
+/OCR + Yolo26/output_dataset1/
+/OCR + Yolo26/output_perception/
+/OCR + Yolo26/output_*/
+/OCR + Yolo26/webclick_vlm_input/
+/OCR + Yolo26/cv/test_images/
+/OCR + Yolo26/yolo/models/
+/OCR + Yolo26/yolo/analysis/
+*.pt
+*.pth
+*.onnx
+*.zip
+*.tar
+*.tar.gz
+*.log
+
+# Historical inventories/snapshots contain local paths; keep outside source export
+/output_dataset1/docs/migrations/
+/output_dataset1/docs/file_inventory.csv
+/output_dataset1/docs/code_structure.json
+/output_dataset1/docs/DIRECTORY_TREE.txt
+/output_dataset1/docs/*2026-10-18.json
+/output_dataset1/geometry/report_viewer/public/data/
+/output_dataset1/geometry/report_viewer/public/gt/
+/output_dataset1/geometry/report_viewer/public/group-review/
+/legacy/

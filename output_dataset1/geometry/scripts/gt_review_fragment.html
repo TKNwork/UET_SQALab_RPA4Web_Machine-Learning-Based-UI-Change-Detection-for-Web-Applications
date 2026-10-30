@@ -1,0 +1,93 @@
+<div id="gt-review-fullset">
+  <style>
+    #gt-review-fullset {color:var(--foreground)}
+    #gt-review-fullset .gt-images {display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin:12px 0}
+    #gt-review-fullset .gt-images figure {margin:0;min-width:0}
+    #gt-review-fullset svg {display:block;width:100%;height:auto;background:var(--muted)}
+    #gt-review-fullset .gt-overview {display:grid;grid-template-columns:repeat(auto-fill,minmax(86px,1fr));gap:8px;margin-top:12px}
+    #gt-review-fullset .gt-overview button {min-width:0}
+    #gt-review-fullset .gt-list {display:flex;flex-wrap:wrap;gap:8px;margin:12px 0}
+    #gt-review-fullset .gt-detail {overflow-wrap:anywhere;margin:8px 0}
+    #gt-review-fullset .gt-legend {display:flex;flex-wrap:wrap;gap:12px;margin:8px 0}
+    #gt-review-fullset .gt-legend span::before {content:'■';color:var(--gt-color);margin-right:4px}
+    #gt-review-fullset .gt-selected {stroke-width:5}
+    @media(max-width:540px) {#gt-review-fullset .gt-images {grid-template-columns:1fr}}
+  </style>
+  <h2>Toàn bộ ground truth</h2>
+  <div class="text-muted" data-role="totals"></div>
+  <div class="viz-controls">
+    <button type="button" class="btn" data-role="prev">← Mẫu trước</button>
+    <label class="form-label">Mẫu <select class="form-select" data-role="pair"></select></label>
+    <button type="button" class="btn" data-role="next">Mẫu sau →</button>
+    <label class="form-label">Type <select class="form-select" data-role="type"><option value="all">Tất cả type</option><option value="geometry">Geometry</option><option value="style">Style</option><option value="content">Content</option><option value="visibility">Visibility</option></select></label>
+    <label class="form-label">Khung xem <select class="form-select" data-role="zoom"><option value="full">Toàn ảnh</option><option value="roi">Vùng GT đã chọn</option></select></label>
+    <label class="form-check"><input class="form-check-input" type="checkbox" data-role="boxes" checked><span class="form-check-label">Hiện bbox</span></label>
+  </div>
+  <div class="gt-legend">
+    <span style="--gt-color:var(--viz-series-1)">Geometry</span><span style="--gt-color:var(--viz-series-2)">Style</span><span style="--gt-color:var(--viz-series-3)">Content</span><span style="--gt-color:var(--viz-series-4)">Visibility</span><span>Fallback: nét đứt · bbox GT dùng chung trên hai ảnh</span>
+  </div>
+  <div class="gt-detail" data-role="selection" aria-live="polite"></div>
+  <div class="gt-images"><figure><figcaption>Before</figcaption><div data-role="before"></div></figure><figure><figcaption>After</figcaption><div data-role="after"></div></figure></div>
+  <div class="gt-list" data-role="gtlist"></div>
+  <div class="gt-detail" data-role="detail"></div>
+  <div class="text-muted">Tất cả mẫu — ảnh Before</div>
+  <div class="gt-overview" data-role="overview"></div>
+  <script type="application/json" data-role="dataset">__GT_DATA__</script>
+  <script>
+  (() => {
+    const root=document.getElementById('gt-review-fullset');
+    const get=role=>root.querySelector('[data-role="'+role+'"]');
+    const data=JSON.parse(get('dataset').textContent);
+    const series={geometry:'var(--viz-series-1)',style:'var(--viz-series-2)',content:'var(--viz-series-3)',visibility:'var(--viz-series-4)'};
+    let state={pair:data.samples[0].id,gt:0,type:'all',zoom:'full',boxes:true};
+    const saved=window.openai?.widgetState?.privateContent;
+    if(saved&&data.samples.some(s=>s.id===saved.pair)) state={...state,...saved};
+    const visibleBoxes=sample=>sample.bboxes.filter(g=>state.type==='all'||g.type.includes(state.type));
+    const visibleSamples=()=>data.samples.filter(s=>visibleBoxes(s).length);
+    const sample=()=>data.samples.find(s=>s.id===state.pair);
+    const color=g=>series[g.type.includes('geometry')?'geometry':g.type[0]]||'var(--foreground)';
+    const ns='http://www.w3.org/2000/svg';
+    const make=(tag,attrs={})=>{const n=document.createElementNS(ns,tag);Object.entries(attrs).forEach(([k,v])=>n.setAttribute(k,String(v)));return n};
+    function svgFor(s,side,preview=false){
+      const [w,h]=s.size[side];let view=[0,0,w,h];
+      const target=s.bboxes.find(g=>g.index===state.gt);
+      if(!preview&&state.zoom==='roi'&&target){
+        const x=Math.max(0,target.x-35),y=Math.max(0,target.y-35),x2=Math.min(w,target.x+target.w+35),y2=Math.min(h,target.y+target.h+35);
+        if(x2>x&&y2>y)view=[x,y,x2-x,y2-y];
+      }
+      const svg=make('svg',{viewBox:view.join(' '),role:'img','aria-label':s.id+' '+side+' ground truth',preserveAspectRatio:'xMidYMid meet'});
+      svg.append(make('image',{href:preview?(s.previewBefore||s[side]):s[side],x:0,y:0,width:w,height:h}));
+      if(state.boxes)visibleBoxes(s).forEach(g=>{
+        const selected=!preview&&g.index===state.gt;
+        const rect=make('rect',{x:g.x,y:g.y,width:g.w,height:g.h,fill:color(g),'fill-opacity':selected?.14:.025,stroke:color(g),'stroke-width':preview?9:selected?5:2,'stroke-dasharray':g.fallback?'10 6':'none','vector-effect':preview?'none':'non-scaling-stroke','aria-label':'GT'+g.index+' '+g.selector});
+        if(!preview){rect.classList.add('cursor-interaction');rect.addEventListener('click',()=>{state.gt=g.index;render();persist()})}
+        svg.append(rect);
+      });return svg;
+    }
+    function persist(){window.openai?.setWidgetState?.({modelContent:{sample_id:state.pair,gt_index:state.gt,type:state.type},privateContent:state})?.catch(()=>{})}
+    function render(){
+      const choices=visibleSamples();if(!choices.length)return;
+      if(!choices.some(s=>s.id===state.pair))state.pair=choices[0].id;
+      const s=sample(),boxes=visibleBoxes(s);
+      if(!boxes.some(g=>g.index===state.gt))state.gt=boxes[0].index;
+      get('pair').replaceChildren(...choices.map(s=>{const o=document.createElement('option');o.value=s.id;o.textContent=s.id+' · '+s.bboxes.length+' GT';return o}));
+      get('pair').value=state.pair;get('type').value=state.type;get('zoom').value=state.zoom;get('boxes').checked=state.boxes;
+      get('prev').disabled=choices[0].id===state.pair;get('next').disabled=choices.at(-1).id===state.pair;
+      get('totals').textContent=data.samples.length+' mẫu · '+data.total_boxes+' bbox · '+data.geometry_boxes+' bbox geometry · '+data.fallback_boxes+' fallback';
+      get('selection').textContent='Mẫu '+s.id+' · '+(choices.findIndex(x=>x.id===s.id)+1)+'/'+choices.length+' · '+boxes.length+' GT đang hiển thị'+(data.thumbnail?' · Bản thu nhỏ':'');
+      for(const side of ['before','after'])get(side).replaceChildren(svgFor(s,side));
+      get('gtlist').replaceChildren(...boxes.map(g=>{const b=document.createElement('button');b.type='button';b.className='btn';b.setAttribute('aria-pressed',String(g.index===state.gt));b.textContent='GT'+g.index+' · '+g.type.join('+');b.addEventListener('click',()=>{state.gt=g.index;render();persist()});return b}));
+      const g=boxes.find(g=>g.index===state.gt),outside=Object.values(s.size).some(([w,h])=>g.x<0||g.y<0||g.x+g.w>w||g.y+g.h>h);
+      const same=s.bboxes.filter(b=>b.selector===g.selector).map(b=>'GT'+b.index);
+      get('detail').textContent='GT'+g.index+' · '+g.selector+' · bbox (x,y,w,h): ['+[g.x,g.y,g.w,g.h].join(', ')+'] · fallback: '+String(g.fallback)+(same.length>1?' · Cùng selector: '+same.join(', '):'')+(outside?' · Bbox vượt giới hạn ảnh; giữ nguyên tọa độ gốc':'');
+      get('overview').replaceChildren(...choices.map(s=>{const b=document.createElement('button');b.type='button';b.className='btn';b.setAttribute('aria-pressed',String(s.id===state.pair));b.setAttribute('aria-label','Mẫu '+s.id+', '+s.bboxes.length+' bbox');b.append(svgFor(s,'before',true),document.createTextNode(s.id));b.addEventListener('click',()=>{state.pair=s.id;state.gt=0;render();persist()});return b}));
+    }
+    get('pair').addEventListener('change',e=>{state.pair=e.target.value;state.gt=0;render();persist()});
+    for(const role of ['type','zoom'])get(role).addEventListener('change',e=>{state[role]=e.target.value;render();persist()});
+    get('boxes').addEventListener('change',e=>{state.boxes=e.target.checked;render();persist()});
+    for(const [role,step] of [['prev',-1],['next',1]])get(role).addEventListener('click',()=>{const choices=visibleSamples(),idx=choices.findIndex(s=>s.id===state.pair);if(choices[idx+step]){state.pair=choices[idx+step].id;state.gt=0;render();persist()}});
+    window.addEventListener('openai:set_globals',e=>{const saved=e.detail?.globals?.widgetState?.privateContent;if(saved&&data.samples.some(s=>s.id===saved.pair)){state={...state,...saved};render()}});
+    render();
+  })();
+  </script>
+</div>
