@@ -1,0 +1,541 @@
+{
+  "image": "275_weworkremotely_com.png",
+  "total_elements": 41,
+  "total_raw_nodes": 47,
+  "total_raw_edges": 29,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        44.72,
+        32.57,
+        273.38,
+        51.98
+      ],
+      "confidence": 0.9673,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_1",
+      "source": "ocr",
+      "class_label": "Community",
+      "bbox": [
+        717.0,
+        35.0,
+        797.0,
+        48.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "Career Services",
+      "bbox": [
+        840.0,
+        35.0,
+        944.0,
+        46.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "About",
+      "bbox": [
+        987.0,
+        35.0,
+        1030.0,
+        46.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "Search",
+      "bbox": [
+        1111.0,
+        34.0,
+        1161.0,
+        46.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "Sign in",
+      "bbox": [
+        1281.0,
+        34.0,
+        1329.0,
+        48.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        83.27,
+        228.01,
+        541.07,
+        264.04
+      ],
+      "confidence": 0.9674,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "We analyzed over 15,000 jobs posted on WWR since inception",
+      "bbox": [
+        81.0,
+        307.0,
+        650.0,
+        325.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "We've been around since before remote work was trendy, and way before it became the new normal. Since",
+      "bbox": [
+        292.0,
+        805.0,
+        1214.0,
+        823.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "Find Jobs",
+      "bbox": [
+        611.0,
+        34.0,
+        673.0,
+        47.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "We Work Remotely",
+      "bbox": [
+        141.0,
+        582.0,
+        276.0,
+        595.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        293.35,
+        751.47,
+        549.23,
+        766.46
+      ],
+      "confidence": 0.9194,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_12",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        95.93,
+        172.46,
+        317.75,
+        186.29
+      ],
+      "confidence": 0.9442,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1390.91,
+        33.19,
+        1460.82,
+        49.46
+      ],
+      "confidence": 0.9199,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "and here are our findings.",
+      "bbox": [
+        82.0,
+        338.0,
+        315.0,
+        357.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1370.82,
+        20.29,
+        1480.54,
+        58.99
+      ],
+      "confidence": 0.9524,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1258.8,
+        20.18,
+        1351.78,
+        59.9
+      ],
+      "confidence": 0.9582,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        83.58,
+        160.37,
+        333.74,
+        196.99
+      ],
+      "confidence": 0.9517,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1071.46,
+        21.25,
+        1242.14,
+        58.72
+      ],
+      "confidence": 0.949,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "Dec. 01, 2020.4 min. read",
+      "bbox": [
+        142.0,
+        606.0,
+        314.0,
+        618.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        716.59,
+        33.82,
+        811.8,
+        51.2
+      ],
+      "confidence": 0.9317,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        591.0,
+        586.0,
+        618.0,
+        612.0
+      ],
+      "confidence": 0.9209,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1282.38,
+        34.32,
+        1330.07,
+        49.52
+      ],
+      "confidence": 0.919,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        839.85,
+        33.78,
+        959.97,
+        46.98
+      ],
+      "confidence": 0.9078,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        80.0,
+        113.0,
+        103.0,
+        136.0
+      ],
+      "confidence": 0.9074,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "ocr",
+      "class_label": "← Back to Blog",
+      "bbox": [
+        83.0,
+        117.0,
+        204.0,
+        134.0
+      ],
+      "confidence": 0.9,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        110.09,
+        117.53,
+        202.69,
+        133.99
+      ],
+      "confidence": 0.8828,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "ocr",
+      "class_label": "WW",
+      "bbox": [
+        84.0,
+        592.0,
+        120.0,
+        607.0
+      ],
+      "confidence": 0.88,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        610.71,
+        34.01,
+        687.68,
+        46.37
+      ],
+      "confidence": 0.8645,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        141.42,
+        580.29,
+        274.73,
+        596.76
+      ],
+      "confidence": 0.8608,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        986.33,
+        33.67,
+        1045.65,
+        47.2
+      ],
+      "confidence": 0.8334,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        141.84,
+        603.99,
+        314.31,
+        620.47
+      ],
+      "confidence": 0.8309,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        82.11,
+        575.07,
+        128.04,
+        624.38
+      ],
+      "confidence": 0.5579,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1108.43,
+        33.38,
+        1163.33,
+        46.69
+      ],
+      "confidence": 0.535,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        82.36,
+        114.93,
+        101.67,
+        134.52
+      ],
+      "confidence": 0.4766,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        629.61,
+        589.85,
+        652.57,
+        609.88
+      ],
+      "confidence": 0.375,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        557.82,
+        588.33,
+        581.49,
+        611.72
+      ],
+      "confidence": 0.3493,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        664.14,
+        587.65,
+        689.16,
+        611.53
+      ],
+      "confidence": 0.3254,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        593.1,
+        588.63,
+        616.51,
+        611.07
+      ],
+      "confidence": 0.2793,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        84.71,
+        587.8,
+        124.12,
+        610.92
+      ],
+      "confidence": 0.2355,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1083.88,
+        29.79,
+        1103.71,
+        49.55
+      ],
+      "confidence": 0.1975,
+      "cluster_size": 1
+    }
+  ]
+}

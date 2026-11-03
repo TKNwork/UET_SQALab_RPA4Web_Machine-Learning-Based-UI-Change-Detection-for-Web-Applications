@@ -1,0 +1,385 @@
+{
+  "image": "483_thegoodtrade_com.png",
+  "total_elements": 29,
+  "total_raw_nodes": 31,
+  "total_raw_edges": 19,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        835.0,
+        424.0,
+        841.0,
+        508.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        816.0,
+        407.0,
+        820.0,
+        473.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        822.0,
+        392.0,
+        830.0,
+        494.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        429.0,
+        731.0,
+        551.0,
+        741.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "STYLE",
+      "bbox": [
+        138.0,
+        92.0,
+        187.0,
+        101.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "SELF",
+      "bbox": [
+        234.0,
+        92.0,
+        273.0,
+        100.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "HOME",
+      "bbox": [
+        320.0,
+        91.0,
+        364.0,
+        100.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        411.76,
+        89.92,
+        482.98,
+        101.62
+      ],
+      "confidence": 0.9492,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        443.47,
+        200.38,
+        1101.05,
+        266.95
+      ],
+      "confidence": 0.9807,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "Banking that's",
+      "bbox": [
+        584.0,
+        651.0,
+        775.0,
+        697.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "for You",
+      "bbox": [
+        732.0,
+        672.0,
+        818.0,
+        704.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "NEWSLETTER",
+      "bbox": [
+        1130.0,
+        92.0,
+        1235.0,
+        101.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "ABOUT",
+      "bbox": [
+        1282.0,
+        91.0,
+        1334.0,
+        100.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "Start each day gently with our 30-second daily newsletter. Join 250,00 readers for free →",
+      "bbox": [
+        445.0,
+        21.0,
+        1091.0,
+        36.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "Good",
+      "bbox": [
+        581.0,
+        691.0,
+        666.0,
+        726.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "and the Planet",
+      "bbox": [
+        632.0,
+        693.0,
+        829.0,
+        753.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        576.18,
+        356.63,
+        960.95,
+        825.72
+      ],
+      "confidence": 0.9789,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        170.04,
+        356.4,
+        550.71,
+        826.0
+      ],
+      "confidence": 0.9687,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "the good trade",
+      "bbox": [
+        765.0,
+        101.0,
+        983.0,
+        135.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        276.0,
+        789.0,
+        552.0,
+        813.0
+      ],
+      "confidence": 0.9583,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        767.02,
+        104.07,
+        984.94,
+        144.39
+      ],
+      "confidence": 0.952,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "Say farewell",
+      "bbox": [
+        870.0,
+        778.0,
+        927.0,
+        787.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1128.01,
+        90.27,
+        1237.56,
+        102.03
+      ],
+      "confidence": 0.9254,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        137.21,
+        90.4,
+        188.5,
+        102.05
+      ],
+      "confidence": 0.864,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1281.58,
+        89.72,
+        1337.22,
+        101.78
+      ],
+      "confidence": 0.8546,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        459.0,
+        670.0,
+        551.0,
+        679.0
+      ],
+      "confidence": 0.8519,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        320.32,
+        90.26,
+        367.18,
+        101.8
+      ],
+      "confidence": 0.7077,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        233.28,
+        90.19,
+        274.59,
+        102.04
+      ],
+      "confidence": 0.6752,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1379.82,
+        87.56,
+        1401.34,
+        107.38
+      ],
+      "confidence": 0.6487,
+      "cluster_size": 1
+    }
+  ]
+}

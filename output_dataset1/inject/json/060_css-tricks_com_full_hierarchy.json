@@ -1,0 +1,281 @@
+{
+  "image": "060_css-tricks_com.png",
+  "total_elements": 21,
+  "total_raw_nodes": 23,
+  "total_raw_edges": 9,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1119.0,
+        0.0,
+        1122.0,
+        826.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        48.0,
+        0.0,
+        51.0,
+        826.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "What you should write about",
+      "bbox": [
+        115.0,
+        96.0,
+        537.0,
+        126.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "The best advice is something Chris Coyier wrote a while back:",
+      "bbox": [
+        117.0,
+        158.0,
+        634.0,
+        176.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "Most design content has become poor quality, surface-level content marketing\nthat does more damage than good, because it offers over-simplified,",
+      "bbox": [
+        166.0,
+        296.0,
+        815.0,
+        337.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        113.0,
+        404.28,
+        741.17,
+        560.56
+      ],
+      "confidence": 0.9345,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        117.4,
+        669.46,
+        506.8,
+        697.22
+      ],
+      "confidence": 0.925,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "It probably goes without saying that front-end web designers and\ndevelopers are our main audience. What might be less obvious is that they\nare coming from different points in their careers. Some are seasoned\nveterans from the table layout era, others may be getting into HTML &\nCSS for the first, while the rest are somewhere in between.",
+      "bbox": [
+        116.0,
+        727.0,
+        737.0,
+        822.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Write the article you wish you found when you googled something.",
+      "bbox": [
+        167.0,
+        204.0,
+        714.0,
+        223.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "There's a Frank Chimero quote that's equally relevant:",
+      "bbox": [
+        117.0,
+        249.0,
+        568.0,
+        266.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "misinformed perspectives dressed up as guidance. One hardly gets the sensation\nof lived experience and professional acumen in the words.",
+      "bbox": [
+        166.0,
+        337.0,
+        831.0,
+        380.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1121.22,
+        1.56,
+        1526.98,
+        825.69
+      ],
+      "confidence": 0.932,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1522.0,
+        211.0,
+        1534.0,
+        345.0
+      ],
+      "confidence": 0.9301,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        117.22,
+        98.72,
+        539.86,
+        128.65
+      ],
+      "confidence": 0.9242,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        149.33,
+        294.52,
+        827.02,
+        382.39
+      ],
+      "confidence": 0.8738,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        140.4,
+        248.9,
+        594.46,
+        267.77
+      ],
+      "confidence": 0.8172,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        473.45,
+        160.51,
+        522.73,
+        173.99
+      ],
+      "confidence": 0.7333,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        95.17,
+        107.2,
+        111.11,
+        121.7
+      ],
+      "confidence": 0.2317,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        118.62,
+        210.96,
+        146.64,
+        239.48
+      ],
+      "confidence": 0.2299,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1439.79,
+        16.03,
+        1470.85,
+        47.1
+      ],
+      "confidence": 0.2025,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1463.98,
+        756.19,
+        1495.44,
+        787.75
+      ],
+      "confidence": 0.1478,
+      "cluster_size": 1
+    }
+  ]
+}

@@ -1,0 +1,541 @@
+{
+  "image": "198_worldnomads_com.png",
+  "total_elements": 41,
+  "total_raw_nodes": 62,
+  "total_raw_edges": 44,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        199.95,
+        69.25,
+        289.85,
+        79.16
+      ],
+      "confidence": 0.9411,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_1",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        499.54,
+        69.11,
+        555.0,
+        79.53
+      ],
+      "confidence": 0.9298,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "How to experience Turkey on",
+      "bbox": [
+        500.0,
+        158.0,
+        734.0,
+        174.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "a budget, with travel writer\nGabriel Mungarrieta.",
+      "bbox": [
+        500.0,
+        184.0,
+        722.0,
+        226.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        799.71,
+        69.07,
+        871.85,
+        79.8
+      ],
+      "confidence": 0.9194,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        798.99,
+        181.84,
+        1021.12,
+        302.03
+      ],
+      "confidence": 0.981,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1100.13,
+        69.19,
+        1177.1,
+        79.54
+      ],
+      "confidence": 0.8913,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Indonesia charms tourists\nwith its tropical scenery,\nsublime religious sites,\naddictive food and",
+      "bbox": [
+        1099.0,
+        181.0,
+        1310.0,
+        275.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "some travelers are wary.",
+      "bbox": [
+        1100.0,
+        311.0,
+        1299.0,
+        328.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "ITALY",
+      "bbox": [
+        200.0,
+        637.0,
+        237.0,
+        647.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        198.69,
+        749.88,
+        433.5,
+        819.66
+      ],
+      "confidence": 0.9814,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "EGYPT",
+      "bbox": [
+        500.0,
+        637.0,
+        546.0,
+        647.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        499.91,
+        751.16,
+        727.42,
+        818.44
+      ],
+      "confidence": 0.9745,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        799.67,
+        574.56,
+        851.29,
+        585.21
+      ],
+      "confidence": 0.9147,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_14",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        799.35,
+        664.03,
+        1024.4,
+        782.48
+      ],
+      "confidence": 0.9824,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_15",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1098.93,
+        574.71,
+        1150.95,
+        585.31
+      ],
+      "confidence": 0.919,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "The Stories to be Told\nTravel Photographer\nScholarship recipient Gabriel\nMungarrieta on finding\nstories through moments\nthat blur the lines between\nwild and human.",
+      "bbox": [
+        1099.0,
+        600.0,
+        1331.0,
+        784.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1099.44,
+        640.18,
+        1330.95,
+        783.67
+      ],
+      "confidence": 0.9857,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        199.23,
+        181.52,
+        423.52,
+        354.08
+      ],
+      "confidence": 0.9824,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_19",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        198.58,
+        461.05,
+        437.14,
+        617.59
+      ],
+      "confidence": 0.9784,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_20",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1099.04,
+        460.63,
+        1337.06,
+        554.13
+      ],
+      "confidence": 0.9653,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_21",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        798.77,
+        460.57,
+        1037.52,
+        554.36
+      ],
+      "confidence": 0.9563,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_22",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        498.63,
+        91.42,
+        731.63,
+        134.87
+      ],
+      "confidence": 0.9263,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_23",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        799.79,
+        91.7,
+        1020.63,
+        155.5
+      ],
+      "confidence": 0.9689,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_24",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1099.52,
+        92.34,
+        1320.41,
+        155.38
+      ],
+      "confidence": 0.9662,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_25",
+      "source": "ocr",
+      "class_label": "welcoming people. However,",
+      "bbox": [
+        1099.0,
+        287.0,
+        1328.0,
+        301.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        199.25,
+        659.36,
+        420.2,
+        726.95
+      ],
+      "confidence": 0.9731,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_27",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        798.47,
+        597.55,
+        989.36,
+        642.24
+      ],
+      "confidence": 0.9657,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_28",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        499.8,
+        461.36,
+        736.5,
+        616.36
+      ],
+      "confidence": 0.9778,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        499.85,
+        157.96,
+        733.96,
+        226.53
+      ],
+      "confidence": 0.9732,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        199.86,
+        92.31,
+        421.49,
+        154.96
+      ],
+      "confidence": 0.9687,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_31",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        499.06,
+        658.46,
+        715.29,
+        726.86
+      ],
+      "confidence": 0.9407,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_32",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1100.41,
+        181.27,
+        1327.8,
+        328.15
+      ],
+      "confidence": 0.9571,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1099.03,
+        598.38,
+        1296.56,
+        614.36
+      ],
+      "confidence": 0.9112,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        200.1,
+        0.0,
+        436.68,
+        47.09
+      ],
+      "confidence": 0.9069,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        784.49,
+        445.04,
+        1047.69,
+        825.63
+      ],
+      "confidence": 0.8916,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        800.59,
+        0.0,
+        1035.99,
+        47.35
+      ],
+      "confidence": 0.8869,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1100.04,
+        0.06,
+        1337.11,
+        47.19
+      ],
+      "confidence": 0.8808,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        199.8,
+        635.65,
+        238.67,
+        646.96
+      ],
+      "confidence": 0.8692,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        781.38,
+        33.69,
+        1050.56,
+        406.8
+      ],
+      "confidence": 0.8549,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        500.38,
+        635.8,
+        546.53,
+        646.54
+      ],
+      "confidence": 0.8486,
+      "cluster_size": 1
+    }
+  ]
+}

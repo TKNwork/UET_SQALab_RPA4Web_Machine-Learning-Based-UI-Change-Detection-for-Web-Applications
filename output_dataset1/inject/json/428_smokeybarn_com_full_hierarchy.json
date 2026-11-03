@@ -1,0 +1,593 @@
+{
+  "image": "428_smokeybarn_com.png",
+  "total_elements": 45,
+  "total_raw_nodes": 46,
+  "total_raw_edges": 22,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1190.0,
+        606.0,
+        1256.0,
+        611.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        81.0,
+        1536.0,
+        84.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        211.0,
+        139.0,
+        1325.0,
+        464.0
+      ],
+      "confidence": 0.996,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "HEALTH NEWS ACCIDENTS",
+      "bbox": [
+        213.0,
+        7.0,
+        427.0,
+        20.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "EVENTS/ANNOUNCEMENTS",
+      "bbox": [
+        213.0,
+        46.0,
+        419.0,
+        57.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "SCHOOL NEWS FAMILY RESOURCES",
+      "bbox": [
+        440.0,
+        45.0,
+        721.0,
+        57.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "OBITUARIES (IN LOVING MEMORY)",
+      "bbox": [
+        996.0,
+        7.0,
+        1252.0,
+        20.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "KEITH HOOVER",
+      "bbox": [
+        578.0,
+        190.0,
+        1208.0,
+        283.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "FOR ROBERTSON COUNTY MAYOR",
+      "bbox": [
+        638.0,
+        297.0,
+        1151.0,
+        338.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "Real-Time News",
+      "bbox": [
+        507.0,
+        519.0,
+        857.0,
+        545.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "candidate Donnie\nEden Treasurer",
+      "bbox": [
+        1178.0,
+        407.0,
+        1308.0,
+        440.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "LATEST STORIES",
+      "bbox": [
+        1032.0,
+        814.0,
+        1156.0,
+        823.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        211.0,
+        468.0,
+        1325.0,
+        631.0
+      ],
+      "confidence": 0.9888,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        626.0,
+        365.0,
+        1166.0,
+        462.0
+      ],
+      "confidence": 0.9878,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        464.0,
+        500.0,
+        904.0,
+        602.0
+      ],
+      "confidence": 0.9824,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "Blog",
+      "bbox": [
+        324.0,
+        731.0,
+        403.0,
+        760.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "To add blog posts click on Posts - Add New in the\nWordPress Dashboard",
+      "bbox": [
+        324.0,
+        785.0,
+        729.0,
+        825.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "BUSINESS/GOVT. LOST & FOUND THE DAILY BRIEF .... FIRES",
+      "bbox": [
+        448.0,
+        1.0,
+        975.0,
+        22.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "A STEADY HAND FOR OUR FUTURE. Paid for by",
+      "bbox": [
+        651.0,
+        371.0,
+        1263.0,
+        410.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "Social Media Updates\nReal-Time Traffic",
+      "bbox": [
+        949.0,
+        501.0,
+        1287.0,
+        565.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "& Announcements",
+      "bbox": [
+        973.0,
+        575.0,
+        1263.0,
+        597.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "The Daily Brief -> CLICK HERE",
+      "bbox": [
+        519.0,
+        562.0,
+        840.0,
+        581.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1457.6,
+        697.99,
+        1506.99,
+        747.04
+      ],
+      "confidence": 0.836,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_23",
+      "source": "ocr",
+      "class_label": "MAKE A PLAN TO VOTE TUESDAY, MAY 5, 2026",
+      "bbox": [
+        717.0,
+        425.0,
+        1076.0,
+        445.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        684.0,
+        186.0,
+        707.0,
+        285.0
+      ],
+      "confidence": 0.935,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "ocr",
+      "class_label": "Q SEARCH...",
+      "bbox": [
+        1041.0,
+        731.0,
+        1157.0,
+        748.0
+      ],
+      "confidence": 0.92,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        448.11,
+        7.84,
+        574.88,
+        21.76
+      ],
+      "confidence": 0.9089,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        212.8,
+        44.45,
+        420.56,
+        58.17
+      ],
+      "confidence": 0.9032,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1084.0,
+        480.0,
+        1138.0,
+        485.0
+      ],
+      "confidence": 0.9,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1016.0,
+        797.0,
+        1325.0,
+        826.0
+      ],
+      "confidence": 0.8879,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        810.0,
+        614.0,
+        863.0,
+        619.0
+      ],
+      "confidence": 0.8833,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        213.34,
+        9.78,
+        319.04,
+        18.63
+      ],
+      "confidence": 0.88,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        572.5,
+        45.42,
+        721.74,
+        55.39
+      ],
+      "confidence": 0.8578,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        440.31,
+        44.53,
+        551.75,
+        55.57
+      ],
+      "confidence": 0.857,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        597.14,
+        5.89,
+        744.88,
+        18.54
+      ],
+      "confidence": 0.8391,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        339.3,
+        9.27,
+        426.9,
+        18.56
+      ],
+      "confidence": 0.7997,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        765.58,
+        9.76,
+        907.35,
+        18.95
+      ],
+      "confidence": 0.7989,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1032.83,
+        813.1,
+        1156.39,
+        825.06
+      ],
+      "confidence": 0.7876,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1076.91,
+        735.73,
+        1157.61,
+        746.91
+      ],
+      "confidence": 0.7444,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        517.18,
+        563.58,
+        848.19,
+        582.78
+      ],
+      "confidence": 0.6136,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        326.35,
+        730.57,
+        404.2,
+        765.43
+      ],
+      "confidence": 0.6095,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        932.08,
+        9.35,
+        975.91,
+        18.52
+      ],
+      "confidence": 0.5877,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1016.19,
+        798.81,
+        1323.28,
+        826.0
+      ],
+      "confidence": 0.5693,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1041.19,
+        731.01,
+        1060.67,
+        749.05
+      ],
+      "confidence": 0.3902,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        976.64,
+        574.49,
+        997.28,
+        597.4
+      ],
+      "confidence": 0.2043,
+      "cluster_size": 1
+    }
+  ]
+}

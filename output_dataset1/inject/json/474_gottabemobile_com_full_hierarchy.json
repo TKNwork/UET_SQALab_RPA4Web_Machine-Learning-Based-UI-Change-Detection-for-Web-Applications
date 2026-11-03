@@ -1,0 +1,853 @@
+{
+  "image": "474_gottabemobile_com.png",
+  "total_elements": 65,
+  "total_raw_nodes": 85,
+  "total_raw_edges": 86,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        167.53,
+        79.8,
+        548.45,
+        309.45
+      ],
+      "confidence": 0.9813,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_1",
+      "source": "ocr",
+      "class_label": "HOME APPLE ANDROID",
+      "bbox": [
+        450.0,
+        20.0,
+        663.0,
+        30.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "GAMING",
+      "bbox": [
+        788.0,
+        20.0,
+        843.0,
+        30.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "ABOUT",
+      "bbox": [
+        877.0,
+        20.0,
+        924.0,
+        29.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        577.58,
+        130.97,
+        925.57,
+        183.44
+      ],
+      "confidence": 0.9592,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "How to Clean Your Laptop\nScreen Without Damaging",
+      "bbox": [
+        1142.0,
+        232.0,
+        1355.0,
+        269.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1143.83,
+        327.27,
+        1357.02,
+        364.19
+      ],
+      "confidence": 0.9073,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1142.39,
+        422.55,
+        1329.62,
+        454.97
+      ],
+      "confidence": 0.8926,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        166.39,
+        577.29,
+        548.12,
+        806.01
+      ],
+      "confidence": 0.9845,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        167.08,
+        327.99,
+        548.53,
+        558.6
+      ],
+      "confidence": 0.9848,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        577.26,
+        452.21,
+        961.93,
+        542.76
+      ],
+      "confidence": 0.9801,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "HOW TO",
+      "bbox": [
+        697.0,
+        20.0,
+        754.0,
+        30.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "TECHNOLOGY / 4 days ago",
+      "bbox": [
+        577.0,
+        111.0,
+        726.0,
+        123.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        577.56,
+        202.63,
+        977.42,
+        294.73
+      ],
+      "confidence": 0.9782,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "TECHNOLOGY / 1 week ago",
+      "bbox": [
+        577.0,
+        360.0,
+        728.0,
+        372.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        577.19,
+        381.43,
+        982.63,
+        431.5
+      ],
+      "confidence": 0.9711,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_16",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1171.53,
+        77.02,
+        1245.43,
+        90.4
+      ],
+      "confidence": 0.8467,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "The Dirtiest Tech Devices in\nYour Home (And How to\nClean Them)",
+      "bbox": [
+        1142.0,
+        138.0,
+        1367.0,
+        193.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "HOW TO / 2 months ago",
+      "bbox": [
+        1143.0,
+        213.0,
+        1270.0,
+        224.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "APPLE / 2 years ago",
+      "bbox": [
+        1142.0,
+        497.0,
+        1254.0,
+        509.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        577.44,
+        609.11,
+        733.16,
+        619.94
+      ],
+      "confidence": 0.8026,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_21",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        577.39,
+        629.35,
+        941.06,
+        685.97
+      ],
+      "confidence": 0.9564,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "How to Play Madden 25",
+      "bbox": [
+        1144.0,
+        803.0,
+        1332.0,
+        818.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        576.5,
+        698.75,
+        978.43,
+        792.65
+      ],
+      "confidence": 0.9701,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_24",
+      "source": "ocr",
+      "class_label": "GottaBe-\nMOBILE",
+      "bbox": [
+        282.0,
+        9.0,
+        365.0,
+        40.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "ocr",
+      "class_label": "HOW TO / 2 months ago",
+      "bbox": [
+        1143.0,
+        117.0,
+        1270.0,
+        131.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "ocr",
+      "class_label": "HOW TO / 2 months ago",
+      "bbox": [
+        1143.0,
+        310.0,
+        1270.0,
+        319.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1143.11,
+        403.68,
+        1266.47,
+        414.12
+      ],
+      "confidence": 0.8692,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_28",
+      "source": "ocr",
+      "class_label": "APPLE / 2 years ago",
+      "bbox": [
+        1142.0,
+        594.0,
+        1253.0,
+        604.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1144.06,
+        612.36,
+        1352.19,
+        646.2
+      ],
+      "confidence": 0.9303,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_30",
+      "source": "ocr",
+      "class_label": "APPLE / 2 years ago",
+      "bbox": [
+        1142.0,
+        690.0,
+        1253.0,
+        700.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1143.23,
+        706.61,
+        1326.6,
+        743.43
+      ],
+      "confidence": 0.8098,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_32",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1046.79,
+        400.88,
+        1128.59,
+        482.98
+      ],
+      "confidence": 0.8827,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_33",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1047.28,
+        116.69,
+        1129.06,
+        199.41
+      ],
+      "confidence": 0.9052,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_34",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1047.14,
+        307.02,
+        1128.92,
+        389.74
+      ],
+      "confidence": 0.92,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_35",
+      "source": "ocr",
+      "class_label": "Google",
+      "bbox": [
+        258.0,
+        202.0,
+        283.0,
+        214.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "ocr",
+      "class_label": "iOS 18 Beta: RCS Now\nAvailable, Here's How to\nEnable It",
+      "bbox": [
+        1142.0,
+        517.0,
+        1339.0,
+        571.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1026.85,
+        55.61,
+        1536.0,
+        826.0
+      ],
+      "confidence": 0.9494,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        1069.0,
+        690.0,
+        1107.0,
+        766.0
+      ],
+      "confidence": 0.9482,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1047.2,
+        211.9,
+        1128.64,
+        294.38
+      ],
+      "confidence": 0.9173,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_40",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1047.15,
+        688.13,
+        1128.31,
+        768.08
+      ],
+      "confidence": 0.9437,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1047.1,
+        591.83,
+        1125.75,
+        672.91
+      ],
+      "confidence": 0.9437,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "ocr",
+      "class_label": "MADDEN 25 GAMING / 2 years ago",
+      "bbox": [
+        1067.0,
+        780.0,
+        1259.0,
+        797.0
+      ],
+      "confidence": 0.92,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        258.96,
+        10.27,
+        373.9,
+        39.7
+      ],
+      "confidence": 0.9195,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        166.0,
+        14.0,
+        200.0,
+        37.0
+      ],
+      "confidence": 0.9086,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1156.32,
+        71.58,
+        1260.44,
+        98.65
+      ],
+      "confidence": 0.9069,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1047.91,
+        782.47,
+        1127.22,
+        825.33
+      ],
+      "confidence": 0.9065,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        449.69,
+        19.31,
+        492.7,
+        30.22
+      ],
+      "confidence": 0.8904,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "ocr",
+      "class_label": "It",
+      "bbox": [
+        1143.0,
+        272.0,
+        1155.0,
+        285.0
+      ],
+      "confidence": 0.88,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1046.0,
+        69.0,
+        1369.0,
+        100.0
+      ],
+      "confidence": 0.8683,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1140.66,
+        592.51,
+        1252.71,
+        605.62
+      ],
+      "confidence": 0.8491,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        696.92,
+        19.11,
+        760.87,
+        29.95
+      ],
+      "confidence": 0.8453,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        787.28,
+        19.27,
+        849.38,
+        30.05
+      ],
+      "confidence": 0.841,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_53",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        877.13,
+        18.99,
+        927.24,
+        30.19
+      ],
+      "confidence": 0.8236,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_54",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        580.98,
+        362.5,
+        727.35,
+        371.89
+      ],
+      "confidence": 0.8222,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_55",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        597.48,
+        19.3,
+        667.05,
+        30.1
+      ],
+      "confidence": 0.8219,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_56",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        520.64,
+        19.46,
+        573.51,
+        30.25
+      ],
+      "confidence": 0.8212,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_57",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1141.82,
+        689.03,
+        1252.98,
+        701.47
+      ],
+      "confidence": 0.8127,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_58",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        168.12,
+        15.52,
+        198.46,
+        35.7
+      ],
+      "confidence": 0.7842,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_59",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1050.35,
+        499.03,
+        1122.72,
+        578.41
+      ],
+      "confidence": 0.7679,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_60",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1141.35,
+        498.91,
+        1254.29,
+        510.2
+      ],
+      "confidence": 0.7374,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_61",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1143.31,
+        801.55,
+        1329.6,
+        823.79
+      ],
+      "confidence": 0.7114,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_62",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1142.99,
+        782.87,
+        1259.9,
+        796.01
+      ],
+      "confidence": 0.6479,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_63",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1346.61,
+        15.12,
+        1369.07,
+        35.14
+      ],
+      "confidence": 0.4019,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_64",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        878.63,
+        525.14,
+        929.3,
+        539.18
+      ],
+      "confidence": 0.1922,
+      "cluster_size": 1
+    }
+  ]
+}

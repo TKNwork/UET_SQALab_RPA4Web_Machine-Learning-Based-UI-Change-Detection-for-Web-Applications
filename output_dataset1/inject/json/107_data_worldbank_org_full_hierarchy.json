@@ -1,0 +1,645 @@
+{
+  "image": "107_data_worldbank_org.png",
+  "total_elements": 49,
+  "total_raw_nodes": 66,
+  "total_raw_edges": 88,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        234.0,
+        760.0,
+        372.0,
+        768.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        973.56,
+        112.49,
+        1348.87,
+        399.1
+      ],
+      "confidence": 0.9394,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_2",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        579.53,
+        112.47,
+        954.68,
+        389.46
+      ],
+      "confidence": 0.9597,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_3",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        185.43,
+        112.09,
+        562.63,
+        386.13
+      ],
+      "confidence": 0.9435,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "Other data platforms",
+      "bbox": [
+        188.0,
+        34.0,
+        372.0,
+        56.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "Datasets and features on different Worldbank data platforms",
+      "bbox": [
+        188.0,
+        76.0,
+        558.0,
+        89.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        233.68,
+        134.11,
+        332.86,
+        148.29
+      ],
+      "confidence": 0.9633,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Global economic monitor",
+      "bbox": [
+        204.0,
+        303.0,
+        359.0,
+        314.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        622.26,
+        134.41,
+        690.76,
+        151.36
+      ],
+      "confidence": 0.942,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        597.76,
+        228.01,
+        826.45,
+        242.59
+      ],
+      "confidence": 0.9488,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "Global economic monitor",
+      "bbox": [
+        991.0,
+        303.0,
+        1145.0,
+        314.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "View all on Microdata Library",
+      "bbox": [
+        670.0,
+        376.0,
+        851.0,
+        388.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "2023",
+      "bbox": [
+        234.0,
+        777.0,
+        325.0,
+        802.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "March 2026 global poverty update from the World Bank: New data\nand updated poverty numbers",
+      "bbox": [
+        794.0,
+        749.0,
+        1303.0,
+        789.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "Visualise and analyse WDI and other World Bank time\nseries data in DataBank.",
+      "bbox": [
+        203.0,
+        167.0,
+        529.0,
+        202.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "International debt statistics",
+      "bbox": [
+        204.0,
+        229.0,
+        370.0,
+        240.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        204.35,
+        265.89,
+        408.42,
+        278.42
+      ],
+      "confidence": 0.9527,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "Find data collected through sample surveys in the\nMicrodata Library.",
+      "bbox": [
+        598.0,
+        166.0,
+        899.0,
+        203.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        597.09,
+        265.98,
+        898.13,
+        278.8
+      ],
+      "confidence": 0.9496,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "Tanzania demographic and health survey and malaria\nindicator survey",
+      "bbox": [
+        597.0,
+        300.0,
+        921.0,
+        341.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1018.73,
+        134.99,
+        1094.38,
+        148.44
+      ],
+      "confidence": 0.9514,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "Download publicly available World Bank datasets from\nthe Data Catalog.",
+      "bbox": [
+        990.0,
+        167.0,
+        1319.0,
+        203.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        990.79,
+        228.86,
+        1155.29,
+        239.61
+      ],
+      "confidence": 0.9447,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_23",
+      "source": "ocr",
+      "class_label": "View all 29506 on DataBank",
+      "bbox": [
+        281.0,
+        375.0,
+        453.0,
+        386.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        188.89,
+        525.62,
+        318.8,
+        539.0
+      ],
+      "confidence": 0.9525,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_25",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1078.84,
+        374.79,
+        1232.99,
+        389.45
+      ],
+      "confidence": 0.9355,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_26",
+      "source": "ocr",
+      "class_label": "ATLAS of\nSustainable\nDevelopment\nGoals",
+      "bbox": [
+        234.0,
+        659.0,
+        372.0,
+        748.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "ocr",
+      "class_label": "Introducing the PIP Innovation Hub: A home for experimental work\non poverty and inequality measurement",
+      "bbox": [
+        794.0,
+        645.0,
+        1311.0,
+        684.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1414.62,
+        795.06,
+        1505.3,
+        807.84
+      ],
+      "confidence": 0.8627,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_29",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        990.3,
+        265.96,
+        1194.68,
+        278.74
+      ],
+      "confidence": 0.9447,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_30",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        794.54,
+        595.59,
+        875.53,
+        605.01
+      ],
+      "confidence": 0.9263,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_31",
+      "source": "ocr",
+      "class_label": "Zander Prinsloo, Mar 26, 2026",
+      "bbox": [
+        793.0,
+        701.0,
+        981.0,
+        712.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1375.15,
+        785.5,
+        1527.62,
+        818.21
+      ],
+      "confidence": 0.8171,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_33",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        791.22,
+        805.65,
+        1005.39,
+        818.99
+      ],
+      "confidence": 0.804,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_34",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        598.78,
+        302.25,
+        921.32,
+        337.12
+      ],
+      "confidence": 0.9395,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        990.84,
+        302.24,
+        1144.93,
+        312.69
+      ],
+      "confidence": 0.9207,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        188.57,
+        37.8,
+        372.81,
+        56.25
+      ],
+      "confidence": 0.9205,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        671.08,
+        375.13,
+        861.64,
+        390.1
+      ],
+      "confidence": 0.9197,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        190.86,
+        575.68,
+        756.46,
+        824.18
+      ],
+      "confidence": 0.9141,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        204.24,
+        302.21,
+        358.15,
+        312.69
+      ],
+      "confidence": 0.911,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        206.17,
+        228.15,
+        368.03,
+        238.95
+      ],
+      "confidence": 0.9042,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        283.3,
+        374.7,
+        465.36,
+        386.72
+      ],
+      "confidence": 0.865,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        177.06,
+        76.52,
+        556.58,
+        90.38
+      ],
+      "confidence": 0.7908,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        990.55,
+        132.75,
+        1008.31,
+        150.55
+      ],
+      "confidence": 0.7092,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        597.3,
+        190.89,
+        710.04,
+        203.79
+      ],
+      "confidence": 0.694,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        204.05,
+        132.79,
+        224.13,
+        150.59
+      ],
+      "confidence": 0.683,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        596.91,
+        132.34,
+        612.48,
+        150.91
+      ],
+      "confidence": 0.6161,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        280.81,
+        190.59,
+        351.2,
+        201.35
+      ],
+      "confidence": 0.3597,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1377.44,
+        792.11,
+        1395.53,
+        814.98
+      ],
+      "confidence": 0.1664,
+      "cluster_size": 1
+    }
+  ]
+}

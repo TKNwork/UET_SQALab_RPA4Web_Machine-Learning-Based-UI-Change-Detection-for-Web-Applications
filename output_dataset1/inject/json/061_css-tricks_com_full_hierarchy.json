@@ -1,0 +1,398 @@
+{
+  "image": "061_css-tricks_com.png",
+  "total_elements": 30,
+  "total_raw_nodes": 39,
+  "total_raw_edges": 50,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1125.0,
+        56.0,
+        1520.0,
+        59.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1524.0,
+        19.0,
+        1532.0,
+        128.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "ARTICLES",
+      "bbox": [
+        438.0,
+        26.0,
+        504.0,
+        35.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        618.14,
+        26.23,
+        657.73,
+        36.0
+      ],
+      "confidence": 0.825,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        773.8,
+        26.16,
+        843.35,
+        36.03
+      ],
+      "confidence": 0.88,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "PICKS SHUFFLE",
+      "bbox": [
+        876.0,
+        23.0,
+        1012.0,
+        37.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "Hey, glad you're here! If you're interested in writing an article to publish",
+      "bbox": [
+        116.0,
+        340.0,
+        719.0,
+        357.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        116.1,
+        537.21,
+        726.15,
+        565.94
+      ],
+      "confidence": 0.9198,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "They get to learn from your experience. Nobody knows exactly what\nyou know.",
+      "bbox": [
+        139.0,
+        624.0,
+        715.0,
+        684.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        538.2,
+        25.85,
+        585.1,
+        36.07
+      ],
+      "confidence": 0.8028,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        690.52,
+        25.93,
+        741.31,
+        35.95
+      ],
+      "confidence": 0.8071,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        447.28,
+        142.6,
+        1071.12,
+        189.77
+      ],
+      "confidence": 0.9472,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "on CSS-Tricks, you're in the right spot. We put this little page together to\ngive you everything you need to get started.",
+      "bbox": [
+        116.0,
+        371.0,
+        724.0,
+        427.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "1. It's a win for our readers.",
+      "bbox": [
+        124.0,
+        602.0,
+        367.0,
+        617.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        122.18,
+        703.19,
+        394.19,
+        720.09
+      ],
+      "confidence": 0.8633,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "We have a budget to pay you for your work. And the exposure you get\nain't bad.",
+      "bbox": [
+        140.0,
+        735.0,
+        722.0,
+        781.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        49.61,
+        111.91,
+        98.75,
+        121.56
+      ],
+      "confidence": 0.8831,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_17",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        126.7,
+        803.91,
+        359.98,
+        818.42
+      ],
+      "confidence": 0.9046,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "* CSS-TRICKS . DigitalOcean",
+      "bbox": [
+        50.0,
+        13.0,
+        405.0,
+        41.0
+      ],
+      "confidence": 0.93,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        50.31,
+        263.39,
+        1094.42,
+        825.7
+      ],
+      "confidence": 0.9299,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        0.0,
+        49.83,
+        1189.52,
+        826.0
+      ],
+      "confidence": 0.8797,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        951.31,
+        26.01,
+        1013.37,
+        36.64
+      ],
+      "confidence": 0.8196,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        875.29,
+        26.46,
+        918.18,
+        36.16
+      ],
+      "confidence": 0.6846,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        437.96,
+        26.09,
+        506.08,
+        36.39
+      ],
+      "confidence": 0.5926,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        94.59,
+        543.79,
+        112.96,
+        558.32
+      ],
+      "confidence": 0.4134,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        120.4,
+        703.45,
+        134.88,
+        718.02
+      ],
+      "confidence": 0.2726,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        120.95,
+        804.31,
+        134.68,
+        818.63
+      ],
+      "confidence": 0.1829,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        49.29,
+        16.01,
+        75.36,
+        41.38
+      ],
+      "confidence": 0.1322,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        279.96,
+        15.65,
+        308.4,
+        42.15
+      ],
+      "confidence": 0.1175,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1439.88,
+        16.11,
+        1470.76,
+        47.51
+      ],
+      "confidence": 0.1089,
+      "cluster_size": 1
+    }
+  ]
+}

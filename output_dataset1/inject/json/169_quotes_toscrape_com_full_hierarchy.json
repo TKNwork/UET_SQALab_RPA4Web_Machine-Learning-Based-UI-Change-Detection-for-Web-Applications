@@ -1,0 +1,112 @@
+{
+  "image": "169_quotes_toscrape_com.png",
+  "total_elements": 8,
+  "total_raw_nodes": 9,
+  "total_raw_edges": 3,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "ocr",
+      "class_label": "Quotes to Scrape",
+      "bbox": [
+        197.0,
+        26.0,
+        538.0,
+        67.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "ocr",
+      "class_label": "Born: July 31, 1965 in Yate, South Gloucestershire, England, The United Kingdom",
+      "bbox": [
+        362.0,
+        186.0,
+        945.0,
+        201.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "Description:",
+      "bbox": [
+        607.0,
+        221.0,
+        700.0,
+        235.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "See also: Robert GalbraithAlthough she writes under the pen name J.K. Rowling, pronounced like rolling, her name when her\nfirst Harry Potter book was published was simply Joanne Rowling. Anticipating that the target audience of young boys might not\nwant to read a book written by a woman, her publishers demanded that she use two initials, rather than her full name. As she\nhad no middle name, she chose K as the second initial of her pen name, from her paternal grandmother Kathleen Ada Bulgen\nRowling. She calls herself Jo and has said, \"No one ever called me 'Joanne' when I was young, unless they were angry.\"\nFollowing her marriage, she has sometimes used the name Joanne Murray when conducting personal business. During the\nLeveson Inquiry she gave evidence under the name of Joanne Kathleen Rowling. In a 2012 interview, Rowling noted that she no\nlonger cared that people pronounced her name incorrectly.Rowling was born to Peter James Rowling, a Rolls-Royce aircraft\nengineer, and Anne Rowling (née Volant), on 31 July 1965 in Yate, Gloucestershire, England, 10 miles (16 km) northeast of\nBristol. Her mother Anne was half-French and half-Scottish. Her parents first met on a train departing from King's Cross Station\nbound for Arbroath in 1964. They married on 14 March 1965. Her mother's maternal grandfather, Dugald Campbell, was born in\nLamlash on the Isle of Arran. Her mother's paternal grandfather, Louis Volant, was awarded the Croix de Guerre for exceptional\nbravery in defending the village of Courcelles-le-Comte during the First World War.Rowling's sister Dianne was born at their\nhome when Rowling was 23 months old. The family moved to the nearby village Winterbourne when Rowling was four. She\nattended St Michael's Primary School, a school founded by abolitionist William Wilberforce and education reformer Hannah\nMore. Her headmaster at St Michael's, Alfred Dunn, has been suggested as the inspiration for the Harry Potter headmaster Albus\nDumbledore.As a child, Rowling often wrote fantasy stories, which she would usually then read to her sister. She recalls that: \"I\ncan still remember me telling her a story in which she fell down a rabbit hole and was fed strawberries by the rabbit family inside\nit. Certainly the first story I ever wrote down (when I was five or six) was about a rabbit called Rabbit. He got the measles and\nwas visited by his friends, including a giant bee called Miss Bee.\" At the age of nine, Rowling moved to Church Cottage in the\nGloucestershire village of Tutshill, close to Chepstow, Wales. When she was a young teenager, her great aunt, who Rowling said\n\"taught classics and approved of a thirst for knowledge, even of a questionable kind,\" gave her a very old copy of Jessica\nMitford's autobiography, Hons and Rebels. Mitford became Rowling's heroine, and Rowling subsequently read all of her\nbooks.Rowling has said of her teenage years, in an interview with The New Yorker, \"I wasn't particularly happy. I think it's a\ndreadful time of life.\" She had a difficult homelife; her mother was ill and she had a difficult relationship with her father (she is no",
+      "bbox": [
+        196.0,
+        253.0,
+        1113.0,
+        818.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "Login",
+      "bbox": [
+        1299.0,
+        36.0,
+        1337.0,
+        49.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        572.12,
+        143.15,
+        733.13,
+        170.76
+      ],
+      "confidence": 0.9247,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1299.92,
+        34.78,
+        1338.04,
+        50.46
+      ],
+      "confidence": 0.8763,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        606.16,
+        219.56,
+        700.5,
+        236.11
+      ],
+      "confidence": 0.56,
+      "cluster_size": 1
+    }
+  ]
+}

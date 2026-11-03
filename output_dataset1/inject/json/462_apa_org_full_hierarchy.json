@@ -1,0 +1,879 @@
+{
+  "image": "462_apa_org.png",
+  "total_elements": 67,
+  "total_raw_nodes": 83,
+  "total_raw_edges": 84,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "ocr",
+      "class_label": "૧",
+      "bbox": [
+        1339.0,
+        64.0,
+        1353.0,
+        78.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        732.0,
+        1536.0,
+        826.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        282.0,
+        1536.0,
+        287.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        133.0,
+        1536.0,
+        139.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "APA.org APA Style APA Services Corporate Solutions",
+      "bbox": [
+        186.0,
+        13.0,
+        559.0,
+        27.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        217.32,
+        63.55,
+        611.47,
+        76.67
+      ],
+      "confidence": 0.9221,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "TOPICS",
+      "bbox": [
+        188.0,
+        110.0,
+        236.0,
+        120.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "About APA",
+      "bbox": [
+        874.0,
+        15.0,
+        938.0,
+        24.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1029.08,
+        13.96,
+        1102.68,
+        25.71
+      ],
+      "confidence": 0.934,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "Sign Out",
+      "bbox": [
+        1228.0,
+        12.0,
+        1279.0,
+        26.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        579.62,
+        110.13,
+        738.01,
+        120.25
+      ],
+      "confidence": 0.9485,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1033.49,
+        109.56,
+        1176.44,
+        120.34
+      ],
+      "confidence": 0.9533,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "We promote psychological science and",
+      "bbox": [
+        187.0,
+        184.0,
+        604.0,
+        209.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "knowledge to benefit society and improve lives.",
+      "bbox": [
+        188.0,
+        215.0,
+        693.0,
+        235.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "Member benefits",
+      "bbox": [
+        826.0,
+        179.0,
+        959.0,
+        195.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "SEARCH",
+      "bbox": [
+        1169.0,
+        68.0,
+        1219.0,
+        77.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "Six mental health tips",
+      "bbox": [
+        799.0,
+        356.0,
+        1149.0,
+        387.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "psychologists use",
+      "bbox": [
+        797.0,
+        395.0,
+        1081.0,
+        425.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "Raising the bar for digital mental health",
+      "bbox": [
+        184.0,
+        704.0,
+        813.0,
+        739.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        968.97,
+        782.44,
+        1078.66,
+        797.96
+      ],
+      "confidence": 0.9151,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_20",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1135.22,
+        782.62,
+        1198.83,
+        796.61
+      ],
+      "confidence": 0.9084,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_21",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        585.12,
+        13.91,
+        637.7,
+        24.68
+      ],
+      "confidence": 0.9275,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "PUBLICATIONS & DATABASES",
+      "bbox": [
+        309.0,
+        108.0,
+        508.0,
+        122.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        964.54,
+        14.74,
+        1002.81,
+        23.97
+      ],
+      "confidence": 0.8693,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_24",
+      "source": "ocr",
+      "class_label": "Join APA",
+      "bbox": [
+        1139.0,
+        15.0,
+        1192.0,
+        25.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        807.99,
+        110.0,
+        964.44,
+        120.25
+      ],
+      "confidence": 0.9465,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        825.9,
+        224.26,
+        983.16,
+        240.48
+      ],
+      "confidence": 0.9427,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_27",
+      "source": "ocr",
+      "class_label": "CE and training",
+      "bbox": [
+        1095.0,
+        178.0,
+        1215.0,
+        196.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "ocr",
+      "class_label": "Standards and guidelines",
+      "bbox": [
+        1093.0,
+        220.0,
+        1293.0,
+        241.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        800.41,
+        439.47,
+        1320.25,
+        480.34
+      ],
+      "confidence": 0.9681,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_30",
+      "source": "ocr",
+      "class_label": "RELATED: 5 KEY TAKEAWAYS ON CHRONIC STRESS >",
+      "bbox": [
+        801.0,
+        512.0,
+        1217.0,
+        525.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "ocr",
+      "class_label": "By clicking \"Accept All Cookies\", you agree to the storing of cookies on your device to enhance site navigation, analyze site\nusage, and assist in our marketing efforts.",
+      "bbox": [
+        31.0,
+        778.0,
+        804.0,
+        813.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1256.47,
+        782.14,
+        1379.63,
+        797.23
+      ],
+      "confidence": 0.8573,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_33",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1244.43,
+        767.62,
+        1391.7,
+        811.17
+      ],
+      "confidence": 0.8725,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_34",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1102.53,
+        767.95,
+        1229.27,
+        811.05
+      ],
+      "confidence": 0.9545,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_35",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        798.51,
+        358.25,
+        1149.99,
+        426.99
+      ],
+      "confidence": 0.9671,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1125.72,
+        0.44,
+        1206.93,
+        41.02
+      ],
+      "confidence": 0.9422,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_37",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1158.61,
+        54.71,
+        1369.91,
+        89.54
+      ],
+      "confidence": 0.9493,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_38",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1093.6,
+        223.39,
+        1293.05,
+        241.13
+      ],
+      "confidence": 0.927,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "ocr",
+      "class_label": "Cart(0)",
+      "bbox": [
+        1323.0,
+        15.0,
+        1368.0,
+        25.0
+      ],
+      "confidence": 0.92,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        441.82,
+        13.34,
+        558.91,
+        26.99
+      ],
+      "confidence": 0.9143,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        187.38,
+        186.4,
+        691.34,
+        237.14
+      ],
+      "confidence": 0.9104,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        306.88,
+        110.09,
+        511.72,
+        120.81
+      ],
+      "confidence": 0.8999,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        825.35,
+        179.97,
+        961.03,
+        193.65
+      ],
+      "confidence": 0.8945,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        341.18,
+        13.7,
+        417.78,
+        24.25
+      ],
+      "confidence": 0.8935,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        258.84,
+        13.62,
+        315.54,
+        26.79
+      ],
+      "confidence": 0.8889,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        186.13,
+        13.17,
+        233.15,
+        27.37
+      ],
+      "confidence": 0.8866,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1141.22,
+        14.28,
+        1190.56,
+        24.06
+      ],
+      "confidence": 0.8857,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        874.05,
+        13.56,
+        938.75,
+        24.18
+      ],
+      "confidence": 0.8782,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        192.91,
+        345.93,
+        758.95,
+        635.57
+      ],
+      "confidence": 0.8779,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        190.06,
+        109.5,
+        239.02,
+        121.03
+      ],
+      "confidence": 0.8739,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        0.0,
+        15.44,
+        841.03,
+        740.04
+      ],
+      "confidence": 0.872,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        326.0,
+        63.0,
+        482.0,
+        78.0
+      ],
+      "confidence": 0.8667,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_53",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1228.46,
+        14.24,
+        1280.15,
+        27.01
+      ],
+      "confidence": 0.851,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_54",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        183.04,
+        54.53,
+        211.37,
+        83.78
+      ],
+      "confidence": 0.7542,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_55",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1093.33,
+        180.01,
+        1214.05,
+        197.97
+      ],
+      "confidence": 0.7214,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_56",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1053.3,
+        733.44,
+        1206.67,
+        760.98
+      ],
+      "confidence": 0.7072,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_57",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1323.51,
+        13.76,
+        1370.01,
+        26.04
+      ],
+      "confidence": 0.676,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_58",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        811.81,
+        511.35,
+        1207.91,
+        523.92
+      ],
+      "confidence": 0.6678,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_59",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        791.94,
+        175.68,
+        814.41,
+        198.92
+      ],
+      "confidence": 0.6551,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_60",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1061.41,
+        178.3,
+        1084.8,
+        198.02
+      ],
+      "confidence": 0.4875,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_61",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1168.59,
+        66.0,
+        1220.43,
+        77.05
+      ],
+      "confidence": 0.3788,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_62",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1337.68,
+        63.86,
+        1354.0,
+        78.5
+      ],
+      "confidence": 0.3496,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_63",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        791.28,
+        221.71,
+        814.6,
+        241.76
+      ],
+      "confidence": 0.3317,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_64",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1306.09,
+        14.16,
+        1318.57,
+        26.91
+      ],
+      "confidence": 0.2605,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_65",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1207.15,
+        510.72,
+        1217.81,
+        525.26
+      ],
+      "confidence": 0.2582,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_66",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1061.8,
+        219.77,
+        1084.5,
+        244.31
+      ],
+      "confidence": 0.2466,
+      "cluster_size": 1
+    }
+  ]
+}

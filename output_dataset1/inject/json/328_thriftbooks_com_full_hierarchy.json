@@ -1,0 +1,1399 @@
+{
+  "image": "328_thriftbooks_com.png",
+  "total_elements": 107,
+  "total_raw_nodes": 125,
+  "total_raw_edges": 126,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        209.0,
+        559.0,
+        1328.0,
+        618.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        368.0,
+        23.0,
+        1161.0,
+        69.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        210.54,
+        139.58,
+        765.83,
+        540.71
+      ],
+      "confidence": 0.9883,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_3",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        778.65,
+        141.12,
+        1326.54,
+        286.84
+      ],
+      "confidence": 0.9511,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "thriftbooks",
+      "bbox": [
+        134.0,
+        20.0,
+        309.0,
+        55.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "Search your books here...",
+      "bbox": [
+        383.0,
+        39.0,
+        540.0,
+        54.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "Featured",
+      "bbox": [
+        222.0,
+        102.0,
+        278.0,
+        115.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        727.48,
+        102.97,
+        805.19,
+        114.64
+      ],
+      "confidence": 0.9163,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Mother's Day",
+      "bbox": [
+        248.0,
+        175.0,
+        552.0,
+        218.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "BEST\nMOM\nEVER",
+      "bbox": [
+        392.0,
+        328.0,
+        513.0,
+        469.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "Hi Reader",
+      "bbox": [
+        1262.0,
+        34.0,
+        1327.0,
+        43.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "100% Reading",
+      "bbox": [
+        789.0,
+        293.0,
+        910.0,
+        308.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        786.68,
+        312.93,
+        1013.65,
+        330.0
+      ],
+      "confidence": 0.8701,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "CRAWLER",
+      "bbox": [
+        912.0,
+        426.0,
+        969.0,
+        451.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        976.19,
+        573.22,
+        1066.1,
+        588.08
+      ],
+      "confidence": 0.9044,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "A collectible bookmark",
+      "bbox": [
+        1070.0,
+        393.0,
+        1236.0,
+        406.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "ReadingRewards",
+      "bbox": [
+        225.0,
+        571.0,
+        360.0,
+        588.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        210.45,
+        640.14,
+        322.0,
+        661.47
+      ],
+      "confidence": 0.8272,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_18",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        580.3,
+        573.13,
+        723.44,
+        586.62
+      ],
+      "confidence": 0.9305,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_19",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        581.42,
+        591.76,
+        828.64,
+        608.18
+      ],
+      "confidence": 0.8084,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "THE ALICE\nNETWORK",
+      "bbox": [
+        1067.0,
+        757.0,
+        1192.0,
+        791.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1057.6,
+        349.7,
+        1325.83,
+        539.01
+      ],
+      "confidence": 0.9225,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_22",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        779.0,
+        350.0,
+        1047.0,
+        545.0
+      ],
+      "confidence": 0.9867,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "ocr",
+      "class_label": "get a FREE BOOK REWARD!",
+      "bbox": [
+        247.0,
+        261.0,
+        585.0,
+        284.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "ocr",
+      "class_label": "Mother's Day Give & get",
+      "bbox": [
+        219.0,
+        500.0,
+        414.0,
+        517.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1228.01,
+        102.93,
+        1326.53,
+        114.51
+      ],
+      "confidence": 0.9455,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_26",
+      "source": "ocr",
+      "class_label": "Start this\nmonth's challenge→",
+      "bbox": [
+        800.0,
+        164.0,
+        988.0,
+        206.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "ocr",
+      "class_label": "PAGE CHALLENGE",
+      "bbox": [
+        878.0,
+        259.0,
+        986.0,
+        269.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "ocr",
+      "class_label": "Double XP in the Dungeon\nEarn 2x points on the series!",
+      "bbox": [
+        788.0,
+        502.0,
+        999.0,
+        540.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "ocr",
+      "class_label": "Name the book.",
+      "bbox": [
+        1070.0,
+        464.0,
+        1204.0,
+        478.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "ocr",
+      "class_label": "Solve the mystery",
+      "bbox": [
+        1066.0,
+        526.0,
+        1196.0,
+        540.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        225.82,
+        590.65,
+        442.89,
+        606.72
+      ],
+      "confidence": 0.844,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_32",
+      "source": "ocr",
+      "class_label": "This year's top sellers",
+      "bbox": [
+        209.0,
+        666.0,
+        377.0,
+        685.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "ocr",
+      "class_label": "ALL THE",
+      "bbox": [
+        245.0,
+        723.0,
+        322.0,
+        735.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "ocr",
+      "class_label": "CANNOT",
+      "bbox": [
+        247.0,
+        795.0,
+        324.0,
+        806.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "ocr",
+      "class_label": "SYLVIA PLATH",
+      "bbox": [
+        899.0,
+        708.0,
+        1023.0,
+        717.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "ocr",
+      "class_label": "KATE QUINN",
+      "bbox": [
+        1089.0,
+        803.0,
+        1171.0,
+        811.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        1061.0,
+        497.0,
+        1324.0,
+        543.0
+      ],
+      "confidence": 0.9744,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "ocr",
+      "class_label": "Read more. Spend less.",
+      "bbox": [
+        185.0,
+        55.0,
+        308.0,
+        66.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "ocr",
+      "class_label": "Deals Children's Books Collectible Books▾",
+      "bbox": [
+        394.0,
+        101.0,
+        702.0,
+        116.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "ocr",
+      "class_label": "Buy a $25 e-Gift Card,",
+      "bbox": [
+        248.0,
+        233.0,
+        505.0,
+        254.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "ocr",
+      "class_label": "Get a FREE BOOK credit",
+      "bbox": [
+        218.0,
+        522.0,
+        387.0,
+        535.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "ocr",
+      "class_label": "Log In",
+      "bbox": [
+        1261.0,
+        53.0,
+        1298.0,
+        65.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        790.52,
+        363.43,
+        988.9,
+        384.47
+      ],
+      "confidence": 0.8156,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_44",
+      "source": "ocr",
+      "class_label": "on any book in\nthe series",
+      "bbox": [
+        790.0,
+        391.0,
+        929.0,
+        429.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "ocr",
+      "class_label": "Reading\nRewards",
+      "bbox": [
+        842.0,
+        457.0,
+        887.0,
+        481.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        976.82,
+        591.56,
+        1203.35,
+        608.62
+      ],
+      "confidence": 0.8965,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_47",
+      "source": "ocr",
+      "class_label": "WE",
+      "bbox": [
+        272.0,
+        771.0,
+        299.0,
+        781.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "ocr",
+      "class_label": "Cart",
+      "bbox": [
+        1421.0,
+        56.0,
+        1445.0,
+        65.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "ocr",
+      "class_label": "Reading",
+      "bbox": [
+        250.0,
+        425.0,
+        335.0,
+        444.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "ocr",
+      "class_label": "LIGHT",
+      "bbox": [
+        257.0,
+        748.0,
+        314.0,
+        759.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "ocr",
+      "class_label": "NEW YORK TIMES BESTSELLER",
+      "bbox": [
+        1070.0,
+        705.0,
+        1189.0,
+        710.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1349.77,
+        54.92,
+        1396.27,
+        67.8
+      ],
+      "confidence": 0.889,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_53",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        721.54,
+        701.53,
+        862.77,
+        826.0
+      ],
+      "confidence": 0.9536,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_54",
+      "source": "ocr",
+      "class_label": "500 billion",
+      "bbox": [
+        878.0,
+        234.0,
+        984.0,
+        252.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_55",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1116.88,
+        26.16,
+        1159.16,
+        66.58
+      ],
+      "confidence": 0.9354,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_56",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        781.71,
+        351.0,
+        1045.55,
+        496.01
+      ],
+      "confidence": 0.9439,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_57",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        781.49,
+        494.82,
+        1045.7,
+        543.89
+      ],
+      "confidence": 0.9392,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_58",
+      "source": "ocr",
+      "class_label": "BOOK",
+      "bbox": [
+        1013.0,
+        425.0,
+        1043.0,
+        436.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_59",
+      "source": "ocr",
+      "class_label": "CARL",
+      "bbox": [
+        913.0,
+        438.0,
+        980.0,
+        480.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_60",
+      "source": "ocr",
+      "class_label": "April ClueMarks™",
+      "bbox": [
+        1067.0,
+        503.0,
+        1204.0,
+        520.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_61",
+      "source": "ocr",
+      "class_label": "A MOUSE",
+      "bbox": [
+        415.0,
+        726.0,
+        486.0,
+        767.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_62",
+      "source": "ocr",
+      "class_label": "1 NEW YORK TIMES",
+      "bbox": [
+        677.0,
+        720.0,
+        685.0,
+        819.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_63",
+      "source": "ocr",
+      "class_label": "Rewards®",
+      "bbox": [
+        247.0,
+        448.0,
+        345.0,
+        466.0
+      ],
+      "confidence": 0.93,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_64",
+      "source": "ocr",
+      "class_label": "thriftbooks",
+      "bbox": [
+        879.0,
+        220.0,
+        928.0,
+        229.0
+      ],
+      "confidence": 0.93,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_65",
+      "source": "ocr",
+      "class_label": "How The\nGRINCH STOLE\nCHRISTMAS!",
+      "bbox": [
+        730.0,
+        711.0,
+        850.0,
+        774.0
+      ],
+      "confidence": 0.93,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_66",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        207.47,
+        618.46,
+        1387.26,
+        826.0
+      ],
+      "confidence": 0.9282,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_67",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        453.06,
+        102.71,
+        558.63,
+        114.61
+      ],
+      "confidence": 0.9213,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_68",
+      "source": "ocr",
+      "class_label": "IF YOU GIVE",
+      "bbox": [
+        384.0,
+        707.0,
+        474.0,
+        755.0
+      ],
+      "confidence": 0.92,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_69",
+      "source": "ocr",
+      "class_label": "NEPIECE what to\nexpect\nwhen you're\nexpecting",
+      "bbox": [
+        1183.0,
+        175.0,
+        1301.0,
+        221.0
+      ],
+      "confidence": 0.9,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_70",
+      "source": "ocr",
+      "class_label": "NGEON\nCHIST'S",
+      "bbox": [
+        997.0,
+        389.0,
+        1042.0,
+        409.0
+      ],
+      "confidence": 0.9,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_71",
+      "source": "ocr",
+      "class_label": "THE\nBELL",
+      "bbox": [
+        971.0,
+        796.0,
+        1023.0,
+        825.0
+      ],
+      "confidence": 0.9,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_72",
+      "source": "ocr",
+      "class_label": "M\nDI",
+      "bbox": [
+        1289.0,
+        733.0,
+        1316.0,
+        765.0
+      ],
+      "confidence": 0.89,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_73",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        553.65,
+        701.19,
+        692.28,
+        826.0
+      ],
+      "confidence": 0.8724,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_74",
+      "source": "ocr",
+      "class_label": "C7:00:00\nThe MIDNIGHT",
+      "bbox": [
+        557.0,
+        766.0,
+        672.0,
+        813.0
+      ],
+      "confidence": 0.87,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_75",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        317.01,
+        103.96,
+        368.89,
+        114.13
+      ],
+      "confidence": 0.7438,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_76",
+      "source": "ocr",
+      "class_label": "ClueMarks™ NEW SET!",
+      "bbox": [
+        1070.0,
+        360.0,
+        1317.0,
+        384.0
+      ],
+      "confidence": 0.86,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_77",
+      "source": "ocr",
+      "class_label": "A COOKIE",
+      "bbox": [
+        421.0,
+        741.0,
+        499.0,
+        789.0
+      ],
+      "confidence": 0.85,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_78",
+      "source": "ocr",
+      "class_label": "LIBRARY",
+      "bbox": [
+        580.0,
+        816.0,
+        652.0,
+        825.0
+      ],
+      "confidence": 0.85,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_79",
+      "source": "ocr",
+      "class_label": "DUNGEON ROK",
+      "bbox": [
+        906.0,
+        404.0,
+        1042.0,
+        441.0
+      ],
+      "confidence": 0.84,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_80",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1262.13,
+        33.43,
+        1327.06,
+        44.77
+      ],
+      "confidence": 0.8309,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_81",
+      "source": "ocr",
+      "class_label": "her's\nay",
+      "bbox": [
+        641.0,
+        343.0,
+        713.0,
+        416.0
+      ],
+      "confidence": 0.83,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_82",
+      "source": "ocr",
+      "class_label": "Find the Clues. CLUEMARK",
+      "bbox": [
+        1069.0,
+        432.0,
+        1303.0,
+        468.0
+      ],
+      "confidence": 0.83,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_83",
+      "source": "ocr",
+      "class_label": ">",
+      "bbox": [
+        1300.0,
+        806.0,
+        1314.0,
+        820.0
+      ],
+      "confidence": 0.83,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_84",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        582.19,
+        102.98,
+        692.04,
+        114.58
+      ],
+      "confidence": 0.8296,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_85",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        382.97,
+        39.09,
+        542.09,
+        56.77
+      ],
+      "confidence": 0.8252,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_86",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        222.69,
+        103.35,
+        281.68,
+        114.42
+      ],
+      "confidence": 0.8251,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_87",
+      "source": "ocr",
+      "class_label": "thriftbooks",
+      "bbox": [
+        592.0,
+        402.0,
+        632.0,
+        419.0
+      ],
+      "confidence": 0.82,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_88",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1285.83,
+        793.16,
+        1327.4,
+        826.0
+      ],
+      "confidence": 0.8179,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_89",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        393.65,
+        103.63,
+        428.57,
+        114.14
+      ],
+      "confidence": 0.8039,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_90",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        227.41,
+        572.75,
+        363.98,
+        588.96
+      ],
+      "confidence": 0.7635,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_91",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        317.13,
+        103.3,
+        361.91,
+        114.62
+      ],
+      "confidence": 0.7563,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_92",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        792.85,
+        444.9,
+        835.33,
+        480.19
+      ],
+      "confidence": 0.7529,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_93",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1217.88,
+        31.32,
+        1247.7,
+        59.1
+      ],
+      "confidence": 0.7322,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_94",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        843.18,
+        458.57,
+        889.53,
+        478.93
+      ],
+      "confidence": 0.6993,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_95",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        209.84,
+        667.82,
+        376.68,
+        686.74
+      ],
+      "confidence": 0.699,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_96",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1071.96,
+        360.66,
+        1241.4,
+        386.67
+      ],
+      "confidence": 0.6491,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_97",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1070.0,
+        391.45,
+        1233.28,
+        409.31
+      ],
+      "confidence": 0.6102,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_98",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        791.07,
+        523.19,
+        988.39,
+        539.61
+      ],
+      "confidence": 0.5457,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_99",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        788.95,
+        503.29,
+        995.52,
+        524.55
+      ],
+      "confidence": 0.5298,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_100",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1419.55,
+        54.16,
+        1445.48,
+        66.27
+      ],
+      "confidence": 0.5121,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_101",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        280.65,
+        104.73,
+        291.58,
+        113.85
+      ],
+      "confidence": 0.4297,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_102",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1262.52,
+        51.89,
+        1311.26,
+        64.46
+      ],
+      "confidence": 0.3317,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_103",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        689.91,
+        105.64,
+        703.96,
+        113.97
+      ],
+      "confidence": 0.3195,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_104",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1365.55,
+        29.74,
+        1380.27,
+        46.07
+      ],
+      "confidence": 0.2816,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_105",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        356.28,
+        105.52,
+        368.61,
+        113.56
+      ],
+      "confidence": 0.2333,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_106",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        975.85,
+        189.5,
+        991.53,
+        202.8
+      ],
+      "confidence": 0.113,
+      "cluster_size": 1
+    }
+  ]
+}

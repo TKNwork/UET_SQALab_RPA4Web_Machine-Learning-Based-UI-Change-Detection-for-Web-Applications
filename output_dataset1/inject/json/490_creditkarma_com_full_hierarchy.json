@@ -1,0 +1,996 @@
+{
+  "image": "490_creditkarma_com.png",
+  "total_elements": 76,
+  "total_raw_nodes": 100,
+  "total_raw_edges": 111,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        254.0,
+        190.0,
+        1282.0,
+        234.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "ocr",
+      "class_label": "Auto",
+      "bbox": [
+        444.0,
+        6.0,
+        475.0,
+        14.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "Money",
+      "bbox": [
+        599.0,
+        6.0,
+        641.0,
+        16.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        716.86,
+        4.12,
+        855.06,
+        14.16
+      ],
+      "confidence": 0.9268,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "Credit Scores",
+      "bbox": [
+        886.0,
+        4.0,
+        970.0,
+        15.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "Browse categories",
+      "bbox": [
+        268.0,
+        62.0,
+        404.0,
+        75.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        264.11,
+        204.78,
+        403.58,
+        218.22
+      ],
+      "confidence": 0.9307,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Excellent credit",
+      "bbox": [
+        399.0,
+        93.0,
+        503.0,
+        106.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        544.15,
+        94.65,
+        623.35,
+        106.36
+      ],
+      "confidence": 0.9366,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        683.73,
+        94.86,
+        750.91,
+        106.13
+      ],
+      "confidence": 0.942,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        816.18,
+        94.81,
+        884.57,
+        106.14
+      ],
+      "confidence": 0.9447,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "Limited credit Balance transfer",
+      "bbox": [
+        937.0,
+        95.0,
+        1172.0,
+        106.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "More",
+      "bbox": [
+        1204.0,
+        96.0,
+        1237.0,
+        106.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1124.46,
+        156.25,
+        1279.1,
+        168.22
+      ],
+      "confidence": 0.9559,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "Shop credit cards",
+      "bbox": [
+        255.0,
+        273.0,
+        451.0,
+        296.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "SIMPLICITY",
+      "bbox": [
+        367.0,
+        560.0,
+        432.0,
+        571.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        335.7,
+        655.65,
+        405.91,
+        667.88
+      ],
+      "confidence": 0.9172,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "Regular balance transfer Balance transfer fee\nAPR",
+      "bbox": [
+        684.0,
+        646.0,
+        1017.0,
+        674.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "Annual fee",
+      "bbox": [
+        1065.0,
+        647.0,
+        1141.0,
+        658.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        286.36,
+        705.62,
+        454.67,
+        720.47
+      ],
+      "confidence": 0.964,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_20",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        868.0,
+        620.0,
+        1056.0,
+        823.0
+      ],
+      "confidence": 0.9897,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        678.0,
+        620.0,
+        865.0,
+        823.0
+      ],
+      "confidence": 0.9897,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "Personal Loans",
+      "bbox": [
+        306.0,
+        4.0,
+        401.0,
+        14.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "ocr",
+      "class_label": "We think you'll love these cards from our partners.",
+      "bbox": [
+        255.0,
+        314.0,
+        639.0,
+        329.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "ocr",
+      "class_label": "CK Editors' Tips**: The best credit cards can help you earn rewards, build credit or manage debt. When you're shopping for a card, consider the\ngoals you're trying to reach. Once you know what you're looking for, you're more likely to focus on the features that matter most to you.\nRead more",
+      "bbox": [
+        255.0,
+        352.0,
+        1277.0,
+        428.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "ocr",
+      "class_label": "LINDA WALKER",
+      "bbox": [
+        281.0,
+        607.0,
+        341.0,
+        615.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        494.07,
+        645.59,
+        648.63,
+        672.89
+      ],
+      "confidence": 0.9342,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_27",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        683.89,
+        700.65,
+        815.69,
+        732.27
+      ],
+      "confidence": 0.93,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_28",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        874.14,
+        681.89,
+        1050.15,
+        816.51
+      ],
+      "confidence": 0.9427,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_29",
+      "source": "ocr",
+      "class_label": "$0",
+      "bbox": [
+        1066.0,
+        683.0,
+        1087.0,
+        695.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        270.46,
+        503.35,
+        468.16,
+        627.41
+      ],
+      "confidence": 0.9667,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_31",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        270.88,
+        637.54,
+        470.64,
+        687.21
+      ],
+      "confidence": 0.9743,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_32",
+      "source": "ocr",
+      "class_label": "creditkarma. Credit Cards",
+      "bbox": [
+        23.0,
+        0.0,
+        262.0,
+        16.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        283.61,
+        95.32,
+        354.5,
+        106.53
+      ],
+      "confidence": 0.9298,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_34",
+      "source": "ocr",
+      "class_label": "Great for a long balance transfer offer**",
+      "bbox": [
+        486.0,
+        521.0,
+        779.0,
+        537.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        786.75,
+        82.69,
+        915.04,
+        120.96
+      ],
+      "confidence": 0.9669,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_36",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1052.84,
+        83.13,
+        1180.63,
+        120.94
+      ],
+      "confidence": 0.9665,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_37",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        520.66,
+        82.82,
+        648.04,
+        120.95
+      ],
+      "confidence": 0.9647,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_38",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        256.22,
+        82.92,
+        383.24,
+        120.3
+      ],
+      "confidence": 0.9117,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_39",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        653.5,
+        82.71,
+        782.35,
+        120.95
+      ],
+      "confidence": 0.9621,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_40",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        919.03,
+        83.0,
+        1048.08,
+        120.86
+      ],
+      "confidence": 0.9634,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_41",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        384.8,
+        82.42,
+        517.29,
+        120.97
+      ],
+      "confidence": 0.8977,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_42",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1186.02,
+        82.68,
+        1281.54,
+        120.85
+      ],
+      "confidence": 0.9148,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_43",
+      "source": "ocr",
+      "class_label": "0% for 18 Months",
+      "bbox": [
+        493.0,
+        699.0,
+        626.0,
+        715.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        255.42,
+        275.45,
+        452.65,
+        298.33
+      ],
+      "confidence": 0.955,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1013.47,
+        5.33,
+        1089.67,
+        14.26
+      ],
+      "confidence": 0.8624,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_46",
+      "source": "ocr",
+      "class_label": "Citi Simplicity® Card",
+      "bbox": [
+        486.0,
+        542.0,
+        664.0,
+        562.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "ocr",
+      "class_label": "Help center | Log in | Sign up for free",
+      "bbox": [
+        1279.0,
+        2.0,
+        1519.0,
+        17.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        874.92,
+        644.79,
+        1016.98,
+        658.14
+      ],
+      "confidence": 0.9392,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        23.31,
+        0.16,
+        155.13,
+        14.6
+      ],
+      "confidence": 0.9365,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        255.68,
+        470.35,
+        1311.38,
+        826.0
+      ],
+      "confidence": 0.9135,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1060.73,
+        94.44,
+        1171.97,
+        106.82
+      ],
+      "confidence": 0.9129,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        398.32,
+        94.37,
+        502.75,
+        106.71
+      ],
+      "confidence": 0.9095,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_53",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        494.34,
+        700.65,
+        626.86,
+        713.49
+      ],
+      "confidence": 0.9031,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_54",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        682.71,
+        645.24,
+        860.1,
+        671.76
+      ],
+      "confidence": 0.9,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_55",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        937.3,
+        94.56,
+        1029.07,
+        106.44
+      ],
+      "confidence": 0.8983,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_56",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1064.46,
+        645.29,
+        1141.45,
+        657.83
+      ],
+      "confidence": 0.8953,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_57",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        305.08,
+        3.84,
+        413.98,
+        14.74
+      ],
+      "confidence": 0.8772,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_58",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1421.92,
+        3.69,
+        1518.44,
+        17.19
+      ],
+      "confidence": 0.8667,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_59",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        268.73,
+        61.36,
+        403.39,
+        76.63
+      ],
+      "confidence": 0.8607,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_60",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1278.87,
+        4.26,
+        1350.07,
+        17.44
+      ],
+      "confidence": 0.857,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_61",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        272.28,
+        313.39,
+        643.57,
+        332.0
+      ],
+      "confidence": 0.8523,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_62",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        885.24,
+        4.2,
+        980.54,
+        14.49
+      ],
+      "confidence": 0.8495,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_63",
+      "source": "ocr",
+      "class_label": "Home ▼",
+      "bbox": [
+        519.0,
+        6.0,
+        566.0,
+        14.0
+      ],
+      "confidence": 0.83,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_64",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        183.52,
+        4.51,
+        274.99,
+        14.76
+      ],
+      "confidence": 0.825,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_65",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        562.82,
+        570.53,
+        651.4,
+        583.17
+      ],
+      "confidence": 0.7618,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_66",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1203.93,
+        95.48,
+        1241.63,
+        106.67
+      ],
+      "confidence": 0.6964,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_67",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        599.23,
+        4.68,
+        646.56,
+        16.62
+      ],
+      "confidence": 0.6758,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_68",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1368.84,
+        5.04,
+        1407.71,
+        16.51
+      ],
+      "confidence": 0.602,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_69",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        517.91,
+        4.66,
+        569.86,
+        14.52
+      ],
+      "confidence": 0.5456,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_70",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        442.43,
+        5.76,
+        488.53,
+        14.15
+      ],
+      "confidence": 0.535,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_71",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1243.85,
+        99.28,
+        1259.35,
+        112.01
+      ],
+      "confidence": 0.4383,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_72",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1245.76,
+        201.86,
+        1267.24,
+        223.41
+      ],
+      "confidence": 0.3782,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_73",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1064.3,
+        682.75,
+        1086.98,
+        695.91
+      ],
+      "confidence": 0.3256,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_74",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        516.13,
+        570.79,
+        555.65,
+        582.83
+      ],
+      "confidence": 0.171,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_75",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1361.57,
+        0.0,
+        1411.41,
+        20.22
+      ],
+      "confidence": 0.1246,
+      "cluster_size": 1
+    }
+  ]
+}

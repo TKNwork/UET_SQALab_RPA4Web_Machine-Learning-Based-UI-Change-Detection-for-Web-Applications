@@ -1,0 +1,281 @@
+{
+  "image": "079_remove_bg.png",
+  "total_elements": 21,
+  "total_raw_nodes": 23,
+  "total_raw_edges": 20,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "ocr",
+      "class_label": "remove bg",
+      "bbox": [
+        88.0,
+        24.0,
+        242.0,
+        47.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "ocr",
+      "class_label": "Uploads Bulk Editing ΑΡΙ",
+      "bbox": [
+        290.0,
+        30.0,
+        521.0,
+        46.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "Plugins",
+      "bbox": [
+        558.0,
+        31.0,
+        607.0,
+        44.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "Pricing",
+      "bbox": [
+        643.0,
+        32.0,
+        690.0,
+        43.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "Sign up",
+      "bbox": [
+        1438.0,
+        32.0,
+        1488.0,
+        45.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "All-in-one Al background\nremover & generator",
+      "bbox": [
+        286.0,
+        174.0,
+        707.0,
+        251.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "remove.bg is your go-to, high-quality background remover,\nmaking it easy to cut out a picture and isolate the\nbackground with incredible accuracy.",
+      "bbox": [
+        288.0,
+        273.0,
+        736.0,
+        338.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        493.98,
+        685.9,
+        1041.01,
+        727.1
+      ],
+      "confidence": 0.9542,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Log in",
+      "bbox": [
+        1358.0,
+        31.0,
+        1397.0,
+        44.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "But it doesn't stop there. With the Al background",
+      "bbox": [
+        289.0,
+        362.0,
+        663.0,
+        376.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "generator, you can instantly create custom backdrops - no\nneed to write a prompt.",
+      "bbox": [
+        287.0,
+        384.0,
+        739.0,
+        427.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        387.86,
+        766.21,
+        1150.83,
+        825.53
+      ],
+      "confidence": 0.9384,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_12",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        0.98,
+        0.15,
+        884.36,
+        73.97
+      ],
+      "confidence": 0.8732,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        642.28,
+        30.2,
+        690.89,
+        46.74
+      ],
+      "confidence": 0.8651,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        382.3,
+        30.04,
+        463.22,
+        46.92
+      ],
+      "confidence": 0.839,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        288.79,
+        30.19,
+        347.0,
+        45.9
+      ],
+      "confidence": 0.8199,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1356.82,
+        29.62,
+        1398.36,
+        46.8
+      ],
+      "confidence": 0.8176,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1437.09,
+        29.82,
+        1488.28,
+        46.45
+      ],
+      "confidence": 0.7725,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        557.99,
+        30.1,
+        607.71,
+        46.77
+      ],
+      "confidence": 0.7411,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1422.35,
+        17.2,
+        1503.91,
+        55.12
+      ],
+      "confidence": 0.7163,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        498.15,
+        30.57,
+        522.82,
+        43.3
+      ],
+      "confidence": 0.4049,
+      "cluster_size": 1
+    }
+  ]
+}

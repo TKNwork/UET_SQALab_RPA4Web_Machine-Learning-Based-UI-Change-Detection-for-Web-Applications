@@ -1,0 +1,853 @@
+{
+  "image": "014_w3schools_com.png",
+  "total_elements": 65,
+  "total_raw_nodes": 71,
+  "total_raw_edges": 38,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        797.0,
+        794.0,
+        1329.0,
+        826.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        206.0,
+        794.0,
+        739.0,
+        826.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        755.0,
+        459.0,
+        782.0,
+        826.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        54.0,
+        1536.0,
+        57.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        208.0,
+        512.0,
+        727.0,
+        726.0
+      ],
+      "confidence": 0.993,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "Tutorials",
+      "bbox": [
+        91.0,
+        20.0,
+        151.0,
+        34.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "References",
+      "bbox": [
+        200.0,
+        22.0,
+        282.0,
+        34.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Exercises",
+      "bbox": [
+        330.0,
+        23.0,
+        400.0,
+        35.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "JAVASCRIPT SQL PYTHON JAVA",
+      "bbox": [
+        33.0,
+        62.0,
+        432.0,
+        80.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "Certificates",
+      "bbox": [
+        448.0,
+        22.0,
+        527.0,
+        33.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "PHP",
+      "bbox": [
+        471.0,
+        66.0,
+        510.0,
+        78.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "HOW TO W3.CSS",
+      "bbox": [
+        549.0,
+        64.0,
+        740.0,
+        79.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        923.26,
+        21.83,
+        1003.05,
+        36.9
+      ],
+      "confidence": 0.9248,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "Spaces Teachers Upgrade",
+      "bbox": [
+        1035.0,
+        18.0,
+        1280.0,
+        43.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1311.26,
+        20.44,
+        1400.86,
+        34.16
+      ],
+      "confidence": 0.936,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "BOOTSTRAP",
+      "bbox": [
+        969.0,
+        62.0,
+        1087.0,
+        78.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "REACT",
+      "bbox": [
+        1129.0,
+        64.0,
+        1194.0,
+        79.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1232.49,
+        64.55,
+        1299.07,
+        78.74
+      ],
+      "confidence": 0.8958,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_18",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1337.99,
+        63.67,
+        1416.27,
+        78.21
+      ],
+      "confidence": 0.9084,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "EXCEL",
+      "bbox": [
+        1456.0,
+        65.0,
+        1518.0,
+        77.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "HTML",
+      "bbox": [
+        355.0,
+        590.0,
+        578.0,
+        644.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "1. Create your first web page",
+      "bbox": [
+        839.0,
+        545.0,
+        1094.0,
+        565.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "The first thing you have to learn, is HTML, which is the\nstandard markup language for creating web pages.",
+      "bbox": [
+        838.0,
+        597.0,
+        1248.0,
+        636.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        801.0,
+        512.0,
+        1327.0,
+        726.0
+      ],
+      "confidence": 0.9803,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        518.02,
+        206.67,
+        1014.85,
+        255.36
+      ],
+      "confidence": 0.9676,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_25",
+      "source": "ocr",
+      "class_label": "To become a web developer, start with the subjects below,\nin the following order:",
+      "bbox": [
+        459.0,
+        334.0,
+        1075.0,
+        391.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "ocr",
+      "class_label": "Learn HTML",
+      "bbox": [
+        888.0,
+        674.0,
+        988.0,
+        688.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "ocr",
+      "class_label": "Sign In",
+      "bbox": [
+        1454.0,
+        19.0,
+        1503.0,
+        34.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "ocr",
+      "class_label": "Search...",
+      "bbox": [
+        584.0,
+        19.0,
+        647.0,
+        35.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1430.15,
+        6.75,
+        1527.36,
+        48.77
+      ],
+      "confidence": 0.8189,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_30",
+      "source": "ocr",
+      "class_label": "C#",
+      "bbox": [
+        905.0,
+        65.0,
+        931.0,
+        77.0
+      ],
+      "confidence": 0.93,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        26.0,
+        13.0,
+        49.0,
+        40.0
+      ],
+      "confidence": 0.905,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        446.3,
+        21.68,
+        543.01,
+        34.45
+      ],
+      "confidence": 0.8899,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1120.89,
+        21.51,
+        1186.79,
+        34.76
+      ],
+      "confidence": 0.8854,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "ocr",
+      "class_label": "C C++",
+      "bbox": [
+        780.0,
+        65.0,
+        867.0,
+        79.0
+      ],
+      "confidence": 0.88,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        665.49,
+        64.6,
+        742.18,
+        78.59
+      ],
+      "confidence": 0.863,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        969.35,
+        64.99,
+        1090.57,
+        77.85
+      ],
+      "confidence": 0.8602,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "ocr",
+      "class_label": "☐",
+      "bbox": [
+        28.0,
+        13.0,
+        47.0,
+        36.0
+      ],
+      "confidence": 0.86,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        329.01,
+        21.74,
+        415.63,
+        34.51
+      ],
+      "confidence": 0.8571,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1217.04,
+        21.21,
+        1280.1,
+        38.19
+      ],
+      "confidence": 0.8522,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        549.53,
+        65.08,
+        629.44,
+        78.09
+      ],
+      "confidence": 0.8388,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        200.1,
+        21.2,
+        296.41,
+        34.69
+      ],
+      "confidence": 0.8358,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1127.97,
+        65.4,
+        1194.63,
+        78.28
+      ],
+      "confidence": 0.8344,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        90.46,
+        21.93,
+        166.6,
+        34.37
+      ],
+      "confidence": 0.83,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1035.33,
+        21.81,
+        1089.87,
+        37.42
+      ],
+      "confidence": 0.8086,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        33.42,
+        64.85,
+        151.38,
+        78.15
+      ],
+      "confidence": 0.7431,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        472.49,
+        64.15,
+        510.74,
+        78.56
+      ],
+      "confidence": 0.716,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        267.49,
+        65.19,
+        348.07,
+        78.52
+      ],
+      "confidence": 0.7018,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        387.18,
+        64.55,
+        432.39,
+        78.25
+      ],
+      "confidence": 0.7001,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        582.23,
+        21.8,
+        635.2,
+        35.42
+      ],
+      "confidence": 0.6828,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        567.89,
+        9.25,
+        708.1,
+        45.43
+      ],
+      "confidence": 0.5915,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        831.96,
+        64.88,
+        865.86,
+        78.5
+      ],
+      "confidence": 0.5893,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        190.52,
+        65.17,
+        227.17,
+        78.44
+      ],
+      "confidence": 0.5538,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_53",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1455.97,
+        63.8,
+        1517.13,
+        78.84
+      ],
+      "confidence": 0.5042,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_54",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        755.86,
+        519.02,
+        781.36,
+        544.54
+      ],
+      "confidence": 0.4897,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_55",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1452.46,
+        18.69,
+        1502.76,
+        36.23
+      ],
+      "confidence": 0.4193,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_56",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        907.0,
+        64.89,
+        930.87,
+        78.77
+      ],
+      "confidence": 0.3589,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_57",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        764.62,
+        460.41,
+        771.98,
+        511.37
+      ],
+      "confidence": 0.2888,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_58",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        27.98,
+        14.53,
+        47.64,
+        38.56
+      ],
+      "confidence": 0.2634,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_59",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        780.35,
+        65.03,
+        792.76,
+        79.0
+      ],
+      "confidence": 0.2249,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_60",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        798.57,
+        521.36,
+        808.63,
+        543.71
+      ],
+      "confidence": 0.1823,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_61",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        713.67,
+        17.12,
+        734.51,
+        44.14
+      ],
+      "confidence": 0.1215,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_62",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        727.95,
+        524.67,
+        737.99,
+        541.62
+      ],
+      "confidence": 0.1191,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_63",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        757.28,
+        802.6,
+        780.82,
+        825.83
+      ],
+      "confidence": 0.1179,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_64",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        764.9,
+        18.16,
+        771.62,
+        38.39
+      ],
+      "confidence": 0.1041,
+      "cluster_size": 1
+    }
+  ]
+}

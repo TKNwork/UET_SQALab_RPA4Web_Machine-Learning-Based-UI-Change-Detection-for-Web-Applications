@@ -1,0 +1,1503 @@
+{
+  "image": "276_weworkremotely_com.png",
+  "total_elements": 115,
+  "total_raw_nodes": 119,
+  "total_raw_edges": 122,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        992.0,
+        552.0,
+        995.0,
+        588.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        726.0,
+        550.0,
+        729.0,
+        588.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        615.0,
+        549.0,
+        618.0,
+        588.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        626.0,
+        536.0,
+        629.0,
+        586.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        559.0,
+        532.0,
+        562.0,
+        586.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1026.0,
+        529.0,
+        1029.0,
+        588.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1015.0,
+        529.0,
+        1018.0,
+        588.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1009.0,
+        529.0,
+        1012.0,
+        588.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1003.0,
+        529.0,
+        1006.0,
+        586.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        963.0,
+        529.0,
+        966.0,
+        588.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        952.0,
+        529.0,
+        955.0,
+        586.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        946.0,
+        529.0,
+        949.0,
+        588.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        940.0,
+        529.0,
+        943.0,
+        588.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        908.0,
+        529.0,
+        911.0,
+        587.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        896.0,
+        529.0,
+        899.0,
+        586.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        885.0,
+        529.0,
+        888.0,
+        588.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        840.0,
+        529.0,
+        844.0,
+        587.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        804.0,
+        529.0,
+        807.0,
+        588.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        793.0,
+        529.0,
+        796.0,
+        586.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        787.0,
+        529.0,
+        790.0,
+        588.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        781.0,
+        529.0,
+        784.0,
+        586.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        749.0,
+        529.0,
+        752.0,
+        588.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        693.0,
+        529.0,
+        696.0,
+        588.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        682.0,
+        529.0,
+        685.0,
+        586.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        676.0,
+        529.0,
+        679.0,
+        588.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        670.0,
+        529.0,
+        673.0,
+        586.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        638.0,
+        529.0,
+        641.0,
+        588.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        582.0,
+        529.0,
+        585.0,
+        588.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        571.0,
+        529.0,
+        574.0,
+        586.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        565.0,
+        529.0,
+        568.0,
+        588.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        997.0,
+        515.0,
+        1000.0,
+        551.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        670.0,
+        489.0,
+        673.0,
+        526.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        632.0,
+        485.0,
+        637.0,
+        586.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        792.0,
+        474.0,
+        796.0,
+        526.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        743.0,
+        474.0,
+        748.0,
+        586.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        676.0,
+        472.0,
+        679.0,
+        526.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        571.0,
+        469.0,
+        574.0,
+        526.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        637.0,
+        468.0,
+        641.0,
+        526.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1026.0,
+        467.0,
+        1029.0,
+        526.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1009.0,
+        467.0,
+        1012.0,
+        526.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1003.0,
+        467.0,
+        1006.0,
+        526.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        963.0,
+        467.0,
+        966.0,
+        526.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        946.0,
+        467.0,
+        949.0,
+        526.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        940.0,
+        467.0,
+        943.0,
+        526.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        908.0,
+        467.0,
+        911.0,
+        526.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        896.0,
+        467.0,
+        899.0,
+        526.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        885.0,
+        467.0,
+        888.0,
+        526.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        840.0,
+        467.0,
+        844.0,
+        526.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        804.0,
+        467.0,
+        807.0,
+        526.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        748.0,
+        467.0,
+        752.0,
+        526.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        693.0,
+        467.0,
+        696.0,
+        526.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        582.0,
+        467.0,
+        585.0,
+        526.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        681.0,
+        460.0,
+        685.0,
+        526.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_53",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        834.0,
+        450.0,
+        837.0,
+        555.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_54",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1015.0,
+        442.0,
+        1018.0,
+        526.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_55",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        951.0,
+        429.0,
+        955.0,
+        526.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_56",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1026.0,
+        428.0,
+        1029.0,
+        464.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_57",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        693.0,
+        420.0,
+        696.0,
+        464.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_58",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        963.0,
+        403.0,
+        966.0,
+        464.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_59",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        908.0,
+        403.0,
+        911.0,
+        464.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_60",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        902.0,
+        403.0,
+        907.0,
+        586.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_61",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        896.0,
+        403.0,
+        899.0,
+        464.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_62",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        885.0,
+        403.0,
+        888.0,
+        464.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_63",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        873.0,
+        403.0,
+        876.0,
+        445.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_64",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        748.0,
+        403.0,
+        752.0,
+        464.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_65",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        877.0,
+        347.0,
+        884.0,
+        586.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_66",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        885.0,
+        345.0,
+        888.0,
+        400.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_67",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        908.0,
+        343.0,
+        911.0,
+        400.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_68",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        896.0,
+        343.0,
+        899.0,
+        400.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_69",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        45.66,
+        32.55,
+        272.33,
+        50.95
+      ],
+      "confidence": 0.9668,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_70",
+      "source": "ocr",
+      "class_label": "Community",
+      "bbox": [
+        717.0,
+        35.0,
+        798.0,
+        49.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_71",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1109.95,
+        33.81,
+        1162.09,
+        46.05
+      ],
+      "confidence": 0.8947,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_72",
+      "source": "ocr",
+      "class_label": "Sign in",
+      "bbox": [
+        1281.0,
+        32.0,
+        1329.0,
+        48.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_73",
+      "source": "ocr",
+      "class_label": "What kind of remote jobs are available and how are they changing over time?",
+      "bbox": [
+        292.0,
+        85.0,
+        964.0,
+        103.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_74",
+      "source": "ocr",
+      "class_label": "2000",
+      "bbox": [
+        497.0,
+        274.0,
+        519.0,
+        283.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_75",
+      "source": "ocr",
+      "class_label": "1000",
+      "bbox": [
+        498.0,
+        338.0,
+        518.0,
+        344.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_76",
+      "source": "ocr",
+      "class_label": "500",
+      "bbox": [
+        503.0,
+        400.0,
+        520.0,
+        406.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_77",
+      "source": "ocr",
+      "class_label": "2013",
+      "bbox": [
+        543.0,
+        633.0,
+        567.0,
+        639.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_78",
+      "source": "ocr",
+      "class_label": "2014",
+      "bbox": [
+        606.0,
+        632.0,
+        629.0,
+        640.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_79",
+      "source": "ocr",
+      "class_label": "2016",
+      "bbox": [
+        669.0,
+        633.0,
+        691.0,
+        639.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_80",
+      "source": "ocr",
+      "class_label": "2019",
+      "bbox": [
+        796.0,
+        632.0,
+        818.0,
+        640.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_81",
+      "source": "ocr",
+      "class_label": "2017",
+      "bbox": [
+        859.0,
+        632.0,
+        881.0,
+        640.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_82",
+      "source": "ocr",
+      "class_label": "2020",
+      "bbox": [
+        985.0,
+        633.0,
+        1007.0,
+        639.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_83",
+      "source": "ocr",
+      "class_label": "Find Jobs",
+      "bbox": [
+        611.0,
+        35.0,
+        674.0,
+        46.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_84",
+      "source": "ocr",
+      "class_label": "100",
+      "bbox": [
+        503.0,
+        460.0,
+        519.0,
+        467.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_85",
+      "source": "ocr",
+      "class_label": "50",
+      "bbox": [
+        508.0,
+        522.0,
+        520.0,
+        528.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_86",
+      "source": "ocr",
+      "class_label": "Total Jobs Posted Per Category on We Work Remotely\n2013-2020",
+      "bbox": [
+        545.0,
+        222.0,
+        991.0,
+        260.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_87",
+      "source": "ocr",
+      "class_label": "2015",
+      "bbox": [
+        732.0,
+        631.0,
+        754.0,
+        640.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_88",
+      "source": "ocr",
+      "class_label": "2018",
+      "bbox": [
+        922.0,
+        632.0,
+        944.0,
+        640.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_89",
+      "source": "ocr",
+      "class_label": "With the intention of advocating for remote work in more sectors, we branched out from our most popular\ncategory, Programming, and made the following changes:",
+      "bbox": [
+        293.0,
+        782.0,
+        1209.0,
+        825.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_90",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        934.0,
+        551.0,
+        937.0,
+        586.0
+      ],
+      "confidence": 0.9724,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_91",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1390.96,
+        33.15,
+        1459.78,
+        48.87
+      ],
+      "confidence": 0.9105,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_92",
+      "source": "ocr",
+      "class_label": "WWR",
+      "bbox": [
+        1005.0,
+        668.0,
+        1032.0,
+        678.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_93",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1370.74,
+        20.22,
+        1480.56,
+        58.93
+      ],
+      "confidence": 0.9472,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_94",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1259.25,
+        19.96,
+        1351.99,
+        59.94
+      ],
+      "confidence": 0.9575,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_95",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        902.0,
+        343.0,
+        907.0,
+        400.0
+      ],
+      "confidence": 0.9502,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_96",
+      "source": "ocr",
+      "class_label": "Career Services ▾ About",
+      "bbox": [
+        840.0,
+        35.0,
+        1031.0,
+        47.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_97",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        787.0,
+        492.0,
+        790.0,
+        526.0
+      ],
+      "confidence": 0.9448,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_98",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1072.3,
+        21.47,
+        1241.73,
+        58.27
+      ],
+      "confidence": 0.9375,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_99",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        482.22,
+        183.74,
+        1055.33,
+        691.92
+      ],
+      "confidence": 0.9365,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_100",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        845.0,
+        529.0,
+        866.0,
+        586.0
+      ],
+      "confidence": 0.934,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_101",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1282.62,
+        34.23,
+        1330.11,
+        49.28
+      ],
+      "confidence": 0.9256,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_102",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        717.11,
+        34.49,
+        809.48,
+        49.81
+      ],
+      "confidence": 0.92,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_103",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        659.0,
+        555.0,
+        662.0,
+        588.0
+      ],
+      "confidence": 0.9168,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_104",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1068.4,
+        0.0,
+        1533.75,
+        83.54
+      ],
+      "confidence": 0.9056,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_105",
+      "source": "ocr",
+      "class_label": "Programming",
+      "bbox": [
+        872.0,
+        592.0,
+        909.0,
+        598.0
+      ],
+      "confidence": 0.9,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_106",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        840.28,
+        34.45,
+        953.29,
+        45.69
+      ],
+      "confidence": 0.8923,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_107",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        987.08,
+        34.28,
+        1044.64,
+        46.03
+      ],
+      "confidence": 0.8893,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_108",
+      "source": "ocr",
+      "class_label": "All Other",
+      "bbox": [
+        989.0,
+        592.0,
+        1014.0,
+        597.0
+      ],
+      "confidence": 0.88,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_109",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        610.97,
+        34.07,
+        681.51,
+        45.92
+      ],
+      "confidence": 0.8789,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_110",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        907.0,
+        298.0,
+        911.0,
+        340.0
+      ],
+      "confidence": 0.8754,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_111",
+      "source": "ocr",
+      "class_label": "Business,",
+      "bbox": [
+        545.0,
+        592.0,
+        572.0,
+        597.0
+      ],
+      "confidence": 0.85,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_112",
+      "source": "ocr",
+      "class_label": "Product",
+      "bbox": [
+        824.0,
+        590.0,
+        847.0,
+        598.0
+      ],
+      "confidence": 0.82,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_113",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        293.0,
+        83.73,
+        475.04,
+        103.12
+      ],
+      "confidence": 0.5786,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_114",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1083.4,
+        30.09,
+        1102.67,
+        49.08
+      ],
+      "confidence": 0.3583,
+      "cluster_size": 1
+    }
+  ]
+}

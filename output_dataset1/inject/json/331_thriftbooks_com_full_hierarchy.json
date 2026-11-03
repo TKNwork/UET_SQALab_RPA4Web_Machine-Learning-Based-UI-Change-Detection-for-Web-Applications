@@ -1,0 +1,1698 @@
+{
+  "image": "331_thriftbooks_com.png",
+  "total_elements": 130,
+  "total_raw_nodes": 138,
+  "total_raw_edges": 107,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        211.0,
+        768.0,
+        573.0,
+        777.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        211.0,
+        379.0,
+        573.0,
+        388.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1061.0,
+        84.0,
+        1199.0,
+        92.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1020.0,
+        130.0,
+        1028.0,
+        253.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        722.0,
+        85.0,
+        726.0,
+        282.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "Just Arrived",
+      "bbox": [
+        210.0,
+        22.0,
+        332.0,
+        42.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "These books have just arrived on our shelves",
+      "bbox": [
+        210.0,
+        50.0,
+        562.0,
+        67.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "FRANKL",
+      "bbox": [
+        221.0,
+        113.0,
+        347.0,
+        133.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "FOR",
+      "bbox": [
+        259.0,
+        220.0,
+        308.0,
+        238.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "MEANING",
+      "bbox": [
+        221.0,
+        250.0,
+        345.0,
+        267.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "Man's Search for",
+      "bbox": [
+        219.0,
+        292.0,
+        342.0,
+        304.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "Meaning",
+      "bbox": [
+        220.0,
+        310.0,
+        282.0,
+        323.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "THE\nART",
+      "bbox": [
+        587.0,
+        96.0,
+        659.0,
+        161.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "WAR",
+      "bbox": [
+        579.0,
+        209.0,
+        667.0,
+        236.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "孫子",
+      "bbox": [
+        608.0,
+        244.0,
+        638.0,
+        256.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "THE",
+      "bbox": [
+        557.0,
+        473.0,
+        620.0,
+        498.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "WOMAN",
+      "bbox": [
+        557.0,
+        507.0,
+        684.0,
+        530.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "LESSONS",
+      "bbox": [
+        909.0,
+        100.0,
+        1001.0,
+        120.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "KRIS\nHANN",
+      "bbox": [
+        1241.0,
+        114.0,
+        1318.0,
+        167.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "CHEMISTRY",
+      "bbox": [
+        898.0,
+        237.0,
+        1011.0,
+        257.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1065.33,
+        291.69,
+        1105.61,
+        302.93
+      ],
+      "confidence": 0.8698,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "THE",
+      "bbox": [
+        737.0,
+        487.0,
+        762.0,
+        496.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "DOG MAN",
+      "bbox": [
+        911.0,
+        486.0,
+        1014.0,
+        514.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "ocr",
+      "class_label": "The Secret\nGarden",
+      "bbox": [
+        219.0,
+        681.0,
+        297.0,
+        710.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        389.03,
+        680.49,
+        516.51,
+        692.26
+      ],
+      "confidence": 0.9127,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_25",
+      "source": "ocr",
+      "class_label": "ALICE WALKER\nThe Color Purple",
+      "bbox": [
+        726.0,
+        654.0,
+        848.0,
+        694.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "ocr",
+      "class_label": "Alice Walker",
+      "bbox": [
+        726.0,
+        714.0,
+        795.0,
+        727.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "ocr",
+      "class_label": "Dog Man and Cat",
+      "bbox": [
+        1066.0,
+        679.0,
+        1190.0,
+        695.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "ocr",
+      "class_label": "The Battle\nLabyrinth",
+      "bbox": [
+        1234.0,
+        680.0,
+        1308.0,
+        711.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        1059.0,
+        471.0,
+        1201.0,
+        751.0
+      ],
+      "confidence": 0.9893,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        1059.0,
+        82.0,
+        1201.0,
+        362.0
+      ],
+      "confidence": 0.9893,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        552.61,
+        84.26,
+        691.67,
+        282.59
+      ],
+      "confidence": 0.963,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_32",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        720.0,
+        82.0,
+        863.0,
+        362.0
+      ],
+      "confidence": 0.9855,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "ocr",
+      "class_label": "SEARCH",
+      "bbox": [
+        230.0,
+        189.0,
+        333.0,
+        207.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "ocr",
+      "class_label": "The Lion, the\nWitch and the\nC.S. Lewis",
+      "bbox": [
+        388.0,
+        289.0,
+        491.0,
+        338.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "ocr",
+      "class_label": "from: $3.99",
+      "bbox": [
+        388.0,
+        343.0,
+        459.0,
+        354.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "ocr",
+      "class_label": "Sun Tzu",
+      "bbox": [
+        557.0,
+        327.0,
+        602.0,
+        337.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        557.38,
+        342.54,
+        629.15,
+        355.27
+      ],
+      "confidence": 0.9156,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_38",
+      "source": "ocr",
+      "class_label": "Under $5.00",
+      "bbox": [
+        210.0,
+        410.0,
+        339.0,
+        433.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "ocr",
+      "class_label": "FREE Shipping on US Orders of $15 or more",
+      "bbox": [
+        210.0,
+        441.0,
+        554.0,
+        457.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "ocr",
+      "class_label": "FOUR",
+      "bbox": [
+        1240.0,
+        200.0,
+        1293.0,
+        214.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "ocr",
+      "class_label": "The Kite Runner",
+      "bbox": [
+        727.0,
+        292.0,
+        845.0,
+        304.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        725.55,
+        326.64,
+        814.72,
+        355.22
+      ],
+      "confidence": 0.9251,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_43",
+      "source": "ocr",
+      "class_label": "BONNIE GARMUS\nLessons in\nChemistry\nBonnie Garmus\nfrom: $4.89",
+      "bbox": [
+        895.0,
+        270.0,
+        1005.0,
+        354.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "ocr",
+      "class_label": "Louis Sachar\nfrom: $4.09",
+      "bbox": [
+        1064.0,
+        327.0,
+        1138.0,
+        355.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1235.36,
+        291.33,
+        1315.7,
+        302.82
+      ],
+      "confidence": 0.9411,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_46",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1233.32,
+        326.56,
+        1316.3,
+        355.43
+      ],
+      "confidence": 0.9465,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_47",
+      "source": "ocr",
+      "class_label": "COLOR\nPURPLE",
+      "bbox": [
+        737.0,
+        504.0,
+        848.0,
+        563.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "ocr",
+      "class_label": "Frances Hodgson",
+      "bbox": [
+        220.0,
+        717.0,
+        316.0,
+        728.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "ocr",
+      "class_label": "from: $4.09",
+      "bbox": [
+        219.0,
+        732.0,
+        290.0,
+        743.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "ocr",
+      "class_label": "THE\nRAINBOW FISH",
+      "bbox": [
+        392.0,
+        613.0,
+        510.0,
+        654.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        387.95,
+        715.17,
+        468.53,
+        743.91
+      ],
+      "confidence": 0.8019,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_52",
+      "source": "ocr",
+      "class_label": "RUTH WARE\nThe Woman in\nCabin 10\nRuth Ware\nfrom: $4.39",
+      "bbox": [
+        557.0,
+        652.0,
+        677.0,
+        744.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_53",
+      "source": "ocr",
+      "class_label": "from: $4.19",
+      "bbox": [
+        726.0,
+        732.0,
+        798.0,
+        743.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_54",
+      "source": "ocr",
+      "class_label": "Dog Man: Lord of\nthe Fleas",
+      "bbox": [
+        896.0,
+        678.0,
+        1021.0,
+        710.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_55",
+      "source": "ocr",
+      "class_label": "Rick Riordan\nfrom: $4.39",
+      "bbox": [
+        1234.0,
+        717.0,
+        1305.0,
+        743.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_56",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        723.0,
+        673.0,
+        860.0,
+        749.0
+      ],
+      "confidence": 0.9794,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_57",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        723.0,
+        284.0,
+        860.0,
+        360.0
+      ],
+      "confidence": 0.9794,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_58",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        216.0,
+        284.0,
+        353.0,
+        360.0
+      ],
+      "confidence": 0.9794,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_59",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        1061.0,
+        673.0,
+        1199.0,
+        749.0
+      ],
+      "confidence": 0.9792,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_60",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        1061.0,
+        284.0,
+        1199.0,
+        360.0
+      ],
+      "confidence": 0.9792,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_61",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        892.0,
+        284.0,
+        1030.0,
+        360.0
+      ],
+      "confidence": 0.9792,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_62",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        554.0,
+        284.0,
+        692.0,
+        360.0
+      ],
+      "confidence": 0.9792,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_63",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        384.0,
+        284.0,
+        522.0,
+        360.0
+      ],
+      "confidence": 0.9792,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_64",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        892.0,
+        673.0,
+        1030.0,
+        749.0
+      ],
+      "confidence": 0.9791,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_65",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        384.0,
+        673.0,
+        522.0,
+        749.0
+      ],
+      "confidence": 0.9791,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_66",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        213.0,
+        82.0,
+        357.0,
+        362.0
+      ],
+      "confidence": 0.9783,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_67",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        554.0,
+        672.0,
+        692.0,
+        749.0
+      ],
+      "confidence": 0.9711,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_68",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        380.0,
+        471.0,
+        526.0,
+        754.0
+      ],
+      "confidence": 0.9705,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_69",
+      "source": "ocr",
+      "class_label": "from: $8.39",
+      "bbox": [
+        218.0,
+        343.0,
+        289.0,
+        354.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_70",
+      "source": "ocr",
+      "class_label": "SUN TZU",
+      "bbox": [
+        585.0,
+        260.0,
+        658.0,
+        272.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_71",
+      "source": "ocr",
+      "class_label": "The Art of War",
+      "bbox": [
+        557.0,
+        292.0,
+        665.0,
+        304.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_72",
+      "source": "ocr",
+      "class_label": "SPECIAL EDITION",
+      "bbox": [
+        1101.0,
+        93.0,
+        1155.0,
+        98.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_73",
+      "source": "ocr",
+      "class_label": "In",
+      "bbox": [
+        942.0,
+        162.0,
+        969.0,
+        179.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_74",
+      "source": "ocr",
+      "class_label": "LOUIS SACHAR",
+      "bbox": [
+        1073.0,
+        257.0,
+        1186.0,
+        273.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_75",
+      "source": "ocr",
+      "class_label": "DOG MAN",
+      "bbox": [
+        1079.0,
+        487.0,
+        1186.0,
+        513.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_76",
+      "source": "ocr",
+      "class_label": "Dav Pilkey",
+      "bbox": [
+        897.0,
+        717.0,
+        955.0,
+        727.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_77",
+      "source": "ocr",
+      "class_label": "from: $4.79",
+      "bbox": [
+        895.0,
+        732.0,
+        968.0,
+        744.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_78",
+      "source": "ocr",
+      "class_label": "Dav Pilkey",
+      "bbox": [
+        1066.0,
+        716.0,
+        1124.0,
+        728.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_79",
+      "source": "ocr",
+      "class_label": "from: $4.89",
+      "bbox": [
+        1064.0,
+        732.0,
+        1137.0,
+        743.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_80",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        888.0,
+        82.0,
+        1034.0,
+        365.0
+      ],
+      "confidence": 0.9689,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_81",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        216.0,
+        672.0,
+        353.0,
+        749.0
+      ],
+      "confidence": 0.9677,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_82",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1059.91,
+        472.6,
+        1202.33,
+        672.05
+      ],
+      "confidence": 0.9649,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_83",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        891.77,
+        84.56,
+        1031.67,
+        283.14
+      ],
+      "confidence": 0.9627,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_84",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        723.64,
+        85.23,
+        861.3,
+        284.01
+      ],
+      "confidence": 0.9602,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_85",
+      "source": "ocr",
+      "class_label": "VIKTOR E.",
+      "bbox": [
+        220.0,
+        92.0,
+        349.0,
+        109.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_86",
+      "source": "ocr",
+      "class_label": "Viktor E. Frankl",
+      "bbox": [
+        219.0,
+        327.0,
+        306.0,
+        338.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_87",
+      "source": "ocr",
+      "class_label": "RICK RIO",
+      "bbox": [
+        1248.0,
+        482.0,
+        1311.0,
+        490.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_88",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        890.32,
+        473.0,
+        1034.54,
+        672.51
+      ],
+      "confidence": 0.9511,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_89",
+      "source": "ocr",
+      "class_label": "IN\nCABIN\n10-",
+      "bbox": [
+        560.0,
+        541.0,
+        652.0,
+        628.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_90",
+      "source": "ocr",
+      "class_label": "Kid",
+      "bbox": [
+        1066.0,
+        698.0,
+        1089.0,
+        710.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_91",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        721.72,
+        472.86,
+        862.51,
+        671.42
+      ],
+      "confidence": 0.9474,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_92",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        383.27,
+        85.05,
+        524.72,
+        283.48
+      ],
+      "confidence": 0.946,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_93",
+      "source": "ocr",
+      "class_label": "MAN'S",
+      "bbox": [
+        246.0,
+        155.0,
+        322.0,
+        174.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_94",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        888.0,
+        531.0,
+        1034.0,
+        754.0
+      ],
+      "confidence": 0.9304,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_95",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1233.3,
+        680.42,
+        1316.01,
+        744.47
+      ],
+      "confidence": 0.9276,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_96",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1229.29,
+        83.04,
+        1324.57,
+        285.56
+      ],
+      "confidence": 0.9187,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_97",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        218.57,
+        290.36,
+        343.64,
+        355.35
+      ],
+      "confidence": 0.9142,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_98",
+      "source": "ocr",
+      "class_label": "NARNIA",
+      "bbox": [
+        395.0,
+        91.0,
+        511.0,
+        113.0
+      ],
+      "confidence": 0.9,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_99",
+      "source": "ocr",
+      "class_label": "AND CAT kid",
+      "bbox": [
+        1095.0,
+        514.0,
+        1174.0,
+        527.0
+      ],
+      "confidence": 0.89,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_100",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        214.25,
+        85.79,
+        355.74,
+        282.59
+      ],
+      "confidence": 0.8822,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_101",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        552.41,
+        473.77,
+        694.02,
+        672.3
+      ],
+      "confidence": 0.8787,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_102",
+      "source": "ocr",
+      "class_label": "OF",
+      "bbox": [
+        597.0,
+        168.0,
+        652.0,
+        200.0
+      ],
+      "confidence": 0.87,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_103",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        551.11,
+        89.68,
+        693.9,
+        362.68
+      ],
+      "confidence": 0.8674,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_104",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        214.35,
+        472.24,
+        356.35,
+        670.51
+      ],
+      "confidence": 0.8637,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_105",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        925.0,
+        263.0,
+        987.0,
+        269.0
+      ],
+      "confidence": 0.8611,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_106",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        557.64,
+        291.32,
+        665.56,
+        302.53
+      ],
+      "confidence": 0.8534,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_107",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        727.97,
+        291.44,
+        845.25,
+        302.3
+      ],
+      "confidence": 0.8528,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_108",
+      "source": "ocr",
+      "class_label": "CS. LEWIS",
+      "bbox": [
+        418.0,
+        270.0,
+        488.0,
+        282.0
+      ],
+      "confidence": 0.84,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_109",
+      "source": "ocr",
+      "class_label": "ecret",
+      "bbox": [
+        255.0,
+        482.0,
+        297.0,
+        507.0
+      ],
+      "confidence": 0.84,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_110",
+      "source": "ocr",
+      "class_label": "Marcus Pfister",
+      "bbox": [
+        422.0,
+        478.0,
+        485.0,
+        490.0
+      ],
+      "confidence": 0.84,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_111",
+      "source": "ocr",
+      "class_label": "KHALED HOSSEINI",
+      "bbox": [
+        737.0,
+        265.0,
+        847.0,
+        274.0
+      ],
+      "confidence": 0.84,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_112",
+      "source": "ocr",
+      "class_label": "KE\nRUNNER",
+      "bbox": [
+        730.0,
+        111.0,
+        855.0,
+        198.0
+      ],
+      "confidence": 0.83,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_113",
+      "source": "ocr",
+      "class_label": "HOLES",
+      "bbox": [
+        1067.0,
+        131.0,
+        1195.0,
+        175.0
+      ],
+      "confidence": 0.83,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_114",
+      "source": "ocr",
+      "class_label": "The Lion, the Witch",
+      "bbox": [
+        417.0,
+        119.0,
+        489.0,
+        126.0
+      ],
+      "confidence": 0.82,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_115",
+      "source": "ocr",
+      "class_label": ">",
+      "bbox": [
+        1301.0,
+        187.0,
+        1314.0,
+        200.0
+      ],
+      "confidence": 0.82,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_116",
+      "source": "ocr",
+      "class_label": "The Chronic",
+      "bbox": [
+        422.0,
+        87.0,
+        462.0,
+        93.0
+      ],
+      "confidence": 0.8,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_117",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1282.69,
+        561.83,
+        1326.77,
+        608.76
+      ],
+      "confidence": 0.7918,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_118",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        725.85,
+        679.88,
+        847.08,
+        695.58
+      ],
+      "confidence": 0.7551,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_119",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        208.01,
+        23.47,
+        333.99,
+        44.35
+      ],
+      "confidence": 0.7516,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_120",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        205.2,
+        49.03,
+        572.14,
+        69.5
+      ],
+      "confidence": 0.6809,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_121",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1286.45,
+        174.49,
+        1327.47,
+        215.61
+      ],
+      "confidence": 0.6762,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_122",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        652.73,
+        473.46,
+        693.05,
+        503.83
+      ],
+      "confidence": 0.5817,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_123",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        556.04,
+        681.16,
+        664.76,
+        730.1
+      ],
+      "confidence": 0.5781,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_124",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        388.14,
+        342.24,
+        460.69,
+        355.46
+      ],
+      "confidence": 0.411,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_125",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        556.53,
+        731.07,
+        629.71,
+        743.76
+      ],
+      "confidence": 0.3026,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_126",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        723.96,
+        730.76,
+        799.12,
+        743.76
+      ],
+      "confidence": 0.2939,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_127",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        392.73,
+        731.01,
+        461.14,
+        742.38
+      ],
+      "confidence": 0.24,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_128",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1068.43,
+        327.07,
+        1137.35,
+        339.85
+      ],
+      "confidence": 0.2343,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_129",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        726.27,
+        715.53,
+        795.63,
+        726.52
+      ],
+      "confidence": 0.1401,
+      "cluster_size": 1
+    }
+  ]
+}

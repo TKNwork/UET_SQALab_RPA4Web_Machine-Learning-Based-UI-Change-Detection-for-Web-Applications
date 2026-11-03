@@ -1,0 +1,1360 @@
+{
+  "image": "202_gutenberg_org.png",
+  "total_elements": 104,
+  "total_raw_nodes": 126,
+  "total_raw_edges": 220,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1332.0,
+        192.0,
+        1335.0,
+        230.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        996.0,
+        227.0,
+        1107.0,
+        230.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1104.0,
+        128.0,
+        1107.0,
+        164.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1108.0,
+        121.0,
+        1111.0,
+        226.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        992.0,
+        121.0,
+        996.0,
+        228.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        844.0,
+        121.0,
+        848.0,
+        227.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        517.0,
+        10.0,
+        1019.0,
+        50.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        191.0,
+        0.0,
+        1536.0,
+        62.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Gutenberg",
+      "bbox": [
+        5.0,
+        63.0,
+        185.0,
+        102.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        495.87,
+        82.45,
+        677.04,
+        98.55
+      ],
+      "confidence": 0.958,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        718.18,
+        82.81,
+        841.93,
+        98.89
+      ],
+      "confidence": 0.9525,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "McVeigh Miller",
+      "bbox": [
+        103.0,
+        301.0,
+        193.0,
+        315.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        694.29,
+        251.06,
+        783.24,
+        312.18
+      ],
+      "confidence": 0.9516,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "The art of\nscansion by\nElizabeth\nBarrett",
+      "bbox": [
+        990.0,
+        251.0,
+        1064.0,
+        339.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1138.76,
+        250.23,
+        1237.81,
+        311.94
+      ],
+      "confidence": 0.9683,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "by Eino Leino",
+      "bbox": [
+        1287.0,
+        276.0,
+        1370.0,
+        290.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        803.73,
+        457.66,
+        1081.22,
+        486.47
+      ],
+      "confidence": 0.9649,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_17",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        784.43,
+        423.8,
+        1459.64,
+        823.35
+      ],
+      "confidence": 0.9834,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        102.85,
+        119.46,
+        224.03,
+        231.44
+      ],
+      "confidence": 0.9756,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "Project",
+      "bbox": [
+        7.0,
+        22.0,
+        133.0,
+        59.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        534.8,
+        23.24,
+        617.83,
+        34.54
+      ],
+      "confidence": 0.9138,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_21",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        882.15,
+        82.72,
+        986.85,
+        98.33
+      ],
+      "confidence": 0.9448,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_22",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1028.13,
+        83.68,
+        1146.6,
+        99.14
+      ],
+      "confidence": 0.9322,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_23",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1331.03,
+        23.76,
+        1383.1,
+        37.19
+      ],
+      "confidence": 0.8899,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_24",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1437.99,
+        23.61,
+        1492.97,
+        36.59
+      ],
+      "confidence": 0.9469,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_25",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        249.18,
+        249.79,
+        334.03,
+        312.02
+      ],
+      "confidence": 0.9723,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_26",
+      "source": "ocr",
+      "class_label": "Yellow gentians",
+      "bbox": [
+        399.0,
+        249.0,
+        494.0,
+        264.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "ocr",
+      "class_label": "and blue by",
+      "bbox": [
+        399.0,
+        275.0,
+        471.0,
+        290.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "ocr",
+      "class_label": "1, October",
+      "bbox": [
+        547.0,
+        275.0,
+        610.0,
+        288.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "ocr",
+      "class_label": "Zona Gale",
+      "bbox": [
+        399.0,
+        302.0,
+        464.0,
+        312.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        842.02,
+        250.21,
+        936.75,
+        314.31
+      ],
+      "confidence": 0.9694,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_31",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        98.68,
+        458.55,
+        364.67,
+        480.39
+      ],
+      "confidence": 0.9628,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_32",
+      "source": "ocr",
+      "class_label": "Frequently Downloaded: Top 100, or ranked by popularity.",
+      "bbox": [
+        102.0,
+        520.0,
+        513.0,
+        536.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "ocr",
+      "class_label": "Main Categories. The ones you'd find in any large bookstore.",
+      "bbox": [
+        102.0,
+        569.0,
+        535.0,
+        584.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "ocr",
+      "class_label": "Visit self.gutenberg.org for self-published eBooks at the World Library Foundation.",
+      "bbox": [
+        101.0,
+        712.0,
+        685.0,
+        728.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        805.83,
+        759.86,
+        1250.75,
+        775.29
+      ],
+      "confidence": 0.8385,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_36",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1287.1,
+        119.38,
+        1408.64,
+        230.85
+      ],
+      "confidence": 0.9592,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_37",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        696.43,
+        121.02,
+        816.14,
+        230.92
+      ],
+      "confidence": 0.9781,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        991.26,
+        119.42,
+        1110.86,
+        230.88
+      ],
+      "confidence": 0.9724,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_39",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        75.89,
+        423.8,
+        750.75,
+        820.57
+      ],
+      "confidence": 0.9775,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        843.62,
+        119.42,
+        963.32,
+        231.11
+      ],
+      "confidence": 0.9755,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_41",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1139.16,
+        119.02,
+        1260.4,
+        231.1
+      ],
+      "confidence": 0.9704,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_42",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        547.16,
+        121.16,
+        665.48,
+        231.01
+      ],
+      "confidence": 0.9755,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        399.24,
+        120.32,
+        516.76,
+        230.29
+      ],
+      "confidence": 0.9739,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        397.83,
+        250.33,
+        493.87,
+        311.86
+      ],
+      "confidence": 0.9722,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "ocr",
+      "class_label": "Douglas Hyde with English\ntranslation by Lady Gregory\nand Articles by George Moore\nand by Edward \"Martyn\nPublished in October 1901\nby Sealy Bryers & Walker\nin Dublin and by T. Fisher\nUnwin in London and sold\nat Sixpence",
+      "bbox": [
+        551.0,
+        124.0,
+        664.0,
+        207.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "ocr",
+      "class_label": "Samhain, Issue",
+      "bbox": [
+        547.0,
+        251.0,
+        642.0,
+        262.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "ocr",
+      "class_label": "1901 by Yeats,",
+      "bbox": [
+        547.0,
+        302.0,
+        637.0,
+        315.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "ocr",
+      "class_label": "Naamioita VI",
+      "bbox": [
+        1287.0,
+        251.0,
+        1365.0,
+        262.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "ocr",
+      "class_label": "Reading Lists. Hand-curated by volunteers.",
+      "bbox": [
+        101.0,
+        617.0,
+        410.0,
+        632.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "ocr",
+      "class_label": "Search Options. By author, title, subject, language, type, popularity, and more.",
+      "bbox": [
+        101.0,
+        665.0,
+        657.0,
+        680.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        818.38,
+        520.49,
+        1204.98,
+        535.97
+      ],
+      "confidence": 0.9215,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_52",
+      "source": "ocr",
+      "class_label": "✓ No Apps Required - only regular Web browsers or eBook readers needed",
+      "bbox": [
+        807.0,
+        568.0,
+        1354.0,
+        584.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_53",
+      "source": "ocr",
+      "class_label": "✓ Volunteer-based - hundreds of volunteers have contributed over the years",
+      "bbox": [
+        807.0,
+        665.0,
+        1358.0,
+        680.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_54",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1413.0,
+        10.63,
+        1516.29,
+        50.06
+      ],
+      "confidence": 0.8743,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_55",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        250.33,
+        119.65,
+        372.1,
+        230.38
+      ],
+      "confidence": 0.9551,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_56",
+      "source": "ocr",
+      "class_label": "Go!",
+      "bbox": [
+        965.0,
+        23.0,
+        993.0,
+        36.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_57",
+      "source": "ocr",
+      "class_label": "Nina's peril by",
+      "bbox": [
+        103.0,
+        250.0,
+        190.0,
+        263.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_58",
+      "source": "ocr",
+      "class_label": "✓ 50+ Years - Pioneering free eBooks since 1971",
+      "bbox": [
+        807.0,
+        616.0,
+        1163.0,
+        632.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_59",
+      "source": "ocr",
+      "class_label": "✓ Read about our late CEO, Dr. Greg Newby.",
+      "bbox": [
+        807.0,
+        712.0,
+        1139.0,
+        728.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_60",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        989.65,
+        249.15,
+        1061.92,
+        358.9
+      ],
+      "confidence": 0.9599,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_61",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1286.72,
+        249.85,
+        1370.11,
+        290.6
+      ],
+      "confidence": 0.9569,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_62",
+      "source": "ocr",
+      "class_label": "Mrs. Alex.",
+      "bbox": [
+        103.0,
+        277.0,
+        162.0,
+        288.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_63",
+      "source": "ocr",
+      "class_label": "Project Gutenberg",
+      "bbox": [
+        1346.0,
+        215.0,
+        1403.0,
+        226.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_64",
+      "source": "ocr",
+      "class_label": "Hyde, Martyn,\nMoore and",
+      "bbox": [
+        547.0,
+        328.0,
+        632.0,
+        362.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_65",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        102.26,
+        249.85,
+        191.54,
+        314.45
+      ],
+      "confidence": 0.9368,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_66",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        6.09,
+        2.67,
+        843.9,
+        826.0
+      ],
+      "confidence": 0.9298,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_67",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        136.77,
+        711.95,
+        266.71,
+        727.52
+      ],
+      "confidence": 0.9152,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_68",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1311.97,
+        17.32,
+        1398.59,
+        42.52
+      ],
+      "confidence": 0.9092,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_69",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        101.45,
+        568.18,
+        220.44,
+        583.68
+      ],
+      "confidence": 0.9087,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_70",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        819.11,
+        567.25,
+        966.21,
+        583.81
+      ],
+      "confidence": 0.9079,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_71",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        68.1,
+        63.23,
+        793.12,
+        369.0
+      ],
+      "confidence": 0.8957,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_72",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        101.58,
+        520.55,
+        272.96,
+        535.55
+      ],
+      "confidence": 0.895,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_73",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        101.27,
+        664.26,
+        214.41,
+        679.59
+      ],
+      "confidence": 0.8882,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_74",
+      "source": "ocr",
+      "class_label": "About ▼",
+      "bbox": [
+        388.0,
+        84.0,
+        454.0,
+        96.0
+      ],
+      "confidence": 0.88,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_75",
+      "source": "ocr",
+      "class_label": "k\nE",
+      "bbox": [
+        1435.0,
+        278.0,
+        1445.0,
+        313.0
+      ],
+      "confidence": 0.88,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_76",
+      "source": "ocr",
+      "class_label": "Browning",
+      "bbox": [
+        991.0,
+        352.0,
+        1046.0,
+        362.0
+      ],
+      "confidence": 0.88,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_77",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        389.04,
+        83.98,
+        438.12,
+        95.93
+      ],
+      "confidence": 0.8662,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_78",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1434.0,
+        118.0,
+        1445.0,
+        232.0
+      ],
+      "confidence": 0.8636,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_79",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1083.77,
+        616.57,
+        1163.44,
+        631.01
+      ],
+      "confidence": 0.862,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_80",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        824.0,
+        711.0,
+        1010.0,
+        729.0
+      ],
+      "confidence": 0.8611,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_81",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        101.73,
+        616.19,
+        201.24,
+        631.69
+      ],
+      "confidence": 0.8572,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_82",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        545.55,
+        266.39,
+        638.36,
+        359.89
+      ],
+      "confidence": 0.8346,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_83",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        220.64,
+        567.79,
+        533.31,
+        584.34
+      ],
+      "confidence": 0.8306,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_84",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        824.4,
+        712.23,
+        1005.81,
+        727.2
+      ],
+      "confidence": 0.7964,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_85",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        966.46,
+        22.82,
+        995.0,
+        35.52
+      ],
+      "confidence": 0.7899,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_86",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        214.18,
+        662.94,
+        653.32,
+        680.12
+      ],
+      "confidence": 0.7445,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_87",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1433.81,
+        253.08,
+        1444.01,
+        311.46
+      ],
+      "confidence": 0.7444,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_88",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        942.98,
+        11.45,
+        1019.55,
+        48.52
+      ],
+      "confidence": 0.6978,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_89",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        820.68,
+        615.7,
+        1090.0,
+        632.18
+      ],
+      "confidence": 0.5886,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_90",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1219.0,
+        760.55,
+        1270.27,
+        774.86
+      ],
+      "confidence": 0.5856,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_91",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        207.04,
+        615.88,
+        408.89,
+        631.9
+      ],
+      "confidence": 0.5836,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_92",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1014.03,
+        712.12,
+        1135.69,
+        727.6
+      ],
+      "confidence": 0.5571,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_93",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        807.77,
+        713.37,
+        819.01,
+        725.59
+      ],
+      "confidence": 0.5339,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_94",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        813.48,
+        664.16,
+        1377.05,
+        677.64
+      ],
+      "confidence": 0.5266,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_95",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        807.51,
+        664.92,
+        819.13,
+        676.96
+      ],
+      "confidence": 0.5216,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_96",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        807.49,
+        617.21,
+        818.61,
+        629.15
+      ],
+      "confidence": 0.4725,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_97",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        807.51,
+        569.23,
+        818.94,
+        581.34
+      ],
+      "confidence": 0.3549,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_98",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        444.76,
+        85.67,
+        453.37,
+        93.28
+      ],
+      "confidence": 0.3297,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_99",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        807.92,
+        521.44,
+        818.66,
+        533.24
+      ],
+      "confidence": 0.3226,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_100",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1435.28,
+        126.14,
+        1444.54,
+        233.84
+      ],
+      "confidence": 0.2486,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_101",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1434.83,
+        250.65,
+        1443.28,
+        262.61
+      ],
+      "confidence": 0.1609,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_102",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        721.24,
+        124.66,
+        788.52,
+        139.28
+      ],
+      "confidence": 0.1602,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_103",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1164.44,
+        119.88,
+        1232.5,
+        128.21
+      ],
+      "confidence": 0.1322,
+      "cluster_size": 1
+    }
+  ]
+}

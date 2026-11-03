@@ -1,0 +1,775 @@
+{
+  "image": "097_kenh14_vn.png",
+  "total_elements": 59,
+  "total_raw_nodes": 64,
+  "total_raw_edges": 49,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        509.0,
+        674.0,
+        549.0,
+        677.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        499.0,
+        580.0,
+        566.0,
+        584.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        134.0,
+        1536.0,
+        137.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        94.0,
+        1536.0,
+        97.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        736.0,
+        45.0,
+        1076.0,
+        71.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        23.0,
+        1536.0,
+        26.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        249.98,
+        33.41,
+        299.69,
+        47.04
+      ],
+      "confidence": 0.8714,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "14",
+      "bbox": [
+        257.0,
+        53.0,
+        292.0,
+        76.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        523.28,
+        52.18,
+        707.14,
+        66.21
+      ],
+      "confidence": 0.9587,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        751.14,
+        51.68,
+        1062.91,
+        66.53
+      ],
+      "confidence": 0.9421,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "STAR",
+      "bbox": [
+        248.0,
+        514.0,
+        282.0,
+        523.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "HỘI BẠN THÂN SHOWBIZ TV SHOW",
+      "bbox": [
+        393.0,
+        510.0,
+        641.0,
+        528.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "MUSIK",
+      "bbox": [
+        664.0,
+        514.0,
+        708.0,
+        524.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "Galaxy A57 A37 5G\nBắt Vibe Awesome cực nét",
+      "bbox": [
+        832.0,
+        295.0,
+        1237.0,
+        387.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "SAO VIỆT",
+      "bbox": [
+        307.0,
+        509.0,
+        366.0,
+        527.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "Hôm nay là ngày đặc biệt\ncủa Lọ Lem, MC Quyền\nLinh đã nói điều gì với...",
+      "bbox": [
+        769.0,
+        688.0,
+        936.0,
+        741.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        766.0,
+        566.0,
+        950.0,
+        682.0
+      ],
+      "confidence": 0.9754,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "Ăn Star Ciné Musik Beauty & Fashion Đời sống Money-Z Ăn-Quẩy - Đi Xã hội Sức khỏe Tek-life Học đường Xem Mua Luôn Video",
+      "bbox": [
+        265.0,
+        105.0,
+        1207.0,
+        125.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "Galaxy A57 A37 5G\nBắt vibe Awesome Cực Nét",
+      "bbox": [
+        1017.0,
+        651.0,
+        1259.0,
+        706.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        272.38,
+        161.07,
+        449.75,
+        186.59
+      ],
+      "confidence": 0.9173,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "HIEUTHUHAI",
+      "bbox": [
+        670.0,
+        458.0,
+        720.0,
+        467.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "SAMSUNG",
+      "bbox": [
+        1151.0,
+        589.0,
+        1271.0,
+        606.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "SAMSUNG",
+      "bbox": [
+        1442.0,
+        758.0,
+        1487.0,
+        779.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "ocr",
+      "class_label": "TRANG THÔNG TIN ĐIỆN TỬ TỔNG HỢP",
+      "bbox": [
+        313.0,
+        69.0,
+        411.0,
+        78.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "ocr",
+      "class_label": "Tìm kiếm...",
+      "bbox": [
+        1116.0,
+        4.0,
+        1163.0,
+        17.0
+      ],
+      "confidence": 0.93,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "ocr",
+      "class_label": "+ EMAGAZINE",
+      "bbox": [
+        256.0,
+        4.0,
+        328.0,
+        17.0
+      ],
+      "confidence": 0.92,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        311.39,
+        47.93,
+        415.12,
+        64.04
+      ],
+      "confidence": 0.9092,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_27",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        888.83,
+        352.09,
+        1115.65,
+        376.31
+      ],
+      "confidence": 0.9117,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "ocr",
+      "class_label": "* GENZ AREA ⭑SHOWLIVE",
+      "bbox": [
+        349.0,
+        5.0,
+        509.0,
+        17.0
+      ],
+      "confidence": 0.91,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "ocr",
+      "class_label": "SAMSUNG",
+      "bbox": [
+        144.0,
+        758.0,
+        190.0,
+        779.0
+      ],
+      "confidence": 0.91,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        0.07,
+        134.49,
+        980.35,
+        826.0
+      ],
+      "confidence": 0.9089,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        249.0,
+        544.0,
+        281.0,
+        547.0
+      ],
+      "confidence": 0.8889,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        311.0,
+        69.0,
+        416.0,
+        79.0
+      ],
+      "confidence": 0.875,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "ocr",
+      "class_label": "Awesome",
+      "bbox": [
+        1003.0,
+        721.0,
+        1268.0,
+        793.0
+      ],
+      "confidence": 0.87,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        256.27,
+        8.09,
+        330.87,
+        16.29
+      ],
+      "confidence": 0.8485,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "ocr",
+      "class_label": "Some",
+      "bbox": [
+        699.0,
+        191.0,
+        926.0,
+        297.0
+      ],
+      "confidence": 0.81,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        551.78,
+        107.51,
+        678.45,
+        123.79
+      ],
+      "confidence": 0.8087,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1182.08,
+        274.46,
+        1236.02,
+        293.54
+      ],
+      "confidence": 0.806,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        359.67,
+        7.6,
+        420.95,
+        17.31
+      ],
+      "confidence": 0.7814,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        427.2,
+        108.2,
+        539.89,
+        123.31
+      ],
+      "confidence": 0.7787,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        441.95,
+        7.74,
+        511.18,
+        16.89
+      ],
+      "confidence": 0.7579,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        392.69,
+        510.85,
+        556.89,
+        527.48
+      ],
+      "confidence": 0.7263,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        250.6,
+        47.39,
+        297.07,
+        88.24
+      ],
+      "confidence": 0.6852,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        579.95,
+        512.73,
+        644.47,
+        523.63
+      ],
+      "confidence": 0.6596,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        663.87,
+        512.71,
+        709.43,
+        523.39
+      ],
+      "confidence": 0.6268,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        879.96,
+        210.2,
+        919.26,
+        247.87
+      ],
+      "confidence": 0.5876,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        509.52,
+        38.64,
+        724.03,
+        75.06
+      ],
+      "confidence": 0.5357,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1113.34,
+        6.52,
+        1157.51,
+        14.54
+      ],
+      "confidence": 0.5302,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        312.02,
+        70.18,
+        414.32,
+        79.01
+      ],
+      "confidence": 0.4829,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        477.52,
+        52.87,
+        498.47,
+        66.18
+      ],
+      "confidence": 0.482,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        247.17,
+        513.48,
+        284.05,
+        523.74
+      ],
+      "confidence": 0.4645,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        264.09,
+        108.69,
+        278.04,
+        120.56
+      ],
+      "confidence": 0.4365,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        294.28,
+        110.2,
+        321.23,
+        120.48
+      ],
+      "confidence": 0.36,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_53",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        843.55,
+        108.36,
+        904.5,
+        121.04
+      ],
+      "confidence": 0.2727,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_54",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        373.9,
+        108.91,
+        414.41,
+        120.53
+      ],
+      "confidence": 0.2252,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_55",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1222.35,
+        112.25,
+        1247.01,
+        117.27
+      ],
+      "confidence": 0.1836,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_56",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        328.72,
+        109.09,
+        415.31,
+        120.46
+      ],
+      "confidence": 0.1684,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_57",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        917.73,
+        108.45,
+        964.38,
+        121.6
+      ],
+      "confidence": 0.1099,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_58",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        332.74,
+        109.36,
+        380.38,
+        120.28
+      ],
+      "confidence": 0.1021,
+      "cluster_size": 1
+    }
+  ]
+}

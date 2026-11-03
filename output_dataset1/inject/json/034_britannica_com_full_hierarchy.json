@@ -1,0 +1,710 @@
+{
+  "image": "034_britannica_com.png",
+  "total_elements": 54,
+  "total_raw_nodes": 67,
+  "total_raw_edges": 48,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        52.0,
+        1536.0,
+        55.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        590.05,
+        338.89,
+        945.03,
+        536.62
+      ],
+      "confidence": 0.9787,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_2",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        590.88,
+        119.7,
+        944.68,
+        319.04
+      ],
+      "confidence": 0.9752,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "Britannica",
+      "bbox": [
+        176.0,
+        16.0,
+        322.0,
+        40.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        217.91,
+        81.04,
+        320.11,
+        98.83
+      ],
+      "confidence": 0.9466,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "SUBSCRIBE",
+      "bbox": [
+        1248.0,
+        22.0,
+        1318.0,
+        33.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "Jellyfish",
+      "bbox": [
+        231.0,
+        287.0,
+        293.0,
+        301.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Baobab Trees",
+      "bbox": [
+        607.0,
+        286.0,
+        708.0,
+        299.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        232.45,
+        505.14,
+        340.54,
+        522.52
+      ],
+      "confidence": 0.9124,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "Featured Categories",
+      "bbox": [
+        218.0,
+        580.0,
+        453.0,
+        605.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        217.97,
+        627.47,
+        329.61,
+        642.01
+      ],
+      "confidence": 0.8155,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "Turtles",
+      "bbox": [
+        606.0,
+        506.0,
+        657.0,
+        518.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "Sharks",
+      "bbox": [
+        979.0,
+        506.0,
+        1030.0,
+        518.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "Mammals",
+      "bbox": [
+        965.0,
+        628.0,
+        1061.0,
+        644.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "It's easy to understand why people",
+      "bbox": [
+        1079.0,
+        811.0,
+        1292.0,
+        825.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        964.52,
+        119.82,
+        1318.86,
+        319.12
+      ],
+      "confidence": 0.9709,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_16",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        963.25,
+        338.83,
+        1317.67,
+        536.68
+      ],
+      "confidence": 0.9829,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_17",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        218.53,
+        119.8,
+        571.75,
+        319.58
+      ],
+      "confidence": 0.9783,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_18",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        217.21,
+        338.19,
+        572.31,
+        536.57
+      ],
+      "confidence": 0.981,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_19",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        623.53,
+        21.63,
+        756.33,
+        34.62
+      ],
+      "confidence": 0.923,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "It's a widespread belief: If sharks\nstop swimming, they die. But is th...",
+      "bbox": [
+        332.0,
+        707.0,
+        553.0,
+        744.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "A Dose of Dolphin-Induced\nDopamine: 8 Species of\nAdorable Cetacean",
+      "bbox": [
+        332.0,
+        769.0,
+        531.0,
+        820.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        591.7,
+        627.68,
+        653.73,
+        642.68
+      ],
+      "confidence": 0.7951,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_23",
+      "source": "ocr",
+      "class_label": "Botanical Sex: 9 Alluring\nAdaptations",
+      "bbox": [
+        706.0,
+        664.0,
+        882.0,
+        701.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "ocr",
+      "class_label": "Yes, many plants use the birds and\nthe bees to move pollen from one...",
+      "bbox": [
+        705.0,
+        706.0,
+        923.0,
+        743.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "ocr",
+      "class_label": "Do Plants Emit Oxygen and\nCarbon Dioxide at Night?\nPhotosynthesis is the process by",
+      "bbox": [
+        706.0,
+        769.0,
+        906.0,
+        825.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "ocr",
+      "class_label": "7 Questions About Mammals\nAnswered",
+      "bbox": [
+        1079.0,
+        666.0,
+        1290.0,
+        698.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "ocr",
+      "class_label": "Mammals can do amazing things!\nThis list will answer your question...",
+      "bbox": [
+        1079.0,
+        707.0,
+        1303.0,
+        743.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "ocr",
+      "class_label": "What's the Difference Between\nBison and Buffalo?",
+      "bbox": [
+        1079.0,
+        769.0,
+        1302.0,
+        804.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        218.62,
+        662.31,
+        318.2,
+        737.85
+      ],
+      "confidence": 0.9314,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_30",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        590.0,
+        661.0,
+        692.0,
+        738.0
+      ],
+      "confidence": 0.9754,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        965.07,
+        661.69,
+        1064.82,
+        737.58
+      ],
+      "confidence": 0.8396,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_32",
+      "source": "ocr",
+      "class_label": "Do Sharks Really Die if They\nStop Swimming?",
+      "bbox": [
+        333.0,
+        664.0,
+        537.0,
+        701.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "ocr",
+      "class_label": "Lions",
+      "bbox": [
+        980.0,
+        285.0,
+        1018.0,
+        298.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        607.0,
+        6.0,
+        929.0,
+        47.0
+      ],
+      "confidence": 0.9575,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        218.23,
+        583.68,
+        455.88,
+        606.96
+      ],
+      "confidence": 0.9516,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        139.0,
+        11.0,
+        170.0,
+        42.0
+      ],
+      "confidence": 0.9251,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        332.25,
+        664.05,
+        553.45,
+        742.55
+      ],
+      "confidence": 0.9017,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1247.55,
+        21.42,
+        1321.52,
+        31.77
+      ],
+      "confidence": 0.8752,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "ocr",
+      "class_label": "Login ▾",
+      "bbox": [
+        1361.0,
+        19.0,
+        1417.0,
+        36.0
+      ],
+      "confidence": 0.87,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        604.33,
+        506.09,
+        658.83,
+        520.49
+      ],
+      "confidence": 0.8631,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        978.32,
+        506.33,
+        1031.89,
+        523.0
+      ],
+      "confidence": 0.8618,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        233.34,
+        284.66,
+        294.36,
+        301.8
+      ],
+      "confidence": 0.8276,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        605.64,
+        284.19,
+        708.11,
+        299.8
+      ],
+      "confidence": 0.8193,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        963.89,
+        765.62,
+        1064.73,
+        826.0
+      ],
+      "confidence": 0.7899,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        156.72,
+        15.49,
+        324.34,
+        40.79
+      ],
+      "confidence": 0.6361,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        979.33,
+        286.02,
+        1020.29,
+        298.68
+      ],
+      "confidence": 0.6008,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1363.31,
+        21.02,
+        1397.79,
+        35.49
+      ],
+      "confidence": 0.597,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        893.78,
+        14.92,
+        915.16,
+        35.56
+      ],
+      "confidence": 0.3266,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        98.47,
+        19.19,
+        117.88,
+        31.81
+      ],
+      "confidence": 0.2839,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1405.87,
+        23.21,
+        1416.2,
+        31.89
+      ],
+      "confidence": 0.2647,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        140.8,
+        13.17,
+        167.37,
+        40.46
+      ],
+      "confidence": 0.225,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        894.43,
+        13.41,
+        917.0,
+        35.77
+      ],
+      "confidence": 0.2221,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_53",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        895.15,
+        9.35,
+        919.83,
+        43.54
+      ],
+      "confidence": 0.1854,
+      "cluster_size": 1
+    }
+  ]
+}

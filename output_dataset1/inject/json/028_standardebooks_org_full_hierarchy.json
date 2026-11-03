@@ -1,0 +1,177 @@
+{
+  "image": "028_standardebooks_org.png",
+  "total_elements": 13,
+  "total_raw_nodes": 21,
+  "total_raw_edges": 19,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        326.0,
+        821.0,
+        1210.0,
+        826.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "ocr",
+      "class_label": "Fractured Atlas, a 501(c)(3) public charity, is our fiscal sponsor. Your donation will be processed\nthrough their website, and their name will appear on your financial statements and receipts.\nDonations are tax-deductible to the extent permitted by law.",
+      "bbox": [
+        327.0,
+        10.0,
+        1208.0,
+        88.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        616.3,
+        163.87,
+        918.26,
+        182.29
+      ],
+      "confidence": 0.9722,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_3",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        625.31,
+        278.48,
+        909.12,
+        303.81
+      ],
+      "confidence": 0.9751,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        578.73,
+        396.71,
+        956.95,
+        416.41
+      ],
+      "confidence": 0.969,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        326.59,
+        536.47,
+        776.17,
+        562.81
+      ],
+      "confidence": 0.9648,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        322.92,
+        595.04,
+        1206.77,
+        674.3
+      ],
+      "confidence": 0.9715,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        527.8,
+        135.81,
+        1009.96,
+        210.98
+      ],
+      "confidence": 0.9857,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        527.82,
+        251.96,
+        1009.82,
+        327.77
+      ],
+      "confidence": 0.9854,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        527.81,
+        369.19,
+        1009.88,
+        444.84
+      ],
+      "confidence": 0.9852,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "Membership in the Patrons Circle is limited to individuals only. Organizations, please see corporate\nsponsorship instead.",
+      "bbox": [
+        327.0,
+        699.0,
+        1209.0,
+        754.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        327.12,
+        10.81,
+        472.13,
+        30.61
+      ],
+      "confidence": 0.9331,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1120.8,
+        707.73,
+        1207.88,
+        724.85
+      ],
+      "confidence": 0.6027,
+      "cluster_size": 1
+    }
+  ]
+}

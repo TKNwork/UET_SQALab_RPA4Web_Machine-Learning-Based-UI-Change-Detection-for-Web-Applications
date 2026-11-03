@@ -1,0 +1,749 @@
+{
+  "image": "267_open-meteo_com.png",
+  "total_elements": 57,
+  "total_raw_nodes": 66,
+  "total_raw_edges": 41,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "ocr",
+      "class_label": "Subscribe to our open-source API service and be a part of a thriving community that promotes development, innovation, and\ncollaboration. By joining us, you contribute to the ongoing maintenance and enhancement of our service, ensuring its",
+      "bbox": [
+        296.0,
+        155.0,
+        1239.0,
+        201.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "ocr",
+      "class_label": "By subscribing, you directly support the continuous development of our service, enabling us to invest in cutting-edge technologies and\nexpand our data sources. Together, we can push the boundaries of weather prediction, drive advancements in various industries, and\nmake a positive impact on the world.",
+      "bbox": [
+        293.0,
+        334.0,
+        1243.0,
+        397.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        317.93,
+        417.81,
+        1234.92,
+        458.48
+      ],
+      "confidence": 0.9195,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_3",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        795.62,
+        489.0,
+        853.78,
+        503.25
+      ],
+      "confidence": 0.9492,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        48.74,
+        674.97,
+        108.21,
+        687.04
+      ],
+      "confidence": 0.8067,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "Licence",
+      "bbox": [
+        48.0,
+        759.0,
+        99.0,
+        770.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        48.7,
+        784.23,
+        162.14,
+        800.92
+      ],
+      "confidence": 0.9535,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        452.8,
+        673.86,
+        605.34,
+        686.75
+      ],
+      "confidence": 0.8393,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Elevation API",
+      "bbox": [
+        900.0,
+        814.0,
+        992.0,
+        825.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "External",
+      "bbox": [
+        1307.0,
+        640.0,
+        1377.0,
+        653.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "GitHub",
+      "bbox": [
+        1307.0,
+        730.0,
+        1358.0,
+        743.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "Mastodon",
+      "bbox": [
+        1307.0,
+        759.0,
+        1379.0,
+        770.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "Service status and uptime",
+      "bbox": [
+        1306.0,
+        784.0,
+        1487.0,
+        800.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "Unlock the Power of Open-Source Weather",
+      "bbox": [
+        335.0,
+        46.0,
+        1202.0,
+        88.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "availability for everyone.",
+      "bbox": [
+        677.0,
+        209.0,
+        859.0,
+        230.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "With access to comprehensive open-data weather forecasts, you can fuel your projects, research endeavors, and educational initiatives\nwith accurate and reliable information. Our commitment to an open-source ecosystem allows you to explore, modify, and build upon\nour API, fostering endless possibilities and empowering your creativity.",
+      "bbox": [
+        294.0,
+        250.0,
+        1240.0,
+        314.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "Open-Meteo",
+      "bbox": [
+        47.0,
+        641.0,
+        155.0,
+        656.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "Pricing",
+      "bbox": [
+        47.0,
+        700.0,
+        94.0,
+        717.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        46.67,
+        729.81,
+        188.86,
+        742.12
+      ],
+      "confidence": 0.9245,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "Historical Weather API\nECMWF API",
+      "bbox": [
+        454.0,
+        702.0,
+        611.0,
+        742.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        453.71,
+        758.5,
+        634.32,
+        770.91
+      ],
+      "confidence": 0.8601,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "Other APIs\nEnsemble API\nClimate Change API\nMarine Weather API",
+      "bbox": [
+        900.0,
+        640.0,
+        1041.0,
+        742.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "Air Quality API\nGeocoding API",
+      "bbox": [
+        899.0,
+        757.0,
+        1005.0,
+        802.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        332.96,
+        43.07,
+        1216.89,
+        129.6
+      ],
+      "confidence": 0.9778,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "ocr",
+      "class_label": "Météo-France API",
+      "bbox": [
+        454.0,
+        786.0,
+        581.0,
+        798.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "ocr",
+      "class_label": "Model Updates Overview",
+      "bbox": [
+        1307.0,
+        814.0,
+        1485.0,
+        825.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        312.23,
+        153.66,
+        1240.77,
+        230.08
+      ],
+      "confidence": 0.965,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "ocr",
+      "class_label": "Data!",
+      "bbox": [
+        715.0,
+        95.0,
+        821.0,
+        125.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        664.91,
+        474.78,
+        762.61,
+        516.25
+      ],
+      "confidence": 0.9557,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_29",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        777.61,
+        475.1,
+        871.08,
+        515.81
+      ],
+      "confidence": 0.9442,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "ocr",
+      "class_label": "API Plans",
+      "bbox": [
+        681.0,
+        490.0,
+        747.0,
+        502.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        453.21,
+        639.28,
+        568.79,
+        653.09
+      ],
+      "confidence": 0.9254,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_32",
+      "source": "ocr",
+      "class_label": "DWD ICON API",
+      "bbox": [
+        454.0,
+        815.0,
+        562.0,
+        825.0
+      ],
+      "confidence": 0.93,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        899.19,
+        757.04,
+        1002.46,
+        774.14
+      ],
+      "confidence": 0.9219,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        47.38,
+        639.31,
+        156.12,
+        657.78
+      ],
+      "confidence": 0.9216,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        900.22,
+        674.23,
+        993.62,
+        686.5
+      ],
+      "confidence": 0.9203,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        900.16,
+        729.41,
+        1040.73,
+        742.17
+      ],
+      "confidence": 0.9201,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        899.55,
+        638.91,
+        992.78,
+        653.39
+      ],
+      "confidence": 0.9181,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1307.73,
+        638.45,
+        1375.69,
+        653.59
+      ],
+      "confidence": 0.9175,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1306.24,
+        728.54,
+        1358.38,
+        741.72
+      ],
+      "confidence": 0.9156,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        898.95,
+        784.36,
+        1004.51,
+        802.78
+      ],
+      "confidence": 0.902,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        898.0,
+        813.12,
+        991.72,
+        826.0
+      ],
+      "confidence": 0.8917,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "ocr",
+      "class_label": "Blag",
+      "bbox": [
+        1306.0,
+        703.0,
+        1337.0,
+        716.0
+      ],
+      "confidence": 0.89,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        680.2,
+        488.65,
+        745.11,
+        503.06
+      ],
+      "confidence": 0.8874,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        900.02,
+        700.79,
+        1039.29,
+        717.28
+      ],
+      "confidence": 0.8793,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1306.73,
+        757.44,
+        1378.76,
+        771.83
+      ],
+      "confidence": 0.8744,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        454.16,
+        813.73,
+        558.7,
+        825.39
+      ],
+      "confidence": 0.8736,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        47.36,
+        757.83,
+        100.33,
+        771.19
+      ],
+      "confidence": 0.8532,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1306.22,
+        784.48,
+        1487.24,
+        802.31
+      ],
+      "confidence": 0.851,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1305.69,
+        673.99,
+        1318.12,
+        687.14
+      ],
+      "confidence": 0.849,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1305.56,
+        813.0,
+        1487.21,
+        826.0
+      ],
+      "confidence": 0.8213,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        453.64,
+        729.7,
+        535.39,
+        741.49
+      ],
+      "confidence": 0.805,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        453.64,
+        701.15,
+        611.23,
+        713.71
+      ],
+      "confidence": 0.793,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_53",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        455.76,
+        784.85,
+        584.85,
+        796.88
+      ],
+      "confidence": 0.7505,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_54",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1306.81,
+        701.18,
+        1338.97,
+        717.8
+      ],
+      "confidence": 0.6832,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_55",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        47.73,
+        674.46,
+        108.11,
+        703.07
+      ],
+      "confidence": 0.6359,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_56",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        48.22,
+        700.91,
+        100.53,
+        716.95
+      ],
+      "confidence": 0.3774,
+      "cluster_size": 1
+    }
+  ]
+}

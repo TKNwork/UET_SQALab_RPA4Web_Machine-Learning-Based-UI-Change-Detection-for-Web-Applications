@@ -1,0 +1,736 @@
+{
+  "image": "390_academia_edu.png",
+  "total_elements": 56,
+  "total_raw_nodes": 76,
+  "total_raw_edges": 41,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1211.0,
+        288.0,
+        1338.0,
+        295.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1223.0,
+        178.0,
+        1227.0,
+        245.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1177.0,
+        362.0,
+        1464.0,
+        386.0
+      ],
+      "confidence": 0.9965,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "Download",
+      "bbox": [
+        156.0,
+        8.0,
+        319.0,
+        34.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "Registered Users",
+      "bbox": [
+        553.0,
+        33.0,
+        687.0,
+        51.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        551.87,
+        95.93,
+        688.2,
+        114.96
+      ],
+      "confidence": 0.9391,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "Daily Recommendations",
+      "bbox": [
+        553.0,
+        156.0,
+        744.0,
+        174.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Explore our top research interests",
+      "bbox": [
+        156.0,
+        491.0,
+        513.0,
+        520.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        189.83,
+        589.13,
+        283.99,
+        615.94
+      ],
+      "confidence": 0.9565,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "Medieval History",
+      "bbox": [
+        591.0,
+        594.0,
+        700.0,
+        608.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        591.4,
+        639.7,
+        693.81,
+        652.93
+      ],
+      "confidence": 0.9433,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        992.86,
+        639.37,
+        1130.1,
+        653.66
+      ],
+      "confidence": 0.9481,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_12",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        590.81,
+        726.54,
+        736.29,
+        740.49
+      ],
+      "confidence": 0.9543,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        187.96,
+        196.16,
+        245.3,
+        211.18
+      ],
+      "confidence": 0.9288,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_14",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        782.18,
+        189.95,
+        823.2,
+        203.74
+      ],
+      "confidence": 0.9335,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "11.4 M\nFollowers",
+      "bbox": [
+        189.0,
+        637.0,
+        250.0,
+        671.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        272.29,
+        635.95,
+        316.85,
+        670.91
+      ],
+      "confidence": 0.9027,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "Authors",
+      "bbox": [
+        340.0,
+        657.0,
+        389.0,
+        670.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "Browse All Topics >",
+      "bbox": [
+        1255.0,
+        497.0,
+        1376.0,
+        513.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        855.3,
+        594.62,
+        945.61,
+        609.82
+      ],
+      "confidence": 0.8201,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_20",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        992.44,
+        594.51,
+        1094.89,
+        609.47
+      ],
+      "confidence": 0.9533,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "104 K papers",
+      "bbox": [
+        1262.0,
+        594.0,
+        1347.0,
+        610.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        854.35,
+        639.18,
+        945.0,
+        652.66
+      ],
+      "confidence": 0.939,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_23",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        591.53,
+        682.73,
+        682.22,
+        696.18
+      ],
+      "confidence": 0.9436,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_24",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        856.63,
+        682.47,
+        945.38,
+        696.58
+      ],
+      "confidence": 0.9469,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_25",
+      "source": "ocr",
+      "class_label": "Roman History",
+      "bbox": [
+        993.0,
+        682.0,
+        1090.0,
+        696.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1258.86,
+        683.04,
+        1346.69,
+        696.33
+      ],
+      "confidence": 0.9489,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_27",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        855.61,
+        726.42,
+        945.45,
+        741.02
+      ],
+      "confidence": 0.9445,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_28",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        993.04,
+        727.27,
+        1093.43,
+        741.25
+      ],
+      "confidence": 0.9552,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_29",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1259.91,
+        726.46,
+        1347.09,
+        740.9
+      ],
+      "confidence": 0.9418,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_30",
+      "source": "ocr",
+      "class_label": "396 K",
+      "bbox": [
+        341.0,
+        635.0,
+        383.0,
+        649.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1262.17,
+        639.02,
+        1346.58,
+        652.52
+      ],
+      "confidence": 0.9237,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_32",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        155.75,
+        171.0,
+        277.88,
+        234.75
+      ],
+      "confidence": 0.9688,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "ocr",
+      "class_label": "55 million PDFs\nfor free",
+      "bbox": [
+        153.0,
+        50.0,
+        412.0,
+        128.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        760.3,
+        64.61,
+        822.43,
+        80.16
+      ],
+      "confidence": 0.9246,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_35",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        156.56,
+        495.38,
+        517.02,
+        519.98
+      ],
+      "confidence": 0.9559,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        772.06,
+        127.56,
+        822.75,
+        142.44
+      ],
+      "confidence": 0.9291,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_37",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        992.61,
+        683.44,
+        1089.77,
+        696.81
+      ],
+      "confidence": 0.9285,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        592.07,
+        594.98,
+        701.31,
+        609.41
+      ],
+      "confidence": 0.926,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1254.3,
+        499.04,
+        1373.73,
+        513.58
+      ],
+      "confidence": 0.9258,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        553.09,
+        34.44,
+        688.13,
+        52.42
+      ],
+      "confidence": 0.9142,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1263.85,
+        595.34,
+        1347.41,
+        608.52
+      ],
+      "confidence": 0.9111,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        553.21,
+        157.98,
+        746.4,
+        175.97
+      ],
+      "confidence": 0.9049,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1211.0,
+        150.0,
+        1215.0,
+        193.0
+      ],
+      "confidence": 0.8961,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        497.08,
+        85.39,
+        535.07,
+        124.49
+      ],
+      "confidence": 0.8523,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        497.37,
+        148.14,
+        535.39,
+        186.61
+      ],
+      "confidence": 0.8443,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        497.51,
+        24.46,
+        535.21,
+        62.86
+      ],
+      "confidence": 0.8288,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        340.51,
+        636.0,
+        388.68,
+        667.57
+      ],
+      "confidence": 0.8256,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        188.72,
+        635.73,
+        248.92,
+        667.38
+      ],
+      "confidence": 0.7781,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        189.27,
+        684.6,
+        242.87,
+        711.48
+      ],
+      "confidence": 0.6138,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        250.91,
+        684.74,
+        345.56,
+        711.66
+      ],
+      "confidence": 0.5442,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        324.51,
+        684.97,
+        350.03,
+        710.95
+      ],
+      "confidence": 0.4444,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        189.02,
+        655.49,
+        248.68,
+        667.49
+      ],
+      "confidence": 0.2057,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_53",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        274.04,
+        657.33,
+        316.9,
+        670.46
+      ],
+      "confidence": 0.1886,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_54",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        339.71,
+        655.89,
+        389.44,
+        667.23
+      ],
+      "confidence": 0.1783,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_55",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        189.12,
+        636.0,
+        242.37,
+        648.56
+      ],
+      "confidence": 0.1335,
+      "cluster_size": 1
+    }
+  ]
+}

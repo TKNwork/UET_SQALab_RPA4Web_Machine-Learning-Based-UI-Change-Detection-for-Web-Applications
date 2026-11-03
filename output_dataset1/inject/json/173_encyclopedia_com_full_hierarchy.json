@@ -1,0 +1,671 @@
+{
+  "image": "173_encyclopedia_com.png",
+  "total_elements": 51,
+  "total_raw_nodes": 67,
+  "total_raw_edges": 71,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        967.0,
+        811.0,
+        1309.0,
+        826.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        598.0,
+        811.0,
+        938.0,
+        826.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        227.0,
+        811.0,
+        569.0,
+        826.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1200.0,
+        761.0,
+        1274.0,
+        766.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1172.0,
+        616.0,
+        1176.0,
+        671.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        948.0,
+        301.0,
+        1191.0,
+        306.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        647.0,
+        301.0,
+        889.0,
+        306.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        345.0,
+        301.0,
+        588.0,
+        306.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        544.69,
+        86.65,
+        989.98,
+        115.64
+      ],
+      "confidence": 0.9501,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        361.04,
+        146.55,
+        1173.88,
+        167.89
+      ],
+      "confidence": 0.9226,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "HARVARD\nUNIVERSITY",
+      "bbox": [
+        411.0,
+        213.0,
+        522.0,
+        243.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "Recently researched about",
+      "bbox": [
+        389.0,
+        323.0,
+        545.0,
+        335.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "Pandemic Flu",
+      "bbox": [
+        421.0,
+        353.0,
+        512.0,
+        364.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        428.03,
+        383.82,
+        505.1,
+        396.53
+      ],
+      "confidence": 0.9323,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "Recently researched about\nBacteriophages",
+      "bbox": [
+        690.0,
+        321.0,
+        845.0,
+        367.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        729.37,
+        383.77,
+        807.08,
+        396.08
+      ],
+      "confidence": 0.9114,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        992.08,
+        322.82,
+        1148.35,
+        335.52
+      ],
+      "confidence": 0.9171,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_17",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1022.16,
+        352.67,
+        1117.26,
+        367.37
+      ],
+      "confidence": 0.926,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_18",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1031.11,
+        383.8,
+        1109.08,
+        396.08
+      ],
+      "confidence": 0.9213,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "income tax assessment levied upon\nindividual or corporate incomes.",
+      "bbox": [
+        244.0,
+        697.0,
+        530.0,
+        734.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        630.57,
+        625.69,
+        693.95,
+        639.33
+      ],
+      "confidence": 0.9051,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_21",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        613.96,
+        667.68,
+        669.52,
+        679.73
+      ],
+      "confidence": 0.915,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "Buddhism",
+      "bbox": [
+        1002.0,
+        624.0,
+        1063.0,
+        637.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "ocr",
+      "class_label": "Pure Land Buddhism",
+      "bbox": [
+        985.0,
+        667.0,
+        1152.0,
+        680.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        969.39,
+        587.81,
+        1308.55,
+        781.68
+      ],
+      "confidence": 0.9758,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_25",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        228.57,
+        587.88,
+        568.17,
+        781.43
+      ],
+      "confidence": 0.9784,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_26",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        598.45,
+        588.32,
+        938.29,
+        781.43
+      ],
+      "confidence": 0.9705,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_27",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        261.45,
+        626.18,
+        313.12,
+        636.8
+      ],
+      "confidence": 0.8973,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_28",
+      "source": "ocr",
+      "class_label": "Pure Land Buddhism or Amidism,\ndevotional sect of Mahayana...",
+      "bbox": [
+        985.0,
+        696.0,
+        1252.0,
+        735.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        946.66,
+        369.92,
+        1192.84,
+        427.62
+      ],
+      "confidence": 0.9516,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_30",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        343.77,
+        369.55,
+        589.85,
+        427.55
+      ],
+      "confidence": 0.9607,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_31",
+      "source": "ocr",
+      "class_label": "Individual Income Tax Return",
+      "bbox": [
+        358.0,
+        673.0,
+        520.0,
+        694.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "ocr",
+      "class_label": "autism, developmental disability\nresulting from a neurological disord....",
+      "bbox": [
+        614.0,
+        696.0,
+        914.0,
+        734.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        649.0,
+        374.0,
+        887.0,
+        424.0
+      ],
+      "confidence": 0.968,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "ocr",
+      "class_label": "NASA",
+      "bbox": [
+        722.0,
+        237.0,
+        807.0,
+        259.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        244.72,
+        665.16,
+        337.4,
+        681.29
+      ],
+      "confidence": 0.8176,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_36",
+      "source": "ocr",
+      "class_label": "Presidential",
+      "bbox": [
+        240.0,
+        739.0,
+        288.0,
+        749.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        645.92,
+        369.93,
+        890.91,
+        427.25
+      ],
+      "confidence": 0.9467,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "ocr",
+      "class_label": "Filing Status",
+      "bbox": [
+        232.0,
+        767.0,
+        301.0,
+        781.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        343.19,
+        194.36,
+        590.02,
+        305.4
+      ],
+      "confidence": 0.9288,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        691.67,
+        322.39,
+        846.25,
+        336.99
+      ],
+      "confidence": 0.9136,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        389.1,
+        322.54,
+        545.1,
+        337.08
+      ],
+      "confidence": 0.9017,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "ocr",
+      "class_label": "Election Campai",
+      "bbox": [
+        237.0,
+        746.0,
+        303.0,
+        758.0
+      ],
+      "confidence": 0.9,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        716.11,
+        352.14,
+        821.44,
+        367.49
+      ],
+      "confidence": 0.8885,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        419.67,
+        352.16,
+        512.92,
+        365.16
+      ],
+      "confidence": 0.8767,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "ocr",
+      "class_label": "The\nNew York\nTimes",
+      "bbox": [
+        1007.0,
+        206.0,
+        1131.0,
+        293.0
+      ],
+      "confidence": 0.87,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1000.14,
+        626.44,
+        1064.15,
+        636.59
+      ],
+      "confidence": 0.7814,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        614.77,
+        616.22,
+        709.99,
+        645.94
+      ],
+      "confidence": 0.7278,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        985.09,
+        614.38,
+        1078.63,
+        646.94
+      ],
+      "confidence": 0.6834,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        228.28,
+        811.84,
+        568.61,
+        826.0
+      ],
+      "confidence": 0.6343,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        244.5,
+        617.06,
+        329.86,
+        646.71
+      ],
+      "confidence": 0.5537,
+      "cluster_size": 1
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "image": "431_gatheranddine_com.png",
+  "total_elements": 9,
+  "total_raw_nodes": 9,
+  "total_raw_edges": 5,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        651.0,
+        0.0,
+        662.0,
+        173.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        654.0,
+        24.0,
+        657.0,
+        63.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        555.0,
+        0.0,
+        565.0,
+        175.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        499.0,
+        389.0,
+        654.0,
+        400.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "Hello, I'm Emily, and welcome to my recipe journal for old favorites, new discoveries, and latest inspirations in the kitchen. I am a wife and mom",
+      "bbox": [
+        262.0,
+        674.0,
+        1234.0,
+        689.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "of two, currently living in Ann Arbor, Michigan. My greatest loves are following Jesus, spending time with my family, and being in the kitchen.\nMy most treasured times of day are when we gather around the table to share a meal and I love preparing and serving the food that brings us all\ntogether.",
+      "bbox": [
+        262.0,
+        698.0,
+        1235.0,
+        760.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "I strive for balanced wholesome meals which focus on whole grains, sustainable meats, fresh and seasonal\nproduce, and natural sweeteners. We love treats, but keep them in moderation. I believe that the foods",
+      "bbox": [
+        262.0,
+        787.0,
+        1234.0,
+        825.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        495.38,
+        0.16,
+        999.68,
+        601.13
+      ],
+      "confidence": 0.8509,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        737.0,
+        30.0,
+        742.0,
+        81.0
+      ],
+      "confidence": 0.8503,
+      "cluster_size": 1
+    }
+  ]
+}

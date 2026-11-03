@@ -1,0 +1,788 @@
+{
+  "image": "194_worldnomads_com.png",
+  "total_elements": 60,
+  "total_raw_nodes": 73,
+  "total_raw_edges": 46,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        346.0,
+        798.0,
+        629.0,
+        818.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        583.0,
+        401.0,
+        912.0,
+        420.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        983.0,
+        348.0,
+        1292.0,
+        367.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        583.0,
+        335.0,
+        947.0,
+        355.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        983.0,
+        309.0,
+        1325.0,
+        328.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        983.0,
+        269.0,
+        1242.0,
+        289.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        583.0,
+        269.0,
+        905.0,
+        288.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        983.0,
+        249.0,
+        1049.0,
+        254.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        583.0,
+        249.0,
+        649.0,
+        254.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        183.0,
+        249.0,
+        249.0,
+        254.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        199.3,
+        39.67,
+        425.8,
+        62.98
+      ],
+      "confidence": 0.9518,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "Buy cover for your adventure at home or\nwhile traveling.",
+      "bbox": [
+        199.0,
+        90.0,
+        524.0,
+        140.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        599.18,
+        38.35,
+        776.91,
+        66.94
+      ],
+      "confidence": 0.9614,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1000.8,
+        38.52,
+        1251.03,
+        68.24
+      ],
+      "confidence": 0.9343,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_14",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        997.75,
+        92.38,
+        1288.42,
+        139.86
+      ],
+      "confidence": 0.9213,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "What is travel insurance?\nWhat is covered?",
+      "bbox": [
+        183.0,
+        271.0,
+        383.0,
+        324.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "How to make a claim",
+      "bbox": [
+        184.0,
+        388.0,
+        348.0,
+        402.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "Travel for good",
+      "bbox": [
+        983.0,
+        217.0,
+        1125.0,
+        236.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        984.0,
+        269.98,
+        1239.92,
+        287.39
+      ],
+      "confidence": 0.958,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_19",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        983.94,
+        348.68,
+        1293.03,
+        365.02
+      ],
+      "confidence": 0.9586,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_20",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        613.12,
+        581.05,
+        924.11,
+        608.66
+      ],
+      "confidence": 0.9525,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "Give back to the places that you travel to. Make a micro-donation when you buy with us to help change lives.",
+      "bbox": [
+        339.0,
+        641.0,
+        1193.0,
+        657.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        326.59,
+        709.68,
+        445.18,
+        722.35
+      ],
+      "confidence": 0.9014,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_23",
+      "source": "ocr",
+      "class_label": "282 Community development projects funded",
+      "bbox": [
+        883.0,
+        801.0,
+        1260.0,
+        822.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "ocr",
+      "class_label": "Get timely safety tips, insights and alerts\nfrom our experts.",
+      "bbox": [
+        599.0,
+        90.0,
+        923.0,
+        142.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        184.65,
+        220.56,
+        369.06,
+        235.88
+      ],
+      "confidence": 0.9391,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        584.32,
+        219.85,
+        766.67,
+        239.16
+      ],
+      "confidence": 0.9532,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_27",
+      "source": "ocr",
+      "class_label": "How Cultural Differences Will Impact the FIFA\nWorld Cup 2026?",
+      "bbox": [
+        583.0,
+        337.0,
+        946.0,
+        378.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "ocr",
+      "class_label": "Is It Safe to Travel to Canada for the FIFA\nWorld Cup 2026?",
+      "bbox": [
+        583.0,
+        403.0,
+        911.0,
+        445.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "ocr",
+      "class_label": "Support a community development project",
+      "bbox": [
+        982.0,
+        311.0,
+        1325.0,
+        326.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "ocr",
+      "class_label": "Another traveler donated US$10",
+      "bbox": [
+        326.0,
+        741.0,
+        588.0,
+        757.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "ocr",
+      "class_label": "$4,083,283 Raised to change lives\n1,383,418 Travelers donated",
+      "bbox": [
+        883.0,
+        724.0,
+        1195.0,
+        785.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "ocr",
+      "class_label": "Is It Safe to Travel to Mexico for the FIFA\nWorld Cup 2026?",
+      "bbox": [
+        583.0,
+        271.0,
+        904.0,
+        313.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "ocr",
+      "class_label": "and joined 1,241 other World Nomads",
+      "bbox": [
+        327.0,
+        769.0,
+        622.0,
+        787.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "ocr",
+      "class_label": "Insurance FAQs",
+      "bbox": [
+        184.0,
+        349.0,
+        309.0,
+        362.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        336.97,
+        798.52,
+        628.6,
+        816.93
+      ],
+      "confidence": 0.9076,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_36",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        883.46,
+        686.94,
+        936.18,
+        700.11
+      ],
+      "confidence": 0.8581,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_37",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        184.4,
+        309.73,
+        322.42,
+        326.13
+      ],
+      "confidence": 0.9391,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        579.99,
+        0.04,
+        955.02,
+        170.89
+      ],
+      "confidence": 0.938,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        184.6,
+        386.7,
+        348.97,
+        403.34
+      ],
+      "confidence": 0.9373,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        183.94,
+        349.19,
+        307.04,
+        364.8
+      ],
+      "confidence": 0.9326,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        883.92,
+        723.54,
+        1016.58,
+        748.23
+      ],
+      "confidence": 0.923,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        983.95,
+        220.44,
+        1124.49,
+        239.0
+      ],
+      "confidence": 0.922,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        986.22,
+        309.64,
+        1320.17,
+        327.03
+      ],
+      "confidence": 0.9084,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        184.69,
+        703.26,
+        302.79,
+        823.31
+      ],
+      "confidence": 0.9037,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        183.0,
+        269.0,
+        385.0,
+        288.0
+      ],
+      "confidence": 0.886,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        882.88,
+        762.63,
+        989.49,
+        785.82
+      ],
+      "confidence": 0.8667,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        583.04,
+        270.69,
+        901.29,
+        286.74
+      ],
+      "confidence": 0.8423,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        582.65,
+        362.7,
+        723.23,
+        379.55
+      ],
+      "confidence": 0.8388,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        586.4,
+        336.43,
+        945.16,
+        354.51
+      ],
+      "confidence": 0.8223,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        583.2,
+        429.48,
+        722.32,
+        446.87
+      ],
+      "confidence": 0.8077,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        580.14,
+        403.0,
+        917.34,
+        419.16
+      ],
+      "confidence": 0.8076,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        583.47,
+        297.08,
+        721.77,
+        314.94
+      ],
+      "confidence": 0.7431,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_53",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        882.91,
+        800.72,
+        927.09,
+        818.72
+      ],
+      "confidence": 0.7121,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_54",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1019.35,
+        729.15,
+        1195.5,
+        748.92
+      ],
+      "confidence": 0.702,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_55",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        912.75,
+        805.76,
+        1262.44,
+        823.78
+      ],
+      "confidence": 0.6585,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_56",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        184.74,
+        270.79,
+        383.36,
+        286.55
+      ],
+      "confidence": 0.5626,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_57",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        326.03,
+        740.59,
+        581.15,
+        755.2
+      ],
+      "confidence": 0.5137,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_58",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        326.6,
+        800.9,
+        343.47,
+        814.41
+      ],
+      "confidence": 0.2603,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_59",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        537.34,
+        738.95,
+        587.96,
+        755.09
+      ],
+      "confidence": 0.1306,
+      "cluster_size": 1
+    }
+  ]
+}

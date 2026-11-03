@@ -1,0 +1,489 @@
+{
+  "image": "385_romper_com.png",
+  "total_elements": 37,
+  "total_raw_nodes": 46,
+  "total_raw_edges": 25,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        742.0,
+        421.0,
+        885.0,
+        428.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        372.0,
+        421.0,
+        655.0,
+        427.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        90.88,
+        19.92,
+        237.42,
+        47.03
+      ],
+      "confidence": 0.9291,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_3",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        92.38,
+        179.45,
+        165.28,
+        189.87
+      ],
+      "confidence": 0.936,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "Nobody Talks About The Money\nFights You'll Have After The Baby",
+      "bbox": [
+        929.0,
+        13.0,
+        1161.0,
+        50.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1389.11,
+        28.21,
+        1442.96,
+        42.1
+      ],
+      "confidence": 0.8096,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "LIFE",
+      "bbox": [
+        930.0,
+        370.0,
+        953.0,
+        380.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        371.09,
+        445.9,
+        514.63,
+        459.49
+      ],
+      "confidence": 0.9411,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "ADVERTISEMENT",
+      "bbox": [
+        725.0,
+        524.0,
+        810.0,
+        531.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "#MOMLIFE\nGROUP CHAT",
+      "bbox": [
+        673.0,
+        610.0,
+        872.0,
+        663.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "SIGN UP",
+      "bbox": [
+        732.0,
+        750.0,
+        805.0,
+        763.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "PUTTING IN WORK",
+      "bbox": [
+        1209.0,
+        217.0,
+        1326.0,
+        228.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        929.0,
+        174.67,
+        1166.89,
+        350.1
+      ],
+      "confidence": 0.9843,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        369.98,
+        68.05,
+        886.3,
+        278.67
+      ],
+      "confidence": 0.9635,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "Comes",
+      "bbox": [
+        929.0,
+        56.0,
+        979.0,
+        67.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        370.93,
+        300.37,
+        538.41,
+        312.94
+      ],
+      "confidence": 0.9177,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_16",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        371.72,
+        328.61,
+        817.26,
+        364.05
+      ],
+      "confidence": 0.9634,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "romper",
+      "bbox": [
+        730.0,
+        569.0,
+        806.0,
+        586.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "The All-Things-\nParenting Newsletter",
+      "bbox": [
+        680.0,
+        679.0,
+        863.0,
+        722.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        372.14,
+        389.08,
+        839.92,
+        406.3
+      ],
+      "confidence": 0.9255,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_20",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1208.81,
+        241.28,
+        1432.91,
+        281.43
+      ],
+      "confidence": 0.967,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_21",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        91.88,
+        68.57,
+        327.09,
+        160.47
+      ],
+      "confidence": 0.9688,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        712.0,
+        739.0,
+        824.0,
+        775.0
+      ],
+      "confidence": 0.9635,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "ocr",
+      "class_label": "Is Anyone Ever Financially Ready",
+      "bbox": [
+        92.0,
+        206.0,
+        326.0,
+        222.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "ocr",
+      "class_label": "To Have A Baby?",
+      "bbox": [
+        91.0,
+        227.0,
+        214.0,
+        243.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "ocr",
+      "class_label": "Birth Is Stressful Enough - What's\nWith The Unexpected Bill?",
+      "bbox": [
+        928.0,
+        396.0,
+        1165.0,
+        433.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1209.95,
+        69.2,
+        1445.19,
+        197.35
+      ],
+      "confidence": 0.9513,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        930.02,
+        11.06,
+        1158.67,
+        68.11
+      ],
+      "confidence": 0.9299,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1209.04,
+        215.61,
+        1325.97,
+        226.9
+      ],
+      "confidence": 0.895,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        368.81,
+        278.4,
+        883.96,
+        418.34
+      ],
+      "confidence": 0.8612,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        929.22,
+        368.4,
+        952.81,
+        379.3
+      ],
+      "confidence": 0.811,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        92.94,
+        205.47,
+        324.49,
+        244.49
+      ],
+      "confidence": 0.6883,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        928.99,
+        394.67,
+        1126.27,
+        433.97
+      ],
+      "confidence": 0.6356,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        725.2,
+        522.07,
+        811.01,
+        530.39
+      ],
+      "confidence": 0.6171,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        731.21,
+        570.8,
+        805.66,
+        585.08
+      ],
+      "confidence": 0.585,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        903.34,
+        549.18,
+        917.66,
+        562.78
+      ],
+      "confidence": 0.2716,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1114.74,
+        394.32,
+        1165.1,
+        409.03
+      ],
+      "confidence": 0.1926,
+      "cluster_size": 1
+    }
+  ]
+}

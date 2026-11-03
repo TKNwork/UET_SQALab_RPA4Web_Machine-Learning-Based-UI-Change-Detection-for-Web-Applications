@@ -1,0 +1,476 @@
+{
+  "image": "287_help_usajobs_gov.png",
+  "total_elements": 36,
+  "total_raw_nodes": 50,
+  "total_raw_edges": 80,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        112.0,
+        529.0,
+        414.0,
+        548.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1043.0,
+        397.0,
+        1443.0,
+        416.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1043.0,
+        355.0,
+        1419.0,
+        375.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1043.0,
+        314.0,
+        1336.0,
+        333.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1043.0,
+        274.0,
+        1284.0,
+        291.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1043.0,
+        232.0,
+        1329.0,
+        250.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1018.27,
+        156.14,
+        1487.42,
+        526.04
+      ],
+      "confidence": 0.9691,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        45.16,
+        335.48,
+        999.59,
+        575.41
+      ],
+      "confidence": 0.9501,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        44.8,
+        156.9,
+        998.1,
+        303.8
+      ],
+      "confidence": 0.9704,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1019.82,
+        559.43,
+        1487.47,
+        706.07
+      ],
+      "confidence": 0.9677,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        52.68,
+        104.98,
+        589.83,
+        128.02
+      ],
+      "confidence": 0.9407,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "Make an impact",
+      "bbox": [
+        73.0,
+        189.0,
+        211.0,
+        207.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        73.75,
+        368.55,
+        428.75,
+        386.77
+      ],
+      "confidence": 0.943,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "We offer flexible workplaces, generous leave, student loan repayment, medical insurance, flexible spending accounts and more.",
+      "bbox": [
+        72.0,
+        413.0,
+        969.0,
+        428.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "Leave",
+      "bbox": [
+        114.0,
+        507.0,
+        156.0,
+        518.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1041.85,
+        232.64,
+        1328.53,
+        248.49
+      ],
+      "confidence": 0.9555,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1044.11,
+        274.7,
+        1425.28,
+        290.71
+      ],
+      "confidence": 0.9444,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "What federal careers are related to my college major?",
+      "bbox": [
+        1043.0,
+        357.0,
+        1419.0,
+        372.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1043.04,
+        398.64,
+        1443.62,
+        439.5
+      ],
+      "confidence": 0.9472,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "Documents you may need to apply",
+      "bbox": [
+        1044.0,
+        593.0,
+        1344.0,
+        609.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "Transcripts",
+      "bbox": [
+        1063.0,
+        650.0,
+        1148.0,
+        663.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        67.95,
+        233.02,
+        971.22,
+        275.28
+      ],
+      "confidence": 0.9405,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_22",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1043.14,
+        188.73,
+        1345.61,
+        206.97
+      ],
+      "confidence": 0.9452,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_23",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1043.27,
+        314.65,
+        1328.14,
+        331.16
+      ],
+      "confidence": 0.949,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_24",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1044.95,
+        465.68,
+        1220.77,
+        481.68
+      ],
+      "confidence": 0.9559,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_25",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        32.48,
+        784.2,
+        239.9,
+        808.25
+      ],
+      "confidence": 0.9555,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_26",
+      "source": "ocr",
+      "class_label": "• Work schedules and workplace flexibilities",
+      "bbox": [
+        94.0,
+        531.0,
+        412.0,
+        545.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1043.91,
+        356.07,
+        1418.48,
+        373.98
+      ],
+      "confidence": 0.9234,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "ocr",
+      "class_label": "+",
+      "bbox": [
+        1422.0,
+        649.0,
+        1436.0,
+        662.0
+      ],
+      "confidence": 0.92,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "ocr",
+      "class_label": "⚫ Benefits",
+      "bbox": [
+        95.0,
+        455.0,
+        172.0,
+        467.0
+      ],
+      "confidence": 0.91,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        113.21,
+        455.08,
+        172.02,
+        470.56
+      ],
+      "confidence": 0.9078,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        111.71,
+        529.66,
+        415.01,
+        547.86
+      ],
+      "confidence": 0.8842,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1042.82,
+        591.12,
+        1345.12,
+        609.86
+      ],
+      "confidence": 0.8801,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1064.71,
+        648.1,
+        1148.61,
+        664.51
+      ],
+      "confidence": 0.8375,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        112.7,
+        506.56,
+        155.15,
+        521.13
+      ],
+      "confidence": 0.7043,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1422.31,
+        647.54,
+        1438.32,
+        663.67
+      ],
+      "confidence": 0.2753,
+      "cluster_size": 1
+    }
+  ]
+}

@@ -1,0 +1,580 @@
+{
+  "image": "332_thriftbooks_com.png",
+  "total_elements": 44,
+  "total_raw_nodes": 53,
+  "total_raw_edges": 40,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        444.0,
+        1536.0,
+        447.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        373.0,
+        1536.0,
+        400.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        133.0,
+        1536.0,
+        241.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1313.0,
+        189.0,
+        1356.0,
+        192.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        368.0,
+        23.0,
+        1161.0,
+        69.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "thriftbooks",
+      "bbox": [
+        134.0,
+        21.0,
+        309.0,
+        54.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        382.09,
+        39.51,
+        671.94,
+        55.69
+      ],
+      "confidence": 0.9568,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        222.81,
+        103.13,
+        280.45,
+        114.81
+      ],
+      "confidence": 0.8428,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        582.25,
+        102.9,
+        690.99,
+        114.24
+      ],
+      "confidence": 0.9096,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        727.45,
+        102.96,
+        804.86,
+        114.47
+      ],
+      "confidence": 0.9085,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "Special Offer: Get a FREE BOOK Reward",
+      "bbox": [
+        639.0,
+        145.0,
+        960.0,
+        160.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "Cart",
+      "bbox": [
+        1420.0,
+        56.0,
+        1443.0,
+        65.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "Web",
+      "bbox": [
+        720.0,
+        645.0,
+        815.0,
+        697.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        640.3,
+        164.88,
+        959.27,
+        181.17
+      ],
+      "confidence": 0.8687,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "Hi Reader\nLog In",
+      "bbox": [
+        1261.0,
+        34.0,
+        1327.0,
+        65.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1228.04,
+        102.91,
+        1327.13,
+        115.01
+      ],
+      "confidence": 0.9404,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "ThriftBooks started in 2003 with a pick-up truck of used books stashed in a storage unit, listing books solely on Amazon.com. Our first book sold was the beloved\nchildren's classic, Charlotte's Web by E.B. White. Over the years, we've added regional processing centers across the country and hundreds of employees.\nThroughout this time, we also built our processes to purchase, grade, and distribute used and rare/collectible books.",
+      "bbox": [
+        198.0,
+        527.0,
+        1337.0,
+        581.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        0.0,
+        444.46,
+        833.7,
+        826.0
+      ],
+      "confidence": 0.9797,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        711.02,
+        444.23,
+        1536.0,
+        826.0
+      ],
+      "confidence": 0.9724,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        668.46,
+        599.09,
+        869.21,
+        824.55
+      ],
+      "confidence": 0.9705,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "Read more. Spend less.",
+      "bbox": [
+        185.0,
+        55.0,
+        308.0,
+        66.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "ThriftBooks - Read More. Spend Less.",
+      "bbox": [
+        508.0,
+        476.0,
+        1026.0,
+        507.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "Books ▾ Deals Children's Books",
+      "bbox": [
+        317.0,
+        103.0,
+        558.0,
+        114.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "ocr",
+      "class_label": "My Lists",
+      "bbox": [
+        1350.0,
+        53.0,
+        1396.0,
+        67.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "ocr",
+      "class_label": "Our Story",
+      "bbox": [
+        700.0,
+        409.0,
+        835.0,
+        436.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "ocr",
+      "class_label": "60",
+      "bbox": [
+        823.0,
+        681.0,
+        840.0,
+        690.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1116.89,
+        26.18,
+        1159.17,
+        66.54
+      ],
+      "confidence": 0.8619,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_27",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        702.15,
+        411.43,
+        835.64,
+        440.05
+      ],
+      "confidence": 0.9183,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        0.0,
+        188.73,
+        732.29,
+        396.37
+      ],
+      "confidence": 0.9174,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        453.06,
+        102.75,
+        558.67,
+        114.74
+      ],
+      "confidence": 0.9027,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "ocr",
+      "class_label": "Charlotte's",
+      "bbox": [
+        663.0,
+        594.0,
+        866.0,
+        668.0
+      ],
+      "confidence": 0.9,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        812.09,
+        189.14,
+        1536.0,
+        397.58
+      ],
+      "confidence": 0.8585,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        641.4,
+        143.54,
+        960.6,
+        161.28
+      ],
+      "confidence": 0.6654,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_33",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        317.19,
+        103.28,
+        366.46,
+        114.58
+      ],
+      "confidence": 0.7671,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        393.58,
+        103.56,
+        428.34,
+        114.08
+      ],
+      "confidence": 0.7597,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1261.95,
+        33.42,
+        1327.22,
+        44.8
+      ],
+      "confidence": 0.692,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1217.77,
+        31.6,
+        1248.01,
+        59.28
+      ],
+      "confidence": 0.6426,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1349.46,
+        54.92,
+        1396.52,
+        67.53
+      ],
+      "confidence": 0.5895,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1419.74,
+        54.67,
+        1445.37,
+        66.15
+      ],
+      "confidence": 0.3621,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1262.42,
+        52.35,
+        1311.11,
+        64.67
+      ],
+      "confidence": 0.3004,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_40",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        953.03,
+        252.98,
+        978.29,
+        274.23
+      ],
+      "confidence": 0.3035,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        689.91,
+        105.66,
+        703.91,
+        113.9
+      ],
+      "confidence": 0.2958,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        282.7,
+        104.83,
+        291.81,
+        113.48
+      ],
+      "confidence": 0.1572,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1364.24,
+        29.99,
+        1379.79,
+        46.31
+      ],
+      "confidence": 0.1015,
+      "cluster_size": 1
+    }
+  ]
+}

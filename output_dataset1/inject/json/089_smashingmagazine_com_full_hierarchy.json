@@ -1,0 +1,307 @@
+{
+  "image": "089_smashingmagazine_com.png",
+  "total_elements": 23,
+  "total_raw_nodes": 24,
+  "total_raw_edges": 30,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        111.0,
+        1536.0,
+        114.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        622.0,
+        2.0,
+        881.0,
+        10.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        625.0,
+        4.0,
+        879.0,
+        8.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        728.8,
+        753.62,
+        790.28,
+        767.63
+      ],
+      "confidence": 0.8991,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "BROWSE ALL SMASHING MAGAZINE TOPICS",
+      "bbox": [
+        506.0,
+        185.0,
+        1029.0,
+        200.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "Write for us Contact us About us (Impressum) Privacy policy",
+      "bbox": [
+        541.0,
+        664.0,
+        999.0,
+        681.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "Membership login Delivery times Advertise Job Board",
+      "bbox": [
+        555.0,
+        709.0,
+        964.0,
+        725.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "⚫Accessibility ⚫ Best practices Business Career Checklists CSS Data Visualization Design Design Patterns\nDesign Systems E-Commerce Figma Freebies HTML ⚫ Illustrator Inspiration JavaScript Mobile\nPerformance Privacy React Responsive Design Round-Ups SEO Typography Tools UI⚫ Usability UX\nVue Wallpapers Web Design Workflow",
+      "bbox": [
+        169.0,
+        257.0,
+        1375.0,
+        442.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        0.0,
+        116.44,
+        1151.33,
+        826.0
+      ],
+      "confidence": 0.9686,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "With a commitment to quality content for the design community.\nFounded by Vitaly Friedman and Sven Lennartz. 2006-2026.\nSmashing is proudly running on Netlify. TinaCMS and Swell\nFonts by Latinotype.",
+      "bbox": [
+        556.0,
+        526.0,
+        977.0,
+        629.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        731.42,
+        663.83,
+        884.22,
+        682.35
+      ],
+      "confidence": 0.9379,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        603.0,
+        526.0,
+        827.0,
+        546.0
+      ],
+      "confidence": 0.9333,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        699.79,
+        708.5,
+        800.95,
+        726.53
+      ],
+      "confidence": 0.9297,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        640.94,
+        664.6,
+        715.46,
+        679.33
+      ],
+      "confidence": 0.925,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        900.04,
+        663.46,
+        997.92,
+        682.12
+      ],
+      "confidence": 0.9136,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        814.89,
+        708.67,
+        882.09,
+        723.47
+      ],
+      "confidence": 0.9068,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        897.96,
+        708.25,
+        965.0,
+        724.36
+      ],
+      "confidence": 0.886,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        554.58,
+        708.52,
+        682.8,
+        726.95
+      ],
+      "confidence": 0.8845,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "Γ",
+      "bbox": [
+        1473.0,
+        791.0,
+        1501.0,
+        818.0
+      ],
+      "confidence": 0.88,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        698.52,
+        611.03,
+        836.02,
+        628.72
+      ],
+      "confidence": 0.8669,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1459.57,
+        774.12,
+        1514.83,
+        825.97
+      ],
+      "confidence": 0.8363,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        528.67,
+        663.99,
+        626.51,
+        679.77
+      ],
+      "confidence": 0.8258,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        227.56,
+        311.91,
+        394.39,
+        336.72
+      ],
+      "confidence": 0.6768,
+      "cluster_size": 1
+    }
+  ]
+}

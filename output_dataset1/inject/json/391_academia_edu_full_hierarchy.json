@@ -1,0 +1,762 @@
+{
+  "image": "391_academia_edu.png",
+  "total_elements": 58,
+  "total_raw_nodes": 71,
+  "total_raw_edges": 42,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1211.0,
+        299.0,
+        1338.0,
+        306.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1223.0,
+        189.0,
+        1227.0,
+        256.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1177.0,
+        373.0,
+        1464.0,
+        397.0
+      ],
+      "confidence": 0.9965,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "Explore our top research interests",
+      "bbox": [
+        156.0,
+        501.0,
+        513.0,
+        530.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "History",
+      "bbox": [
+        189.0,
+        601.0,
+        283.0,
+        623.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        272.94,
+        647.22,
+        317.47,
+        681.71
+      ],
+      "confidence": 0.9284,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "Registered Users",
+      "bbox": [
+        640.0,
+        41.0,
+        776.0,
+        63.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        640.65,
+        107.93,
+        777.78,
+        125.61
+      ],
+      "confidence": 0.948,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Daily Recommendations 20m",
+      "bbox": [
+        641.0,
+        167.0,
+        911.0,
+        186.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "Medieval History",
+      "bbox": [
+        591.0,
+        605.0,
+        701.0,
+        619.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "Ancient Greek History",
+      "bbox": [
+        590.0,
+        737.0,
+        737.0,
+        751.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "Sign Up",
+      "bbox": [
+        188.0,
+        161.0,
+        244.0,
+        176.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        189.16,
+        647.87,
+        249.1,
+        679.94
+      ],
+      "confidence": 0.9049,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "96.2 K papers",
+      "bbox": [
+        854.0,
+        605.0,
+        945.0,
+        622.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "Ancient History",
+      "bbox": [
+        992.0,
+        605.0,
+        1096.0,
+        619.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "104 K papers",
+      "bbox": [
+        1262.0,
+        605.0,
+        1347.0,
+        622.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "Urban History",
+      "bbox": [
+        591.0,
+        695.0,
+        682.0,
+        706.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        856.85,
+        693.44,
+        945.26,
+        708.53
+      ],
+      "confidence": 0.9421,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_18",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        993.34,
+        694.76,
+        1089.31,
+        708.08
+      ],
+      "confidence": 0.9498,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_19",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1259.18,
+        693.56,
+        1347.33,
+        707.42
+      ],
+      "confidence": 0.9352,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "28.9 K papers",
+      "bbox": [
+        855.0,
+        737.0,
+        945.0,
+        754.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "37.2 K papers",
+      "bbox": [
+        1260.0,
+        737.0,
+        1347.0,
+        753.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        155.8,
+        135.18,
+        278.28,
+        198.9
+      ],
+      "confidence": 0.9714,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        156.12,
+        17.73,
+        476.24,
+        91.57
+      ],
+      "confidence": 0.9097,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_24",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        848.97,
+        47.29,
+        911.61,
+        61.12
+      ],
+      "confidence": 0.9341,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_25",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1254.24,
+        509.48,
+        1375.56,
+        524.01
+      ],
+      "confidence": 0.9457,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        854.53,
+        649.54,
+        945.27,
+        663.36
+      ],
+      "confidence": 0.9366,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_27",
+      "source": "ocr",
+      "class_label": "Early Modern History",
+      "bbox": [
+        993.0,
+        651.0,
+        1132.0,
+        663.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1261.51,
+        650.45,
+        1346.86,
+        663.15
+      ],
+      "confidence": 0.9385,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_29",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        992.88,
+        738.78,
+        1093.17,
+        751.35
+      ],
+      "confidence": 0.9423,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_30",
+      "source": "ocr",
+      "class_label": "55m+",
+      "bbox": [
+        861.0,
+        110.0,
+        911.0,
+        123.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "ocr",
+      "class_label": "396 K",
+      "bbox": [
+        341.0,
+        646.0,
+        382.0,
+        660.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        590.74,
+        649.95,
+        694.23,
+        662.83
+      ],
+      "confidence": 0.9419,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_33",
+      "source": "ocr",
+      "class_label": "Authors",
+      "bbox": [
+        339.0,
+        668.0,
+        390.0,
+        681.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        159.31,
+        506.09,
+        514.18,
+        530.4
+      ],
+      "confidence": 0.9557,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        155.84,
+        562.4,
+        560.1,
+        802.71
+      ],
+      "confidence": 0.9402,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        592.17,
+        606.75,
+        701.54,
+        619.64
+      ],
+      "confidence": 0.9322,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        993.81,
+        606.66,
+        1095.2,
+        620.04
+      ],
+      "confidence": 0.931,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        992.91,
+        649.79,
+        1130.7,
+        664.15
+      ],
+      "confidence": 0.9281,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        592.67,
+        694.23,
+        680.96,
+        708.15
+      ],
+      "confidence": 0.9232,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        641.29,
+        168.7,
+        834.42,
+        186.77
+      ],
+      "confidence": 0.9228,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        340.24,
+        646.77,
+        389.27,
+        678.95
+      ],
+      "confidence": 0.916,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        855.39,
+        606.33,
+        945.69,
+        619.64
+      ],
+      "confidence": 0.9158,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        861.01,
+        107.97,
+        911.74,
+        122.7
+      ],
+      "confidence": 0.9144,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        188.07,
+        159.91,
+        246.04,
+        177.87
+      ],
+      "confidence": 0.9081,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        591.29,
+        738.73,
+        736.99,
+        750.17
+      ],
+      "confidence": 0.9075,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1262.33,
+        606.58,
+        1346.51,
+        618.79
+      ],
+      "confidence": 0.9042,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        855.21,
+        738.67,
+        945.38,
+        751.12
+      ],
+      "confidence": 0.9039,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        870.49,
+        170.79,
+        911.99,
+        184.81
+      ],
+      "confidence": 0.9012,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1259.12,
+        738.99,
+        1346.18,
+        750.6
+      ],
+      "confidence": 0.8967,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1211.0,
+        161.0,
+        1215.0,
+        204.0
+      ],
+      "confidence": 0.8961,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        640.15,
+        45.08,
+        776.31,
+        63.39
+      ],
+      "confidence": 0.8949,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        585.77,
+        158.71,
+        624.46,
+        197.83
+      ],
+      "confidence": 0.8872,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_53",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        585.67,
+        96.17,
+        624.19,
+        136.18
+      ],
+      "confidence": 0.8411,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_54",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        189.05,
+        599.86,
+        282.85,
+        627.13
+      ],
+      "confidence": 0.7797,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_55",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        585.85,
+        35.28,
+        624.14,
+        74.29
+      ],
+      "confidence": 0.7708,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_56",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        320.6,
+        695.93,
+        349.61,
+        722.35
+      ],
+      "confidence": 0.1255,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_57",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1042.0,
+        205.35,
+        1074.09,
+        229.78
+      ],
+      "confidence": 0.1253,
+      "cluster_size": 1
+    }
+  ]
+}

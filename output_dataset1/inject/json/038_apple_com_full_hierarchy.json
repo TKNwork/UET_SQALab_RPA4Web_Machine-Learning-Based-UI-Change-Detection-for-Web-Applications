@@ -1,0 +1,567 @@
+{
+  "image": "038_apple_com.png",
+  "total_elements": 43,
+  "total_raw_nodes": 54,
+  "total_raw_edges": 23,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1032.0,
+        595.0,
+        1041.0,
+        744.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1032.0,
+        419.0,
+        1041.0,
+        540.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        476.0,
+        598.0,
+        480.0,
+        805.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        476.0,
+        448.0,
+        480.0,
+        534.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        919.0,
+        398.0,
+        943.0,
+        805.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        727.0,
+        436.0,
+        741.0,
+        670.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "Chọn quốc gia hoặc khu vực khác để xem nội dung dành riêng cho vị trí của\nbạn và mua sắm trực tuyến.",
+      "bbox": [
+        279.0,
+        20.0,
+        695.0,
+        50.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        563.2,
+        86.18,
+        599.15,
+        97.07
+      ],
+      "confidence": 0.8798,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        889.7,
+        86.84,
+        969.04,
+        96.86
+      ],
+      "confidence": 0.9495,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "Learn more",
+      "bbox": [
+        645.0,
+        302.0,
+        734.0,
+        314.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1157.75,
+        26.4,
+        1212.23,
+        44.17
+      ],
+      "confidence": 0.8157,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "Vision",
+      "bbox": [
+        636.0,
+        86.0,
+        669.0,
+        97.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        707.06,
+        86.94,
+        750.3,
+        96.87
+      ],
+      "confidence": 0.9336,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "Meet the latest iPhone lineup.",
+      "bbox": [
+        594.0,
+        240.0,
+        942.0,
+        265.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        473.0,
+        393.0,
+        704.0,
+        807.0
+      ],
+      "confidence": 0.9783,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        624.39,
+        285.62,
+        752.94,
+        328.06
+      ],
+      "confidence": 0.9777,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        789.4,
+        86.99,
+        853.55,
+        97.41
+      ],
+      "confidence": 0.9302,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_17",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1109.03,
+        86.43,
+        1154.01,
+        97.4
+      ],
+      "confidence": 0.8874,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_18",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        771.89,
+        285.31,
+        911.88,
+        328.32
+      ],
+      "confidence": 0.9682,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        298.3,
+        87.07,
+        329.15,
+        97.63
+      ],
+      "confidence": 0.7741,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_20",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1005.0,
+        87.02,
+        1073.35,
+        96.9
+      ],
+      "confidence": 0.928,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_21",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        792.5,
+        299.07,
+        890.25,
+        316.35
+      ],
+      "confidence": 0.9351,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "iPhone",
+      "bbox": [
+        488.0,
+        86.0,
+        524.0,
+        97.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        685.0,
+        178.56,
+        852.35,
+        220.1
+      ],
+      "confidence": 0.9483,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_24",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        366.03,
+        87.79,
+        390.69,
+        96.9
+      ],
+      "confidence": 0.7658,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_25",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        596.6,
+        241.63,
+        940.62,
+        267.89
+      ],
+      "confidence": 0.9252,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        780.98,
+        16.5,
+        1128.34,
+        54.27
+      ],
+      "confidence": 0.9165,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        645.98,
+        299.99,
+        733.04,
+        312.81
+      ],
+      "confidence": 0.9088,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "ocr",
+      "class_label": "V Việt Nam",
+      "bbox": [
+        797.0,
+        26.0,
+        896.0,
+        46.0
+      ],
+      "confidence": 0.89,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1026.0,
+        393.0,
+        1065.0,
+        807.0
+      ],
+      "confidence": 0.8846,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "ocr",
+      "class_label": "iPad",
+      "bbox": [
+        426.0,
+        85.0,
+        449.0,
+        97.0
+      ],
+      "confidence": 0.88,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1034.0,
+        539.0,
+        1039.0,
+        591.0
+      ],
+      "confidence": 0.8663,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        699.0,
+        576.0,
+        702.0,
+        607.0
+      ],
+      "confidence": 0.8609,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        699.0,
+        532.0,
+        702.0,
+        563.0
+      ],
+      "confidence": 0.8609,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        824.01,
+        27.38,
+        898.73,
+        45.88
+      ],
+      "confidence": 0.8441,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        636.74,
+        87.0,
+        669.68,
+        96.64
+      ],
+      "confidence": 0.8182,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        489.34,
+        87.05,
+        526.65,
+        96.6
+      ],
+      "confidence": 0.7596,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        425.64,
+        86.96,
+        452.1,
+        96.81
+      ],
+      "confidence": 0.7406,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1244.28,
+        28.28,
+        1258.97,
+        43.46
+      ],
+      "confidence": 0.4745,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1242.98,
+        82.71,
+        1258.91,
+        99.08
+      ],
+      "confidence": 0.3593,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1100.94,
+        29.34,
+        1116.31,
+        44.21
+      ],
+      "confidence": 0.1921,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        795.35,
+        27.08,
+        809.91,
+        43.78
+      ],
+      "confidence": 0.1803,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1190.48,
+        83.95,
+        1206.87,
+        99.46
+      ],
+      "confidence": 0.1059,
+      "cluster_size": 1
+    }
+  ]
+}

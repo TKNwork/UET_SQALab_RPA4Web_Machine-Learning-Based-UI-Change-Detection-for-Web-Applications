@@ -1,0 +1,1074 @@
+{
+  "image": "159_goodreads_com.png",
+  "total_elements": 82,
+  "total_raw_nodes": 93,
+  "total_raw_edges": 47,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        42.0,
+        1536.0,
+        45.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "ocr",
+      "class_label": "goodreads Home My Books",
+      "bbox": [
+        180.0,
+        57.0,
+        485.0,
+        83.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "CURRENTLY READING",
+      "bbox": [
+        296.0,
+        147.0,
+        419.0,
+        159.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "HOME\nSCHOOLED",
+      "bbox": [
+        305.0,
+        221.0,
+        395.0,
+        264.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "by Stefan Merrill Block",
+      "bbox": [
+        415.0,
+        204.0,
+        543.0,
+        215.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "Start date",
+      "bbox": [
+        415.0,
+        226.0,
+        469.0,
+        237.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "Why we're reading this",
+      "bbox": [
+        415.0,
+        262.0,
+        538.0,
+        273.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Discussion",
+      "bbox": [
+        561.0,
+        225.0,
+        617.0,
+        235.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Read With Jenna Picks",
+      "bbox": [
+        561.0,
+        241.0,
+        680.0,
+        251.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        296.57,
+        372.37,
+        413.03,
+        381.98
+      ],
+      "confidence": 0.9379,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "general",
+      "bbox": [
+        308.0,
+        400.0,
+        350.0,
+        412.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "New Author",
+      "bbox": [
+        316.0,
+        428.0,
+        392.0,
+        438.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        315.55,
+        522.79,
+        543.11,
+        535.53
+      ],
+      "confidence": 0.8063,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "Showing 5 of 93 topics",
+      "bbox": [
+        809.0,
+        402.0,
+        922.0,
+        412.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "Big Books of Spring Discover readers' most anticipated spring titles >",
+      "bbox": [
+        562.0,
+        14.0,
+        1007.0,
+        30.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "Homeschooled: A Memoir",
+      "bbox": [
+        416.0,
+        181.0,
+        644.0,
+        195.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        415.54,
+        239.23,
+        500.59,
+        251.91
+      ],
+      "confidence": 0.8176,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "I'm so happy to choose Homeschooled by Stefan Merrill Block for our January\nread! Can't wait to hear what...more",
+      "bbox": [
+        414.0,
+        275.0,
+        892.0,
+        306.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "Is monogamy the only right relationship?",
+      "bbox": [
+        315.0,
+        475.0,
+        565.0,
+        488.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "last updated 19 hours, 49 min ago",
+      "bbox": [
+        742.0,
+        447.0,
+        921.0,
+        458.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "last updated Apr 26, 2026 09:33AM",
+      "bbox": [
+        731.0,
+        495.0,
+        921.0,
+        505.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "last updated Apr 23, 2026 10:00AM",
+      "bbox": [
+        730.0,
+        540.0,
+        919.0,
+        554.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "First-time author here! I would love to hear your feedback and take a look at your books as well!\nBy P. 6 posts. 174 views",
+      "bbox": [
+        316.0,
+        569.0,
+        903.0,
+        602.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "ocr",
+      "class_label": "Recommended Fashion Books for Style Enthusiasts",
+      "bbox": [
+        316.0,
+        618.0,
+        628.0,
+        630.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        308.56,
+        663.27,
+        438.72,
+        675.99
+      ],
+      "confidence": 0.8564,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_25",
+      "source": "ocr",
+      "class_label": "Me & My 8 Enemy available free on Kindle",
+      "bbox": [
+        316.0,
+        693.0,
+        577.0,
+        705.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "ocr",
+      "class_label": "What is the reason for the creation of our world?",
+      "bbox": [
+        315.0,
+        739.0,
+        616.0,
+        751.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "ocr",
+      "class_label": "Is it permissible to love more than one person?",
+      "bbox": [
+        316.0,
+        788.0,
+        601.0,
+        800.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "ocr",
+      "class_label": "last updated Apr 23, 2026 07:30AM",
+      "bbox": [
+        729.0,
+        588.0,
+        918.0,
+        602.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "ocr",
+      "class_label": "last updated Apr 22, 2026 07:49AM",
+      "bbox": [
+        730.0,
+        637.0,
+        921.0,
+        647.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        730.16,
+        710.87,
+        919.88,
+        723.03
+      ],
+      "confidence": 0.8907,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_31",
+      "source": "ocr",
+      "class_label": "last updated Apr 26, 2026 08:32PM",
+      "bbox": [
+        731.0,
+        759.0,
+        920.0,
+        770.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "ocr",
+      "class_label": "last updated Apr 25, 2026 04:18PM",
+      "bbox": [
+        732.0,
+        807.0,
+        920.0,
+        817.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1321.95,
+        62.09,
+        1350.89,
+        74.46
+      ],
+      "confidence": 0.8613,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_34",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        302.12,
+        177.28,
+        400.35,
+        328.79
+      ],
+      "confidence": 0.9592,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_35",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        838.61,
+        102.59,
+        920.72,
+        114.92
+      ],
+      "confidence": 0.9027,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_36",
+      "source": "ocr",
+      "class_label": "Showing 5 of 21 topics - 80 comments total",
+      "bbox": [
+        704.0,
+        667.0,
+        923.0,
+        677.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "ocr",
+      "class_label": "Sign In",
+      "bbox": [
+        1241.0,
+        60.0,
+        1286.0,
+        76.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        968.65,
+        8.32,
+        1535.06,
+        822.29
+      ],
+      "confidence": 0.9601,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        415.56,
+        318.67,
+        497.99,
+        331.28
+      ],
+      "confidence": 0.9079,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_40",
+      "source": "ocr",
+      "class_label": "Community ▼ Search books",
+      "bbox": [
+        615.0,
+        62.0,
+        835.0,
+        76.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "ocr",
+      "class_label": "By Adam - 13 posts - 65 views",
+      "bbox": [
+        316.0,
+        447.0,
+        474.0,
+        458.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        182.58,
+        57.54,
+        302.2,
+        83.99
+      ],
+      "confidence": 0.9371,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        796.07,
+        371.78,
+        921.64,
+        384.51
+      ],
+      "confidence": 0.8192,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_44",
+      "source": "ocr",
+      "class_label": "By Jennie - 3 posts - 52 views",
+      "bbox": [
+        316.0,
+        637.0,
+        470.0,
+        648.0
+      ],
+      "confidence": 0.93,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        559.8,
+        13.58,
+        710.61,
+        30.83
+      ],
+      "confidence": 0.9225,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "ocr",
+      "class_label": "STEFAN MERRILL BLOCK",
+      "bbox": [
+        309.0,
+        308.0,
+        391.0,
+        319.0
+      ],
+      "confidence": 0.92,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "ocr",
+      "class_label": "By Boris - 1 post + 20 views",
+      "bbox": [
+        316.0,
+        495.0,
+        459.0,
+        506.0
+      ],
+      "confidence": 0.92,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "ocr",
+      "class_label": "By Boris - 1 post - 17 views",
+      "bbox": [
+        316.0,
+        807.0,
+        459.0,
+        818.0
+      ],
+      "confidence": 0.92,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "ocr",
+      "class_label": "By Sunil - 1 post • 20 views",
+      "bbox": [
+        316.0,
+        712.0,
+        457.0,
+        723.0
+      ],
+      "confidence": 0.91,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        730.56,
+        493.57,
+        920.73,
+        506.75
+      ],
+      "confidence": 0.907,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "ocr",
+      "class_label": "By Boris - 4 posts. 7 views",
+      "bbox": [
+        316.0,
+        760.0,
+        457.0,
+        771.0
+      ],
+      "confidence": 0.9,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "ocr",
+      "class_label": "Browse ▾",
+      "bbox": [
+        516.0,
+        62.0,
+        582.0,
+        75.0
+      ],
+      "confidence": 0.89,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_53",
+      "source": "ocr",
+      "class_label": "By Lo - 4 posts. 20 views",
+      "bbox": [
+        316.0,
+        542.0,
+        449.0,
+        553.0
+      ],
+      "confidence": 0.89,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_54",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        295.94,
+        148.61,
+        421.31,
+        158.83
+      ],
+      "confidence": 0.8889,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_55",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        615.45,
+        61.95,
+        698.64,
+        77.56
+      ],
+      "confidence": 0.8868,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_56",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        741.38,
+        445.88,
+        921.45,
+        459.38
+      ],
+      "confidence": 0.8864,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_57",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        723.44,
+        15.84,
+        990.49,
+        30.86
+      ],
+      "confidence": 0.8826,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_58",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        416.65,
+        62.04,
+        486.65,
+        77.43
+      ],
+      "confidence": 0.8819,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_59",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        412.93,
+        180.07,
+        644.5,
+        196.39
+      ],
+      "confidence": 0.8791,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_60",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1241.04,
+        61.48,
+        1288.74,
+        76.87
+      ],
+      "confidence": 0.8786,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_61",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        731.88,
+        805.68,
+        920.85,
+        818.41
+      ],
+      "confidence": 0.8769,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_62",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        809.67,
+        400.15,
+        919.82,
+        413.15
+      ],
+      "confidence": 0.8765,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_63",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        342.2,
+        62.34,
+        385.75,
+        75.16
+      ],
+      "confidence": 0.8738,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_64",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        303.33,
+        400.88,
+        351.44,
+        412.22
+      ],
+      "confidence": 0.8736,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_65",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        731.33,
+        758.34,
+        920.44,
+        771.56
+      ],
+      "confidence": 0.8244,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_66",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        516.42,
+        62.86,
+        569.14,
+        74.13
+      ],
+      "confidence": 0.7935,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_67",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        315.29,
+        445.27,
+        474.32,
+        459.45
+      ],
+      "confidence": 0.7477,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_68",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        415.89,
+        260.46,
+        536.03,
+        275.04
+      ],
+      "confidence": 0.7476,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_69",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        559.83,
+        225.43,
+        618.9,
+        236.09
+      ],
+      "confidence": 0.7395,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_70",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        730.99,
+        541.69,
+        917.38,
+        552.23
+      ],
+      "confidence": 0.7393,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_71",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        730.75,
+        635.68,
+        919.82,
+        648.57
+      ],
+      "confidence": 0.6591,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_72",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        415.97,
+        225.25,
+        467.56,
+        237.89
+      ],
+      "confidence": 0.6553,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_73",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        752.07,
+        62.89,
+        834.93,
+        75.36
+      ],
+      "confidence": 0.6427,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_74",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        316.27,
+        426.66,
+        391.47,
+        438.75
+      ],
+      "confidence": 0.6355,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_75",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1196.81,
+        57.36,
+        1216.0,
+        78.19
+      ],
+      "confidence": 0.4986,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_76",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        531.87,
+        13.33,
+        551.79,
+        30.88
+      ],
+      "confidence": 0.5106,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_77",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        574.74,
+        65.7,
+        582.45,
+        70.79
+      ],
+      "confidence": 0.3305,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_78",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        997.28,
+        16.09,
+        1005.8,
+        29.23
+      ],
+      "confidence": 0.329,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_79",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        600.09,
+        297.05,
+        634.5,
+        304.4
+      ],
+      "confidence": 0.3196,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_80",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        703.34,
+        66.33,
+        710.44,
+        70.43
+      ],
+      "confidence": 0.2585,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_81",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        295.43,
+        666.53,
+        306.79,
+        675.09
+      ],
+      "confidence": 0.1703,
+      "cluster_size": 1
+    }
+  ]
+}

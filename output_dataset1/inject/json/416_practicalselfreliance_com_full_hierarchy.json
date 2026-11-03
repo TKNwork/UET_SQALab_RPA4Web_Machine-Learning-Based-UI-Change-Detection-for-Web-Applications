@@ -1,0 +1,502 @@
+{
+  "image": "416_practicalselfreliance_com.png",
+  "total_elements": 38,
+  "total_raw_nodes": 47,
+  "total_raw_edges": 32,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        636.0,
+        1536.0,
+        639.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        68.0,
+        1536.0,
+        71.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "Article Index Homesteading",
+      "bbox": [
+        748.0,
+        18.0,
+        957.0,
+        31.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        999.09,
+        17.03,
+        1069.37,
+        31.56
+      ],
+      "confidence": 0.93,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1113.02,
+        17.01,
+        1179.61,
+        29.17
+      ],
+      "confidence": 0.9161,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1222.52,
+        16.4,
+        1293.44,
+        32.3
+      ],
+      "confidence": 0.9169,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "Practical Self Reliance",
+      "bbox": [
+        168.0,
+        26.0,
+        509.0,
+        51.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Welcome to Practical Self-Reliance! Where you'll find hands-on\nguides for foragers, gardeners, preservers, and homesteaders.",
+      "bbox": [
+        167.0,
+        409.0,
+        717.0,
+        464.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        183.72,
+        501.65,
+        290.13,
+        511.82
+      ],
+      "confidence": 0.8099,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "Food Preservation",
+      "bbox": [
+        169.0,
+        684.0,
+        556.0,
+        712.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        806.33,
+        318.74,
+        952.74,
+        328.21
+      ],
+      "confidence": 0.9376,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1013.92,
+        318.38,
+        1142.48,
+        343.16
+      ],
+      "confidence": 0.9352,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "CRAFT HERBAL REMEDIES",
+      "bbox": [
+        1199.0,
+        319.0,
+        1353.0,
+        328.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "RAISE YOUR OWN",
+      "bbox": [
+        825.0,
+        561.0,
+        931.0,
+        573.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1002.06,
+        560.45,
+        1152.69,
+        571.6
+      ],
+      "confidence": 0.9152,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "LEARN NEW SKILLS",
+      "bbox": [
+        1219.0,
+        562.0,
+        1333.0,
+        574.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "ANIMALS",
+      "bbox": [
+        850.0,
+        578.0,
+        906.0,
+        587.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        168.77,
+        198.82,
+        736.82,
+        365.72
+      ],
+      "confidence": 0.9698,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_18",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1186.45,
+        368.75,
+        1369.48,
+        552.13
+      ],
+      "confidence": 0.9793,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        166.91,
+        483.79,
+        306.94,
+        529.2
+      ],
+      "confidence": 0.8899,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_20",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        787.77,
+        368.28,
+        969.05,
+        551.29
+      ],
+      "confidence": 0.9693,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        985.87,
+        366.3,
+        1169.26,
+        552.47
+      ],
+      "confidence": 0.9665,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        986.93,
+        125.56,
+        1168.03,
+        307.83
+      ],
+      "confidence": 0.9654,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1186.07,
+        126.69,
+        1368.89,
+        307.66
+      ],
+      "confidence": 0.9615,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        786.94,
+        125.76,
+        969.97,
+        307.76
+      ],
+      "confidence": 0.9517,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        858.03,
+        17.03,
+        956.08,
+        31.95
+      ],
+      "confidence": 0.9262,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        825.57,
+        561.23,
+        932.87,
+        586.93
+      ],
+      "confidence": 0.9243,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        747.58,
+        17.66,
+        833.19,
+        29.23
+      ],
+      "confidence": 0.9149,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1198.82,
+        318.02,
+        1355.16,
+        328.81
+      ],
+      "confidence": 0.8814,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        0.0,
+        0.0,
+        775.9,
+        69.58
+      ],
+      "confidence": 0.8771,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        784.42,
+        740.63,
+        1061.26,
+        826.0
+      ],
+      "confidence": 0.8657,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        737.86,
+        0.0,
+        1533.7,
+        69.16
+      ],
+      "confidence": 0.8621,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1219.28,
+        561.51,
+        1335.8,
+        571.17
+      ],
+      "confidence": 0.8061,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1333.86,
+        10.65,
+        1357.63,
+        33.01
+      ],
+      "confidence": 0.4728,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1303.61,
+        18.54,
+        1317.11,
+        28.07
+      ],
+      "confidence": 0.4147,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1191.75,
+        18.96,
+        1202.77,
+        27.73
+      ],
+      "confidence": 0.31,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        967.28,
+        18.16,
+        979.38,
+        28.04
+      ],
+      "confidence": 0.2436,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1082.51,
+        18.78,
+        1092.53,
+        28.26
+      ],
+      "confidence": 0.222,
+      "cluster_size": 1
+    }
+  ]
+}

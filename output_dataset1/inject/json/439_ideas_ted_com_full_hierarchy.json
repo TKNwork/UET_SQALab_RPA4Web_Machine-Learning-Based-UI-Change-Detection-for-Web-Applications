@@ -1,0 +1,359 @@
+{
+  "image": "439_ideas_ted_com.png",
+  "total_elements": 27,
+  "total_raw_nodes": 36,
+  "total_raw_edges": 20,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1373.54,
+        22.68,
+        1434.14,
+        42.33
+      ],
+      "confidence": 0.8796,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_1",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        594.86,
+        82.49,
+        719.31,
+        98.79
+      ],
+      "confidence": 0.9424,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_2",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        735.97,
+        449.26,
+        799.54,
+        462.92
+      ],
+      "confidence": 0.8907,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "3 STRATEGIES FOR\nEFFECTIVE\nLEADERSHIP, FROM\nA FORMER\nASTRONAUT",
+      "bbox": [
+        614.0,
+        485.0,
+        922.0,
+        682.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        603.78,
+        716.5,
+        917.55,
+        825.29
+      ],
+      "confidence": 0.9439,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1072.29,
+        482.71,
+        1381.92,
+        683.46
+      ],
+      "confidence": 0.9403,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1063.3,
+        714.6,
+        1383.73,
+        825.01
+      ],
+      "confidence": 0.9453,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "IDEAS.TED.COM Ideas change nothing",
+      "bbox": [
+        109.0,
+        18.0,
+        615.0,
+        50.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "TECH BUSINESS ARTS + DESIGN SCIENCE",
+      "bbox": [
+        97.0,
+        82.0,
+        566.0,
+        99.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        265.21,
+        450.66,
+        351.13,
+        463.67
+      ],
+      "confidence": 0.9421,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        143.92,
+        500.41,
+        470.56,
+        757.08
+      ],
+      "confidence": 0.9349,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "We humans",
+      "bbox": [
+        1177.0,
+        450.0,
+        1276.0,
+        463.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1476.45,
+        766.92,
+        1531.82,
+        822.56
+      ],
+      "confidence": 0.8194,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        110.05,
+        19.13,
+        383.12,
+        50.37
+      ],
+      "confidence": 0.9552,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        99.52,
+        0.59,
+        392.88,
+        64.43
+      ],
+      "confidence": 0.9291,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        178.76,
+        82.6,
+        280.66,
+        99.04
+      ],
+      "confidence": 0.9113,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        410.85,
+        23.86,
+        614.51,
+        45.09
+      ],
+      "confidence": 0.9111,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "MORE →",
+      "bbox": [
+        273.0,
+        807.0,
+        338.0,
+        821.0
+      ],
+      "confidence": 0.91,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        306.07,
+        82.31,
+        453.21,
+        99.16
+      ],
+      "confidence": 0.8878,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        557.36,
+        151.07,
+        975.12,
+        403.98
+      ],
+      "confidence": 0.8877,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        97.92,
+        82.73,
+        150.67,
+        98.74
+      ],
+      "confidence": 0.8866,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        480.16,
+        82.56,
+        567.66,
+        99.47
+      ],
+      "confidence": 0.8766,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        99.86,
+        151.17,
+        516.25,
+        402.13
+      ],
+      "confidence": 0.868,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1178.69,
+        448.64,
+        1278.39,
+        462.17
+      ],
+      "confidence": 0.6908,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        273.59,
+        808.6,
+        317.42,
+        822.43
+      ],
+      "confidence": 0.6462,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        763.98,
+        78.15,
+        786.84,
+        100.08
+      ],
+      "confidence": 0.6153,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        323.98,
+        810.75,
+        340.45,
+        820.91
+      ],
+      "confidence": 0.2376,
+      "cluster_size": 1
+    }
+  ]
+}

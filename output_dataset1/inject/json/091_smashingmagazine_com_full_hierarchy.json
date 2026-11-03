@@ -1,0 +1,359 @@
+{
+  "image": "091_smashingmagazine_com.png",
+  "total_elements": 27,
+  "total_raw_nodes": 31,
+  "total_raw_edges": 23,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "ocr",
+      "class_label": "LATEST POSTS",
+      "bbox": [
+        91.0,
+        58.0,
+        105.0,
+        202.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "ocr",
+      "class_label": "How to choose between modals and pages, when to\navoid modals, and how to determine the right level of\ninterruption or navigation. Brought to you by Smart\nInterface Design Patterns, a friendly video course\non UX and design patterns by Vitaly.",
+      "bbox": [
+        235.0,
+        129.0,
+        691.0,
+        289.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "Designing Digital Products\nWith Emotion In Flow",
+      "bbox": [
+        855.0,
+        72.0,
+        1263.0,
+        139.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        855.66,
+        170.37,
+        1321.01,
+        361.5
+      ],
+      "confidence": 0.9642,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "MARCH 17, 2026 in Design, UX, Inspiration",
+      "bbox": [
+        880.0,
+        397.0,
+        1211.0,
+        416.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        234.52,
+        540.64,
+        645.41,
+        609.27
+      ],
+      "confidence": 0.9751,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "The way JavaScript handles time has evolved\nsignificantly, from the built-in Date API to Moment.js\nand now Temporal. The new standard fills gaps in the\noriginal Date API while addressing limitations found\nin Moment and other libraries. Joe Attardi shares",
+      "bbox": [
+        234.0,
+        633.0,
+        697.0,
+        794.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "For years, developers have been hacking around the\nlimitations of border-radius, using clip-path, SVG\nmasks, and fragile workarounds just to get anything\nother than round corners. The new corner-shape",
+      "bbox": [
+        855.0,
+        682.0,
+        1304.0,
+        807.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        233.52,
+        637.87,
+        698.84,
+        824.98
+      ],
+      "confidence": 0.9779,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        855.67,
+        685.78,
+        1302.47,
+        824.48
+      ],
+      "confidence": 0.9732,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "MARCH 19, 2026 in Design, User Experience, UI",
+      "bbox": [
+        259.0,
+        324.0,
+        638.0,
+        341.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "practical \"recipes” for migrating Moment-based code",
+      "bbox": [
+        235.0,
+        809.0,
+        687.0,
+        825.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        855.98,
+        540.17,
+        1315.55,
+        658.03
+      ],
+      "confidence": 0.9482,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        855.57,
+        33.45,
+        1264.76,
+        137.67
+      ],
+      "confidence": 0.9584,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        235.64,
+        35.13,
+        678.04,
+        97.95
+      ],
+      "confidence": 0.9358,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_15",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        855.37,
+        33.71,
+        964.93,
+        61.85
+      ],
+      "confidence": 0.9245,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        402.65,
+        323.56,
+        628.09,
+        341.18
+      ],
+      "confidence": 0.9108,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1020.68,
+        397.32,
+        1211.6,
+        415.39
+      ],
+      "confidence": 0.9008,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        234.68,
+        33.65,
+        381.85,
+        62.96
+      ],
+      "confidence": 0.8877,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "Animenvs. Marvel/DC:",
+      "bbox": [
+        856.0,
+        33.0,
+        1181.0,
+        61.0
+      ],
+      "confidence": 0.87,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        995.55,
+        589.78,
+        1170.66,
+        613.89
+      ],
+      "confidence": 0.862,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        857.16,
+        398.86,
+        871.2,
+        411.47
+      ],
+      "confidence": 0.8592,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        855.0,
+        32.0,
+        1182.0,
+        64.0
+      ],
+      "confidence": 0.8516,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        99.0,
+        0.0,
+        104.0,
+        51.0
+      ],
+      "confidence": 0.8503,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        980.5,
+        720.64,
+        1103.1,
+        735.21
+      ],
+      "confidence": 0.8049,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        236.88,
+        323.72,
+        251.02,
+        337.35
+      ],
+      "confidence": 0.6175,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1161.03,
+        789.68,
+        1275.76,
+        806.8
+      ],
+      "confidence": 0.5862,
+      "cluster_size": 1
+    }
+  ]
+}

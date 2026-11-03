@@ -1,0 +1,476 @@
+{
+  "image": "433_gatheranddine_com.png",
+  "total_elements": 36,
+  "total_raw_nodes": 44,
+  "total_raw_edges": 21,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1233.0,
+        743.0,
+        1236.0,
+        826.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        264.0,
+        418.0,
+        470.0,
+        434.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        374.0,
+        404.0,
+        413.0,
+        407.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        993.98,
+        160.45,
+        1235.93,
+        402.34
+      ],
+      "confidence": 0.9863,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        262.35,
+        227.78,
+        471.03,
+        435.77
+      ],
+      "confidence": 0.9793,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "Chocolate Hazelnut Fruit Pizza",
+      "bbox": [
+        492.0,
+        455.0,
+        668.0,
+        465.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "Chocolate Beet Bread",
+      "bbox": [
+        733.0,
+        455.0,
+        856.0,
+        465.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "MORE RECIPES",
+      "bbox": [
+        540.0,
+        526.0,
+        634.0,
+        534.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Breakfast",
+      "bbox": [
+        553.0,
+        604.0,
+        624.0,
+        616.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1049.29,
+        31.0,
+        1139.91,
+        42.47
+      ],
+      "confidence": 0.8663,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        993.76,
+        411.54,
+        1235.21,
+        654.23
+      ],
+      "confidence": 0.9756,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        476.16,
+        227.69,
+        686.33,
+        436.11
+      ],
+      "confidence": 0.9774,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_12",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        689.54,
+        227.33,
+        900.82,
+        436.31
+      ],
+      "confidence": 0.9803,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "Twisty Stollen Buns",
+      "bbox": [
+        738.0,
+        203.0,
+        851.0,
+        215.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1062.09,
+        127.89,
+        1163.92,
+        142.38
+      ],
+      "confidence": 0.9289,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_15",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        477.39,
+        0.0,
+        685.82,
+        183.74
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        690.96,
+        1.9,
+        900.97,
+        184.2
+      ],
+      "confidence": 0.9725,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "Strawberry Oat Yogurt Scones",
+      "bbox": [
+        494.0,
+        203.0,
+        665.0,
+        215.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        298.7,
+        453.5,
+        431.86,
+        467.59
+      ],
+      "confidence": 0.9342,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_19",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        994.93,
+        663.59,
+        1234.37,
+        825.34
+      ],
+      "confidence": 0.9584,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        478.41,
+        631.82,
+        685.25,
+        825.25
+      ],
+      "confidence": 0.9441,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        691.61,
+        631.8,
+        899.68,
+        824.16
+      ],
+      "confidence": 0.9438,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        493.62,
+        453.64,
+        665.89,
+        482.58
+      ],
+      "confidence": 0.9377,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "ocr",
+      "class_label": "{with Sourdough Crust)",
+      "bbox": [
+        513.0,
+        470.0,
+        647.0,
+        483.0
+      ],
+      "confidence": 0.93,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        496.69,
+        201.89,
+        664.6,
+        216.04
+      ],
+      "confidence": 0.9094,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        552.32,
+        602.72,
+        624.24,
+        616.91
+      ],
+      "confidence": 0.9065,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        737.23,
+        201.56,
+        849.89,
+        216.06
+      ],
+      "confidence": 0.8975,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        733.54,
+        453.64,
+        854.92,
+        464.36
+      ],
+      "confidence": 0.8956,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "ocr",
+      "class_label": "90",
+      "bbox": [
+        273.0,
+        0.0,
+        337.0,
+        58.0
+      ],
+      "confidence": 0.89,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1038.18,
+        21.29,
+        1210.9,
+        52.67
+      ],
+      "confidence": 0.8295,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        537.1,
+        523.61,
+        636.89,
+        537.54
+      ],
+      "confidence": 0.7383,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1018.73,
+        30.85,
+        1032.64,
+        43.11
+      ],
+      "confidence": 0.6471,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        529.35,
+        519.68,
+        643.08,
+        541.74
+      ],
+      "confidence": 0.6428,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        346.92,
+        135.95,
+        387.17,
+        172.61
+      ],
+      "confidence": 0.5651,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1195.45,
+        33.81,
+        1206.5,
+        42.76
+      ],
+      "confidence": 0.2647,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        824.56,
+        141.46,
+        864.51,
+        164.43
+      ],
+      "confidence": 0.2212,
+      "cluster_size": 1
+    }
+  ]
+}

@@ -1,0 +1,1269 @@
+{
+  "image": "134_wikihow_com.png",
+  "total_elements": 97,
+  "total_raw_nodes": 120,
+  "total_raw_edges": 142,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        552.0,
+        1536.0,
+        555.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        949.0,
+        71.0,
+        1102.0,
+        76.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        38.0,
+        1536.0,
+        133.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        414.0,
+        10.0,
+        739.0,
+        34.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "Dress Business\nCasual?",
+      "bbox": [
+        268.0,
+        161.0,
+        388.0,
+        195.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        759.8,
+        10.91,
+        816.71,
+        24.51
+      ],
+      "confidence": 0.9425,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        258.46,
+        261.48,
+        372.25,
+        276.37
+      ],
+      "confidence": 0.9357,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        231.93,
+        584.34,
+        393.53,
+        609.67
+      ],
+      "confidence": 0.965,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "PRO",
+      "bbox": [
+        937.0,
+        14.0,
+        963.0,
+        24.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1085.06,
+        14.79,
+        1132.93,
+        21.98
+      ],
+      "confidence": 0.8028,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "RANDOM",
+      "bbox": [
+        1233.0,
+        15.0,
+        1279.0,
+        23.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "SOME TIPS FOR GETTIN",
+      "bbox": [
+        992.0,
+        48.0,
+        1102.0,
+        57.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "Expert",
+      "bbox": [
+        1138.0,
+        55.0,
+        1162.0,
+        62.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        782.02,
+        410.73,
+        905.09,
+        489.67
+      ],
+      "confidence": 0.9401,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_14",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        676.76,
+        652.2,
+        714.71,
+        662.98
+      ],
+      "confidence": 0.836,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "Privacy Policy",
+      "bbox": [
+        803.0,
+        710.0,
+        894.0,
+        723.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "Contribute",
+      "bbox": [
+        803.0,
+        739.0,
+        870.0,
+        750.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1028.09,
+        605.4,
+        1198.24,
+        619.9
+      ],
+      "confidence": 0.8652,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_18",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        998.37,
+        633.65,
+        1160.77,
+        663.35
+      ],
+      "confidence": 0.9114,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "Enter your email",
+      "bbox": [
+        1012.0,
+        683.0,
+        1114.0,
+        695.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "By signing up you are agreeing to\nreceive emails according to our\nprivacy policy.",
+      "bbox": [
+        1000.0,
+        745.0,
+        1180.0,
+        783.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "Expert",
+      "bbox": [
+        451.0,
+        55.0,
+        475.0,
+        62.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        610.79,
+        139.12,
+        705.78,
+        197.53
+      ],
+      "confidence": 0.9664,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_23",
+      "source": "ocr",
+      "class_label": "Expert",
+      "bbox": [
+        794.0,
+        55.0,
+        818.0,
+        62.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        781.58,
+        139.45,
+        917.57,
+        194.12
+      ],
+      "confidence": 0.9571,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_25",
+      "source": "ocr",
+      "class_label": "How to",
+      "bbox": [
+        268.0,
+        411.0,
+        303.0,
+        421.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "ocr",
+      "class_label": "Fix Your Printer",
+      "bbox": [
+        269.0,
+        428.0,
+        387.0,
+        442.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        439.65,
+        411.54,
+        567.47,
+        488.58
+      ],
+      "confidence": 0.9452,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_28",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        611.26,
+        411.13,
+        736.72,
+        489.17
+      ],
+      "confidence": 0.9176,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_29",
+      "source": "ocr",
+      "class_label": "LOG IN",
+      "bbox": [
+        1165.0,
+        15.0,
+        1199.0,
+        24.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1014.05,
+        13.99,
+        1057.63,
+        22.88
+      ],
+      "confidence": 0.8016,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_31",
+      "source": "ocr",
+      "class_label": "LES OUT OF PAPER?",
+      "bbox": [
+        995.0,
+        60.0,
+        1089.0,
+        69.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "ocr",
+      "class_label": "What Are Some\nTips for Getting\nWrinkles Out of\nPaper?",
+      "bbox": [
+        954.0,
+        139.0,
+        1075.0,
+        217.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1125.97,
+        139.68,
+        1251.57,
+        194.92
+      ],
+      "confidence": 0.9338,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_34",
+      "source": "ocr",
+      "class_label": "See more new pages >",
+      "bbox": [
+        1113.0,
+        259.0,
+        1278.0,
+        278.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "ocr",
+      "class_label": "120+ Common &\nUnique Danish\nSurnames (With\nMeanings)",
+      "bbox": [
+        1127.0,
+        411.0,
+        1253.0,
+        487.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        803.87,
+        652.87,
+        861.06,
+        666.01
+      ],
+      "confidence": 0.7915,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_37",
+      "source": "ocr",
+      "class_label": "About wikiHow",
+      "bbox": [
+        676.0,
+        682.0,
+        772.0,
+        694.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "ocr",
+      "class_label": "Terms of Use",
+      "bbox": [
+        804.0,
+        680.0,
+        889.0,
+        693.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "ocr",
+      "class_label": "f",
+      "bbox": [
+        386.0,
+        746.0,
+        397.0,
+        762.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        676.57,
+        767.18,
+        748.86,
+        777.89
+      ],
+      "confidence": 0.7962,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_41",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1051.2,
+        719.54,
+        1142.49,
+        735.25
+      ],
+      "confidence": 0.9336,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_42",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        944.56,
+        44.16,
+        1106.35,
+        132.34
+      ],
+      "confidence": 0.9597,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_43",
+      "source": "ocr",
+      "class_label": "wikiHow to do anything...",
+      "bbox": [
+        243.0,
+        5.0,
+        566.0,
+        33.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "ocr",
+      "class_label": "How Do You",
+      "bbox": [
+        269.0,
+        140.0,
+        362.0,
+        152.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        438.93,
+        137.69,
+        579.55,
+        194.04
+      ],
+      "confidence": 0.9548,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_46",
+      "source": "ocr",
+      "class_label": "When It's Stuck in\nan Error State",
+      "bbox": [
+        267.0,
+        450.0,
+        406.0,
+        483.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "ocr",
+      "class_label": "Expert",
+      "bbox": [
+        966.0,
+        55.0,
+        989.0,
+        62.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        953.54,
+        413.77,
+        1079.33,
+        486.89
+      ],
+      "confidence": 0.892,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_49",
+      "source": "ocr",
+      "class_label": "Experts\nJobs",
+      "bbox": [
+        677.0,
+        711.0,
+        727.0,
+        750.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        999.9,
+        672.67,
+        1192.69,
+        703.56
+      ],
+      "confidence": 0.9206,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_51",
+      "source": "ocr",
+      "class_label": "Expert You Prevent\nPregnancy",
+      "bbox": [
+        606.0,
+        53.0,
+        718.0,
+        85.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "ocr",
+      "class_label": "Search how to...",
+      "bbox": [
+        213.0,
+        662.0,
+        352.0,
+        680.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_53",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        603.48,
+        294.96,
+        762.16,
+        402.26
+      ],
+      "confidence": 0.9599,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_54",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        946.11,
+        295.35,
+        1105.75,
+        402.93
+      ],
+      "confidence": 0.9594,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_55",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        774.21,
+        295.42,
+        934.11,
+        402.15
+      ],
+      "confidence": 0.9513,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_56",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        430.71,
+        295.32,
+        589.59,
+        402.63
+      ],
+      "confidence": 0.9255,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_57",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        601.97,
+        44.18,
+        760.24,
+        131.66
+      ],
+      "confidence": 0.919,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_58",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        0.54,
+        5.92,
+        1009.34,
+        549.37
+      ],
+      "confidence": 0.9102,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_59",
+      "source": "ocr",
+      "class_label": "Expert You Dress\nBusiness Casual?",
+      "bbox": [
+        267.0,
+        53.0,
+        368.0,
+        86.0
+      ],
+      "confidence": 0.91,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_60",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        197.11,
+        643.37,
+        610.63,
+        697.04
+      ],
+      "confidence": 0.8797,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_61",
+      "source": "ocr",
+      "class_label": "Ware Signs a First Date\nWent Well",
+      "bbox": [
+        776.0,
+        59.0,
+        925.0,
+        87.0
+      ],
+      "confidence": 0.9,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_62",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        419.09,
+        10.49,
+        560.19,
+        31.67
+      ],
+      "confidence": 0.8937,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_63",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        773.7,
+        44.2,
+        933.52,
+        131.57
+      ],
+      "confidence": 0.8901,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_64",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        244.19,
+        6.77,
+        404.35,
+        32.38
+      ],
+      "confidence": 0.889,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_65",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1117.59,
+        295.29,
+        1272.15,
+        403.26
+      ],
+      "confidence": 0.8765,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_66",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        912.67,
+        5.29,
+        987.2,
+        34.11
+      ],
+      "confidence": 0.8754,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_67",
+      "source": "ocr",
+      "class_label": "HOW DO You Tell If Someone\nLikes You?",
+      "bbox": [
+        434.0,
+        59.0,
+        584.0,
+        88.0
+      ],
+      "confidence": 0.86,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_68",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        0.0,
+        552.68,
+        614.55,
+        825.54
+      ],
+      "confidence": 0.8547,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_69",
+      "source": "ocr",
+      "class_label": "ل",
+      "bbox": [
+        339.0,
+        745.0,
+        355.0,
+        760.0
+      ],
+      "confidence": 0.85,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_70",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        933.34,
+        11.49,
+        969.99,
+        25.48
+      ],
+      "confidence": 0.8371,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_71",
+      "source": "ocr",
+      "class_label": "How Can You Build a Sexy",
+      "bbox": [
+        1120.0,
+        59.0,
+        1261.0,
+        72.0
+      ],
+      "confidence": 0.83,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_72",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        803.29,
+        659.51,
+        893.02,
+        748.79
+      ],
+      "confidence": 0.8226,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_73",
+      "source": "ocr",
+      "class_label": "Yet Casual Outfit?",
+      "bbox": [
+        1120.0,
+        77.0,
+        1221.0,
+        87.0
+      ],
+      "confidence": 0.82,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_74",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1010.67,
+        680.52,
+        1113.57,
+        697.37
+      ],
+      "confidence": 0.8177,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_75",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1113.0,
+        260.96,
+        1270.12,
+        277.3
+      ],
+      "confidence": 0.8046,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_76",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        748.7,
+        2.59,
+        827.1,
+        37.89
+      ],
+      "confidence": 0.7995,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_77",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        265.85,
+        427.91,
+        407.24,
+        483.85
+      ],
+      "confidence": 0.7932,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_78",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        266.65,
+        138.83,
+        389.31,
+        194.57
+      ],
+      "confidence": 0.7286,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_79",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        999.02,
+        711.91,
+        1192.22,
+        751.94
+      ],
+      "confidence": 0.6864,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_80",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1002.56,
+        743.68,
+        1176.93,
+        763.68
+      ],
+      "confidence": 0.6022,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_81",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        328.88,
+        735.74,
+        362.94,
+        769.66
+      ],
+      "confidence": 0.5617,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_82",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1001.55,
+        596.61,
+        1025.03,
+        620.68
+      ],
+      "confidence": 0.5563,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_83",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        372.8,
+        735.59,
+        407.89,
+        770.05
+      ],
+      "confidence": 0.5335,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_84",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        463.67,
+        736.04,
+        498.99,
+        770.0
+      ],
+      "confidence": 0.5317,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_85",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        268.35,
+        409.59,
+        302.9,
+        420.37
+      ],
+      "confidence": 0.456,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_86",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1233.23,
+        14.38,
+        1278.81,
+        21.92
+      ],
+      "confidence": 0.3772,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_87",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        545.94,
+        659.63,
+        566.06,
+        680.26
+      ],
+      "confidence": 0.3182,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_88",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        263.3,
+        51.0,
+        309.79,
+        66.78
+      ],
+      "confidence": 0.247,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_89",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1165.19,
+        14.06,
+        1201.72,
+        22.19
+      ],
+      "confidence": 0.2331,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_90",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1267.61,
+        261.49,
+        1279.08,
+        277.16
+      ],
+      "confidence": 0.1984,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_91",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        432.75,
+        49.39,
+        476.58,
+        68.8
+      ],
+      "confidence": 0.1775,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_92",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        774.94,
+        49.18,
+        822.71,
+        68.28
+      ],
+      "confidence": 0.1645,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_93",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        676.93,
+        53.13,
+        722.41,
+        67.4
+      ],
+      "confidence": 0.1243,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_94",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        267.31,
+        74.35,
+        316.21,
+        83.71
+      ],
+      "confidence": 0.1186,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_95",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        437.49,
+        49.9,
+        481.66,
+        69.78
+      ],
+      "confidence": 0.1145,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_96",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        266.79,
+        75.15,
+        316.26,
+        82.63
+      ],
+      "confidence": 0.1043,
+      "cluster_size": 1
+    }
+  ]
+}

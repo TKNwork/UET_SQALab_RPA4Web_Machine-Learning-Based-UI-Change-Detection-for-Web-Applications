@@ -1,0 +1,1061 @@
+{
+  "image": "288_abebooks_com.png",
+  "total_elements": 81,
+  "total_raw_nodes": 97,
+  "total_raw_edges": 90,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        97.0,
+        758.0,
+        1440.0,
+        826.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        396.0,
+        21.0,
+        920.0,
+        59.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "AbeBooks",
+      "bbox": [
+        197.0,
+        35.0,
+        313.0,
+        52.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "Enter keyword title, author, or ISBN",
+      "bbox": [
+        411.0,
+        35.0,
+        634.0,
+        47.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        157.35,
+        95.45,
+        266.17,
+        105.94
+      ],
+      "confidence": 0.9205,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        370.48,
+        95.75,
+        490.31,
+        105.82
+      ],
+      "confidence": 0.9484,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        126.99,
+        236.65,
+        452.05,
+        289.58
+      ],
+      "confidence": 0.9707,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        127.21,
+        324.05,
+        173.32,
+        335.05
+      ],
+      "confidence": 0.8959,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Enter author",
+      "bbox": [
+        139.0,
+        354.0,
+        230.0,
+        368.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "Title",
+      "bbox": [
+        128.0,
+        412.0,
+        158.0,
+        422.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "Enter title",
+      "bbox": [
+        139.0,
+        443.0,
+        212.0,
+        454.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "Keyword or ISBN",
+      "bbox": [
+        128.0,
+        493.0,
+        237.0,
+        509.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "Search",
+      "bbox": [
+        158.0,
+        591.0,
+        202.0,
+        601.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        146.21,
+        784.28,
+        414.91,
+        804.35
+      ],
+      "confidence": 0.8486,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_14",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        593.96,
+        95.83,
+        665.12,
+        105.95
+      ],
+      "confidence": 0.7874,
+      "cluster_size": 3
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "CHANEL",
+      "bbox": [
+        571.0,
+        224.0,
+        652.0,
+        258.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "AS",
+      "bbox": [
+        562.0,
+        422.0,
+        618.0,
+        463.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "USD",
+      "bbox": [
+        1030.0,
+        36.0,
+        1054.0,
+        45.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "Sign in",
+      "bbox": [
+        1085.0,
+        33.0,
+        1124.0,
+        46.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "Help",
+      "bbox": [
+        1334.0,
+        35.0,
+        1361.0,
+        47.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        983.94,
+        95.99,
+        1049.08,
+        105.97
+      ],
+      "confidence": 0.9446,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_21",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1152.78,
+        95.84,
+        1195.41,
+        105.85
+      ],
+      "confidence": 0.9418,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "REMARKABLE",
+      "bbox": [
+        1020.0,
+        311.0,
+        1118.0,
+        350.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "ocr",
+      "class_label": "BOOKS",
+      "bbox": [
+        1022.0,
+        325.0,
+        1124.0,
+        374.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "ocr",
+      "class_label": "DOGS",
+      "bbox": [
+        1202.0,
+        195.0,
+        1295.0,
+        239.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "ocr",
+      "class_label": "BAU",
+      "bbox": [
+        1371.0,
+        162.0,
+        1441.0,
+        204.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "ocr",
+      "class_label": "ARNOLD",
+      "bbox": [
+        1327.0,
+        391.0,
+        1432.0,
+        434.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "ocr",
+      "class_label": "Coffee table books for every collection",
+      "bbox": [
+        572.0,
+        517.0,
+        1245.0,
+        559.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "ocr",
+      "class_label": "Discover visual masterpieces that transform any space. From stunning art collections\nto iconic rockstars, explore exquisitely crafted books designed to inspire and impress\non your shelves or coffee table.",
+      "bbox": [
+        571.0,
+        586.0,
+        1259.0,
+        656.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        126.73,
+        201.27,
+        335.2,
+        211.65
+      ],
+      "confidence": 0.9174,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_30",
+      "source": "ocr",
+      "class_label": "Enter keyword or ISBN",
+      "bbox": [
+        138.0,
+        526.0,
+        301.0,
+        540.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "ocr",
+      "class_label": "ER'S",
+      "bbox": [
+        567.0,
+        405.0,
+        608.0,
+        430.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        767.86,
+        95.84,
+        879.92,
+        106.43
+      ],
+      "confidence": 0.9439,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_33",
+      "source": "ocr",
+      "class_label": "My Account",
+      "bbox": [
+        1156.0,
+        34.0,
+        1224.0,
+        47.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "ocr",
+      "class_label": "Start Selling",
+      "bbox": [
+        1299.0,
+        94.0,
+        1378.0,
+        108.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        125.52,
+        339.55,
+        502.65,
+        387.11
+      ],
+      "confidence": 0.9468,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_36",
+      "source": "ocr",
+      "class_label": "Cart",
+      "bbox": [
+        1253.0,
+        33.0,
+        1278.0,
+        47.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "ocr",
+      "class_label": "See the books →",
+      "bbox": [
+        570.0,
+        690.0,
+        687.0,
+        702.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "ocr",
+      "class_label": "A NEW NOVEL",
+      "bbox": [
+        951.0,
+        773.0,
+        995.0,
+        793.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        126.69,
+        424.43,
+        502.7,
+        471.32
+      ],
+      "confidence": 0.9399,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_40",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        1145.0,
+        25.0,
+        1235.0,
+        56.0
+      ],
+      "confidence": 0.9516,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "ocr",
+      "class_label": "Crass",
+      "bbox": [
+        1059.0,
+        272.0,
+        1097.0,
+        295.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        1243.0,
+        25.0,
+        1315.0,
+        56.0
+      ],
+      "confidence": 0.9498,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        1075.0,
+        25.0,
+        1137.0,
+        56.0
+      ],
+      "confidence": 0.948,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        997.0,
+        25.0,
+        1067.0,
+        56.0
+      ],
+      "confidence": 0.947,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        95.58,
+        157.73,
+        527.61,
+        710.03
+      ],
+      "confidence": 0.9448,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "ocr",
+      "class_label": "Roar!",
+      "bbox": [
+        1176.0,
+        429.0,
+        1273.0,
+        475.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        874.49,
+        23.78,
+        917.99,
+        56.41
+      ],
+      "confidence": 0.8486,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_48",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        1323.0,
+        25.0,
+        1373.0,
+        56.0
+      ],
+      "confidence": 0.9387,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "ocr",
+      "class_label": "Leaves",
+      "bbox": [
+        1053.0,
+        250.0,
+        1090.0,
+        270.0
+      ],
+      "confidence": 0.93,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        410.17,
+        34.13,
+        633.07,
+        48.82
+      ],
+      "confidence": 0.9079,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "ocr",
+      "class_label": "CARRIE",
+      "bbox": [
+        963.0,
+        789.0,
+        990.0,
+        802.0
+      ],
+      "confidence": 0.9,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "ocr",
+      "class_label": "BY THE AUTHOR OF",
+      "bbox": [
+        946.0,
+        778.0,
+        1004.0,
+        800.0
+      ],
+      "confidence": 0.89,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_53",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1299.99,
+        95.74,
+        1378.02,
+        109.56
+      ],
+      "confidence": 0.8889,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_54",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1318.26,
+        22.1,
+        1375.78,
+        58.14
+      ],
+      "confidence": 0.8874,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_55",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1071.69,
+        22.81,
+        1142.19,
+        57.97
+      ],
+      "confidence": 0.8861,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_56",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        98.23,
+        759.95,
+        524.96,
+        825.09
+      ],
+      "confidence": 0.8806,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_57",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1142.38,
+        23.01,
+        1238.93,
+        57.62
+      ],
+      "confidence": 0.8692,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_58",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        128.27,
+        511.52,
+        500.85,
+        556.66
+      ],
+      "confidence": 0.8567,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_59",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1154.75,
+        35.18,
+        1224.13,
+        48.72
+      ],
+      "confidence": 0.7369,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_60",
+      "source": "ocr",
+      "class_label": "THOSE EXTRAUK",
+      "bbox": [
+        1121.0,
+        752.0,
+        1216.0,
+        799.0
+      ],
+      "confidence": 0.83,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_61",
+      "source": "ocr",
+      "class_label": "TWINS",
+      "bbox": [
+        1184.0,
+        763.0,
+        1238.0,
+        791.0
+      ],
+      "confidence": 0.83,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_62",
+      "source": "ocr",
+      "class_label": "Q",
+      "bbox": [
+        885.0,
+        31.0,
+        904.0,
+        47.0
+      ],
+      "confidence": 0.82,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_63",
+      "source": "ocr",
+      "class_label": "THE NIGHT SKY",
+      "bbox": [
+        571.0,
+        458.0,
+        619.0,
+        478.0
+      ],
+      "confidence": 0.81,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_64",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        154.17,
+        21.44,
+        315.21,
+        57.11
+      ],
+      "confidence": 0.8044,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_65",
+      "source": "ocr",
+      "class_label": "TIM FLACH",
+      "bbox": [
+        1236.0,
+        229.0,
+        1275.0,
+        246.0
+      ],
+      "confidence": 0.8,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_66",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        127.28,
+        575.94,
+        233.21,
+        616.7
+      ],
+      "confidence": 0.7908,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_67",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1242.03,
+        22.21,
+        1318.2,
+        58.13
+      ],
+      "confidence": 0.7768,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_68",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        128.03,
+        495.08,
+        239.56,
+        509.64
+      ],
+      "confidence": 0.7696,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_69",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1085.31,
+        34.58,
+        1127.63,
+        49.02
+      ],
+      "confidence": 0.7415,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_70",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        995.06,
+        23.07,
+        1072.95,
+        57.43
+      ],
+      "confidence": 0.6472,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_71",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1372.43,
+        591.37,
+        1402.89,
+        621.51
+      ],
+      "confidence": 0.6658,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_72",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        126.39,
+        409.9,
+        158.61,
+        421.34
+      ],
+      "confidence": 0.6546,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_73",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1021.23,
+        35.62,
+        1055.64,
+        46.7
+      ],
+      "confidence": 0.6429,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_74",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1336.03,
+        34.91,
+        1361.02,
+        49.19
+      ],
+      "confidence": 0.6131,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_75",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1408.1,
+        591.46,
+        1438.4,
+        621.51
+      ],
+      "confidence": 0.6123,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_76",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        399.67,
+        22.12,
+        634.05,
+        56.99
+      ],
+      "confidence": 0.6076,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_77",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        158.96,
+        590.29,
+        203.59,
+        600.28
+      ],
+      "confidence": 0.5347,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_78",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1255.4,
+        32.25,
+        1303.14,
+        48.29
+      ],
+      "confidence": 0.4953,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_79",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1280.03,
+        32.05,
+        1300.97,
+        48.31
+      ],
+      "confidence": 0.4218,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_80",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1008.73,
+        34.5,
+        1059.93,
+        48.06
+      ],
+      "confidence": 0.1143,
+      "cluster_size": 1
+    }
+  ]
+}

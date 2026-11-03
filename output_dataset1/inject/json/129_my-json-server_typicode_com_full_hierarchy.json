@@ -1,0 +1,125 @@
+{
+  "image": "129_my-json-server_typicode_com.png",
+  "total_elements": 9,
+  "total_raw_nodes": 12,
+  "total_raw_edges": 6,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        90.0,
+        1536.0,
+        93.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        645.01,
+        273.22,
+        890.85,
+        285.87
+      ],
+      "confidence": 0.9254,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "Need more? Private repos, dynamic data, REST and GraphQL-check out our sponsor, Mockend\nMy JSON Server beta",
+      "bbox": [
+        308.0,
+        13.0,
+        1114.0,
+        77.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1138.76,
+        61.44,
+        1228.65,
+        74.79
+      ],
+      "confidence": 0.8987,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "My JSON Server",
+      "bbox": [
+        612.0,
+        199.0,
+        927.0,
+        241.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1068.48,
+        61.49,
+        1107.91,
+        74.95
+      ],
+      "confidence": 0.8847,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        614.38,
+        202.33,
+        927.31,
+        245.83
+      ],
+      "confidence": 0.9104,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        309.35,
+        61.64,
+        427.87,
+        77.62
+      ],
+      "confidence": 0.5183,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        436.26,
+        61.26,
+        463.52,
+        70.99
+      ],
+      "confidence": 0.1869,
+      "cluster_size": 1
+    }
+  ]
+}

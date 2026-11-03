@@ -1,0 +1,463 @@
+{
+  "image": "467_handy_com.png",
+  "total_elements": 35,
+  "total_raw_nodes": 43,
+  "total_raw_edges": 29,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "ocr",
+      "class_label": "Become a Pro",
+      "bbox": [
+        1063.0,
+        27.0,
+        1162.0,
+        38.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "ocr",
+      "class_label": "Help",
+      "bbox": [
+        1210.0,
+        28.0,
+        1243.0,
+        40.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        184.37,
+        117.31,
+        1087.06,
+        153.14
+      ],
+      "confidence": 0.9512,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "Home Cleaning",
+      "bbox": [
+        299.0,
+        302.0,
+        410.0,
+        317.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        610.92,
+        302.12,
+        696.29,
+        315.13
+      ],
+      "confidence": 0.9453,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        182.47,
+        443.65,
+        592.27,
+        472.65
+      ],
+      "confidence": 0.9324,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "All Services",
+      "bbox": [
+        300.0,
+        27.0,
+        385.0,
+        38.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Blog",
+      "bbox": [
+        445.0,
+        27.0,
+        476.0,
+        39.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Instantly book highly rated pros for cleaning and handyman tasks at an upfront price.",
+      "bbox": [
+        184.0,
+        501.0,
+        793.0,
+        515.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "Home Cleaning >",
+      "bbox": [
+        258.0,
+        731.0,
+        379.0,
+        749.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        543.77,
+        732.81,
+        693.12,
+        749.72
+      ],
+      "confidence": 0.9393,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        484.1,
+        232.92,
+        556.8,
+        344.56
+      ],
+      "confidence": 0.9661,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_12",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        184.67,
+        233.25,
+        256.74,
+        344.63
+      ],
+      "confidence": 0.9604,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        557.44,
+        232.3,
+        753.92,
+        347.74
+      ],
+      "confidence": 0.9708,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1163.59,
+        732.49,
+        1271.33,
+        749.56
+      ],
+      "confidence": 0.921,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_15",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        257.06,
+        232.13,
+        454.44,
+        347.79
+      ],
+      "confidence": 0.9552,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "Log In",
+      "bbox": [
+        1291.0,
+        26.0,
+        1334.0,
+        40.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        864.78,
+        733.04,
+        970.78,
+        749.86
+      ],
+      "confidence": 0.9042,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "See All >",
+      "bbox": [
+        1292.0,
+        501.0,
+        1353.0,
+        512.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        481.55,
+        540.8,
+        753.13,
+        775.52
+      ],
+      "confidence": 0.9389,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        375.0,
+        695.0,
+        408.0,
+        698.0
+      ],
+      "confidence": 0.9167,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        180.91,
+        499.6,
+        796.24,
+        516.26
+      ],
+      "confidence": 0.9145,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1061.56,
+        25.67,
+        1162.36,
+        39.82
+      ],
+      "confidence": 0.9105,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        783.69,
+        542.92,
+        1052.29,
+        710.81
+      ],
+      "confidence": 0.9104,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1081.85,
+        541.41,
+        1353.65,
+        775.05
+      ],
+      "confidence": 0.8986,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        256.96,
+        732.68,
+        378.85,
+        750.12
+      ],
+      "confidence": 0.895,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        298.59,
+        301.94,
+        410.7,
+        319.76
+      ],
+      "confidence": 0.8821,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        298.57,
+        25.43,
+        397.99,
+        39.75
+      ],
+      "confidence": 0.8793,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1292.5,
+        501.01,
+        1351.25,
+        513.9
+      ],
+      "confidence": 0.8636,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1290.41,
+        25.64,
+        1336.21,
+        43.23
+      ],
+      "confidence": 0.8059,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        184.19,
+        11.7,
+        252.53,
+        58.5
+      ],
+      "confidence": 0.7721,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1208.88,
+        25.61,
+        1244.57,
+        41.71
+      ],
+      "confidence": 0.7322,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        209.89,
+        271.49,
+        231.66,
+        307.34
+      ],
+      "confidence": 0.7222,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        443.46,
+        25.96,
+        477.8,
+        42.65
+      ],
+      "confidence": 0.6834,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        511.32,
+        272.33,
+        530.83,
+        305.71
+      ],
+      "confidence": 0.6459,
+      "cluster_size": 1
+    }
+  ]
+}

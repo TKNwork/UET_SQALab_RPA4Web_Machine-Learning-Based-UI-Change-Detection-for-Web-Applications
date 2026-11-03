@@ -1,0 +1,138 @@
+{
+  "image": "355_blog_glitch_com.png",
+  "total_elements": 10,
+  "total_raw_nodes": 10,
+  "total_raw_edges": 3,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "ocr",
+      "class_label": "By Jenn Schiffer",
+      "bbox": [
+        292.0,
+        452.0,
+        415.0,
+        467.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        254.0,
+        10.0,
+        1282.0,
+        435.0
+      ],
+      "confidence": 0.9899,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "June 18, 2024",
+      "bbox": [
+        1175.0,
+        454.0,
+        1280.0,
+        468.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "Fastly held its first-ever special event last week and I'm still buzzing from the\nenergy of my colleagues, attendees, and all of the exciting announcements. I had\nthe honor of getting to introduce everyone - in person and live on YouTube - to",
+      "bbox": [
+        383.0,
+        724.0,
+        1126.0,
+        813.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "up the new Glitch",
+      "bbox": [
+        384.0,
+        452.0,
+        830.0,
+        508.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        515.15,
+        723.92,
+        735.09,
+        742.95
+      ],
+      "confidence": 0.9215,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        922.26,
+        794.06,
+        1071.88,
+        809.13
+      ],
+      "confidence": 0.8767,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Our first step to opening.",
+      "bbox": [
+        379.0,
+        378.0,
+        1019.0,
+        432.0
+      ],
+      "confidence": 0.84,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1173.45,
+        452.9,
+        1280.46,
+        469.56
+      ],
+      "confidence": 0.5076,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        263.7,
+        446.15,
+        281.91,
+        470.93
+      ],
+      "confidence": 0.1488,
+      "cluster_size": 1
+    }
+  ]
+}

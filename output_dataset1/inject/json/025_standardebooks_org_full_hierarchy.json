@@ -1,0 +1,697 @@
+{
+  "image": "025_standardebooks_org.png",
+  "total_elements": 53,
+  "total_raw_nodes": 62,
+  "total_raw_edges": 52,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        833.0,
+        642.0,
+        1055.0,
+        659.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        479.3,
+        323.63,
+        704.78,
+        661.91
+      ],
+      "confidence": 0.9649,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "OF GOLD",
+      "bbox": [
+        906.0,
+        92.0,
+        981.0,
+        104.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "The Arrow of Gold",
+      "bbox": [
+        859.0,
+        154.0,
+        1026.0,
+        170.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "Lady Rose's Daughter",
+      "bbox": [
+        139.0,
+        674.0,
+        340.0,
+        692.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        547.76,
+        673.64,
+        636.18,
+        689.8
+      ],
+      "confidence": 0.9532,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "WITH THE EMPRESS",
+      "bbox": [
+        862.0,
+        594.0,
+        1024.0,
+        607.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        126.99,
+        325.18,
+        353.68,
+        660.01
+      ],
+      "confidence": 0.9732,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1182.63,
+        324.27,
+        1409.25,
+        659.23
+      ],
+      "confidence": 0.9696,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1183.16,
+        0.6,
+        1408.6,
+        141.0
+      ],
+      "confidence": 0.9725,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "THE PERENNIAL\nBACHELOR",
+      "bbox": [
+        175.0,
+        75.0,
+        305.0,
+        104.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "The Perennial Bachelor\nAnne Parrish",
+      "bbox": [
+        132.0,
+        154.0,
+        348.0,
+        200.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "LADY ROSE'S\nDAUGHTER",
+      "bbox": [
+        185.0,
+        594.0,
+        296.0,
+        623.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "MARTIN\nBIRCK'S YOUTH",
+      "bbox": [
+        527.0,
+        75.0,
+        656.0,
+        105.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "THE ARROW",
+      "bbox": [
+        892.0,
+        75.0,
+        994.0,
+        88.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "JOHN NEWTON\nWILLIAM COWPER",
+      "bbox": [
+        1254.0,
+        100.0,
+        1337.0,
+        117.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "Olney Hymns",
+      "bbox": [
+        1233.0,
+        155.0,
+        1359.0,
+        175.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "John Newton",
+      "bbox": [
+        1239.0,
+        184.0,
+        1346.0,
+        203.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "DOWAGER OF CHINA",
+      "bbox": [
+        855.0,
+        610.0,
+        1032.0,
+        623.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "With the Empress Dowager",
+      "bbox": [
+        816.0,
+        671.0,
+        1071.0,
+        693.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "of China",
+      "bbox": [
+        905.0,
+        702.0,
+        982.0,
+        717.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1172.87,
+        672.28,
+        1417.82,
+        719.69
+      ],
+      "confidence": 0.917,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_22",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        830.79,
+        323.83,
+        1057.24,
+        659.59
+      ],
+      "confidence": 0.9699,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_23",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        832.62,
+        0.0,
+        1055.33,
+        140.51
+      ],
+      "confidence": 0.9709,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "ocr",
+      "class_label": "ANNE PARRISH",
+      "bbox": [
+        206.0,
+        113.0,
+        274.0,
+        121.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "ocr",
+      "class_label": "MARY AUGUSTA WARD",
+      "bbox": [
+        188.0,
+        632.0,
+        291.0,
+        640.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "ocr",
+      "class_label": "JOSEPH CONRAD",
+      "bbox": [
+        904.0,
+        112.0,
+        983.0,
+        120.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "ocr",
+      "class_label": "OLNEY HYMNS",
+      "bbox": [
+        1235.0,
+        78.0,
+        1358.0,
+        91.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        495.08,
+        155.63,
+        687.95,
+        203.37
+      ],
+      "confidence": 0.9564,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_29",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        547.0,
+        610.43,
+        636.38,
+        622.92
+      ],
+      "confidence": 0.9073,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_30",
+      "source": "ocr",
+      "class_label": "KATHARINE A. CARL",
+      "bbox": [
+        897.0,
+        631.0,
+        990.0,
+        641.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "ocr",
+      "class_label": "A BRIDE OF A\nSUMMER'S DAY",
+      "bbox": [
+        1231.0,
+        594.0,
+        1360.0,
+        623.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        480.11,
+        0.42,
+        704.85,
+        140.46
+      ],
+      "confidence": 0.9608,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "ocr",
+      "class_label": "William Cowper",
+      "bbox": [
+        1227.0,
+        210.0,
+        1365.0,
+        231.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "ocr",
+      "class_label": "Katharine A. Carl",
+      "bbox": [
+        872.0,
+        731.0,
+        1018.0,
+        747.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "ocr",
+      "class_label": "HJALMAR SÖDERBERG",
+      "bbox": [
+        541.0,
+        112.0,
+        642.0,
+        121.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "ocr",
+      "class_label": "Mary Augusta Ward",
+      "bbox": [
+        155.0,
+        702.0,
+        324.0,
+        721.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        840.0,
+        581.0,
+        1048.0,
+        650.0
+      ],
+      "confidence": 0.9406,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        127.73,
+        0.0,
+        352.98,
+        140.01
+      ],
+      "confidence": 0.9402,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        1193.0,
+        61.0,
+        1399.0,
+        131.0
+      ],
+      "confidence": 0.9401,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "ocr",
+      "class_label": "Joseph Conrad",
+      "bbox": [
+        882.0,
+        182.0,
+        1002.0,
+        202.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "ocr",
+      "class_label": "CATHERINE LOUISA PIRKIS",
+      "bbox": [
+        1235.0,
+        632.0,
+        1356.0,
+        641.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1172.0,
+        672.0,
+        1420.0,
+        694.0
+      ],
+      "confidence": 0.9394,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1228.77,
+        156.35,
+        1362.36,
+        232.1
+      ],
+      "confidence": 0.9348,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        138.09,
+        672.99,
+        341.92,
+        722.21
+      ],
+      "confidence": 0.9324,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        489.0,
+        581.0,
+        695.0,
+        651.0
+      ],
+      "confidence": 0.9282,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        816.0,
+        672.0,
+        1072.0,
+        695.0
+      ],
+      "confidence": 0.9275,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        857.71,
+        155.83,
+        1028.77,
+        204.26
+      ],
+      "confidence": 0.925,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1321.0,
+        651.0,
+        1406.0,
+        659.0
+      ],
+      "confidence": 0.8854,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        815.33,
+        673.83,
+        1070.55,
+        748.67
+      ],
+      "confidence": 0.8803,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        481.31,
+        581.6,
+        702.84,
+        659.16
+      ],
+      "confidence": 0.8784,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        131.0,
+        154.0,
+        349.0,
+        175.0
+      ],
+      "confidence": 0.8651,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "ocr",
+      "class_label": "后太皇福慈國清大",
+      "bbox": [
+        889.0,
+        327.0,
+        994.0,
+        340.0
+      ],
+      "confidence": 0.83,
+      "cluster_size": 1
+    }
+  ]
+}

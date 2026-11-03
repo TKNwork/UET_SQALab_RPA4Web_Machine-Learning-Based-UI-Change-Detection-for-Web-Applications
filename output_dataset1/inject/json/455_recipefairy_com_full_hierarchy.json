@@ -1,0 +1,320 @@
+{
+  "image": "455_recipefairy_com.png",
+  "total_elements": 24,
+  "total_raw_nodes": 27,
+  "total_raw_edges": 13,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        986.0,
+        201.0,
+        990.0,
+        493.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        168.04,
+        128.72,
+        547.38,
+        649.53
+      ],
+      "confidence": 0.9792,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "Delicious Non-Desserts",
+      "bbox": [
+        168.0,
+        673.0,
+        355.0,
+        686.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "Breakfast",
+      "bbox": [
+        989.0,
+        673.0,
+        1062.0,
+        685.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        168.97,
+        698.37,
+        471.59,
+        719.07
+      ],
+      "confidence": 0.8677,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        577.4,
+        698.48,
+        882.61,
+        714.55
+      ],
+      "confidence": 0.9411,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "Easy Overnight Oats Recipe",
+      "bbox": [
+        988.0,
+        700.0,
+        1230.0,
+        717.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Drinks",
+      "bbox": [
+        579.0,
+        673.0,
+        627.0,
+        685.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        576.64,
+        129.62,
+        960.35,
+        645.71
+      ],
+      "confidence": 0.9774,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        990.18,
+        129.94,
+        1368.82,
+        647.69
+      ],
+      "confidence": 0.9726,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "HOME RECIPES ▾ 101 COPYCAT RECIPES FOOD LIST",
+      "bbox": [
+        454.0,
+        56.0,
+        957.0,
+        70.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        988.73,
+        697.54,
+        1231.1,
+        719.0
+      ],
+      "confidence": 0.9079,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        659.13,
+        55.25,
+        836.67,
+        69.97
+      ],
+      "confidence": 0.9037,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        577.01,
+        671.82,
+        627.09,
+        684.59
+      ],
+      "confidence": 0.8919,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        987.87,
+        672.05,
+        1060.43,
+        684.24
+      ],
+      "confidence": 0.8788,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        362.4,
+        766.09,
+        432.7,
+        825.95
+      ],
+      "confidence": 0.866,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "ABOUT ▾",
+      "bbox": [
+        1008.0,
+        55.0,
+        1079.0,
+        69.0
+      ],
+      "confidence": 0.86,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        453.65,
+        55.78,
+        507.51,
+        69.91
+      ],
+      "confidence": 0.8533,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        872.27,
+        55.28,
+        968.16,
+        69.87
+      ],
+      "confidence": 0.8371,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        542.4,
+        55.54,
+        607.35,
+        69.59
+      ],
+      "confidence": 0.8354,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1006.86,
+        55.52,
+        1071.36,
+        69.68
+      ],
+      "confidence": 0.8253,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1209.92,
+        783.0,
+        1307.6,
+        826.0
+      ],
+      "confidence": 0.505,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        612.45,
+        61.55,
+        620.06,
+        66.1
+      ],
+      "confidence": 0.312,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1070.24,
+        58.89,
+        1079.32,
+        67.58
+      ],
+      "confidence": 0.2916,
+      "cluster_size": 1
+    }
+  ]
+}

@@ -1,0 +1,554 @@
+{
+  "image": "111_data360_worldbank_org.png",
+  "total_elements": 42,
+  "total_raw_nodes": 46,
+  "total_raw_edges": 33,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        755.0,
+        1536.0,
+        758.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        144.0,
+        1536.0,
+        147.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        102.0,
+        1536.0,
+        105.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1022.0,
+        57.0,
+        1418.0,
+        85.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "We're in Beta! Help us improve by sharing your feedback",
+      "bbox": [
+        579.0,
+        13.0,
+        957.0,
+        27.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "CUSTOM REPORT API ATLAS ABOUT",
+      "bbox": [
+        595.0,
+        121.0,
+        855.0,
+        130.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "THEME",
+      "bbox": [
+        123.0,
+        231.0,
+        165.0,
+        240.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Search",
+      "bbox": [
+        1033.0,
+        66.0,
+        1070.0,
+        76.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Login",
+      "bbox": [
+        1384.0,
+        117.0,
+        1420.0,
+        133.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "Planet Data360 provides a comprehensive collection of data, tools, and\nresources to support policies that promote sustainable growth while\nrespecting planetary limits. In line with the World Bank's mission to end\npoverty on a livable planet, it equips researchers and policymakers with the\ninsights needed to address environmental and climate challenges. Covering\nfive key areas-Agriculture and Food, Water, Environment, Climate Change,\nand Social Sustainability-Planet Data360 delivers valuable knowledge to\nhelp build a thriving and sustainable future for everyone.",
+      "bbox": [
+        767.0,
+        248.0,
+        1400.0,
+        469.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        116.0,
+        635.46,
+        325.56,
+        663.98
+      ],
+      "confidence": 0.9505,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        780.18,
+        677.0,
+        827.01,
+        690.13
+      ],
+      "confidence": 0.7973,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "FEEDBACK SURVEY",
+      "bbox": [
+        1391.0,
+        789.0,
+        1513.0,
+        798.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "Planet",
+      "bbox": [
+        125.0,
+        272.0,
+        344.0,
+        320.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "Select an economy to visit a PLANET specific economy profile",
+      "bbox": [
+        115.0,
+        673.0,
+        573.0,
+        689.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "HOME ECONOMIES THEMES DATA & RESOURCES ANALYTICS",
+      "bbox": [
+        124.0,
+        120.0,
+        564.0,
+        131.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        767.67,
+        639.53,
+        911.05,
+        653.13
+      ],
+      "confidence": 0.8993,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "WORLD BANK GROUP Data 360 | Planet",
+      "bbox": [
+        160.0,
+        61.0,
+        441.0,
+        79.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "Visit Profile >",
+      "bbox": [
+        1293.0,
+        679.0,
+        1395.0,
+        691.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1269.81,
+        659.25,
+        1420.8,
+        708.96
+      ],
+      "confidence": 0.9443,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "Home > Planet",
+      "bbox": [
+        124.0,
+        175.0,
+        237.0,
+        187.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1293.0,
+        485.0,
+        1472.0,
+        501.0
+      ],
+      "confidence": 0.9323,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1366.98,
+        774.24,
+        1536.0,
+        810.85
+      ],
+      "confidence": 0.9271,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1018.31,
+        54.94,
+        1422.12,
+        93.73
+      ],
+      "confidence": 0.9252,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        354.8,
+        119.75,
+        479.17,
+        130.07
+      ],
+      "confidence": 0.883,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        0.91,
+        584.49,
+        652.22,
+        756.3
+      ],
+      "confidence": 0.8564,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1390.67,
+        788.37,
+        1514.2,
+        798.97
+      ],
+      "confidence": 0.8475,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        595.63,
+        120.22,
+        702.2,
+        129.78
+      ],
+      "confidence": 0.8435,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        493.93,
+        119.8,
+        577.56,
+        130.29
+      ],
+      "confidence": 0.7221,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        719.62,
+        119.67,
+        854.94,
+        130.35
+      ],
+      "confidence": 0.7009,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1294.04,
+        678.68,
+        1381.96,
+        690.3
+      ],
+      "confidence": 0.6992,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        122.84,
+        813.51,
+        434.57,
+        826.0
+      ],
+      "confidence": 0.6512,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        124.3,
+        119.96,
+        164.22,
+        129.29
+      ],
+      "confidence": 0.5686,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        266.49,
+        110.95,
+        343.95,
+        138.41
+      ],
+      "confidence": 0.5242,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        312.9,
+        61.85,
+        440.5,
+        78.18
+      ],
+      "confidence": 0.5113,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1363.46,
+        117.66,
+        1421.13,
+        134.13
+      ],
+      "confidence": 0.4983,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        179.81,
+        120.44,
+        256.93,
+        129.89
+      ],
+      "confidence": 0.4715,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        270.41,
+        119.7,
+        338.49,
+        129.73
+      ],
+      "confidence": 0.3298,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1386.32,
+        679.96,
+        1394.32,
+        690.1
+      ],
+      "confidence": 0.2223,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1232.45,
+        678.22,
+        1244.94,
+        687.71
+      ],
+      "confidence": 0.1485,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        810.0,
+        120.33,
+        854.88,
+        129.8
+      ],
+      "confidence": 0.1343,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1030.84,
+        65.13,
+        1073.23,
+        78.18
+      ],
+      "confidence": 0.1185,
+      "cluster_size": 1
+    }
+  ]
+}

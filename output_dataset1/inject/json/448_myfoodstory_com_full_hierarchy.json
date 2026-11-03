@@ -1,0 +1,593 @@
+{
+  "image": "448_myfoodstory_com.png",
+  "total_elements": 45,
+  "total_raw_nodes": 51,
+  "total_raw_edges": 36,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "ocr",
+      "class_label": "༢",
+      "bbox": [
+        1494.0,
+        687.0,
+        1513.0,
+        705.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        977.0,
+        776.0,
+        980.0,
+        826.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        37.0,
+        1536.0,
+        40.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        166.0,
+        116.0,
+        1369.0,
+        495.0
+      ],
+      "confidence": 0.9965,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "Get everyday dinners planned for you!→",
+      "bbox": [
+        629.0,
+        15.0,
+        906.0,
+        28.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        261.64,
+        56.9,
+        556.14,
+        82.87
+      ],
+      "confidence": 0.9444,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "Home",
+      "bbox": [
+        938.0,
+        66.0,
+        979.0,
+        76.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1011.28,
+        64.37,
+        1098.98,
+        79.61
+      ],
+      "confidence": 0.9493,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1131.34,
+        64.92,
+        1208.8,
+        76.84
+      ],
+      "confidence": 0.9422,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "Subscribe",
+      "bbox": [
+        1240.0,
+        65.0,
+        1308.0,
+        76.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "Get My Indo-Chinese Ebook",
+      "bbox": [
+        718.0,
+        186.0,
+        1202.0,
+        219.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "dishes has never been easier!!",
+      "bbox": [
+        854.0,
+        346.0,
+        1068.0,
+        359.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "Mango Mania",
+      "bbox": [
+        167.0,
+        534.0,
+        404.0,
+        570.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "My latest cookbook, The Indo-Chinese Ebook, has got over 105+ delicious Indo-Chinese recipes that can\neasily be recreated at home to. With lots of information on stocking up an Indo-Chinese pantry,\nmaintenance guides, and exclusive cooking tips and tricks, whipping up restaurant-style Indo-Chinese",
+      "bbox": [
+        588.0,
+        252.0,
+        1332.0,
+        329.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        915.59,
+        400.42,
+        1002.99,
+        410.22
+      ],
+      "confidence": 0.9054,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "by Richa Gupta",
+      "bbox": [
+        202.0,
+        249.0,
+        296.0,
+        261.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        899.41,
+        383.42,
+        1020.03,
+        428.45
+      ],
+      "confidence": 0.9496,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_17",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1181.86,
+        593.13,
+        1368.28,
+        736.45
+      ],
+      "confidence": 0.9637,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        590.14,
+        252.11,
+        1328.58,
+        359.6
+      ],
+      "confidence": 0.9594,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        370.72,
+        593.02,
+        557.79,
+        736.99
+      ],
+      "confidence": 0.9566,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "Indo-Chinese",
+      "bbox": [
+        202.0,
+        187.0,
+        391.0,
+        209.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "Recipes",
+      "bbox": [
+        200.0,
+        218.0,
+        260.0,
+        241.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        715.78,
+        189.94,
+        1199.3,
+        222.57
+      ],
+      "confidence": 0.9476,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        573.27,
+        593.72,
+        761.93,
+        736.24
+      ],
+      "confidence": 0.9475,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        573.84,
+        735.66,
+        761.04,
+        826.0
+      ],
+      "confidence": 0.9464,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        774.37,
+        593.59,
+        962.78,
+        736.68
+      ],
+      "confidence": 0.9345,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        371.13,
+        734.14,
+        558.87,
+        825.76
+      ],
+      "confidence": 0.9248,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        167.7,
+        592.72,
+        354.09,
+        825.29
+      ],
+      "confidence": 0.9147,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        629.52,
+        14.45,
+        892.12,
+        29.71
+      ],
+      "confidence": 0.9075,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        775.07,
+        733.98,
+        962.87,
+        826.0
+      ],
+      "confidence": 0.9045,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        734.75,
+        251.37,
+        920.97,
+        268.0
+      ],
+      "confidence": 0.904,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        170.67,
+        47.76,
+        241.71,
+        93.36
+      ],
+      "confidence": 0.8985,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1181.75,
+        734.11,
+        1368.42,
+        825.85
+      ],
+      "confidence": 0.8958,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1239.42,
+        64.34,
+        1308.54,
+        77.47
+      ],
+      "confidence": 0.8933,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        191.13,
+        143.22,
+        426.13,
+        469.24
+      ],
+      "confidence": 0.892,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        936.93,
+        65.23,
+        980.15,
+        77.36
+      ],
+      "confidence": 0.8826,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "ocr",
+      "class_label": "100+",
+      "bbox": [
+        202.0,
+        153.0,
+        267.0,
+        178.0
+      ],
+      "confidence": 0.88,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        0.0,
+        734.96,
+        166.67,
+        825.92
+      ],
+      "confidence": 0.8504,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        167.75,
+        538.39,
+        404.66,
+        571.48
+      ],
+      "confidence": 0.7443,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1481.91,
+        675.1,
+        1526.19,
+        719.4
+      ],
+      "confidence": 0.6603,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        422.67,
+        534.62,
+        453.28,
+        569.62
+      ],
+      "confidence": 0.5974,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        201.84,
+        185.52,
+        393.28,
+        211.72
+      ],
+      "confidence": 0.5422,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1335.31,
+        60.19,
+        1358.57,
+        82.81
+      ],
+      "confidence": 0.5113,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        8.85,
+        745.31,
+        34.65,
+        769.12
+      ],
+      "confidence": 0.2194,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        192.49,
+        411.85,
+        231.63,
+        432.81
+      ],
+      "confidence": 0.1916,
+      "cluster_size": 2
+    }
+  ]
+}

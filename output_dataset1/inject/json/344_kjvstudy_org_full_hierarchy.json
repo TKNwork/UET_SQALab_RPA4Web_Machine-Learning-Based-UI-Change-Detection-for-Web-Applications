@@ -1,0 +1,697 @@
+{
+  "image": "344_kjvstudy_org.png",
+  "total_elements": 53,
+  "total_raw_nodes": 61,
+  "total_raw_edges": 62,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "ocr",
+      "class_label": "Home",
+      "bbox": [
+        12.0,
+        91.0,
+        43.0,
+        98.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "ocr",
+      "class_label": "Home",
+      "bbox": [
+        289.0,
+        72.0,
+        321.0,
+        81.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "Verse of the Day",
+      "bbox": [
+        14.0,
+        200.0,
+        98.0,
+        213.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        14.28,
+        276.11,
+        75.46,
+        285.96
+      ],
+      "confidence": 0.9133,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        290.59,
+        155.62,
+        371.84,
+        182.97
+      ],
+      "confidence": 0.9629,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "Download PDF",
+      "bbox": [
+        425.0,
+        274.0,
+        512.0,
+        286.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "Topics",
+      "bbox": [
+        15.0,
+        314.0,
+        48.0,
+        324.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Resources",
+      "bbox": [
+        15.0,
+        351.0,
+        63.0,
+        359.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        14.92,
+        512.07,
+        65.68,
+        522.66
+      ],
+      "confidence": 0.9083,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "Search everything...",
+      "bbox": [
+        21.0,
+        27.0,
+        114.0,
+        39.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "QUICK ACCESS",
+      "bbox": [
+        13.0,
+        61.0,
+        90.0,
+        71.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        13.08,
+        127.07,
+        43.65,
+        137.45
+      ],
+      "confidence": 0.8871,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "Study Guides",
+      "bbox": [
+        13.0,
+        236.0,
+        80.0,
+        251.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        288.02,
+        218.76,
+        715.93,
+        245.3
+      ],
+      "confidence": 0.9313,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "Random Verse",
+      "bbox": [
+        14.0,
+        386.0,
+        86.0,
+        398.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        14.52,
+        475.26,
+        119.38,
+        489.22
+      ],
+      "confidence": 0.9294,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_16",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        14.54,
+        600.51,
+        82.87,
+        614.75
+      ],
+      "confidence": 0.9359,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "Starred Pages",
+      "bbox": [
+        14.0,
+        637.0,
+        80.0,
+        653.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        290.76,
+        348.55,
+        397.0,
+        368.31
+      ],
+      "confidence": 0.9533,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "LOVE STANDS at the very center of Christian theology and practice, for \"God is love\" (1 John 4:8). This divine attribute defines not merely one characteristic\namong many but God's essential nature-His every act flows from perfect love. Biblical love, however, differs radically from sentimental affection or romantic\nemotion. It constitutes a purposeful commitment to seek another's highest good, demonstrated supremely in Christ's sacrificial death for undeserving sinners.\nThe foundation of all Christian love is God's love for humanity. \"Herein is love, not that we loved God, but that he loved us, and sent his Son to be the propitiation\nfor our sins\" (1 John 4:10). This love is unmerited-bestowed on rebels who deserve wrath. It is sacrificial-costing the Father His beloved Son. It is effectual-\naccomplishing complete redemption for the elect. It is eternal-having no beginning and no end. God's love provides both the motive for salvation and the model for\nhuman love. We love because He first loved us, and we love as He has loved us.",
+      "bbox": [
+        287.0,
+        407.0,
+        1469.0,
+        646.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "Love for God constitutes the first and greatest commandment. \"Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind\"\n(Matthew 22:37). This love involves the whole person-affections, will, and intellect-directed wholly toward God. It expresses itself through obedience (\"If ye love\nme, keep my commandments\"), worship (ascribing worth to God's character and works), trust (depending on His wisdom and power), and delight (finding supreme\njoy in His presence). Love for God proves authentic not through emotional highs but through faithful obedience during trials, persistent pursuit despite spiritual",
+      "bbox": [
+        286.0,
+        680.0,
+        1467.0,
+        802.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "Topics > Love",
+      "bbox": [
+        360.0,
+        68.0,
+        459.0,
+        85.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        281.29,
+        678.86,
+        1452.37,
+        826.0
+      ],
+      "confidence": 0.9538,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        167.86,
+        0.0,
+        1332.76,
+        825.7
+      ],
+      "confidence": 0.9441,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        390.58,
+        264.28,
+        526.94,
+        296.08
+      ],
+      "confidence": 0.9417,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "ocr",
+      "class_label": "▾ STUDY RESOURCES",
+      "bbox": [
+        11.0,
+        164.0,
+        132.0,
+        171.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "ocr",
+      "class_label": "▼ REFERENCE TOOLS",
+      "bbox": [
+        12.0,
+        440.0,
+        131.0,
+        447.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "ocr",
+      "class_label": "▾ YOUR LIBRARY",
+      "bbox": [
+        11.0,
+        566.0,
+        109.0,
+        573.0
+      ],
+      "confidence": 0.92,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        14.66,
+        200.86,
+        96.16,
+        214.26
+      ],
+      "confidence": 0.893,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        14.26,
+        237.47,
+        80.45,
+        249.33
+      ],
+      "confidence": 0.8908,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "ocr",
+      "class_label": "» Listen",
+      "bbox": [
+        311.0,
+        274.0,
+        363.0,
+        286.0
+      ],
+      "confidence": 0.89,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "ocr",
+      "class_label": "drumess and choosing His alory above personal preference",
+      "bbox": [
+        289.0,
+        817.0,
+        705.0,
+        825.0
+      ],
+      "confidence": 0.88,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        14.76,
+        386.67,
+        86.02,
+        396.6
+      ],
+      "confidence": 0.8761,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        289.29,
+        522.81,
+        1465.04,
+        646.2
+      ],
+      "confidence": 0.8721,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        15.28,
+        438.36,
+        132.27,
+        446.26
+      ],
+      "confidence": 0.8593,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        14.16,
+        638.67,
+        79.28,
+        652.34
+      ],
+      "confidence": 0.8553,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        384.08,
+        561.29,
+        478.23,
+        581.18
+      ],
+      "confidence": 0.8546,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        423.4,
+        273.5,
+        513.13,
+        284.09
+      ],
+      "confidence": 0.823,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        14.59,
+        162.44,
+        131.49,
+        170.28
+      ],
+      "confidence": 0.8085,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        287.97,
+        71.92,
+        322.65,
+        83.8
+      ],
+      "confidence": 0.7943,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        13.45,
+        349.71,
+        63.43,
+        359.77
+      ],
+      "confidence": 0.771,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        17.53,
+        565.26,
+        108.39,
+        573.69
+      ],
+      "confidence": 0.7402,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        13.13,
+        60.95,
+        91.61,
+        73.24
+      ],
+      "confidence": 0.7258,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        13.02,
+        90.55,
+        44.19,
+        98.67
+      ],
+      "confidence": 0.7229,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        11.39,
+        300.57,
+        159.9,
+        338.58
+      ],
+      "confidence": 0.6958,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        325.7,
+        273.95,
+        363.16,
+        284.81
+      ],
+      "confidence": 0.6789,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        13.13,
+        314.21,
+        47.48,
+        324.95
+      ],
+      "confidence": 0.6688,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        359.33,
+        70.99,
+        395.13,
+        85.79
+      ],
+      "confidence": 0.6472,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        429.94,
+        71.53,
+        459.72,
+        82.59
+      ],
+      "confidence": 0.4948,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        303.42,
+        273.8,
+        319.28,
+        286.17
+      ],
+      "confidence": 0.4728,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        333.41,
+        72.2,
+        346.74,
+        81.64
+      ],
+      "confidence": 0.3457,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        404.37,
+        274.1,
+        418.89,
+        286.59
+      ],
+      "confidence": 0.3284,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        406.99,
+        72.22,
+        418.44,
+        81.22
+      ],
+      "confidence": 0.2041,
+      "cluster_size": 1
+    }
+  ]
+}

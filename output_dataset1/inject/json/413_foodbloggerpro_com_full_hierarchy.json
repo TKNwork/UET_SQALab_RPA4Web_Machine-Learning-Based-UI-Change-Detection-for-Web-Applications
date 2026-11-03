@@ -1,0 +1,255 @@
+{
+  "image": "413_foodbloggerpro_com.png",
+  "total_elements": 19,
+  "total_raw_nodes": 24,
+  "total_raw_edges": 16,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        511.49,
+        411.91,
+        1026.96,
+        687.49
+      ],
+      "confidence": 0.982,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_1",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        604.98,
+        20.19,
+        929.58,
+        79.7
+      ],
+      "confidence": 0.9425,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_2",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        440.6,
+        302.32,
+        546.06,
+        315.23
+      ],
+      "confidence": 0.9316,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "Your email address",
+      "bbox": [
+        653.0,
+        303.0,
+        785.0,
+        314.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "Subscribe to our email list!",
+      "bbox": [
+        878.0,
+        302.0,
+        1062.0,
+        315.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "THE FOOD BLOGGERS BEHIND PINCH OF YUM",
+      "bbox": [
+        540.0,
+        810.0,
+        991.0,
+        823.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "We take you step-by-step through the entire\nblog creation process - from getting your\ndomain to setting up WordPress (and\neverything in-between!).",
+      "bbox": [
+        219.0,
+        10.0,
+        548.0,
+        89.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Turn your creativity into cash and run your blog\nas a business. Get our top tips on earning\nmoney, managing your work, and diversifying\nyour income.",
+      "bbox": [
+        978.0,
+        9.0,
+        1325.0,
+        92.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        447.11,
+        747.87,
+        1112.01,
+        784.68
+      ],
+      "confidence": 0.918,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        853.84,
+        284.66,
+        1108.22,
+        332.08
+      ],
+      "confidence": 0.9692,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        641.05,
+        284.09,
+        843.62,
+        331.54
+      ],
+      "confidence": 0.9655,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        426.81,
+        283.92,
+        629.59,
+        331.14
+      ],
+      "confidence": 0.9652,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1028.69,
+        413.38,
+        1536.0,
+        687.63
+      ],
+      "confidence": 0.961,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        0.0,
+        411.92,
+        506.91,
+        686.96
+      ],
+      "confidence": 0.944,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        654.53,
+        301.9,
+        786.62,
+        315.2
+      ],
+      "confidence": 0.9103,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "here",
+      "bbox": [
+        875.0,
+        601.0,
+        943.0,
+        640.0
+      ],
+      "confidence": 0.89,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        879.29,
+        300.95,
+        1063.06,
+        314.0
+      ],
+      "confidence": 0.8861,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "We're",
+      "bbox": [
+        585.0,
+        603.0,
+        664.0,
+        644.0
+      ],
+      "confidence": 0.82,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1437.74,
+        732.1,
+        1534.75,
+        825.74
+      ],
+      "confidence": 0.5926,
+      "cluster_size": 1
+    }
+  ]
+}

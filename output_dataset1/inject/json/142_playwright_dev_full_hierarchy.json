@@ -1,0 +1,749 @@
+{
+  "image": "142_playwright_dev.png",
+  "total_elements": 57,
+  "total_raw_nodes": 65,
+  "total_raw_edges": 87,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        558.0,
+        1536.0,
+        561.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        58.0,
+        1536.0,
+        61.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        56.18,
+        25.13,
+        137.79,
+        41.04
+      ],
+      "confidence": 0.8298,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "Playwright enables reliable web automation\nfor testing, scripting, and Al agents.",
+      "bbox": [
+        123.0,
+        152.0,
+        1360.0,
+        293.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        145.99,
+        430.98,
+        272.86,
+        446.94
+      ],
+      "confidence": 0.9573,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        124.57,
+        611.97,
+        269.72,
+        632.61
+      ],
+      "confidence": 0.963,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "npm init playwright@latest",
+      "bbox": [
+        137.0,
+        755.0,
+        338.0,
+        768.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        564.02,
+        611.53,
+        699.18,
+        632.64
+      ],
+      "confidence": 0.9525,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Token-efficient browser automation for coding agents\nlike Claude Code and GitHub Copilot. Skill-based\nworkflows without large context overhead.",
+      "bbox": [
+        564.0,
+        646.0,
+        945.0,
+        716.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1004.62,
+        611.52,
+        1154.2,
+        632.62
+      ],
+      "confidence": 0.9549,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "Model Context Protocol server that gives Al agents full\nbrowser control through structured accessibility\nsnapshots.",
+      "bbox": [
+        1004.0,
+        644.0,
+        1391.0,
+        717.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "MCP documentation",
+      "bbox": [
+        1005.0,
+        815.0,
+        1153.0,
+        825.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "Full-featured test runner with auto-waiting, assertions,\ntracing, and parallelism across Chromium, Firefox, and\nWebKit.",
+      "bbox": [
+        123.0,
+        646.0,
+        506.0,
+        713.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "npm i -g @playwright/cli@latest",
+      "bbox": [
+        577.0,
+        755.0,
+        817.0,
+        768.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1016.53,
+        752.98,
+        1216.95,
+        768.84
+      ],
+      "confidence": 0.8569,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_15",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        123.38,
+        813.72,
+        290.22,
+        825.5
+      ],
+      "confidence": 0.9007,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "CLI documentation",
+      "bbox": [
+        564.0,
+        814.0,
+        702.0,
+        825.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        123.31,
+        411.08,
+        295.63,
+        464.02
+      ],
+      "confidence": 0.9708,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "and your agent workflows. Available for TypeScript, Python, .NET, and Java.",
+      "bbox": [
+        123.0,
+        349.0,
+        779.0,
+        369.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "Star 85k+",
+      "bbox": [
+        346.0,
+        432.0,
+        439.0,
+        444.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        314.0,
+        421.0,
+        389.0,
+        453.0
+      ],
+      "confidence": 0.9531,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "One API to drive Chromium, Firefox, and Webkit — in your tests, your scripts,",
+      "bbox": [
+        123.0,
+        316.0,
+        803.0,
+        335.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        129.81,
+        158.89,
+        429.01,
+        216.94
+      ],
+      "confidence": 0.9486,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        0.0,
+        59.25,
+        949.39,
+        559.15
+      ],
+      "confidence": 0.9413,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "ocr",
+      "class_label": "Node.js ▼ Community",
+      "bbox": [
+        273.0,
+        26.0,
+        455.0,
+        40.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "ocr",
+      "class_label": "Q Search CTRL",
+      "bbox": [
+        1374.0,
+        21.0,
+        1478.0,
+        36.0
+      ],
+      "confidence": 0.92,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        981.85,
+        558.89,
+        1534.75,
+        826.0
+      ],
+      "confidence": 0.9135,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "ocr",
+      "class_label": "Docs ΑΡΙ",
+      "bbox": [
+        165.0,
+        23.0,
+        248.0,
+        39.0
+      ],
+      "confidence": 0.9,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        120.81,
+        315.82,
+        793.48,
+        369.73
+      ],
+      "confidence": 0.8887,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        0.66,
+        558.47,
+        542.74,
+        825.37
+      ],
+      "confidence": 0.8875,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        123.77,
+        739.27,
+        533.32,
+        782.67
+      ],
+      "confidence": 0.8781,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1004.04,
+        813.11,
+        1153.0,
+        825.92
+      ],
+      "confidence": 0.8676,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        544.67,
+        559.14,
+        979.3,
+        825.9
+      ],
+      "confidence": 0.8608,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        562.92,
+        739.15,
+        972.64,
+        782.27
+      ],
+      "confidence": 0.8556,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "ocr",
+      "class_label": "K",
+      "bbox": [
+        1492.0,
+        25.0,
+        1499.0,
+        32.0
+      ],
+      "confidence": 0.85,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        562.85,
+        813.0,
+        701.03,
+        825.91
+      ],
+      "confidence": 0.8409,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        369.11,
+        24.02,
+        455.8,
+        41.15
+      ],
+      "confidence": 0.7991,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        477.31,
+        348.53,
+        569.38,
+        369.34
+      ],
+      "confidence": 0.7813,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        315.9,
+        423.85,
+        389.77,
+        451.04
+      ],
+      "confidence": 0.7773,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        585.69,
+        752.69,
+        815.8,
+        768.68
+      ],
+      "confidence": 0.6862,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        273.06,
+        24.32,
+        346.64,
+        41.47
+      ],
+      "confidence": 0.6414,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        134.59,
+        753.04,
+        337.65,
+        768.81
+      ],
+      "confidence": 0.6107,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        580.28,
+        348.53,
+        642.56,
+        368.8
+      ],
+      "confidence": 0.5883,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        484.97,
+        315.85,
+        549.86,
+        331.59
+      ],
+      "confidence": 0.5114,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        344.98,
+        431.91,
+        376.73,
+        444.25
+      ],
+      "confidence": 0.4995,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        402.25,
+        431.51,
+        438.16,
+        445.85
+      ],
+      "confidence": 0.4445,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1397.5,
+        22.92,
+        1449.81,
+        36.32
+      ],
+      "confidence": 0.3814,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        17.82,
+        20.7,
+        45.99,
+        41.46
+      ],
+      "confidence": 0.2779,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        164.22,
+        25.23,
+        200.92,
+        37.41
+      ],
+      "confidence": 0.2672,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        650.94,
+        349.43,
+        693.14,
+        367.19
+      ],
+      "confidence": 0.2496,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        223.84,
+        26.44,
+        249.13,
+        37.43
+      ],
+      "confidence": 0.2443,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1327.3,
+        21.65,
+        1347.49,
+        39.68
+      ],
+      "confidence": 0.2383,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        739.69,
+        350.03,
+        778.36,
+        366.81
+      ],
+      "confidence": 0.2339,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_53",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1284.66,
+        21.96,
+        1308.53,
+        38.48
+      ],
+      "confidence": 0.221,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_54",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        577.51,
+        755.24,
+        601.79,
+        768.09
+      ],
+      "confidence": 0.1301,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_55",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1236.23,
+        19.43,
+        1260.98,
+        43.0
+      ],
+      "confidence": 0.1156,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_56",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1460.45,
+        19.73,
+        1492.55,
+        40.38
+      ],
+      "confidence": 0.1126,
+      "cluster_size": 1
+    }
+  ]
+}

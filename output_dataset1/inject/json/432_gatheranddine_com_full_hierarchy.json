@@ -1,0 +1,242 @@
+{
+  "image": "432_gatheranddine_com.png",
+  "total_elements": 18,
+  "total_raw_nodes": 19,
+  "total_raw_edges": 8,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        993.78,
+        280.6,
+        1235.26,
+        521.9
+      ],
+      "confidence": 0.9345,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_1",
+      "source": "ocr",
+      "class_label": "Spinach Sausage Calzone Bites",
+      "bbox": [
+        318.0,
+        0.0,
+        856.0,
+        45.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "Select Category",
+      "bbox": [
+        1047.0,
+        86.0,
+        1156.0,
+        105.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        993.0,
+        531.0,
+        1236.0,
+        775.0
+      ],
+      "confidence": 0.9875,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "YOUR favorites",
+      "bbox": [
+        1062.0,
+        249.0,
+        1164.0,
+        262.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "STAUB",
+      "bbox": [
+        720.0,
+        241.0,
+        788.0,
+        291.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "BROWSE posts",
+      "bbox": [
+        1068.0,
+        31.0,
+        1160.0,
+        44.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "C Select Month",
+      "bbox": [
+        1017.0,
+        151.0,
+        1140.0,
+        162.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1067.41,
+        32.92,
+        1159.21,
+        45.77
+      ],
+      "confidence": 0.8534,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1034.35,
+        140.43,
+        1211.14,
+        173.14
+      ],
+      "confidence": 0.8206,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1062.95,
+        247.53,
+        1164.24,
+        262.82
+      ],
+      "confidence": 0.8084,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1049.24,
+        150.48,
+        1139.18,
+        162.85
+      ],
+      "confidence": 0.7267,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1020.51,
+        87.2,
+        1035.66,
+        100.96
+      ],
+      "confidence": 0.5962,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1019.21,
+        149.05,
+        1032.36,
+        162.59
+      ],
+      "confidence": 0.5334,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1193.55,
+        92.09,
+        1204.74,
+        100.62
+      ],
+      "confidence": 0.281,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1196.76,
+        154.05,
+        1206.78,
+        159.76
+      ],
+      "confidence": 0.2447,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        862.8,
+        74.07,
+        878.5,
+        89.51
+      ],
+      "confidence": 0.2431,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1196.23,
+        153.88,
+        1207.41,
+        161.53
+      ],
+      "confidence": 0.1627,
+      "cluster_size": 1
+    }
+  ]
+}

@@ -1,0 +1,437 @@
+{
+  "image": "214_martinfowler_com.png",
+  "total_elements": 33,
+  "total_raw_nodes": 36,
+  "total_raw_edges": 17,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        294.0,
+        791.0,
+        401.0,
+        796.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        294.0,
+        586.0,
+        389.0,
+        591.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        912.0,
+        508.0,
+        1089.0,
+        516.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        915.0,
+        510.0,
+        1083.0,
+        513.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        912.0,
+        246.0,
+        1089.0,
+        254.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        915.0,
+        249.0,
+        1083.0,
+        252.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        296.09,
+        58.96,
+        845.67,
+        87.61
+      ],
+      "confidence": 0.9446,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        855.81,
+        35.62,
+        1009.18,
+        56.54
+      ],
+      "confidence": 0.9518,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        855.77,
+        285.35,
+        983.44,
+        300.4
+      ],
+      "confidence": 0.9567,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "This need to respond fluently to changes has an important impact upon th Bliki: Interrogatory LLM\narchitecture of a software system. The software needs to be built in such a",
+      "bbox": [
+        295.0,
+        541.0,
+        1024.0,
+        589.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "new feature requires descriptions of how\nwe want the feature to appear to the user,",
+      "bbox": [
+        855.0,
+        688.0,
+        1137.0,
+        725.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "guidelines on how it should be",
+      "bbox": [
+        855.0,
+        724.0,
+        1063.0,
+        749.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "If you'd like to be notified when I post new\nmaterial, subscribe to my RSS feed. I also",
+      "bbox": [
+        855.0,
+        87.0,
+        1130.0,
+        123.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "If there's a theme that runs through my work and writing on this site, it's t post announcements of new material to\ninterplay between the shift towards agile thinking and the technical patter Fediverse (Mastodon), Bluesky, LinkedIn,\npractices that make agile software development practical. While specifics and X (Twitter). I also have a page\ntechnology change rapidly in our profession, fundamental practices and pa dedicated to recent changes.\nare more stable. So writing about these allows me to have articles on this s\nare several years old but still as relevant as when they were written.",
+      "bbox": [
+        294.0,
+        126.0,
+        1118.0,
+        273.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "As software becomes more critical to modern business, software needs to\nto react quickly to changes, allowing new features to be conceived, develo] Thu 14 May 2026 17:52 EDT\nput into production rapidly. The techniques of agile software development thoughts from a software development\nin the 1990s and became steadily more popular in the last decade. They fo retreat, would I be a writer without text\nflexible approach to planning, which allows software products to change d editors, use LLMS as functions, don't use\nas the users' needs change and as product managers learn more about hov LLM skills, is the future of everything lies?\nmake their users effective. While widely accepted now, agile approaches a\neasy, requiring significant skills for a team, but more importantly a culture\ncollaboration both within the team and with a team's partners.",
+      "bbox": [
+        293.0,
+        297.0,
+        1137.0,
+        519.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "Thu 14 May 2026 11:04 EDT",
+      "bbox": [
+        856.0,
+        585.0,
+        1007.0,
+        596.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "that it is able to adapt to unexpected changes in features. One of the most\nimportant ways to do this is to write clear code, making it easy to underst; When we need an LLM to perform a\nthe program is supposed to do. This code should be divided into modules complex task, we often need to feed it a lot\nallow developers to understand only the parts of the system they need to\nchange. This production code should be supported with automated tests t",
+      "bbox": [
+        294.0,
+        593.0,
+        1144.0,
+        716.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "of context. Coming up with a design for a",
+      "bbox": [
+        856.0,
+        664.0,
+        1133.0,
+        679.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "detect any errors made when making a change while providing examples c\ninternal structures are used. Large and complex software efforts may find implemented, information on external\nmicroservices architectural style helps teams deploy software with less en systems to consult, and so on. All this can\ndependencies.",
+      "bbox": [
+        293.0,
+        717.0,
+        1135.0,
+        823.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "be several pages of markdown. The",
+      "bbox": [
+        855.0,
+        802.0,
+        1091.0,
+        819.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        294.35,
+        297.49,
+        848.01,
+        517.65
+      ],
+      "confidence": 0.974,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "more...",
+      "bbox": [
+        856.0,
+        467.0,
+        901.0,
+        476.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        293.82,
+        129.15,
+        848.11,
+        273.54
+      ],
+      "confidence": 0.9384,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        856.63,
+        547.05,
+        1025.23,
+        563.37
+      ],
+      "confidence": 0.9256,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        856.99,
+        583.27,
+        1007.69,
+        596.68
+      ],
+      "confidence": 0.9253,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        854.55,
+        320.64,
+        1007.17,
+        335.01
+      ],
+      "confidence": 0.9217,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        854.59,
+        617.27,
+        1144.41,
+        824.32
+      ],
+      "confidence": 0.9114,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        855.47,
+        354.8,
+        1137.6,
+        441.31
+      ],
+      "confidence": 0.8637,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        936.53,
+        200.84,
+        1037.12,
+        217.25
+      ],
+      "confidence": 0.8291,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        858.6,
+        177.9,
+        956.82,
+        194.09
+      ],
+      "confidence": 0.793,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        855.97,
+        465.76,
+        902.44,
+        478.2
+      ],
+      "confidence": 0.7377,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1021.76,
+        107.63,
+        1056.89,
+        125.4
+      ],
+      "confidence": 0.2779,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        293.94,
+        825.81,
+        855.34,
+        826.0
+      ],
+      "confidence": 0.1043,
+      "cluster_size": 1
+    }
+  ]
+}

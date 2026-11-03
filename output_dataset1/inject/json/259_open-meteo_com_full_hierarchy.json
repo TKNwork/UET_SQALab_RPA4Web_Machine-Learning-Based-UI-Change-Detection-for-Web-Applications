@@ -1,0 +1,424 @@
+{
+  "image": "259_open-meteo_com.png",
+  "total_elements": 32,
+  "total_raw_nodes": 34,
+  "total_raw_edges": 25,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1393.0,
+        670.0,
+        1536.0,
+        674.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1303.0,
+        670.0,
+        1381.0,
+        674.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        70.0,
+        1536.0,
+        74.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        657.95,
+        514.74,
+        717.74,
+        526.96
+      ],
+      "confidence": 0.8401,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "Accurate Weather Forecasts for",
+      "bbox": [
+        47.0,
+        745.0,
+        674.0,
+        781.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "Historical Data",
+      "bbox": [
+        1107.0,
+        776.0,
+        1209.0,
+        787.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "Free Weather API",
+      "bbox": [
+        595.0,
+        330.0,
+        942.0,
+        363.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Open-Meteo is an open-source weather API and offers free access for\nnon-commercial use. No API key required. Start using it now!",
+      "bbox": [
+        416.0,
+        398.0,
+        1121.0,
+        456.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Try the API here",
+      "bbox": [
+        766.0,
+        511.0,
+        877.0,
+        529.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "Forecast & Current",
+      "bbox": [
+        821.0,
+        776.0,
+        955.0,
+        787.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "Open-Meteo Home Features Pricing API Docs",
+      "bbox": [
+        79.0,
+        30.0,
+        503.0,
+        45.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        986.1,
+        774.05,
+        1075.14,
+        791.01
+      ],
+      "confidence": 0.8208,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_12",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        750.0,
+        501.0,
+        894.0,
+        539.0
+      ],
+      "confidence": 0.958,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        719.63,
+        206.13,
+        816.42,
+        299.05
+      ],
+      "confidence": 0.9211,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        595.77,
+        328.24,
+        940.26,
+        368.88
+      ],
+      "confidence": 0.9022,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        46.2,
+        743.49,
+        677.45,
+        826.0
+      ],
+      "confidence": 0.9001,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        79.09,
+        29.16,
+        183.14,
+        48.35
+      ],
+      "confidence": 0.8908,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "Any Location",
+      "bbox": [
+        46.0,
+        795.0,
+        309.0,
+        825.0
+      ],
+      "confidence": 0.89,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        552.0,
+        1295.0,
+        674.0
+      ],
+      "confidence": 0.8846,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        0.51,
+        73.51,
+        873.2,
+        672.59
+      ],
+      "confidence": 0.8661,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        365.4,
+        29.07,
+        414.01,
+        46.49
+      ],
+      "confidence": 0.8472,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        277.91,
+        30.67,
+        338.82,
+        43.34
+      ],
+      "confidence": 0.8432,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        441.26,
+        30.48,
+        506.28,
+        43.49
+      ],
+      "confidence": 0.8398,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        803.55,
+        759.57,
+        971.39,
+        801.72
+      ],
+      "confidence": 0.829,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        641.44,
+        500.14,
+        733.77,
+        540.05
+      ],
+      "confidence": 0.8087,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1105.84,
+        774.19,
+        1208.96,
+        788.42
+      ],
+      "confidence": 0.7786,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        820.18,
+        774.45,
+        956.1,
+        788.46
+      ],
+      "confidence": 0.7775,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        206.89,
+        30.73,
+        252.83,
+        42.95
+      ],
+      "confidence": 0.771,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        46.7,
+        23.96,
+        73.03,
+        48.46
+      ],
+      "confidence": 0.4378,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1393.35,
+        25.7,
+        1413.47,
+        47.76
+      ],
+      "confidence": 0.3753,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1346.75,
+        24.34,
+        1371.35,
+        48.22
+      ],
+      "confidence": 0.3123,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1455.75,
+        23.6,
+        1479.27,
+        49.8
+      ],
+      "confidence": 0.2965,
+      "cluster_size": 1
+    }
+  ]
+}

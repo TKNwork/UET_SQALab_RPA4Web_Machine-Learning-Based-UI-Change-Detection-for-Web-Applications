@@ -1,0 +1,541 @@
+{
+  "image": "224_alistapart_com.png",
+  "total_elements": 41,
+  "total_raw_nodes": 51,
+  "total_raw_edges": 22,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        293.76,
+        0.64,
+        472.4,
+        17.13
+      ],
+      "confidence": 0.9295,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_1",
+      "source": "ocr",
+      "class_label": "Value",
+      "bbox": [
+        294.0,
+        25.0,
+        342.0,
+        37.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "Personalization Pyramid:",
+      "bbox": [
+        538.0,
+        1.0,
+        745.0,
+        16.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "A Framework for",
+      "bbox": [
+        537.0,
+        23.0,
+        676.0,
+        38.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        779.54,
+        23.19,
+        942.9,
+        38.49
+      ],
+      "confidence": 0.8055,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        305.27,
+        441.22,
+        343.23,
+        451.04
+      ],
+      "confidence": 0.8412,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        460.33,
+        441.76,
+        523.44,
+        451.06
+      ],
+      "confidence": 0.9273,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Sponsorships",
+      "bbox": [
+        662.0,
+        442.0,
+        749.0,
+        452.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Brief books for people who design, write, and code.\nBundle books and save!",
+      "bbox": [
+        438.0,
+        529.0,
+        692.0,
+        555.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        952.5,
+        441.73,
+        1225.38,
+        451.78
+      ],
+      "confidence": 0.906,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "by Justin Dauer",
+      "bbox": [
+        295.0,
+        51.0,
+        393.0,
+        62.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "In this excerpt from In Fulfillment:\nThe Designer's Journey, Justin\nDauer ruminates on the past and\nthe importance of keeping an open\nmind.",
+      "bbox": [
+        294.0,
+        73.0,
+        513.0,
+        181.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "Designing with User Data\nby Colin Eagan, Jeffrey Macintyre\nColin Eagan and Jeffrey MacIntyre\noffer a \"ground-up\" approach to\nimplementing personalized digital\nexperiences that are intentional,\nethical, and technologically sound.\nContent - December 08, 2022",
+      "bbox": [
+        537.0,
+        45.0,
+        754.0,
+        230.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "Is mobile-first CSS always the best\noption? Patrick Clancey explores\nthe pros and cons and lays out an\nalternative.",
+      "bbox": [
+        780.0,
+        74.0,
+        995.0,
+        158.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        369.42,
+        334.96,
+        1163.18,
+        371.65
+      ],
+      "confidence": 0.928,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_15",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        376.3,
+        441.54,
+        427.03,
+        451.05
+      ],
+      "confidence": 0.9169,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "Designed with WordPress. Hosted by Pressable.",
+      "bbox": [
+        288.0,
+        699.0,
+        567.0,
+        711.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "*FOR PEOPLE WHO MAKE WEBSITES",
+      "bbox": [
+        286.0,
+        771.0,
+        1247.0,
+        822.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "Design - June 22, 2023",
+      "bbox": [
+        295.0,
+        195.0,
+        413.0,
+        205.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "by Patrick Clancey",
+      "bbox": [
+        780.0,
+        51.0,
+        899.0,
+        62.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        779.77,
+        170.96,
+        889.5,
+        181.49
+      ],
+      "confidence": 0.7916,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "Style Guide",
+      "bbox": [
+        556.0,
+        439.0,
+        628.0,
+        453.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        437.47,
+        508.27,
+        510.58,
+        520.34
+      ],
+      "confidence": 0.9061,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_23",
+      "source": "ocr",
+      "class_label": "ISSN 1534-0295 Copyright © 1998-2026 A List Apart & Our Authors",
+      "bbox": [
+        288.0,
+        675.0,
+        694.0,
+        687.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "ocr",
+      "class_label": "Permissions & Copyright Privacy Policy Fonts by Webtype",
+      "bbox": [
+        306.0,
+        729.0,
+        700.0,
+        740.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        305.73,
+        505.83,
+        427.16,
+        587.25
+      ],
+      "confidence": 0.9332,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_26",
+      "source": "ocr",
+      "class_label": "Mobile-First CSS: Is It",
+      "bbox": [
+        781.0,
+        1.0,
+        958.0,
+        15.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "ocr",
+      "class_label": "Shop now >",
+      "bbox": [
+        437.0,
+        565.0,
+        498.0,
+        574.0
+      ],
+      "confidence": 0.92,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        1135.0,
+        769.0,
+        1151.0,
+        825.0
+      ],
+      "confidence": 0.9174,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        662.31,
+        441.55,
+        749.73,
+        453.65
+      ],
+      "confidence": 0.8755,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        556.63,
+        441.3,
+        628.89,
+        453.85
+      ],
+      "confidence": 0.8558,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        780.09,
+        0.54,
+        959.03,
+        13.24
+      ],
+      "confidence": 0.845,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        303.68,
+        49.71,
+        392.06,
+        60.98
+      ],
+      "confidence": 0.8283,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        780.86,
+        49.77,
+        897.87,
+        62.88
+      ],
+      "confidence": 0.7928,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        537.07,
+        74.28,
+        748.75,
+        86.72
+      ],
+      "confidence": 0.7078,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        431.47,
+        527.09,
+        691.53,
+        542.9
+      ],
+      "confidence": 0.5921,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        534.93,
+        47.68,
+        748.46,
+        64.97
+      ],
+      "confidence": 0.5334,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        294.19,
+        23.87,
+        342.7,
+        37.98
+      ],
+      "confidence": 0.3798,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        437.49,
+        563.97,
+        494.51,
+        574.61
+      ],
+      "confidence": 0.2343,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        294.88,
+        50.7,
+        306.3,
+        61.89
+      ],
+      "confidence": 0.1928,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        644.29,
+        24.99,
+        671.77,
+        37.85
+      ],
+      "confidence": 0.1014,
+      "cluster_size": 1
+    }
+  ]
+}

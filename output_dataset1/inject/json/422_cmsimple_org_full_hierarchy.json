@@ -1,0 +1,1009 @@
+{
+  "image": "422_cmsimple_org.png",
+  "total_elements": 77,
+  "total_raw_nodes": 103,
+  "total_raw_edges": 109,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        914.0,
+        383.0,
+        1040.0,
+        390.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        860.0,
+        335.0,
+        1041.0,
+        345.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        843.0,
+        322.0,
+        1041.0,
+        335.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        257.0,
+        1536.0,
+        260.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        208.0,
+        1536.0,
+        211.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        46.0,
+        1536.0,
+        131.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        188.68,
+        275.68,
+        447.35,
+        496.34
+      ],
+      "confidence": 0.9407,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Templates",
+      "bbox": [
+        204.0,
+        613.0,
+        278.0,
+        628.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Plugins",
+      "bbox": [
+        203.0,
+        661.0,
+        256.0,
+        676.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        204.04,
+        707.37,
+        341.42,
+        725.99
+      ],
+      "confidence": 0.9673,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        203.83,
+        755.67,
+        290.96,
+        773.27
+      ],
+      "confidence": 0.9543,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        203.59,
+        803.84,
+        283.47,
+        818.1
+      ],
+      "confidence": 0.9413,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "CMSimple ist ein php basiertes CMS (Content\nManagement System), das keine Datenbank\nbenötigt. Alle Daten werden in einem einfachen\nDateisystem gespeichert.",
+      "bbox": [
+        488.0,
+        378.0,
+        797.0,
+        465.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        487.32,
+        483.72,
+        1025.52,
+        568.77
+      ],
+      "confidence": 0.9809,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "CMSimple Basic erinnert vom Umfang\nher an CMSimple 3.4 aus 2012, ist aber\nmoderner in Design und Funktion.",
+      "bbox": [
+        1087.0,
+        762.0,
+        1347.0,
+        817.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        838.87,
+        316.84,
+        1047.59,
+        459.47
+      ],
+      "confidence": 0.9351,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_16",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1086.33,
+        333.7,
+        1348.69,
+        404.34
+      ],
+      "confidence": 0.9653,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "Information Dokumentation Downloads Forum",
+      "bbox": [
+        189.0,
+        179.0,
+        718.0,
+        195.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "Sie sind hier: CMSimple",
+      "bbox": [
+        188.0,
+        225.0,
+        353.0,
+        241.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "Infos für Anwender\nInfos für Experten",
+      "bbox": [
+        205.0,
+        425.0,
+        332.0,
+        472.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        489.11,
+        601.59,
+        1035.61,
+        664.97
+      ],
+      "confidence": 0.9638,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_21",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        488.17,
+        687.75,
+        1022.71,
+        749.43
+      ],
+      "confidence": 0.9582,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_22",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1271.88,
+        479.99,
+        1347.27,
+        491.85
+      ],
+      "confidence": 0.9381,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_23",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1086.91,
+        272.83,
+        1348.81,
+        323.29
+      ],
+      "confidence": 0.9767,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_24",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1086.52,
+        633.2,
+        1348.52,
+        684.11
+      ],
+      "confidence": 0.971,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_25",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        187.61,
+        548.16,
+        448.25,
+        594.42
+      ],
+      "confidence": 0.9728,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_26",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        187.77,
+        693.19,
+        448.28,
+        738.86
+      ],
+      "confidence": 0.9725,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_27",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        187.62,
+        645.04,
+        448.56,
+        691.25
+      ],
+      "confidence": 0.9538,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_28",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        187.99,
+        596.4,
+        448.63,
+        643.06
+      ],
+      "confidence": 0.968,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_29",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        187.99,
+        741.08,
+        448.19,
+        787.2
+      ],
+      "confidence": 0.9674,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_30",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        187.6,
+        499.93,
+        448.16,
+        546.12
+      ],
+      "confidence": 0.9686,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_31",
+      "source": "ocr",
+      "class_label": "Flatfile CMS Blog Shop - Das Content Management System zum mitnehmen",
+      "bbox": [
+        186.0,
+        74.0,
+        719.0,
+        92.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        203.62,
+        291.72,
+        276.16,
+        307.75
+      ],
+      "confidence": 0.9484,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_33",
+      "source": "ocr",
+      "class_label": "CMSimpleBlog",
+      "bbox": [
+        203.0,
+        564.0,
+        307.0,
+        579.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "ocr",
+      "class_label": "CMSimple ist fit für php 8.5\nSystemvoraussetzungen >>",
+      "bbox": [
+        1128.0,
+        349.0,
+        1307.0,
+        389.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        186.0,
+        118.0,
+        449.0,
+        157.0
+      ],
+      "confidence": 0.9692,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1087.0,
+        507.93,
+        1327.93,
+        587.13
+      ],
+      "confidence": 0.9645,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_37",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1088.85,
+        434.96,
+        1330.27,
+        459.23
+      ],
+      "confidence": 0.9353,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_38",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        203.33,
+        325.74,
+        331.59,
+        341.6
+      ],
+      "confidence": 0.9316,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_39",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        203.12,
+        514.72,
+        350.8,
+        531.94
+      ],
+      "confidence": 0.9432,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_40",
+      "source": "ocr",
+      "class_label": "Hallo und willkommen auf der CMSimple\nProjektseite",
+      "bbox": [
+        487.0,
+        320.0,
+        756.0,
+        360.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "ocr",
+      "class_label": "Das extrem einfache Template System ermöglicht die unkomplizierte Anpassung des\nSeitendesigns, ein paar grundlegende Kenntnisse in html und CSS vorausgesetzt.\nJeder einzelnen Seite kann ein anderes Template zugeordnet werden.",
+      "bbox": [
+        487.0,
+        769.0,
+        1046.0,
+        825.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1144.03,
+        646.65,
+        1296.42,
+        671.05
+      ],
+      "confidence": 0.9074,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_43",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        889.0,
+        379.0,
+        923.0,
+        382.0
+      ],
+      "confidence": 0.9444,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "ocr",
+      "class_label": "CMSimple Aktuell",
+      "bbox": [
+        1149.0,
+        281.0,
+        1294.0,
+        310.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1219.28,
+        600.35,
+        1347.43,
+        614.68
+      ],
+      "confidence": 0.903,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_46",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        186.78,
+        788.56,
+        448.61,
+        825.93
+      ],
+      "confidence": 0.9341,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        203.28,
+        562.76,
+        307.85,
+        580.61
+      ],
+      "confidence": 0.9328,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "ocr",
+      "class_label": "Welcome to CMSimple",
+      "bbox": [
+        868.0,
+        369.0,
+        995.0,
+        380.0
+      ],
+      "confidence": 0.93,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        0.0,
+        49.44,
+        1066.76,
+        210.81
+      ],
+      "confidence": 0.9297,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        203.99,
+        612.03,
+        278.9,
+        629.9
+      ],
+      "confidence": 0.9261,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        206.32,
+        455.88,
+        322.76,
+        473.57
+      ],
+      "confidence": 0.923,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        204.67,
+        659.69,
+        256.96,
+        677.27
+      ],
+      "confidence": 0.9229,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_53",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        344.58,
+        179.94,
+        500.06,
+        193.21
+      ],
+      "confidence": 0.9212,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_54",
+      "source": "ocr",
+      "class_label": "Was bietet CMSimple?\nScreenshots",
+      "bbox": [
+        203.0,
+        356.0,
+        353.0,
+        407.0
+      ],
+      "confidence": 0.92,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_55",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1088.73,
+        715.02,
+        1219.97,
+        741.02
+      ],
+      "confidence": 0.9173,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_56",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        190.09,
+        180.02,
+        320.76,
+        192.94
+      ],
+      "confidence": 0.9117,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_57",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        205.43,
+        424.6,
+        328.63,
+        437.84
+      ],
+      "confidence": 0.9022,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_58",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        524.79,
+        180.05,
+        632.13,
+        193.7
+      ],
+      "confidence": 0.8986,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_59",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        406.95,
+        120.24,
+        445.93,
+        155.37
+      ],
+      "confidence": 0.8984,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_60",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        287.35,
+        227.12,
+        352.6,
+        240.66
+      ],
+      "confidence": 0.8967,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_61",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1149.97,
+        286.27,
+        1291.38,
+        309.73
+      ],
+      "confidence": 0.8904,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_62",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        188.17,
+        227.29,
+        275.25,
+        237.98
+      ],
+      "confidence": 0.8874,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_63",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        204.31,
+        358.61,
+        353.87,
+        374.83
+      ],
+      "confidence": 0.8722,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_64",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        657.65,
+        180.47,
+        717.88,
+        193.19
+      ],
+      "confidence": 0.8636,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_65",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        203.89,
+        390.75,
+        288.43,
+        405.93
+      ],
+      "confidence": 0.8517,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_66",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        990.05,
+        280.34,
+        1008.61,
+        292.86
+      ],
+      "confidence": 0.7023,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_67",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        951.0,
+        281.28,
+        971.36,
+        297.3
+      ],
+      "confidence": 0.699,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_68",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1128.0,
+        347.72,
+        1310.29,
+        367.94
+      ],
+      "confidence": 0.6758,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_69",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1027.81,
+        280.26,
+        1046.76,
+        292.62
+      ],
+      "confidence": 0.637,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_70",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1131.28,
+        373.31,
+        1303.25,
+        390.36
+      ],
+      "confidence": 0.6253,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_71",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        187.89,
+        119.89,
+        406.48,
+        156.23
+      ],
+      "confidence": 0.606,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_72",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        24.62,
+        9.18,
+        47.64,
+        33.84
+      ],
+      "confidence": 0.3022,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_73",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        66.7,
+        8.76,
+        85.15,
+        35.31
+      ],
+      "confidence": 0.2271,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_74",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1497.63,
+        16.23,
+        1515.64,
+        32.21
+      ],
+      "confidence": 0.1845,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_75",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        0.0,
+        0.0,
+        779.23,
+        0.0
+      ],
+      "confidence": 0.1087,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_76",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        659.93,
+        48.05,
+        675.9,
+        54.55
+      ],
+      "confidence": 0.1045,
+      "cluster_size": 1
+    }
+  ]
+}

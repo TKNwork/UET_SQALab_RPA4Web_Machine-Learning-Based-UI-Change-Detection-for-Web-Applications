@@ -1,0 +1,1438 @@
+{
+  "image": "485_fitbit_com.png",
+  "total_elements": 110,
+  "total_raw_nodes": 123,
+  "total_raw_edges": 68,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        478.71,
+        732.97,
+        511.04,
+        748.08
+      ],
+      "confidence": 0.8691,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_1",
+      "source": "ocr",
+      "class_label": "Change your region and",
+      "bbox": [
+        78.0,
+        91.0,
+        707.0,
+        149.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "language",
+      "bbox": [
+        82.0,
+        165.0,
+        322.0,
+        216.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "Be sure to pick the location that matches your shipping address.",
+      "bbox": [
+        80.0,
+        236.0,
+        510.0,
+        248.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        95.67,
+        329.0,
+        270.53,
+        359.3
+      ],
+      "confidence": 0.9717,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        445.0,
+        329.12,
+        656.28,
+        359.56
+      ],
+      "confidence": 0.97,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        834.13,
+        329.01,
+        963.88,
+        365.86
+      ],
+      "confidence": 0.968,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        863.36,
+        391.51,
+        942.67,
+        426.59
+      ],
+      "confidence": 0.9322,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "English",
+      "bbox": [
+        128.0,
+        413.0,
+        172.0,
+        429.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "English",
+      "bbox": [
+        129.0,
+        472.0,
+        172.0,
+        484.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "Australia",
+      "bbox": [
+        478.0,
+        426.0,
+        542.0,
+        437.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "English",
+      "bbox": [
+        479.0,
+        471.0,
+        522.0,
+        484.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "日本語",
+      "bbox": [
+        479.0,
+        528.0,
+        519.0,
+        541.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "Malaysia",
+      "bbox": [
+        478.0,
+        565.0,
+        541.0,
+        579.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "English",
+      "bbox": [
+        479.0,
+        586.0,
+        522.0,
+        598.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        477.07,
+        619.63,
+        573.47,
+        654.68
+      ],
+      "confidence": 0.9588,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "Singapore",
+      "bbox": [
+        478.0,
+        677.0,
+        553.0,
+        691.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "English",
+      "bbox": [
+        478.0,
+        697.0,
+        522.0,
+        710.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "中文",
+      "bbox": [
+        478.0,
+        755.0,
+        507.0,
+        767.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1176.35,
+        450.45,
+        1250.46,
+        482.36
+      ],
+      "confidence": 0.9549,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "België\nNederlands",
+      "bbox": [
+        864.0,
+        451.0,
+        937.0,
+        482.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "Polska",
+      "bbox": [
+        1177.0,
+        505.0,
+        1221.0,
+        519.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "polski",
+      "bbox": [
+        1177.0,
+        527.0,
+        1212.0,
+        540.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "ocr",
+      "class_label": "Ireland",
+      "bbox": [
+        1176.0,
+        561.0,
+        1225.0,
+        576.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "ocr",
+      "class_label": "English",
+      "bbox": [
+        1177.0,
+        582.0,
+        1220.0,
+        597.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        863.77,
+        618.47,
+        931.72,
+        650.87
+      ],
+      "confidence": 0.8927,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_26",
+      "source": "ocr",
+      "class_label": "Eesti",
+      "bbox": [
+        865.0,
+        675.0,
+        898.0,
+        687.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "ocr",
+      "class_label": "Italia\nitaliano",
+      "bbox": [
+        1176.0,
+        616.0,
+        1223.0,
+        652.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1177.23,
+        673.88,
+        1253.95,
+        705.7
+      ],
+      "confidence": 0.9591,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_29",
+      "source": "ocr",
+      "class_label": "G",
+      "bbox": [
+        67.0,
+        17.0,
+        92.0,
+        38.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "ocr",
+      "class_label": "United States",
+      "bbox": [
+        128.0,
+        395.0,
+        227.0,
+        407.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "ocr",
+      "class_label": "Canada",
+      "bbox": [
+        127.0,
+        448.0,
+        185.0,
+        465.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1176.62,
+        393.91,
+        1249.81,
+        426.52
+      ],
+      "confidence": 0.9403,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_33",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        863.12,
+        506.64,
+        928.81,
+        541.58
+      ],
+      "confidence": 0.9567,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_34",
+      "source": "ocr",
+      "class_label": "eesti",
+      "bbox": [
+        864.0,
+        694.0,
+        893.0,
+        706.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "ocr",
+      "class_label": "suomi",
+      "bbox": [
+        864.0,
+        751.0,
+        900.0,
+        761.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "ocr",
+      "class_label": "France",
+      "bbox": [
+        864.0,
+        786.0,
+        913.0,
+        801.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "ocr",
+      "class_label": "français",
+      "bbox": [
+        864.0,
+        807.0,
+        915.0,
+        820.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        82.73,
+        95.27,
+        707.91,
+        220.57
+      ],
+      "confidence": 0.9717,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "ocr",
+      "class_label": "français",
+      "bbox": [
+        128.0,
+        527.0,
+        179.0,
+        541.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "ocr",
+      "class_label": "Puerto Rico",
+      "bbox": [
+        127.0,
+        616.0,
+        213.0,
+        633.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "ocr",
+      "class_label": "español",
+      "bbox": [
+        128.0,
+        639.0,
+        178.0,
+        651.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "ocr",
+      "class_label": "čeština",
+      "bbox": [
+        864.0,
+        583.0,
+        910.0,
+        594.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        476.86,
+        676.14,
+        555.28,
+        710.53
+      ],
+      "confidence": 0.9509,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1176.81,
+        730.63,
+        1222.16,
+        761.64
+      ],
+      "confidence": 0.8895,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_45",
+      "source": "ocr",
+      "class_label": "Česko",
+      "bbox": [
+        864.0,
+        559.0,
+        911.0,
+        576.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "ocr",
+      "class_label": "⚫ Portugal\nportuguês",
+      "bbox": [
+        1147.0,
+        788.0,
+        1242.0,
+        820.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "ocr",
+      "class_label": "0",
+      "bbox": [
+        1446.0,
+        15.0,
+        1465.0,
+        34.0
+      ],
+      "confidence": 0.93,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        477.87,
+        564.35,
+        543.01,
+        598.98
+      ],
+      "confidence": 0.9241,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        128.31,
+        394.71,
+        228.03,
+        429.51
+      ],
+      "confidence": 0.919,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        445.0,
+        393.0,
+        472.0,
+        413.0
+      ],
+      "confidence": 0.9139,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        1143.0,
+        785.0,
+        1170.0,
+        805.0
+      ],
+      "confidence": 0.912,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        445.0,
+        618.0,
+        472.0,
+        639.0
+      ],
+      "confidence": 0.9118,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_53",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        1143.0,
+        729.0,
+        1170.0,
+        749.0
+      ],
+      "confidence": 0.9102,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_54",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        94.0,
+        617.0,
+        121.0,
+        637.0
+      ],
+      "confidence": 0.9074,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_55",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        445.0,
+        730.0,
+        472.0,
+        751.0
+      ],
+      "confidence": 0.9065,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_56",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        445.0,
+        562.0,
+        472.0,
+        582.0
+      ],
+      "confidence": 0.9037,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_57",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        127.76,
+        618.61,
+        214.45,
+        651.89
+      ],
+      "confidence": 0.8947,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_58",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        863.74,
+        674.05,
+        900.42,
+        705.45
+      ],
+      "confidence": 0.8942,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_59",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        127.65,
+        562.07,
+        182.14,
+        596.31
+      ],
+      "confidence": 0.8929,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_60",
+      "source": "ocr",
+      "class_label": "+Canada",
+      "bbox": [
+        103.0,
+        505.0,
+        184.0,
+        522.0
+      ],
+      "confidence": 0.89,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_61",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1177.77,
+        562.24,
+        1226.98,
+        596.72
+      ],
+      "confidence": 0.8854,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_62",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1177.61,
+        786.87,
+        1242.96,
+        821.01
+      ],
+      "confidence": 0.8777,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_63",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        2.85,
+        58.62,
+        788.07,
+        281.55
+      ],
+      "confidence": 0.8705,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_64",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1177.78,
+        507.65,
+        1224.37,
+        539.27
+      ],
+      "confidence": 0.8703,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_65",
+      "source": "ocr",
+      "class_label": "+ Suomi",
+      "bbox": [
+        832.0,
+        728.0,
+        909.0,
+        748.0
+      ],
+      "confidence": 0.87,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_66",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        810.5,
+        57.49,
+        1536.0,
+        281.3
+      ],
+      "confidence": 0.865,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_67",
+      "source": "ocr",
+      "class_label": "I⚫ México\nespañol",
+      "bbox": [
+        94.0,
+        561.0,
+        181.0,
+        597.0
+      ],
+      "confidence": 0.86,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_68",
+      "source": "ocr",
+      "class_label": "• 日本",
+      "bbox": [
+        454.0,
+        507.0,
+        509.0,
+        522.0
+      ],
+      "confidence": 0.83,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_69",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        860.85,
+        786.75,
+        916.44,
+        821.17
+      ],
+      "confidence": 0.827,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_70",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        862.77,
+        470.21,
+        938.76,
+        483.4
+      ],
+      "confidence": 0.8193,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_71",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        862.62,
+        560.63,
+        911.58,
+        594.16
+      ],
+      "confidence": 0.8158,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_72",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        446.79,
+        394.66,
+        470.41,
+        411.57
+      ],
+      "confidence": 0.8058,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_73",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        863.51,
+        450.56,
+        910.66,
+        466.76
+      ],
+      "confidence": 0.8025,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_74",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1177.66,
+        619.41,
+        1223.04,
+        650.63
+      ],
+      "confidence": 0.7951,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_75",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        126.03,
+        506.9,
+        185.22,
+        540.96
+      ],
+      "confidence": 0.7766,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_76",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        832.61,
+        506.69,
+        855.56,
+        523.67
+      ],
+      "confidence": 0.7514,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_77",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        833.14,
+        563.72,
+        854.72,
+        579.07
+      ],
+      "confidence": 0.7089,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_78",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        832.9,
+        618.64,
+        855.75,
+        636.09
+      ],
+      "confidence": 0.7064,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_79",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        859.73,
+        730.26,
+        910.71,
+        761.75
+      ],
+      "confidence": 0.693,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_80",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        832.83,
+        450.45,
+        855.35,
+        468.1
+      ],
+      "confidence": 0.6875,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_81",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        478.76,
+        507.04,
+        519.87,
+        540.46
+      ],
+      "confidence": 0.6868,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_82",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        446.92,
+        619.87,
+        469.23,
+        636.87
+      ],
+      "confidence": 0.6679,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_83",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1145.39,
+        786.66,
+        1168.64,
+        803.72
+      ],
+      "confidence": 0.6064,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_84",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        95.93,
+        394.64,
+        119.39,
+        409.87
+      ],
+      "confidence": 0.6,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_85",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        832.83,
+        674.93,
+        856.16,
+        687.94
+      ],
+      "confidence": 0.5873,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_86",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        96.76,
+        562.65,
+        119.69,
+        579.59
+      ],
+      "confidence": 0.5798,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_87",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        477.55,
+        425.11,
+        542.38,
+        439.95
+      ],
+      "confidence": 0.5495,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_88",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        76.22,
+        234.09,
+        512.86,
+        249.65
+      ],
+      "confidence": 0.5333,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_89",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        833.29,
+        394.83,
+        855.75,
+        411.12
+      ],
+      "confidence": 0.5204,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_90",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        446.9,
+        565.04,
+        469.94,
+        579.91
+      ],
+      "confidence": 0.4976,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_91",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        68.38,
+        16.49,
+        90.64,
+        40.02
+      ],
+      "confidence": 0.4777,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_92",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        478.17,
+        469.93,
+        523.82,
+        485.09
+      ],
+      "confidence": 0.4685,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_93",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        96.32,
+        618.9,
+        120.27,
+        635.43
+      ],
+      "confidence": 0.4575,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_94",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        833.43,
+        730.98,
+        854.63,
+        746.83
+      ],
+      "confidence": 0.4462,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_95",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        446.87,
+        732.35,
+        469.45,
+        748.5
+      ],
+      "confidence": 0.4462,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_96",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        96.26,
+        450.78,
+        119.22,
+        467.45
+      ],
+      "confidence": 0.4027,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_97",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1144.4,
+        730.56,
+        1168.44,
+        747.79
+      ],
+      "confidence": 0.3207,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_98",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1144.45,
+        397.3,
+        1168.75,
+        411.75
+      ],
+      "confidence": 0.3689,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_99",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        446.88,
+        450.38,
+        469.96,
+        466.45
+      ],
+      "confidence": 0.3548,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_100",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        96.42,
+        506.98,
+        119.89,
+        523.34
+      ],
+      "confidence": 0.3442,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_101",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        833.51,
+        786.32,
+        847.5,
+        803.65
+      ],
+      "confidence": 0.281,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_102",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1445.53,
+        17.8,
+        1466.27,
+        38.19
+      ],
+      "confidence": 0.2631,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_103",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1144.99,
+        454.77,
+        1168.42,
+        467.28
+      ],
+      "confidence": 0.2477,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_104",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        447.17,
+        676.33,
+        470.33,
+        685.07
+      ],
+      "confidence": 0.2373,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_105",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1178.29,
+        639.47,
+        1222.72,
+        650.33
+      ],
+      "confidence": 0.1779,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_106",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1144.9,
+        675.62,
+        1167.86,
+        690.27
+      ],
+      "confidence": 0.1506,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_107",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        477.78,
+        753.5,
+        508.15,
+        766.88
+      ],
+      "confidence": 0.1418,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_108",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1146.52,
+        562.97,
+        1166.42,
+        579.61
+      ],
+      "confidence": 0.139,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_109",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        843.9,
+        785.84,
+        857.08,
+        802.95
+      ],
+      "confidence": 0.1317,
+      "cluster_size": 1
+    }
+  ]
+}

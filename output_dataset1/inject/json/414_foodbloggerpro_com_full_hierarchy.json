@@ -1,0 +1,320 @@
+{
+  "image": "414_foodbloggerpro_com.png",
+  "total_elements": 24,
+  "total_raw_nodes": 29,
+  "total_raw_edges": 22,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        791.0,
+        648.0,
+        794.0,
+        691.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        918.0,
+        340.0,
+        1104.0,
+        343.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "First Name",
+      "bbox": [
+        444.0,
+        313.0,
+        518.0,
+        325.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "Email Address",
+      "bbox": [
+        687.0,
+        313.0,
+        785.0,
+        325.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        221.02,
+        779.62,
+        547.25,
+        819.49
+      ],
+      "confidence": 0.9364,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        685.52,
+        750.87,
+        850.19,
+        765.96
+      ],
+      "confidence": 0.9384,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "Turn your creativity into cash and run your blog\nas a business. Get our top tips on earning",
+      "bbox": [
+        979.0,
+        780.0,
+        1326.0,
+        818.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        322.66,
+        99.82,
+        1212.04,
+        223.18
+      ],
+      "confidence": 0.9151,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Make Your Blogging Dreams a Reality",
+      "bbox": [
+        480.0,
+        524.0,
+        1058.0,
+        556.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        311.65,
+        739.48,
+        456.08,
+        760.67
+      ],
+      "confidence": 0.9368,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "Get your recipes seen on social media, via\nsearch engines, and through email with our",
+      "bbox": [
+        609.0,
+        789.0,
+        929.0,
+        825.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "Earn More Money",
+      "bbox": [
+        1069.0,
+        739.0,
+        1237.0,
+        758.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        704.03,
+        608.71,
+        829.96,
+        723.2
+      ],
+      "confidence": 0.977,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        429.0,
+        294.0,
+        664.0,
+        343.0
+      ],
+      "confidence": 0.9748,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        672.0,
+        294.0,
+        908.0,
+        343.0
+      ],
+      "confidence": 0.9742,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        917.0,
+        296.0,
+        1105.0,
+        339.0
+      ],
+      "confidence": 0.9706,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        939.44,
+        309.5,
+        1082.83,
+        327.71
+      ],
+      "confidence": 0.798,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_17",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1088.81,
+        599.41,
+        1215.32,
+        711.78
+      ],
+      "confidence": 0.9687,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        321.18,
+        604.28,
+        446.58,
+        709.61
+      ],
+      "confidence": 0.9674,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        361.0,
+        637.0,
+        407.0,
+        668.0
+      ],
+      "confidence": 0.913,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1067.61,
+        740.2,
+        1237.77,
+        761.31
+      ],
+      "confidence": 0.9089,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        0.0,
+        5.76,
+        1291.68,
+        450.74
+      ],
+      "confidence": 0.8874,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "040",
+      "bbox": [
+        1092.0,
+        404.0,
+        1174.0,
+        459.0
+      ],
+      "confidence": 0.84,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        745.12,
+        641.41,
+        796.62,
+        695.14
+      ],
+      "confidence": 0.7731,
+      "cluster_size": 1
+    }
+  ]
+}

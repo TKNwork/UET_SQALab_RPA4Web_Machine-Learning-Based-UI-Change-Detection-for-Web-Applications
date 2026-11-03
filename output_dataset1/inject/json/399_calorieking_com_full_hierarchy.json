@@ -1,0 +1,255 @@
+{
+  "image": "399_calorieking_com.png",
+  "total_elements": 19,
+  "total_raw_nodes": 23,
+  "total_raw_edges": 24,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        695.0,
+        1536.0,
+        698.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        287.0,
+        361.0,
+        1249.0,
+        412.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        153.0,
+        1536.0,
+        156.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "Foods Tools Products Unavailable Program",
+      "bbox": [
+        566.0,
+        18.0,
+        961.0,
+        47.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        423.16,
+        242.58,
+        1116.02,
+        278.95
+      ],
+      "confidence": 0.9514,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        405.48,
+        311.68,
+        1131.68,
+        334.74
+      ],
+      "confidence": 0.9362,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        685.89,
+        448.83,
+        849.61,
+        460.33
+      ],
+      "confidence": 0.9381,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        629.4,
+        510.86,
+        904.77,
+        520.38
+      ],
+      "confidence": 0.8954,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "CalorieKing",
+      "bbox": [
+        119.0,
+        20.0,
+        255.0,
+        44.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        0.0,
+        158.02,
+        1184.2,
+        695.87
+      ],
+      "confidence": 0.9689,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "QEnter a food or brand name",
+      "bbox": [
+        313.0,
+        377.0,
+        547.0,
+        393.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        663.06,
+        435.15,
+        872.29,
+        475.84
+      ],
+      "confidence": 0.9375,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        813.0,
+        25.49,
+        962.29,
+        41.85
+      ],
+      "confidence": 0.876,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        713.54,
+        25.53,
+        780.67,
+        39.52
+      ],
+      "confidence": 0.8755,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        644.82,
+        26.28,
+        682.94,
+        38.92
+      ],
+      "confidence": 0.8452,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        565.02,
+        25.89,
+        611.15,
+        39.44
+      ],
+      "confidence": 0.6993,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        833.01,
+        548.46,
+        895.2,
+        610.95
+      ],
+      "confidence": 0.5092,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        312.41,
+        376.06,
+        333.25,
+        395.81
+      ],
+      "confidence": 0.2209,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1399.4,
+        25.39,
+        1420.97,
+        40.1
+      ],
+      "confidence": 0.1579,
+      "cluster_size": 1
+    }
+  ]
+}

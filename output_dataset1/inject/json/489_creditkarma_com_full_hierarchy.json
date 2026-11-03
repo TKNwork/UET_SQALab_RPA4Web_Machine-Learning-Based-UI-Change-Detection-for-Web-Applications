@@ -1,0 +1,372 @@
+{
+  "image": "489_creditkarma_com.png",
+  "total_elements": 28,
+  "total_raw_nodes": 31,
+  "total_raw_edges": 13,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        637.0,
+        40.0,
+        1536.0,
+        43.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "ocr",
+      "class_label": "Home",
+      "bbox": [
+        696.0,
+        4.0,
+        732.0,
+        15.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        958.2,
+        4.03,
+        1096.33,
+        14.12
+      ],
+      "confidence": 0.919,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "Credit Scores",
+      "bbox": [
+        1128.0,
+        4.0,
+        1211.0,
+        15.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "Resources",
+      "bbox": [
+        1255.0,
+        5.0,
+        1320.0,
+        14.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "No matter your life's path or goals, we're here to help\nyou along each step-empowering you with the insights\nto make confident choices.",
+      "bbox": [
+        133.0,
+        309.0,
+        627.0,
+        379.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "Login",
+      "bbox": [
+        493.0,
+        467.0,
+        536.0,
+        483.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Personal Loans - $999.99 Interest Rate",
+      "bbox": [
+        306.0,
+        3.0,
+        548.0,
+        15.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Net Worth",
+      "bbox": [
+        862.0,
+        1.0,
+        925.0,
+        16.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "We're here to\nget you there.",
+      "bbox": [
+        129.0,
+        114.0,
+        611.0,
+        273.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "Sign up",
+      "bbox": [
+        223.0,
+        468.0,
+        281.0,
+        483.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        394.0,
+        448.0,
+        636.0,
+        500.0
+      ],
+      "confidence": 0.9733,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        133.0,
+        449.0,
+        374.0,
+        500.0
+      ],
+      "confidence": 0.9732,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "creditkarma. Credit Cards",
+      "bbox": [
+        24.0,
+        0.0,
+        262.0,
+        15.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "Help center Log in | Sign",
+      "bbox": [
+        1364.0,
+        2.0,
+        1534.0,
+        18.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        777.02,
+        4.17,
+        827.58,
+        17.06
+      ],
+      "confidence": 0.7947,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_16",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        622.0,
+        5.11,
+        662.87,
+        13.88
+      ],
+      "confidence": 0.6962,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_17",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        23.81,
+        0.43,
+        155.31,
+        14.47
+      ],
+      "confidence": 0.8395,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        306.14,
+        4.37,
+        550.13,
+        17.27
+      ],
+      "confidence": 0.8287,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1126.82,
+        4.17,
+        1224.07,
+        14.33
+      ],
+      "confidence": 0.8264,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1255.12,
+        5.23,
+        1332.52,
+        14.12
+      ],
+      "confidence": 0.6934,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1363.51,
+        4.11,
+        1435.22,
+        17.08
+      ],
+      "confidence": 0.6784,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        861.49,
+        4.52,
+        925.82,
+        14.16
+      ],
+      "confidence": 0.6736,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1452.23,
+        3.6,
+        1490.84,
+        16.66
+      ],
+      "confidence": 0.4786,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        183.44,
+        4.62,
+        274.34,
+        14.31
+      ],
+      "confidence": 0.4715,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1506.78,
+        4.06,
+        1535.84,
+        16.9
+      ],
+      "confidence": 0.4436,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        696.88,
+        4.89,
+        744.18,
+        14.21
+      ],
+      "confidence": 0.4387,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        550.0,
+        7.16,
+        560.56,
+        14.43
+      ],
+      "confidence": 0.1186,
+      "cluster_size": 1
+    }
+  ]
+}

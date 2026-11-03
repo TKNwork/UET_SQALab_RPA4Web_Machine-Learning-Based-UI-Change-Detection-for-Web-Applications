@@ -1,0 +1,671 @@
+{
+  "image": "218_martinfowler_com.png",
+  "total_elements": 51,
+  "total_raw_nodes": 61,
+  "total_raw_edges": 47,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        961.0,
+        251.0,
+        1257.0,
+        258.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        964.0,
+        253.0,
+        1251.0,
+        256.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        627.0,
+        251.0,
+        924.0,
+        258.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        630.0,
+        253.0,
+        919.0,
+        256.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        294.0,
+        251.0,
+        591.0,
+        258.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        297.0,
+        253.0,
+        585.0,
+        256.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        295.84,
+        6.89,
+        592.01,
+        31.24
+      ],
+      "confidence": 0.9503,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        293.71,
+        82.68,
+        995.41,
+        201.94
+      ],
+      "confidence": 0.9749,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        294.99,
+        278.23,
+        440.73,
+        297.11
+      ],
+      "confidence": 0.959,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        490.84,
+        697.71,
+        530.41,
+        707.01
+      ],
+      "confidence": 0.8999,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "PROGRAMMING STYLE EXTREME\nPROGRAMMING REFACTORING",
+      "bbox": [
+        296.0,
+        764.0,
+        515.0,
+        796.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        627.84,
+        516.27,
+        918.42,
+        795.61
+      ],
+      "confidence": 0.9726,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_12",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        961.14,
+        278.28,
+        1177.8,
+        296.51
+      ],
+      "confidence": 0.969,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "It's hard enough for software developers to write\ncode that works on their machine. But even\nwhen that's done, there's a long journey from\nthere to software that's producing value - since",
+      "bbox": [
+        962.0,
+        321.0,
+        1255.0,
+        395.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "software delivery is to build software so that it is",
+      "bbox": [
+        962.0,
+        442.0,
+        1251.0,
+        455.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "always in a state where it could be put into",
+      "bbox": [
+        962.0,
+        461.0,
+        1217.0,
+        478.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "deployment pipeline that tests if this software is\nin a state to be delivered.",
+      "bbox": [
+        962.0,
+        522.0,
+        1249.0,
+        557.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "CONTINUOUS DELIVERY",
+      "bbox": [
+        975.0,
+        646.0,
+        1119.0,
+        656.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "GUIDE",
+      "bbox": [
+        1158.0,
+        580.0,
+        1196.0,
+        589.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        294.35,
+        315.83,
+        588.76,
+        401.48
+      ],
+      "confidence": 0.9602,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_20",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        960.75,
+        321.35,
+        1253.6,
+        555.46
+      ],
+      "confidence": 0.9814,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        293.92,
+        417.14,
+        585.93,
+        677.09
+      ],
+      "confidence": 0.9666,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "by Martin Fowler",
+      "bbox": [
+        295.0,
+        697.0,
+        405.0,
+        709.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "ocr",
+      "class_label": "Read more...",
+      "bbox": [
+        296.0,
+        732.0,
+        375.0,
+        742.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        626.85,
+        277.49,
+        909.86,
+        320.02
+      ],
+      "confidence": 0.9612,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_25",
+      "source": "ocr",
+      "class_label": "by Martin Fowler",
+      "bbox": [
+        629.0,
+        817.0,
+        738.0,
+        825.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "ocr",
+      "class_label": "software only produces value when it's in\nproduction. he essence of my philosophy to",
+      "bbox": [
+        962.0,
+        402.0,
+        1222.0,
+        436.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "ocr",
+      "class_label": "production. We call this Continuous Delivery\nbecause we are continuously running a",
+      "bbox": [
+        961.0,
+        484.0,
+        1230.0,
+        520.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        961.95,
+        577.93,
+        1069.5,
+        591.57
+      ],
+      "confidence": 0.9429,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_29",
+      "source": "ocr",
+      "class_label": "Read more...",
+      "bbox": [
+        962.0,
+        614.0,
+        1042.0,
+        623.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        699.0,
+        363.0,
+        750.0,
+        414.0
+      ],
+      "confidence": 0.9546,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        558.0,
+        317.0,
+        588.0,
+        400.0
+      ],
+      "confidence": 0.9536,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "ocr",
+      "class_label": "ARTICLE",
+      "bbox": [
+        824.0,
+        817.0,
+        873.0,
+        825.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        694.0,
+        442.0,
+        731.0,
+        478.0
+      ],
+      "confidence": 0.9354,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        639.67,
+        159.36,
+        811.23,
+        177.47
+      ],
+      "confidence": 0.9309,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        962.78,
+        612.16,
+        1040.33,
+        622.88
+      ],
+      "confidence": 0.9167,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        295.48,
+        695.45,
+        404.82,
+        710.24
+      ],
+      "confidence": 0.9156,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        963.08,
+        644.09,
+        1116.61,
+        655.3
+      ],
+      "confidence": 0.9098,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        296.12,
+        730.8,
+        372.81,
+        741.03
+      ],
+      "confidence": 0.8911,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        296.42,
+        783.08,
+        497.89,
+        796.23
+      ],
+      "confidence": 0.8881,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "ocr",
+      "class_label": "this extra time and effort is\nthe cost of the cruft, paid\nwith each new feature",
+      "bbox": [
+        831.0,
+        404.0,
+        912.0,
+        429.0
+      ],
+      "confidence": 0.87,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        613.34,
+        246.5,
+        933.49,
+        825.22
+      ],
+      "confidence": 0.8694,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        697.0,
+        444.0,
+        728.0,
+        447.0
+      ],
+      "confidence": 0.8611,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "ocr",
+      "class_label": "the cruft means new features",
+      "bbox": [
+        762.0,
+        359.0,
+        848.0,
+        366.0
+      ],
+      "confidence": 0.85,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "ocr",
+      "class_label": "Refactoring.com",
+      "bbox": [
+        315.0,
+        339.0,
+        536.0,
+        385.0
+      ],
+      "confidence": 0.84,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        627.54,
+        815.7,
+        737.73,
+        826.0
+      ],
+      "confidence": 0.8303,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        295.42,
+        763.92,
+        511.51,
+        774.16
+      ],
+      "confidence": 0.8265,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "ocr",
+      "class_label": "free of cruft, features can be\nadded more quickly",
+      "bbox": [
+        753.0,
+        468.0,
+        840.0,
+        486.0
+      ],
+      "confidence": 0.81,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        880.71,
+        133.73,
+        982.06,
+        152.29
+      ],
+      "confidence": 0.7644,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1157.22,
+        578.37,
+        1198.24,
+        588.14
+      ],
+      "confidence": 0.7357,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        825.55,
+        817.86,
+        873.93,
+        825.83
+      ],
+      "confidence": 0.476,
+      "cluster_size": 1
+    }
+  ]
+}

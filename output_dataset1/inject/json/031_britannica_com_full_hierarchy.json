@@ -1,0 +1,788 @@
+{
+  "image": "031_britannica_com.png",
+  "total_elements": 60,
+  "total_raw_nodes": 86,
+  "total_raw_edges": 71,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        375.0,
+        331.0,
+        411.0,
+        334.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        478.0,
+        325.0,
+        613.0,
+        329.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        437.0,
+        260.0,
+        473.0,
+        263.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        476.0,
+        239.0,
+        480.0,
+        327.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        413.0,
+        140.0,
+        505.0,
+        145.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        52.0,
+        1536.0,
+        56.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        225.0,
+        105.0,
+        1310.0,
+        384.0
+      ],
+      "confidence": 0.9955,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Explore",
+      "bbox": [
+        125.0,
+        24.0,
+        171.0,
+        36.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Explore Britannica",
+      "bbox": [
+        218.0,
+        427.0,
+        457.0,
+        453.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        218.79,
+        496.28,
+        432.65,
+        518.51
+      ],
+      "confidence": 0.9573,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        331.88,
+        543.17,
+        524.38,
+        578.31
+      ],
+      "confidence": 0.9122,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "Britannica",
+      "bbox": [
+        712.0,
+        17.0,
+        859.0,
+        40.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1247.64,
+        23.54,
+        1320.35,
+        33.94
+      ],
+      "confidence": 0.8859,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "Britannica Premium Subscription",
+      "bbox": [
+        664.0,
+        134.0,
+        891.0,
+        148.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        663.22,
+        174.94,
+        1017.3,
+        194.93
+      ],
+      "confidence": 0.9533,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_15",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1082.75,
+        288.02,
+        1199.62,
+        300.67
+      ],
+      "confidence": 0.8972,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        597.68,
+        496.59,
+        782.23,
+        513.63
+      ],
+      "confidence": 0.9459,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "Biographies",
+      "bbox": [
+        978.0,
+        494.0,
+        1125.0,
+        517.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1092.82,
+        543.91,
+        1222.16,
+        556.16
+      ],
+      "confidence": 0.8147,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_19",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1093.8,
+        638.7,
+        1201.88,
+        650.96
+      ],
+      "confidence": 0.9461,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_20",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        217.35,
+        751.28,
+        439.09,
+        768.75
+      ],
+      "confidence": 0.9471,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "Geography & Travel",
+      "bbox": [
+        598.0,
+        747.0,
+        842.0,
+        774.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        197.91,
+        21.74,
+        329.26,
+        34.34
+      ],
+      "confidence": 0.8538,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_23",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        330.53,
+        637.57,
+        530.72,
+        690.85
+      ],
+      "confidence": 0.9211,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_24",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        660.14,
+        212.91,
+        1257.24,
+        252.61
+      ],
+      "confidence": 0.9523,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_25",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        712.72,
+        638.19,
+        891.72,
+        669.85
+      ],
+      "confidence": 0.8194,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        976.63,
+        751.74,
+        1155.41,
+        768.7
+      ],
+      "confidence": 0.9363,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_27",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        597.0,
+        634.0,
+        698.0,
+        711.0
+      ],
+      "confidence": 0.9763,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        597.87,
+        539.71,
+        697.14,
+        615.04
+      ],
+      "confidence": 0.9047,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_29",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        977.8,
+        539.74,
+        1077.3,
+        615.37
+      ],
+      "confidence": 0.8898,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_30",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        218.35,
+        540.06,
+        318.19,
+        615.1
+      ],
+      "confidence": 0.9237,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_31",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        977.76,
+        634.89,
+        1077.37,
+        710.1
+      ],
+      "confidence": 0.8125,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_32",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        217.65,
+        635.26,
+        318.11,
+        709.87
+      ],
+      "confidence": 0.8303,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_33",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1062.59,
+        268.81,
+        1220.68,
+        318.18
+      ],
+      "confidence": 0.9393,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_34",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1092.0,
+        798.31,
+        1274.47,
+        824.9
+      ],
+      "confidence": 0.8707,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_35",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        226.39,
+        103.34,
+        619.37,
+        378.35
+      ],
+      "confidence": 0.9319,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_36",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        218.37,
+        430.33,
+        457.85,
+        453.91
+      ],
+      "confidence": 0.9475,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        713.31,
+        543.33,
+        921.31,
+        559.8
+      ],
+      "confidence": 0.9269,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_38",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        713.09,
+        796.38,
+        889.36,
+        825.11
+      ],
+      "confidence": 0.8421,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_39",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        978.52,
+        495.84,
+        1126.97,
+        518.85
+      ],
+      "confidence": 0.9213,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        666.6,
+        103.76,
+        1316.06,
+        386.03
+      ],
+      "confidence": 0.9018,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        675.0,
+        12.0,
+        706.0,
+        43.0
+      ],
+      "confidence": 0.9011,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        218.79,
+        795.28,
+        318.36,
+        825.33
+      ],
+      "confidence": 0.8973,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1093.0,
+        818.0,
+        1179.0,
+        826.0
+      ],
+      "confidence": 0.8958,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        337.0,
+        234.0,
+        369.0,
+        237.0
+      ],
+      "confidence": 0.8889,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "ocr",
+      "class_label": "Login ▾",
+      "bbox": [
+        1361.0,
+        18.0,
+        1416.0,
+        38.0
+      ],
+      "confidence": 0.87,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        599.49,
+        796.44,
+        697.54,
+        825.86
+      ],
+      "confidence": 0.87,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        332.33,
+        798.18,
+        497.52,
+        824.75
+      ],
+      "confidence": 0.7376,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_48",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        598.42,
+        751.29,
+        842.74,
+        774.28
+      ],
+      "confidence": 0.8589,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        662.96,
+        134.48,
+        891.6,
+        150.0
+      ],
+      "confidence": 0.8526,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        978.51,
+        796.36,
+        1076.55,
+        825.99
+      ],
+      "confidence": 0.8172,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        694.73,
+        15.53,
+        860.01,
+        41.58
+      ],
+      "confidence": 0.7709,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        125.5,
+        22.68,
+        171.97,
+        36.48
+      ],
+      "confidence": 0.591,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_53",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1362.83,
+        22.41,
+        1403.3,
+        35.54
+      ],
+      "confidence": 0.5484,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_54",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        98.07,
+        21.98,
+        117.8,
+        33.93
+      ],
+      "confidence": 0.3837,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_55",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        467.78,
+        17.6,
+        486.21,
+        34.02
+      ],
+      "confidence": 0.3276,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_56",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1405.5,
+        24.23,
+        1415.61,
+        32.59
+      ],
+      "confidence": 0.2199,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_57",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        676.91,
+        13.94,
+        703.17,
+        40.75
+      ],
+      "confidence": 0.1229,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_58",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        713.65,
+        657.14,
+        760.03,
+        669.98
+      ],
+      "confidence": 0.107,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_59",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        333.59,
+        562.75,
+        385.98,
+        578.04
+      ],
+      "confidence": 0.1026,
+      "cluster_size": 1
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "image": "497_tacobell_com.png",
+  "total_elements": 35,
+  "total_raw_nodes": 43,
+  "total_raw_edges": 52,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "ocr",
+      "class_label": "COMPANY",
+      "bbox": [
+        95.0,
+        151.0,
+        141.0,
+        161.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        96.04,
+        227.83,
+        165.85,
+        240.74
+      ],
+      "confidence": 0.95,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "BRANDS",
+      "bbox": [
+        96.0,
+        270.0,
+        134.0,
+        279.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "KFC",
+      "bbox": [
+        96.0,
+        312.0,
+        123.0,
+        322.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        96.33,
+        345.75,
+        154.93,
+        355.89
+      ],
+      "confidence": 0.9372,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        39.28,
+        554.66,
+        102.31,
+        568.32
+      ],
+      "confidence": 0.9522,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "CAREERS",
+      "bbox": [
+        96.0,
+        654.0,
+        137.0,
+        664.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        95.58,
+        695.76,
+        170.13,
+        706.23
+      ],
+      "confidence": 0.9417,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        95.85,
+        798.12,
+        262.57,
+        813.63
+      ],
+      "confidence": 0.9295,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        337.08,
+        52.09,
+        405.04,
+        64.95
+      ],
+      "confidence": 0.9338,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "Pizza Hut",
+      "bbox": [
+        96.0,
+        378.0,
+        155.0,
+        391.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "FRANCHISING & REAL ESTATE",
+      "bbox": [
+        96.0,
+        457.0,
+        227.0,
+        467.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "Our Functions",
+      "bbox": [
+        96.0,
+        765.0,
+        185.0,
+        775.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "YUM - NYSE\n128.22",
+      "bbox": [
+        1437.0,
+        44.0,
+        1504.0,
+        83.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "Good Growth Strategy",
+      "bbox": [
+        96.0,
+        193.0,
+        238.0,
+        207.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        95.69,
+        414.04,
+        219.06,
+        427.97
+      ],
+      "confidence": 0.9386,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "How We Work",
+      "bbox": [
+        96.0,
+        731.0,
+        187.0,
+        742.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        37.8,
+        612.17,
+        1381.47,
+        825.83
+      ],
+      "confidence": 0.9621,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        96.87,
+        194.42,
+        238.1,
+        208.43
+      ],
+      "confidence": 0.9365,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        94.99,
+        455.79,
+        227.15,
+        469.79
+      ],
+      "confidence": 0.9171,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        95.27,
+        764.51,
+        185.24,
+        778.9
+      ],
+      "confidence": 0.9167,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        39.03,
+        108.12,
+        1028.26,
+        510.21
+      ],
+      "confidence": 0.9151,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "-0.42",
+      "bbox": [
+        1438.0,
+        101.0,
+        1462.0,
+        111.0
+      ],
+      "confidence": 0.91,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        95.46,
+        378.69,
+        155.7,
+        394.1
+      ],
+      "confidence": 0.9054,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        95.53,
+        311.16,
+        123.28,
+        324.8
+      ],
+      "confidence": 0.8904,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1437.16,
+        42.75,
+        1505.37,
+        56.05
+      ],
+      "confidence": 0.8434,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        96.42,
+        730.06,
+        185.66,
+        745.65
+      ],
+      "confidence": 0.8373,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        96.08,
+        151.06,
+        141.61,
+        164.34
+      ],
+      "confidence": 0.8327,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        96.14,
+        269.33,
+        134.26,
+        281.04
+      ],
+      "confidence": 0.7618,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1438.4,
+        69.35,
+        1486.94,
+        83.97
+      ],
+      "confidence": 0.6437,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        96.2,
+        655.23,
+        154.07,
+        664.17
+      ],
+      "confidence": 0.3729,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_31",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1440.4,
+        101.71,
+        1463.26,
+        110.47
+      ],
+      "confidence": 0.3377,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        148.12,
+        153.7,
+        157.68,
+        161.19
+      ],
+      "confidence": 0.2991,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        141.69,
+        271.91,
+        150.61,
+        279.42
+      ],
+      "confidence": 0.2353,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        138.68,
+        269.39,
+        152.24,
+        279.52
+      ],
+      "confidence": 0.1916,
+      "cluster_size": 1
+    }
+  ]
+}

@@ -1,0 +1,814 @@
+{
+  "image": "030_britannica_com.png",
+  "total_elements": 62,
+  "total_raw_nodes": 90,
+  "total_raw_edges": 78,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        796.0,
+        823.0,
+        834.0,
+        826.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        375.0,
+        258.0,
+        411.0,
+        261.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        478.0,
+        252.0,
+        613.0,
+        256.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        437.0,
+        187.0,
+        473.0,
+        190.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        476.0,
+        166.0,
+        480.0,
+        254.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        413.0,
+        67.0,
+        505.0,
+        72.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "Explore",
+      "bbox": [
+        125.0,
+        21.0,
+        170.0,
+        36.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        217.54,
+        357.85,
+        452.38,
+        376.39
+      ],
+      "confidence": 0.964,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1247.65,
+        23.01,
+        1320.13,
+        33.27
+      ],
+      "confidence": 0.8959,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "Britannica",
+      "bbox": [
+        712.0,
+        16.0,
+        860.0,
+        41.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        663.42,
+        61.92,
+        891.58,
+        76.24
+      ],
+      "confidence": 0.952,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        663.44,
+        101.75,
+        1015.31,
+        122.1
+      ],
+      "confidence": 0.9564,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_12",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        597.06,
+        422.94,
+        782.75,
+        441.1
+      ],
+      "confidence": 0.8847,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        978.19,
+        421.84,
+        1125.75,
+        446.42
+      ],
+      "confidence": 0.9435,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_14",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1092.34,
+        470.86,
+        1222.19,
+        483.13
+      ],
+      "confidence": 0.9526,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_15",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        216.47,
+        676.73,
+        439.09,
+        696.9
+      ],
+      "confidence": 0.9447,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        597.36,
+        676.16,
+        843.87,
+        700.99
+      ],
+      "confidence": 0.9209,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_17",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        217.06,
+        423.34,
+        432.92,
+        446.0
+      ],
+      "confidence": 0.9565,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_18",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        333.75,
+        470.51,
+        524.38,
+        504.93
+      ],
+      "confidence": 0.9225,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "How Women with Military\nBackgrounds Are Changing\nthe Face of Politics",
+      "bbox": [
+        332.0,
+        564.0,
+        531.0,
+        618.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        664.38,
+        140.08,
+        1256.48,
+        179.46
+      ],
+      "confidence": 0.9491,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_21",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        683.72,
+        214.75,
+        797.74,
+        227.65
+      ],
+      "confidence": 0.933,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_22",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        712.63,
+        564.93,
+        892.55,
+        597.28
+      ],
+      "confidence": 0.8947,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_23",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1093.32,
+        566.16,
+        1201.4,
+        578.85
+      ],
+      "confidence": 0.9498,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_24",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        332.57,
+        725.29,
+        499.12,
+        757.19
+      ],
+      "confidence": 0.819,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_25",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        976.37,
+        677.4,
+        1154.7,
+        696.35
+      ],
+      "confidence": 0.9366,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1093.37,
+        725.32,
+        1274.65,
+        756.94
+      ],
+      "confidence": 0.9549,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_27",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        597.39,
+        561.46,
+        697.22,
+        637.3
+      ],
+      "confidence": 0.8469,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_28",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        597.85,
+        466.83,
+        696.93,
+        542.62
+      ],
+      "confidence": 0.8684,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_29",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        977.89,
+        466.78,
+        1077.43,
+        542.4
+      ],
+      "confidence": 0.8747,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_30",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        218.67,
+        467.22,
+        317.95,
+        541.98
+      ],
+      "confidence": 0.913,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_31",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        597.0,
+        721.0,
+        698.0,
+        798.0
+      ],
+      "confidence": 0.9757,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        977.5,
+        722.38,
+        1077.6,
+        798.54
+      ],
+      "confidence": 0.8026,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_33",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        977.95,
+        561.59,
+        1077.23,
+        637.53
+      ],
+      "confidence": 0.807,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_34",
+      "source": "ocr",
+      "class_label": "Search Britannica...",
+      "bbox": [
+        197.0,
+        18.0,
+        329.0,
+        36.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        218.01,
+        562.23,
+        317.85,
+        637.17
+      ],
+      "confidence": 0.918,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_36",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        662.21,
+        196.28,
+        818.98,
+        245.1
+      ],
+      "confidence": 0.9564,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_37",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        217.0,
+        721.0,
+        319.0,
+        798.0
+      ],
+      "confidence": 0.9626,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        712.14,
+        725.13,
+        887.39,
+        760.77
+      ],
+      "confidence": 0.8275,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_39",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        588.88,
+        404.3,
+        942.99,
+        658.59
+      ],
+      "confidence": 0.9596,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        965.61,
+        403.3,
+        1317.16,
+        658.98
+      ],
+      "confidence": 0.9509,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "ocr",
+      "class_label": "The Artemis II Space Mission",
+      "bbox": [
+        712.0,
+        471.0,
+        922.0,
+        485.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        674.14,
+        13.75,
+        859.57,
+        41.44
+      ],
+      "confidence": 0.9223,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        181.83,
+        6.03,
+        499.41,
+        47.27
+      ],
+      "confidence": 0.9185,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        714.06,
+        470.74,
+        921.42,
+        487.38
+      ],
+      "confidence": 0.9135,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        979.0,
+        817.0,
+        1077.0,
+        826.0
+      ],
+      "confidence": 0.9074,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        213.71,
+        403.35,
+        566.28,
+        662.65
+      ],
+      "confidence": 0.8912,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        337.0,
+        161.0,
+        369.0,
+        164.0
+      ],
+      "confidence": 0.8889,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        217.41,
+        58.19,
+        605.48,
+        313.99
+      ],
+      "confidence": 0.8854,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "ocr",
+      "class_label": "Login ▾",
+      "bbox": [
+        1361.0,
+        18.0,
+        1416.0,
+        38.0
+      ],
+      "confidence": 0.87,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        125.01,
+        22.8,
+        171.4,
+        36.34
+      ],
+      "confidence": 0.6799,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        196.99,
+        21.66,
+        328.27,
+        34.49
+      ],
+      "confidence": 0.6725,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1363.14,
+        22.67,
+        1397.17,
+        35.36
+      ],
+      "confidence": 0.5523,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_53",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        98.15,
+        22.04,
+        117.77,
+        33.86
+      ],
+      "confidence": 0.4426,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_54",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        596.61,
+        817.08,
+        696.79,
+        826.0
+      ],
+      "confidence": 0.3504,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_55",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        467.94,
+        17.81,
+        486.39,
+        34.61
+      ],
+      "confidence": 0.2892,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_56",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        978.41,
+        818.21,
+        1075.98,
+        826.0
+      ],
+      "confidence": 0.306,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_57",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1405.31,
+        24.29,
+        1415.57,
+        32.03
+      ],
+      "confidence": 0.2329,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_58",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        217.98,
+        817.47,
+        316.68,
+        825.17
+      ],
+      "confidence": 0.2194,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_59",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1101.01,
+        821.11,
+        1237.05,
+        826.0
+      ],
+      "confidence": 0.2166,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_60",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1094.87,
+        821.64,
+        1117.59,
+        826.0
+      ],
+      "confidence": 0.204,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_61",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        333.44,
+        488.94,
+        388.16,
+        506.1
+      ],
+      "confidence": 0.1059,
+      "cluster_size": 1
+    }
+  ]
+}

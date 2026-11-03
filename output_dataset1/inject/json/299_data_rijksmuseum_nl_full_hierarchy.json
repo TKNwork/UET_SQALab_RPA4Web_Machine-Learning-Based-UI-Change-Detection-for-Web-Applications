@@ -1,0 +1,372 @@
+{
+  "image": "299_data_rijksmuseum_nl.png",
+  "total_elements": 28,
+  "total_raw_nodes": 36,
+  "total_raw_edges": 42,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        322.77,
+        83.65,
+        1236.43,
+        763.03
+      ],
+      "confidence": 0.9496,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_1",
+      "source": "ocr",
+      "class_label": "Docs Tutorials Policy About",
+      "bbox": [
+        274.0,
+        32.0,
+        530.0,
+        51.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        362.74,
+        104.09,
+        827.91,
+        131.78
+      ],
+      "confidence": 0.9497,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_3",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        362.39,
+        335.11,
+        601.47,
+        362.52
+      ],
+      "confidence": 0.9727,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        359.55,
+        398.05,
+        1199.46,
+        472.27
+      ],
+      "confidence": 0.9524,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        361.0,
+        536.0,
+        699.58,
+        563.48
+      ],
+      "confidence": 0.9634,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        354.12,
+        166.52,
+        1173.04,
+        270.65
+      ],
+      "confidence": 0.958,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        351.58,
+        598.27,
+        1124.16,
+        643.31
+      ],
+      "confidence": 0.9417,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        1254.0,
+        15.0,
+        1458.0,
+        67.0
+      ],
+      "confidence": 0.9758,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        78.81,
+        25.67,
+        205.89,
+        57.24
+      ],
+      "confidence": 0.9305,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "Rijksmuseum Contact",
+      "bbox": [
+        669.0,
+        786.0,
+        846.0,
+        804.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1235.28,
+        81.24,
+        1535.42,
+        762.25
+      ],
+      "confidence": 0.9428,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        0.0,
+        85.11,
+        318.99,
+        763.4
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "Q Search",
+      "bbox": [
+        1268.0,
+        32.0,
+        1337.0,
+        48.0
+      ],
+      "confidence": 0.93,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        1379.0,
+        28.0,
+        1448.0,
+        54.0
+      ],
+      "confidence": 0.9256,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        1383.0,
+        32.0,
+        1421.0,
+        50.0
+      ],
+      "confidence": 0.9167,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        332.57,
+        34.39,
+        395.53,
+        47.52
+      ],
+      "confidence": 0.9162,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        275.18,
+        35.08,
+        307.28,
+        47.17
+      ],
+      "confidence": 0.8928,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        485.65,
+        34.57,
+        529.27,
+        47.45
+      ],
+      "confidence": 0.8822,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        669.21,
+        787.78,
+        756.39,
+        803.2
+      ],
+      "confidence": 0.8762,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        419.9,
+        33.91,
+        461.56,
+        50.63
+      ],
+      "confidence": 0.8551,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        796.04,
+        788.39,
+        845.6,
+        799.57
+      ],
+      "confidence": 0.7912,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1292.52,
+        34.32,
+        1337.47,
+        46.52
+      ],
+      "confidence": 0.7334,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        762.61,
+        785.97,
+        776.25,
+        798.93
+      ],
+      "confidence": 0.6609,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1379.97,
+        30.62,
+        1419.54,
+        51.51
+      ],
+      "confidence": 0.5215,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        849.15,
+        786.26,
+        864.2,
+        799.36
+      ],
+      "confidence": 0.4427,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1424.9,
+        27.55,
+        1446.46,
+        54.36
+      ],
+      "confidence": 0.3172,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1268.78,
+        33.75,
+        1284.19,
+        49.59
+      ],
+      "confidence": 0.2648,
+      "cluster_size": 1
+    }
+  ]
+}

@@ -1,0 +1,346 @@
+{
+  "image": "191_worldnomads_com.png",
+  "total_elements": 26,
+  "total_raw_nodes": 29,
+  "total_raw_edges": 22,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        957.0,
+        273.0,
+        1115.0,
+        283.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        737.0,
+        45.0,
+        799.0,
+        48.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "Travel insurance, inspiration and opportunities to help you\nfuel your curiosity, find your journey and travel bravely.",
+      "bbox": [
+        387.0,
+        77.0,
+        1148.0,
+        145.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        790.81,
+        554.9,
+        1176.3,
+        588.69
+      ],
+      "confidence": 0.9577,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        186.51,
+        482.63,
+        769.77,
+        825.15
+      ],
+      "confidence": 0.9864,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "⑨ Before your trip, check the latest government advice for any travel alerts for your destination.",
+      "bbox": [
+        371.0,
+        395.0,
+        1151.0,
+        414.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        791.21,
+        620.75,
+        1315.31,
+        726.59
+      ],
+      "confidence": 0.965,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        771.15,
+        480.94,
+        1348.44,
+        826.0
+      ],
+      "confidence": 0.9758,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "As featured in: Forbes",
+      "bbox": [
+        300.0,
+        257.0,
+        500.0,
+        276.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "TRAVEL+\nLEISURE",
+      "bbox": [
+        528.0,
+        256.0,
+        617.0,
+        277.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "The Washington Post CBS",
+      "bbox": [
+        640.0,
+        255.0,
+        910.0,
+        277.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        791.65,
+        745.91,
+        940.37,
+        786.09
+      ],
+      "confidence": 0.9338,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "Photo © Getty Images/Ascent XMedia",
+      "bbox": [
+        1292.0,
+        189.0,
+        1528.0,
+        201.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "Learn more >",
+      "bbox": [
+        817.0,
+        758.0,
+        916.0,
+        773.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "4.3 out of 5 based on 4,300+ reviews",
+      "bbox": [
+        957.0,
+        275.0,
+        1114.0,
+        281.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        640.26,
+        254.71,
+        816.77,
+        279.35
+      ],
+      "confidence": 0.8794,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        299.88,
+        260.65,
+        394.94,
+        273.88
+      ],
+      "confidence": 0.8299,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        816.01,
+        759.54,
+        906.3,
+        771.7
+      ],
+      "confidence": 0.8073,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        497.1,
+        0.0,
+        1044.05,
+        15.82
+      ],
+      "confidence": 0.7859,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        425.17,
+        257.17,
+        502.42,
+        276.38
+      ],
+      "confidence": 0.7345,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1290.87,
+        187.58,
+        1530.69,
+        202.12
+      ],
+      "confidence": 0.7285,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        961.98,
+        248.07,
+        1042.59,
+        261.77
+      ],
+      "confidence": 0.7074,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        957.36,
+        273.4,
+        1112.53,
+        282.75
+      ],
+      "confidence": 0.5482,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        837.45,
+        257.34,
+        910.46,
+        276.39
+      ],
+      "confidence": 0.5449,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        368.0,
+        390.63,
+        394.07,
+        416.72
+      ],
+      "confidence": 0.4656,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1051.23,
+        249.22,
+        1109.38,
+        262.07
+      ],
+      "confidence": 0.2724,
+      "cluster_size": 1
+    }
+  ]
+}

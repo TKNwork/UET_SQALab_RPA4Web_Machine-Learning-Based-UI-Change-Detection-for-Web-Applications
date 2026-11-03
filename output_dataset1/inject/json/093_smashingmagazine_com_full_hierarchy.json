@@ -1,0 +1,450 @@
+{
+  "image": "093_smashingmagazine_com.png",
+  "total_elements": 34,
+  "total_raw_nodes": 36,
+  "total_raw_edges": 48,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "ocr",
+      "class_label": "npm install react-hook-form zod @hookform/resolvers @tanstack/react-query",
+      "bbox": [
+        164.0,
+        118.0,
+        851.0,
+        133.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        140.03,
+        278.84,
+        881.19,
+        403.59
+      ],
+      "confidence": 0.9725,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "email: z.string().email(\"Invalid email\"),",
+      "bbox": [
+        182.0,
+        593.0,
+        566.0,
+        610.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "Installation #",
+      "bbox": [
+        142.0,
+        46.0,
+        287.0,
+        61.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        141.6,
+        231.63,
+        283.59,
+        248.29
+      ],
+      "confidence": 0.9377,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "export const formSchema z.object({",
+      "bbox": [
+        163.0,
+        531.0,
+        502.0,
+        550.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "username: z.string().optional(),",
+      "bbox": [
+        184.0,
+        750.0,
+        481.0,
+        766.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "password: z.string().optional(),",
+      "bbox": [
+        183.0,
+        782.0,
+        481.0,
+        797.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        143.8,
+        444.68,
+        1015.81,
+        825.55
+      ],
+      "confidence": 0.9663,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "taxRate: z.number(),",
+      "bbox": [
+        183.0,
+        685.0,
+        368.0,
+        705.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "firstName: z.string().min(1, \"Required\"),",
+      "bbox": [
+        183.0,
+        561.0,
+        566.0,
+        581.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "price: z.number() .min(0),",
+      "bbox": [
+        183.0,
+        625.0,
+        415.0,
+        642.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "satisfaction: z.number().min(1).max(5),",
+      "bbox": [
+        183.0,
+        812.0,
+        547.0,
+        825.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "hasAccount: z.enum([\"Yes\", \"No\"]),",
+      "bbox": [
+        183.0,
+        719.0,
+        500.0,
+        734.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "quantity: z.number().min(1),",
+      "bbox": [
+        182.0,
+        656.0,
+        442.0,
+        672.0
+      ],
+      "confidence": 0.93,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "import {z} from \"zod\";",
+      "bbox": [
+        165.0,
+        470.0,
+        387.0,
+        485.0
+      ],
+      "confidence": 0.92,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        141.97,
+        45.09,
+        270.93,
+        62.86
+      ],
+      "confidence": 0.8991,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        183.43,
+        718.56,
+        282.15,
+        732.29
+      ],
+      "confidence": 0.8339,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        184.53,
+        810.34,
+        548.08,
+        826.0
+      ],
+      "confidence": 0.7381,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        275.54,
+        748.5,
+        476.65,
+        765.5
+      ],
+      "confidence": 0.7156,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        183.15,
+        656.52,
+        263.95,
+        672.48
+      ],
+      "confidence": 0.6844,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        276.85,
+        781.98,
+        481.88,
+        796.8
+      ],
+      "confidence": 0.661,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        298.5,
+        717.39,
+        413.97,
+        734.54
+      ],
+      "confidence": 0.6039,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        260.85,
+        626.14,
+        402.83,
+        640.69
+      ],
+      "confidence": 0.5674,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        319.23,
+        810.76,
+        490.24,
+        826.0
+      ],
+      "confidence": 0.5641,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        182.77,
+        752.35,
+        264.61,
+        761.32
+      ],
+      "confidence": 0.5561,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        183.44,
+        626.11,
+        236.37,
+        640.31
+      ],
+      "confidence": 0.5509,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        164.08,
+        470.44,
+        219.83,
+        485.01
+      ],
+      "confidence": 0.5084,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        274.44,
+        48.61,
+        289.76,
+        62.08
+      ],
+      "confidence": 0.4882,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        280.61,
+        656.85,
+        352.08,
+        669.02
+      ],
+      "confidence": 0.4749,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        164.67,
+        533.21,
+        218.61,
+        547.38
+      ],
+      "confidence": 0.2878,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        183.02,
+        592.7,
+        229.77,
+        605.9
+      ],
+      "confidence": 0.169,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        263.99,
+        626.17,
+        331.79,
+        640.02
+      ],
+      "confidence": 0.1341,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        182.04,
+        687.59,
+        252.81,
+        699.99
+      ],
+      "confidence": 0.1121,
+      "cluster_size": 1
+    }
+  ]
+}

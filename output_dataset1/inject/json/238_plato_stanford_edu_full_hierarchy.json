@@ -1,0 +1,632 @@
+{
+  "image": "238_plato_stanford_edu.png",
+  "total_elements": 48,
+  "total_raw_nodes": 53,
+  "total_raw_edges": 75,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        844.0,
+        706.0,
+        1036.0,
+        722.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        338.0,
+        117.0,
+        563.0,
+        134.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "Membership Levels",
+      "bbox": [
+        289.0,
+        68.0,
+        519.0,
+        97.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        308.69,
+        417.53,
+        372.06,
+        430.44
+      ],
+      "confidence": 0.9507,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "Archives",
+      "bbox": [
+        307.0,
+        554.0,
+        361.0,
+        564.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        537.15,
+        416.29,
+        591.28,
+        429.99
+      ],
+      "confidence": 0.9608,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "Editorial Board",
+      "bbox": [
+        538.0,
+        503.0,
+        631.0,
+        514.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Accessibility",
+      "bbox": [
+        537.0,
+        605.0,
+        615.0,
+        618.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Contact",
+      "bbox": [
+        537.0,
+        631.0,
+        588.0,
+        642.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "SEPIA for Libraries",
+      "bbox": [
+        769.0,
+        529.0,
+        883.0,
+        541.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "View this site from another server:",
+      "bbox": [
+        1019.0,
+        449.0,
+        1233.0,
+        464.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "Library of Congress Catalog Data: ISSN 1095-5054",
+      "bbox": [
+        630.0,
+        748.0,
+        905.0,
+        762.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        241.85,
+        0.0,
+        1315.6,
+        826.0
+      ],
+      "confidence": 0.9872,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1294.87,
+        1.45,
+        1535.19,
+        825.74
+      ],
+      "confidence": 0.9805,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "You can join the Friends of the SEP Society, using our secure online payment system, at one of the following levels:",
+      "bbox": [
+        286.0,
+        118.0,
+        1005.0,
+        132.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "• Associate Member: Associate members may download any of the PDF versions in the PDF Library but are limited to downloading a maximum of 5\ndifferent entries per day.",
+      "bbox": [
+        316.0,
+        156.0,
+        1232.0,
+        192.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "⚫ Student Member: Student members have the same privileges as Associate Members, but annual membership dues are priced lower.",
+      "bbox": [
+        316.0,
+        209.0,
+        1148.0,
+        224.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "• Professional Member: Professional members may download any of the PDF versions in the PDF Library, with no daily limits on the number of\ndifferent entries that can be downloaded each day.",
+      "bbox": [
+        316.0,
+        238.0,
+        1206.0,
+        275.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "For pricing information, see the section on Membership Levels at the page About the Society.",
+      "bbox": [
+        288.0,
+        298.0,
+        869.0,
+        312.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        308.58,
+        451.51,
+        418.33,
+        464.18
+      ],
+      "confidence": 0.8128,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "What's New",
+      "bbox": [
+        307.0,
+        476.0,
+        381.0,
+        489.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "Random Entry",
+      "bbox": [
+        308.0,
+        502.0,
+        400.0,
+        516.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "Editorial Information\nAbout the SEP",
+      "bbox": [
+        536.0,
+        451.0,
+        668.0,
+        490.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "ocr",
+      "class_label": "How to Cite the SEP\nSpecial Characters\nAdvanced Tools",
+      "bbox": [
+        537.0,
+        529.0,
+        662.0,
+        591.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "ocr",
+      "class_label": "Support SEP\nSupport the SEP\nPDFs for SEP Friends\nMake a Donation",
+      "bbox": [
+        767.0,
+        416.0,
+        897.0,
+        514.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1021.04,
+        416.37,
+        1121.9,
+        430.04
+      ],
+      "confidence": 0.9466,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_26",
+      "source": "ocr",
+      "class_label": "USA (Main Site)\nPhilosophy, Stanford University",
+      "bbox": [
+        1028.0,
+        492.0,
+        1176.0,
+        528.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "ocr",
+      "class_label": "The Stanford Encyclopedia of Philosophy is copyright © 2026 by The Metaphysics Research Lab,\nDepartment of Philosophy, Stanford University",
+      "bbox": [
+        500.0,
+        707.0,
+        1035.0,
+        740.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "ocr",
+      "class_label": "We also release our PDFs in single-column half-sheets (5½ x 8½ in)-see the Sample PDF. You might find this format especially useful for mobile devices.",
+      "bbox": [
+        287.0,
+        21.0,
+        1238.0,
+        35.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        0.35,
+        5.38,
+        242.2,
+        821.33
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        767.33,
+        450.26,
+        898.08,
+        540.69
+      ],
+      "confidence": 0.9425,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "ocr",
+      "class_label": "Chronological",
+      "bbox": [
+        306.0,
+        527.0,
+        396.0,
+        543.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        766.96,
+        416.4,
+        877.34,
+        435.08
+      ],
+      "confidence": 0.9176,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        630.0,
+        748.0,
+        817.0,
+        765.0
+      ],
+      "confidence": 0.9167,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        337.4,
+        117.67,
+        559.19,
+        132.63
+      ],
+      "confidence": 0.9163,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1028.0,
+        514.0,
+        1177.0,
+        528.0
+      ],
+      "confidence": 0.8869,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        288.72,
+        70.39,
+        522.23,
+        99.23
+      ],
+      "confidence": 0.8688,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        746.06,
+        297.64,
+        867.31,
+        312.18
+      ],
+      "confidence": 0.8607,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1020.36,
+        449.2,
+        1235.91,
+        461.81
+      ],
+      "confidence": 0.798,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        763.88,
+        21.29,
+        844.29,
+        35.78
+      ],
+      "confidence": 0.7847,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        537.55,
+        629.77,
+        588.69,
+        641.19
+      ],
+      "confidence": 0.78,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        537.77,
+        551.99,
+        655.68,
+        567.45
+      ],
+      "confidence": 0.7651,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        538.33,
+        577.96,
+        641.74,
+        590.34
+      ],
+      "confidence": 0.7416,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        537.3,
+        603.88,
+        615.99,
+        619.69
+      ],
+      "confidence": 0.7221,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        307.16,
+        500.27,
+        398.55,
+        563.13
+      ],
+      "confidence": 0.7171,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        538.36,
+        527.86,
+        662.05,
+        541.54
+      ],
+      "confidence": 0.6477,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        628.46,
+        747.85,
+        924.94,
+        764.04
+      ],
+      "confidence": 0.5202,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        306.68,
+        477.24,
+        380.94,
+        487.17
+      ],
+      "confidence": 0.281,
+      "cluster_size": 2
+    }
+  ]
+}

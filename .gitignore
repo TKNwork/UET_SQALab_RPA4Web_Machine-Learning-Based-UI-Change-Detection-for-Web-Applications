@@ -34,7 +34,6 @@ config.local.json
 /output_dataset1/dataset2/
 /output_dataset1/dataset2_detection/
 /output_dataset1/baseline/
-/output_dataset1/inject/
 /output_dataset1/groundtruth/
 /output_dataset1/image_full_hierarchy.*
 /output_dataset1/geometry/pairs/

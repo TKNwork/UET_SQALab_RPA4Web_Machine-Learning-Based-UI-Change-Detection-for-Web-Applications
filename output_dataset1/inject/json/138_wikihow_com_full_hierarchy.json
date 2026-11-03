@@ -1,0 +1,684 @@
+{
+  "image": "138_wikihow_com.png",
+  "total_elements": 52,
+  "total_raw_nodes": 58,
+  "total_raw_edges": 46,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1034.0,
+        758.0,
+        1087.0,
+        762.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1034.0,
+        739.0,
+        1070.0,
+        742.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        414.0,
+        52.0,
+        730.0,
+        57.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        257.74,
+        134.71,
+        1315.51,
+        454.7
+      ],
+      "confidence": 0.9356,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "Search",
+      "bbox": [
+        750.0,
+        29.0,
+        805.0,
+        41.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "EXPLORE",
+      "bbox": [
+        1085.0,
+        52.0,
+        1133.0,
+        59.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "RANDOM",
+      "bbox": [
+        1234.0,
+        52.0,
+        1278.0,
+        59.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        707.59,
+        335.76,
+        828.44,
+        348.49
+      ],
+      "confidence": 0.8928,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        257.34,
+        681.07,
+        468.87,
+        701.19
+      ],
+      "confidence": 0.9273,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        701.14,
+        560.85,
+        835.15,
+        577.82
+      ],
+      "confidence": 0.8204,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "QUIZZES",
+      "bbox": [
+        1015.0,
+        52.0,
+        1058.0,
+        59.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "LOG IN",
+      "bbox": [
+        1166.0,
+        51.0,
+        1198.0,
+        59.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "Welcome to the internet's least boring way to self-reflect. Learn something, spiral a little, maybe even find the perfect socks.",
+      "bbox": [
+        329.0,
+        249.0,
+        1205.0,
+        265.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "The Best Gifts for Dads Shopping Guide",
+      "bbox": [
+        628.0,
+        358.0,
+        937.0,
+        373.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "Get Random Quiz",
+      "bbox": [
+        696.0,
+        610.0,
+        831.0,
+        623.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "Expert",
+      "bbox": [
+        794.0,
+        744.0,
+        817.0,
+        750.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        628.29,
+        596.13,
+        897.5,
+        636.78
+      ],
+      "confidence": 0.936,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "wikiHow Quizzes",
+      "bbox": [
+        606.0,
+        166.0,
+        927.0,
+        194.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "Expert",
+      "bbox": [
+        264.0,
+        743.0,
+        289.0,
+        752.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "Expert",
+      "bbox": [
+        971.0,
+        743.0,
+        995.0,
+        752.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "wikiHow to do anything...",
+      "bbox": [
+        243.0,
+        20.0,
+        566.0,
+        52.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        598.26,
+        292.92,
+        957.78,
+        308.05
+      ],
+      "confidence": 0.8011,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "What Movie Should I Stream Quiz\nWhich Cell Phone Plan Is Best For Me Quiz",
+      "bbox": [
+        617.0,
+        380.0,
+        946.0,
+        417.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "ocr",
+      "class_label": "200",
+      "bbox": [
+        511.0,
+        733.0,
+        529.0,
+        740.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        244.41,
+        21.9,
+        406.66,
+        47.5
+      ],
+      "confidence": 0.9313,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "ocr",
+      "class_label": "Expert",
+      "bbox": [
+        618.0,
+        744.0,
+        641.0,
+        751.0
+      ],
+      "confidence": 0.92,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        833.0,
+        466.0,
+        1149.0,
+        540.0
+      ],
+      "confidence": 0.9166,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        243.86,
+        733.04,
+        408.96,
+        826.0
+      ],
+      "confidence": 0.9119,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        418.93,
+        29.43,
+        563.52,
+        50.37
+      ],
+      "confidence": 0.9041,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "ocr",
+      "class_label": "Expert",
+      "bbox": [
+        1148.0,
+        744.0,
+        1172.0,
+        752.0
+      ],
+      "confidence": 0.9,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        737.97,
+        16.99,
+        816.76,
+        56.95
+      ],
+      "confidence": 0.8932,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        420.82,
+        732.24,
+        586.66,
+        826.0
+      ],
+      "confidence": 0.8909,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        749.13,
+        28.43,
+        806.88,
+        43.08
+      ],
+      "confidence": 0.888,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1311.0,
+        180.0,
+        1328.0,
+        356.0
+      ],
+      "confidence": 0.8627,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1014.58,
+        51.87,
+        1060.16,
+        61.73
+      ],
+      "confidence": 0.7857,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        695.27,
+        609.13,
+        831.48,
+        624.53
+      ],
+      "confidence": 0.7575,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1232.78,
+        51.95,
+        1279.24,
+        60.83
+      ],
+      "confidence": 0.7245,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1165.39,
+        51.69,
+        1200.7,
+        60.57
+      ],
+      "confidence": 0.7222,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1083.52,
+        52.66,
+        1132.87,
+        60.96
+      ],
+      "confidence": 0.7156,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        722.29,
+        248.87,
+        1190.03,
+        266.16
+      ],
+      "confidence": 0.6422,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        478.63,
+        680.14,
+        494.43,
+        699.76
+      ],
+      "confidence": 0.608,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1027.69,
+        12.1,
+        1047.64,
+        33.92
+      ],
+      "confidence": 0.5781,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1099.37,
+        12.92,
+        1120.86,
+        33.84
+      ],
+      "confidence": 0.5311,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1246.54,
+        14.51,
+        1264.49,
+        32.56
+      ],
+      "confidence": 0.4497,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        606.97,
+        355.6,
+        622.28,
+        372.04
+      ],
+      "confidence": 0.4356,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1172.39,
+        12.25,
+        1192.15,
+        34.11
+      ],
+      "confidence": 0.4164,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        667.27,
+        607.32,
+        685.62,
+        626.04
+      ],
+      "confidence": 0.3396,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        598.02,
+        401.24,
+        611.36,
+        418.16
+      ],
+      "confidence": 0.3312,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        581.86,
+        292.5,
+        595.71,
+        307.7
+      ],
+      "confidence": 0.2942,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        837.85,
+        605.12,
+        862.42,
+        628.78
+      ],
+      "confidence": 0.2896,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        498.36,
+        72.0,
+        523.61,
+        86.34
+      ],
+      "confidence": 0.1765,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        246.67,
+        735.9,
+        293.28,
+        755.98
+      ],
+      "confidence": 0.1375,
+      "cluster_size": 1
+    }
+  ]
+}

@@ -1,0 +1,372 @@
+{
+  "image": "186_sec_gov.png",
+  "total_elements": 28,
+  "total_raw_nodes": 33,
+  "total_raw_edges": 24,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        213.0,
+        0.0,
+        748.0,
+        26.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "ocr",
+      "class_label": "Rulemaking",
+      "bbox": [
+        251.0,
+        198.0,
+        455.0,
+        225.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "chat at Bitcoin 2026.",
+      "bbox": [
+        874.0,
+        13.0,
+        1027.0,
+        25.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        248.72,
+        292.56,
+        521.6,
+        534.32
+      ],
+      "confidence": 0.9342,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "investment fraud",
+      "bbox": [
+        1054.0,
+        496.0,
+        1180.0,
+        508.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        268.89,
+        608.55,
+        426.4,
+        619.74
+      ],
+      "confidence": 0.8746,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "April 20, 2026",
+      "bbox": [
+        214.0,
+        42.0,
+        307.0,
+        54.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "SEC",
+      "bbox": [
+        249.0,
+        166.0,
+        320.0,
+        191.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Investor.gov",
+      "bbox": [
+        729.0,
+        245.0,
+        955.0,
+        280.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "At Investor.gov, the SEC\nprovides investors with the\nresources to make informed\ninvestment decisions.",
+      "bbox": [
+        641.0,
+        333.0,
+        901.0,
+        437.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "VISIT INVESTOR.GOV",
+      "bbox": [
+        661.0,
+        496.0,
+        824.0,
+        508.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1024.67,
+        345.12,
+        1114.51,
+        355.31
+      ],
+      "confidence": 0.9291,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_12",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        780.0,
+        0.0,
+        862.0,
+        7.0
+      ],
+      "confidence": 0.9762,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        213.86,
+        6.2,
+        422.85,
+        24.54
+      ],
+      "confidence": 0.8753,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "U.S. Securities and Exchange Commission",
+      "bbox": [
+        731.0,
+        229.0,
+        957.0,
+        243.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        642.0,
+        483.0,
+        859.0,
+        523.0
+      ],
+      "confidence": 0.969,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        249.15,
+        594.43,
+        447.74,
+        634.21
+      ],
+      "confidence": 0.8518,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_17",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        995.0,
+        0.0,
+        1018.0,
+        2.0
+      ],
+      "confidence": 0.9583,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "• Timely investor\nalerts",
+      "bbox": [
+        1037.0,
+        522.0,
+        1166.0,
+        560.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "• Financial tools\nand calculators\n• Investing FAQs",
+      "bbox": [
+        1036.0,
+        391.0,
+        1168.0,
+        458.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        598.71,
+        165.39,
+        989.07,
+        739.02
+      ],
+      "confidence": 0.9335,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "⚫ Tips to avoid",
+      "bbox": [
+        1038.0,
+        470.0,
+        1147.0,
+        487.0
+      ],
+      "confidence": 0.93,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        216.26,
+        124.88,
+        595.49,
+        688.62
+      ],
+      "confidence": 0.9237,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1261.0,
+        0.0,
+        1282.0,
+        2.0
+      ],
+      "confidence": 0.875,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        926.0,
+        0.0,
+        947.0,
+        2.0
+      ],
+      "confidence": 0.875,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        213.89,
+        40.81,
+        307.44,
+        55.4
+      ],
+      "confidence": 0.7265,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1054.02,
+        442.6,
+        1168.0,
+        459.63
+      ],
+      "confidence": 0.6992,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        782.95,
+        0.0,
+        861.8,
+        7.11
+      ],
+      "confidence": 0.2016,
+      "cluster_size": 1
+    }
+  ]
+}

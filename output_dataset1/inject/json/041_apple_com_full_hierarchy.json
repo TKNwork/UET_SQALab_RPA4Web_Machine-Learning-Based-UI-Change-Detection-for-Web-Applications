@@ -1,0 +1,697 @@
+{
+  "image": "041_apple_com.png",
+  "total_elements": 53,
+  "total_raw_nodes": 63,
+  "total_raw_edges": 84,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "ocr",
+      "class_label": "Music",
+      "bbox": [
+        604.0,
+        184.0,
+        714.0,
+        212.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "ocr",
+      "class_label": "Arcade",
+      "bbox": [
+        841.0,
+        182.0,
+        971.0,
+        213.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        785.51,
+        231.94,
+        1001.84,
+        278.19
+      ],
+      "confidence": 0.9577,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_3",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        849.62,
+        328.64,
+        937.55,
+        341.89
+      ],
+      "confidence": 0.914,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "2. New subscribers only. $12.99/month after free trial. Apple TV subscription does not include third-party branded subscription services or content available for rental or\npurchase in the Apple TV app. Plan automatically renews until cancelled. Terms apply.",
+      "bbox": [
+        280.0,
+        745.0,
+        1214.0,
+        773.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "Stream award-winning\nApple Originals on\nevery screen.",
+      "bbox": [
+        290.0,
+        230.0,
+        493.0,
+        300.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "Fitness+",
+      "bbox": [
+        1080.0,
+        182.0,
+        1234.0,
+        211.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "From HIIT to Meditation,\nthere's something",
+      "bbox": [
+        1037.0,
+        231.0,
+        1252.0,
+        276.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "for everyone.",
+      "bbox": [
+        1085.0,
+        282.0,
+        1202.0,
+        301.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        487.66,
+        547.34,
+        638.76,
+        564.92
+      ],
+      "confidence": 0.943,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "Or pick up available items at an\nApple Store.\nLearn more >",
+      "bbox": [
+        463.0,
+        576.0,
+        663.0,
+        640.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "Get help buying\nHave a question? Call a Specialist\nor chat online.",
+      "bbox": [
+        866.0,
+        548.0,
+        1081.0,
+        610.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "1. Product availability varies by country.",
+      "bbox": [
+        281.0,
+        717.0,
+        502.0,
+        731.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "3. New subscribers only. $10.99/month after free trial. Plan automatically renews until cancelled. Terms apply.",
+      "bbox": [
+        281.0,
+        786.0,
+        886.0,
+        799.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "4. Apple Fitness+ requires iPhone 8 or later, or Apple Watch Series 3 or later paired with iPhone 6s or later. New subscribers only. $9.99/month after trial. Plan automatically",
+      "bbox": [
+        280.0,
+        811.0,
+        1233.0,
+        824.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        275.74,
+        178.25,
+        507.95,
+        394.85
+      ],
+      "confidence": 0.9713,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_16",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1030.78,
+        177.81,
+        1261.22,
+        394.81
+      ],
+      "confidence": 0.9709,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_17",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        778.64,
+        178.0,
+        1009.77,
+        394.69
+      ],
+      "confidence": 0.9615,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_18",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        527.9,
+        178.27,
+        759.23,
+        393.37
+      ],
+      "confidence": 0.9679,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_19",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        220.0,
+        0.0,
+        1318.0,
+        94.0
+      ],
+      "confidence": 0.9734,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "Try it free",
+      "bbox": [
+        351.0,
+        325.0,
+        425.0,
+        343.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        534.29,
+        231.64,
+        751.18,
+        276.53
+      ],
+      "confidence": 0.9412,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "Learn more >",
+      "bbox": [
+        342.0,
+        374.0,
+        442.0,
+        387.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "ocr",
+      "class_label": "Learn more >",
+      "bbox": [
+        844.0,
+        374.0,
+        944.0,
+        387.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "ocr",
+      "class_label": "Learn more >",
+      "bbox": [
+        1095.0,
+        372.0,
+        1195.0,
+        387.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        933.04,
+        627.12,
+        1012.92,
+        639.52
+      ],
+      "confidence": 0.9291,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_26",
+      "source": "ocr",
+      "class_label": "Learn more >",
+      "bbox": [
+        593.0,
+        373.0,
+        693.0,
+        386.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        603.9,
+        328.09,
+        683.81,
+        344.38
+      ],
+      "confidence": 0.8832,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_28",
+      "source": "ocr",
+      "class_label": "Where you been hiding?",
+      "bbox": [
+        696.0,
+        51.0,
+        1168.0,
+        79.0
+      ],
+      "confidence": 0.93,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "ocr",
+      "class_label": "Music | Nao",
+      "bbox": [
+        296.0,
+        0.0,
+        422.0,
+        20.0
+      ],
+      "confidence": 0.91,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "ocr",
+      "class_label": "Try it free*",
+      "bbox": [
+        1105.0,
+        326.0,
+        1183.0,
+        343.0
+      ],
+      "confidence": 0.91,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        811.98,
+        181.7,
+        974.8,
+        214.27
+      ],
+      "confidence": 0.9059,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1049.56,
+        181.52,
+        1240.47,
+        214.78
+      ],
+      "confidence": 0.9059,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        904.06,
+        546.32,
+        1039.37,
+        564.97
+      ],
+      "confidence": 0.8722,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        521.94,
+        627.63,
+        603.54,
+        638.98
+      ],
+      "confidence": 0.8678,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        355.22,
+        328.57,
+        432.32,
+        343.86
+      ],
+      "confidence": 0.8566,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        341.4,
+        371.71,
+        436.53,
+        384.71
+      ],
+      "confidence": 0.8526,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        843.23,
+        371.84,
+        932.35,
+        384.79
+      ],
+      "confidence": 0.846,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        592.99,
+        372.11,
+        683.35,
+        384.35
+      ],
+      "confidence": 0.843,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        570.62,
+        181.31,
+        714.77,
+        214.73
+      ],
+      "confidence": 0.8363,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1095.25,
+        372.11,
+        1184.36,
+        384.7
+      ],
+      "confidence": 0.8278,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1105.97,
+        327.98,
+        1186.03,
+        344.65
+      ],
+      "confidence": 0.8053,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        280.65,
+        717.98,
+        499.6,
+        732.55
+      ],
+      "confidence": 0.656,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        357.25,
+        180.89,
+        426.19,
+        214.2
+      ],
+      "confidence": 0.5972,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        868.09,
+        575.39,
+        1079.67,
+        606.36
+      ],
+      "confidence": 0.5954,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        947.92,
+        488.21,
+        996.92,
+        523.45
+      ],
+      "confidence": 0.5813,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1201.88,
+        0.08,
+        1239.63,
+        18.77
+      ],
+      "confidence": 0.5357,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        279.28,
+        0.42,
+        359.86,
+        16.15
+      ],
+      "confidence": 0.5222,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        384.52,
+        2.14,
+        420.61,
+        16.79
+      ],
+      "confidence": 0.5117,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        935.48,
+        375.86,
+        943.36,
+        384.45
+      ],
+      "confidence": 0.4411,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1185.02,
+        376.44,
+        1194.06,
+        383.79
+      ],
+      "confidence": 0.3526,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        684.29,
+        376.87,
+        692.1,
+        384.28
+      ],
+      "confidence": 0.2928,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        433.1,
+        376.19,
+        440.75,
+        384.1
+      ],
+      "confidence": 0.1635,
+      "cluster_size": 1
+    }
+  ]
+}

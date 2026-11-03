@@ -1,0 +1,619 @@
+{
+  "image": "068_anthropic_com.png",
+  "total_elements": 47,
+  "total_raw_nodes": 51,
+  "total_raw_edges": 64,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        447.6,
+        117.21,
+        1088.45,
+        541.24
+      ],
+      "confidence": 0.9248,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_1",
+      "source": "ocr",
+      "class_label": "Research Economic Futures",
+      "bbox": [
+        719.0,
+        28.0,
+        935.0,
+        39.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1187.21,
+        28.08,
+        1227.95,
+        39.06
+      ],
+      "confidence": 0.8964,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "Misaligned behavior",
+      "bbox": [
+        675.0,
+        137.0,
+        859.0,
+        159.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "Mythos Preview",
+      "bbox": [
+        811.0,
+        445.0,
+        881.0,
+        454.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        455.55,
+        480.41,
+        1062.99,
+        528.26
+      ],
+      "confidence": 0.9342,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "Also launching today",
+      "bbox": [
+        447.0,
+        640.0,
+        769.0,
+        673.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "In addition to Claude Opus 4.7 itself, we're launching the following updates:",
+      "bbox": [
+        447.0,
+        709.0,
+        1044.0,
+        730.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Score (1-10)",
+      "bbox": [
+        488.0,
+        285.0,
+        500.0,
+        345.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        575.0,
+        224.0,
+        662.0,
+        434.0
+      ],
+      "confidence": 0.9789,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        689.0,
+        253.0,
+        775.0,
+        432.0
+      ],
+      "confidence": 0.9777,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        916.0,
+        261.0,
+        1003.0,
+        432.0
+      ],
+      "confidence": 0.9776,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1266.59,
+        28.57,
+        1343.99,
+        42.85
+      ],
+      "confidence": 0.9205,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "• More effort control: Opus 4.7 introduces a new xhigh (\"extra high\") effort\nlevel between high and max, giving users finer control over the tradeoff\nbetween reasoning and latency on hard problems. In Claude Code, we've",
+      "bbox": [
+        449.0,
+        752.0,
+        1068.0,
+        817.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        802.0,
+        341.0,
+        889.0,
+        432.0
+      ],
+      "confidence": 0.9684,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "Sonnet 4.6",
+      "bbox": [
+        708.0,
+        444.0,
+        756.0,
+        452.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "Commitments ✓",
+      "bbox": [
+        959.0,
+        28.0,
+        1079.0,
+        39.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "I",
+      "bbox": [
+        951.0,
+        251.0,
+        967.0,
+        269.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "I",
+      "bbox": [
+        723.0,
+        244.0,
+        738.0,
+        259.0
+      ],
+      "confidence": 0.93,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "Opus 4.6",
+      "bbox": [
+        599.0,
+        445.0,
+        638.0,
+        454.0
+      ],
+      "confidence": 0.92,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        808.77,
+        27.19,
+        936.58,
+        39.77
+      ],
+      "confidence": 0.9119,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "2.25",
+      "bbox": [
+        509.0,
+        282.0,
+        524.0,
+        287.0
+      ],
+      "confidence": 0.91,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "2.50",
+      "bbox": [
+        509.0,
+        253.0,
+        524.0,
+        258.0
+      ],
+      "confidence": 0.9,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "ocr",
+      "class_label": "1.50",
+      "bbox": [
+        510.0,
+        372.0,
+        524.0,
+        377.0
+      ],
+      "confidence": 0.9,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        0.42,
+        2.07,
+        405.02,
+        826.0
+      ],
+      "confidence": 0.8901,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "ocr",
+      "class_label": "Learn ✓",
+      "bbox": [
+        1104.0,
+        27.0,
+        1163.0,
+        39.0
+      ],
+      "confidence": 0.89,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        959.54,
+        27.38,
+        1058.91,
+        39.29
+      ],
+      "confidence": 0.889,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        453.92,
+        119.37,
+        1080.49,
+        473.27
+      ],
+      "confidence": 0.8884,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "ocr",
+      "class_label": "1.25",
+      "bbox": [
+        511.0,
+        401.0,
+        525.0,
+        406.0
+      ],
+      "confidence": 0.88,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1250.64,
+        16.17,
+        1360.15,
+        52.05
+      ],
+      "confidence": 0.8778,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "ocr",
+      "class_label": "3.00",
+      "bbox": [
+        510.0,
+        193.0,
+        523.0,
+        199.0
+      ],
+      "confidence": 0.87,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "ocr",
+      "class_label": "Opus 4.7",
+      "bbox": [
+        940.0,
+        444.0,
+        978.0,
+        453.0
+      ],
+      "confidence": 0.87,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        719.16,
+        27.77,
+        785.45,
+        39.07
+      ],
+      "confidence": 0.8604,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "ocr",
+      "class_label": "2.00",
+      "bbox": [
+        509.0,
+        311.0,
+        524.0,
+        317.0
+      ],
+      "confidence": 0.86,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "ocr",
+      "class_label": "2.75",
+      "bbox": [
+        510.0,
+        223.0,
+        525.0,
+        228.0
+      ],
+      "confidence": 0.84,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "ocr",
+      "class_label": "1.75",
+      "bbox": [
+        511.0,
+        342.0,
+        525.0,
+        348.0
+      ],
+      "confidence": 0.84,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "ocr",
+      "class_label": "1.00",
+      "bbox": [
+        511.0,
+        431.0,
+        523.0,
+        436.0
+      ],
+      "confidence": 0.84,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        131.81,
+        25.9,
+        155.29,
+        43.31
+      ],
+      "confidence": 0.7969,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1361.22,
+        15.56,
+        1403.88,
+        52.31
+      ],
+      "confidence": 0.7218,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        845.66,
+        752.62,
+        896.65,
+        767.74
+      ],
+      "confidence": 0.6214,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1103.72,
+        28.13,
+        1145.6,
+        39.3
+      ],
+      "confidence": 0.5034,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        467.52,
+        774.81,
+        510.36,
+        793.77
+      ],
+      "confidence": 0.496,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1066.63,
+        29.94,
+        1080.26,
+        38.17
+      ],
+      "confidence": 0.3964,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1018.88,
+        752.29,
+        1065.51,
+        768.76
+      ],
+      "confidence": 0.3518,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1104.07,
+        28.15,
+        1166.2,
+        39.65
+      ],
+      "confidence": 0.3374,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1149.7,
+        29.65,
+        1165.14,
+        39.03
+      ],
+      "confidence": 0.1792,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        514.73,
+        775.26,
+        579.39,
+        790.17
+      ],
+      "confidence": 0.106,
+      "cluster_size": 1
+    }
+  ]
+}

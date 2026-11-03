@@ -1,0 +1,788 @@
+{
+  "image": "195_worldnomads_com.png",
+  "total_elements": 60,
+  "total_raw_nodes": 77,
+  "total_raw_edges": 62,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        15.0,
+        794.0,
+        1521.0,
+        799.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        698.0,
+        1536.0,
+        701.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        782.0,
+        235.0,
+        849.0,
+        240.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        182.0,
+        235.0,
+        249.0,
+        240.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "Become a better storyteller",
+      "bbox": [
+        200.0,
+        22.0,
+        575.0,
+        53.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        795.99,
+        26.09,
+        1276.24,
+        53.38
+      ],
+      "confidence": 0.9204,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "How to Find a Great New Angle for an Old Travel Story\nHow to Master Both Travel Photography and Filmmaking\nWhat Are The Realities of Working as a Freelance Writer?",
+      "bbox": [
+        183.0,
+        257.0,
+        641.0,
+        352.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        792.24,
+        206.64,
+        1161.0,
+        225.53
+      ],
+      "confidence": 0.942,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Travel photography scholarship",
+      "bbox": [
+        784.0,
+        257.0,
+        1034.0,
+        272.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        242.32,
+        552.69,
+        409.3,
+        566.84
+      ],
+      "confidence": 0.951,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        684.19,
+        551.53,
+        913.14,
+        566.61
+      ],
+      "confidence": 0.9632,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "Become a contributor",
+      "bbox": [
+        950.0,
+        553.0,
+        1089.0,
+        564.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "Read our travel manifesto",
+      "bbox": [
+        1126.0,
+        553.0,
+        1294.0,
+        565.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        240.8,
+        756.76,
+        374.48,
+        770.89
+      ],
+      "confidence": 0.9356,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "Adventure Travel\nConservation Fund",
+      "bbox": [
+        456.0,
+        753.0,
+        562.0,
+        772.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "ADVENTURE TRAVEL",
+      "bbox": [
+        653.0,
+        753.0,
+        769.0,
+        760.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "WYSE TRAVEL",
+      "bbox": [
+        848.0,
+        755.0,
+        938.0,
+        765.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "TRADE ASSOCIATION",
+      "bbox": [
+        653.0,
+        765.0,
+        739.0,
+        772.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "CONFEDERATION",
+      "bbox": [
+        848.0,
+        767.0,
+        938.0,
+        773.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        182.81,
+        0.0,
+        752.29,
+        163.53
+      ],
+      "confidence": 0.982,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        782.79,
+        0.0,
+        1354.13,
+        163.06
+      ],
+      "confidence": 0.9816,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        198.89,
+        78.65,
+        727.3,
+        123.04
+      ],
+      "confidence": 0.9634,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "Get pro tips, techniques and advice",
+      "bbox": [
+        183.0,
+        204.0,
+        502.0,
+        225.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "ocr",
+      "class_label": "Couldn't find what you're looking for? Do you want to...",
+      "bbox": [
+        517.0,
+        505.0,
+        1017.0,
+        523.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "ocr",
+      "class_label": "Make a living from my passion",
+      "bbox": [
+        421.0,
+        603.0,
+        615.0,
+        621.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        846.34,
+        603.4,
+        1115.5,
+        618.78
+      ],
+      "confidence": 0.9545,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_26",
+      "source": "ocr",
+      "class_label": "In association with:",
+      "bbox": [
+        15.0,
+        757.0,
+        168.0,
+        771.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "ocr",
+      "class_label": "PATA",
+      "bbox": [
+        985.0,
+        750.0,
+        1040.0,
+        769.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        830.17,
+        590.58,
+        1132.63,
+        628.56
+      ],
+      "confidence": 0.9593,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_29",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        796.03,
+        77.9,
+        1332.5,
+        126.93
+      ],
+      "confidence": 0.9584,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_30",
+      "source": "ocr",
+      "class_label": "Plan a trip to... Be inspired",
+      "bbox": [
+        445.0,
+        549.0,
+        648.0,
+        568.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        652.05,
+        603.48,
+        811.35,
+        618.42
+      ],
+      "confidence": 0.9376,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_32",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        403.59,
+        590.66,
+        631.0,
+        628.36
+      ],
+      "confidence": 0.9557,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_33",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        632.79,
+        590.69,
+        828.37,
+        628.38
+      ],
+      "confidence": 0.9509,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_34",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        225.71,
+        539.91,
+        426.2,
+        576.3
+      ],
+      "confidence": 0.9486,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_35",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        669.0,
+        541.0,
+        929.0,
+        575.0
+      ],
+      "confidence": 0.966,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        427.32,
+        539.58,
+        558.14,
+        576.3
+      ],
+      "confidence": 0.9588,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_37",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1106.98,
+        540.83,
+        1309.44,
+        575.4
+      ],
+      "confidence": 0.9483,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_38",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        933.24,
+        539.87,
+        1107.78,
+        575.01
+      ],
+      "confidence": 0.9567,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_39",
+      "source": "ocr",
+      "class_label": "Travel film scholarship\nTravel writing scholarship",
+      "bbox": [
+        782.0,
+        294.0,
+        988.0,
+        352.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        560.81,
+        540.28,
+        666.48,
+        575.25
+      ],
+      "confidence": 0.9365,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_41",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        685.0,
+        551.0,
+        880.0,
+        568.0
+      ],
+      "confidence": 0.9559,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        785.09,
+        294.86,
+        960.12,
+        313.51
+      ],
+      "confidence": 0.9409,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        786.74,
+        334.0,
+        986.56,
+        352.56
+      ],
+      "confidence": 0.9407,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        782.16,
+        256.48,
+        1035.89,
+        274.25
+      ],
+      "confidence": 0.9359,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        949.84,
+        551.85,
+        1088.23,
+        563.22
+      ],
+      "confidence": 0.9297,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1125.6,
+        552.41,
+        1293.33,
+        563.5
+      ],
+      "confidence": 0.916,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        186.97,
+        334.02,
+        646.53,
+        352.32
+      ],
+      "confidence": 0.9136,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        198.87,
+        26.51,
+        580.49,
+        55.44
+      ],
+      "confidence": 0.9121,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        16.02,
+        755.97,
+        166.04,
+        769.54
+      ],
+      "confidence": 0.9104,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        448.19,
+        552.2,
+        538.23,
+        566.3
+      ],
+      "confidence": 0.8974,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        182.63,
+        206.44,
+        506.81,
+        226.33
+      ],
+      "confidence": 0.8951,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        421.98,
+        752.9,
+        562.06,
+        772.18
+      ],
+      "confidence": 0.8829,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_53",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        579.17,
+        552.13,
+        648.96,
+        566.09
+      ],
+      "confidence": 0.8667,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_54",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        186.47,
+        294.7,
+        636.53,
+        313.51
+      ],
+      "confidence": 0.8603,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_55",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        818.89,
+        749.55,
+        938.96,
+        776.16
+      ],
+      "confidence": 0.8378,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_56",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        188.43,
+        256.32,
+        622.29,
+        274.91
+      ],
+      "confidence": 0.8024,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_57",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        985.74,
+        749.62,
+        1038.69,
+        775.12
+      ],
+      "confidence": 0.7949,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_58",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        422.84,
+        603.94,
+        614.72,
+        618.24
+      ],
+      "confidence": 0.7261,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_59",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        214.59,
+        752.22,
+        235.48,
+        773.15
+      ],
+      "confidence": 0.4535,
+      "cluster_size": 1
+    }
+  ]
+}

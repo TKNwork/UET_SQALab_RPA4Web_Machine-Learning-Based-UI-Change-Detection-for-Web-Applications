@@ -1,0 +1,1009 @@
+{
+  "image": "304_data_rijksmuseum_nl.png",
+  "total_elements": 77,
+  "total_raw_nodes": 92,
+  "total_raw_edges": 115,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        360.0,
+        755.0,
+        730.0,
+        785.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        360.0,
+        580.0,
+        680.0,
+        600.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        390.0,
+        435.0,
+        622.0,
+        454.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        388.0,
+        357.0,
+        631.0,
+        376.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        420.0,
+        278.0,
+        999.0,
+        308.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        360.0,
+        116.0,
+        858.0,
+        146.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        390.0,
+        659.0,
+        617.0,
+        678.0
+      ],
+      "confidence": 0.9956,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        75.58,
+        115.67,
+        150.51,
+        126.87
+      ],
+      "confidence": 0.9501,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "DATA DUMPS",
+      "bbox": [
+        76.0,
+        151.0,
+        170.0,
+        167.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        75.96,
+        227.83,
+        171.51,
+        239.1
+      ],
+      "confidence": 0.9329,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "RESOLVER",
+      "bbox": [
+        76.0,
+        250.0,
+        149.0,
+        262.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        75.54,
+        286.98,
+        131.03,
+        297.61
+      ],
+      "confidence": 0.9396,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "SRU",
+      "bbox": [
+        76.0,
+        399.0,
+        106.0,
+        411.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        360.58,
+        117.55,
+        857.26,
+        144.04
+      ],
+      "confidence": 0.9513,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "Dublin Core is a small XML vocabulary. This download provides object metadata in a simple and compact form.",
+      "bbox": [
+        361.0,
+        167.0,
+        1167.0,
+        183.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "Europeana Data Model object metadata download",
+      "bbox": [
+        361.0,
+        275.0,
+        996.0,
+        306.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "This download includes object metadata structured using the Europeana Data Model. The dataset is published in\nthe Resource Description Framework (RDF) format using the Turtle syntax. This Linked Open Data includes many\nreferences to resources in the controlled vocabularies.",
+      "bbox": [
+        360.0,
+        328.0,
+        1182.0,
+        402.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "Dublin Core object metadata\ndownload",
+      "bbox": [
+        1249.0,
+        113.0,
+        1459.0,
+        151.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "Europeana Data Model object\nmetadata download",
+      "bbox": [
+        1249.0,
+        170.0,
+        1465.0,
+        208.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "LIDO object metadata download\nComma Separated Values object\nmetadata download",
+      "bbox": [
+        1248.0,
+        227.0,
+        1486.0,
+        299.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "Linked Art van Gogh object metadata\ndownload",
+      "bbox": [
+        1248.0,
+        317.0,
+        1521.0,
+        355.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1265.19,
+        439.7,
+        1340.15,
+        453.59
+      ],
+      "confidence": 0.939,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "LIDO object metadata download",
+      "bbox": [
+        361.0,
+        529.0,
+        767.0,
+        556.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "ocr",
+      "class_label": "Lightweight Information Describing Objects (LIDO) is an XML harvesting schema. This event-centric dataset is\ncurrently the richest object metadata that the Rijksmuseum has to offer.",
+      "bbox": [
+        360.0,
+        582.0,
+        1154.0,
+        627.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        359.49,
+        756.85,
+        1033.98,
+        782.94
+      ],
+      "confidence": 0.9303,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_25",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        87.09,
+        189.73,
+        245.94,
+        205.32
+      ],
+      "confidence": 0.9421,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        389.98,
+        215.03,
+        605.81,
+        231.96
+      ],
+      "confidence": 0.9432,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_27",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        388.57,
+        434.89,
+        620.33,
+        452.02
+      ],
+      "confidence": 0.9507,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_28",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        390.14,
+        468.58,
+        610.92,
+        484.38
+      ],
+      "confidence": 0.9469,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_29",
+      "source": "ocr",
+      "class_label": "Download controlled vocabularies",
+      "bbox": [
+        1249.0,
+        374.0,
+        1498.0,
+        388.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "ocr",
+      "class_label": "202020-rma-lido-collection.zip",
+      "bbox": [
+        391.0,
+        658.0,
+        615.0,
+        676.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        390.93,
+        692.79,
+        607.33,
+        709.06
+      ],
+      "confidence": 0.9476,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_32",
+      "source": "ocr",
+      "class_label": "This Comma Separated Values file provides a simple inventory of objects in the Rijksmuseum collection. It",
+      "bbox": [
+        360.0,
+        806.0,
+        1135.0,
+        822.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        390.0,
+        468.0,
+        613.0,
+        487.0
+      ],
+      "confidence": 0.9781,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        1254.0,
+        15.0,
+        1458.0,
+        68.0
+      ],
+      "confidence": 0.975,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        78.67,
+        26.06,
+        204.97,
+        57.68
+      ],
+      "confidence": 0.9299,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_36",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        76.27,
+        360.73,
+        111.77,
+        371.76
+      ],
+      "confidence": 0.8873,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_37",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        75.11,
+        179.1,
+        294.4,
+        214.31
+      ],
+      "confidence": 0.9289,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_38",
+      "source": "ocr",
+      "class_label": "Docs Tutorials Policy About",
+      "bbox": [
+        274.0,
+        34.0,
+        533.0,
+        50.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        390.0,
+        215.0,
+        606.0,
+        234.0
+      ],
+      "confidence": 0.9474,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        321.38,
+        77.84,
+        1230.19,
+        826.0
+      ],
+      "confidence": 0.9434,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "ocr",
+      "class_label": "Q Search",
+      "bbox": [
+        1268.0,
+        33.0,
+        1337.0,
+        49.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "ocr",
+      "class_label": "Actors",
+      "bbox": [
+        1263.0,
+        409.0,
+        1311.0,
+        421.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1247.0,
+        112.0,
+        1459.0,
+        131.0
+      ],
+      "confidence": 0.9298,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        361.65,
+        532.56,
+        770.86,
+        559.48
+      ],
+      "confidence": 0.927,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "ocr",
+      "class_label": "DAI-PMH",
+      "bbox": [
+        76.0,
+        321.0,
+        138.0,
+        336.0
+      ],
+      "confidence": 0.92,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        76.67,
+        153.68,
+        168.73,
+        165.39
+      ],
+      "confidence": 0.9187,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        333.67,
+        34.41,
+        396.45,
+        47.4
+      ],
+      "confidence": 0.9171,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        0.0,
+        81.09,
+        318.83,
+        826.0
+      ],
+      "confidence": 0.9158,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        1383.0,
+        32.0,
+        1421.0,
+        50.0
+      ],
+      "confidence": 0.9123,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        390.26,
+        659.28,
+        613.46,
+        674.69
+      ],
+      "confidence": 0.9102,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        76.92,
+        324.02,
+        139.18,
+        334.26
+      ],
+      "confidence": 0.9073,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        390.0,
+        692.0,
+        607.0,
+        712.0
+      ],
+      "confidence": 0.9042,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_53",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        485.85,
+        34.73,
+        530.16,
+        47.43
+      ],
+      "confidence": 0.8876,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_54",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        731.0,
+        755.0,
+        1034.0,
+        784.0
+      ],
+      "confidence": 0.8707,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_55",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        458.0,
+        531.0,
+        771.0,
+        561.0
+      ],
+      "confidence": 0.8694,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_56",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        274.89,
+        36.23,
+        309.34,
+        47.62
+      ],
+      "confidence": 0.8641,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_57",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        810.6,
+        329.51,
+        981.32,
+        344.51
+      ],
+      "confidence": 0.836,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_58",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        387.19,
+        357.62,
+        634.29,
+        374.48
+      ],
+      "confidence": 0.8243,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_59",
+      "source": "ocr",
+      "class_label": "ctrl K",
+      "bbox": [
+        1386.0,
+        36.0,
+        1439.0,
+        46.0
+      ],
+      "confidence": 0.81,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_60",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1247.95,
+        226.18,
+        1483.5,
+        243.44
+      ],
+      "confidence": 0.7563,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_61",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        361.09,
+        166.53,
+        447.82,
+        182.12
+      ],
+      "confidence": 0.7437,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_62",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        369.08,
+        328.68,
+        577.43,
+        345.66
+      ],
+      "confidence": 0.7368,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_63",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        420.35,
+        33.75,
+        462.99,
+        50.23
+      ],
+      "confidence": 0.6314,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_64",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1292.57,
+        34.32,
+        1337.72,
+        46.52
+      ],
+      "confidence": 0.7278,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_65",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        583.51,
+        386.79,
+        754.29,
+        402.2
+      ],
+      "confidence": 0.6822,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_66",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        76.76,
+        248.52,
+        153.68,
+        260.98
+      ],
+      "confidence": 0.5677,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_67",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        76.51,
+        433.69,
+        99.2,
+        446.24
+      ],
+      "confidence": 0.554,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_68",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        76.42,
+        398.47,
+        104.67,
+        409.73
+      ],
+      "confidence": 0.5496,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_69",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1264.13,
+        407.76,
+        1310.47,
+        419.7
+      ],
+      "confidence": 0.5142,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_70",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1380.17,
+        31.18,
+        1419.87,
+        51.48
+      ],
+      "confidence": 0.4975,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_71",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        807.16,
+        357.68,
+        845.46,
+        373.65
+      ],
+      "confidence": 0.4843,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_72",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1268.71,
+        33.76,
+        1283.88,
+        49.81
+      ],
+      "confidence": 0.3264,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_73",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1425.15,
+        28.54,
+        1445.54,
+        53.7
+      ],
+      "confidence": 0.2307,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_74",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        265.7,
+        155.6,
+        278.15,
+        161.89
+      ],
+      "confidence": 0.1682,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_75",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        265.33,
+        240.92,
+        277.73,
+        247.57
+      ],
+      "confidence": 0.1107,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_76",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        580.29,
+        329.35,
+        634.8,
+        344.88
+      ],
+      "confidence": 0.1036,
+      "cluster_size": 1
+    }
+  ]
+}

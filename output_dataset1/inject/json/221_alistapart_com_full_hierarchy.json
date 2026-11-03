@@ -1,0 +1,385 @@
+{
+  "image": "221_alistapart_com.png",
+  "total_elements": 29,
+  "total_raw_nodes": 34,
+  "total_raw_edges": 55,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1211.0,
+        74.0,
+        1355.0,
+        86.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "ocr",
+      "class_label": "Good designers, bad websites: a proposal",
+      "bbox": [
+        288.0,
+        68.0,
+        977.0,
+        103.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        288.06,
+        161.43,
+        1222.8,
+        258.51
+      ],
+      "confidence": 0.9496,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "Ready to advance in content",
+      "bbox": [
+        1212.0,
+        4.0,
+        1355.0,
+        13.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        286.78,
+        511.6,
+        1254.88,
+        680.61
+      ],
+      "confidence": 0.9732,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "strategy, UX/UI, data\ncommunication, or learning\ndesign? Explore",
+      "bbox": [
+        1211.0,
+        21.0,
+        1351.0,
+        70.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "Northwestern's online MS in",
+      "bbox": [
+        1212.0,
+        76.0,
+        1353.0,
+        85.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "NEW! JANUARY 28, 2026",
+      "bbox": [
+        291.0,
+        325.0,
+        501.0,
+        341.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "More from A List Apart",
+      "bbox": [
+        602.0,
+        753.0,
+        937.0,
+        783.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "NEW! APRIL 23, 2026",
+      "bbox": [
+        291.0,
+        17.0,
+        475.0,
+        33.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1211.46,
+        92.99,
+        1366.55,
+        107.03
+      ],
+      "confidence": 0.9222,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        289.45,
+        378.43,
+        1220.48,
+        452.16
+      ],
+      "confidence": 0.952,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "by Alan Dalton. Leave a Comment",
+      "bbox": [
+        287.0,
+        121.0,
+        555.0,
+        136.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "by Justin Dauer · 11 Comments",
+      "bbox": [
+        287.0,
+        471.0,
+        529.0,
+        487.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        286.0,
+        320.0,
+        341.0,
+        347.0
+      ],
+      "confidence": 0.9313,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        289.41,
+        71.98,
+        553.47,
+        102.84
+      ],
+      "confidence": 0.931,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1211.0,
+        93.0,
+        1367.0,
+        107.0
+      ],
+      "confidence": 0.9286,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        348.78,
+        17.82,
+        476.01,
+        34.42
+      ],
+      "confidence": 0.9192,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        288.58,
+        14.55,
+        339.21,
+        35.54
+      ],
+      "confidence": 0.8955,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        275.23,
+        0.0,
+        1354.99,
+        811.46
+      ],
+      "confidence": 0.8905,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        288.12,
+        119.76,
+        404.8,
+        137.16
+      ],
+      "confidence": 0.8858,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        289.15,
+        322.89,
+        339.31,
+        342.55
+      ],
+      "confidence": 0.783,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_22",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        304.88,
+        71.74,
+        978.19,
+        102.24
+      ],
+      "confidence": 0.8659,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1211.0,
+        2.0,
+        1356.0,
+        16.0
+      ],
+      "confidence": 0.8631,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        350.18,
+        325.02,
+        503.59,
+        342.29
+      ],
+      "confidence": 0.862,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        418.64,
+        119.75,
+        554.18,
+        133.37
+      ],
+      "confidence": 0.8075,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        426.29,
+        471.02,
+        529.85,
+        484.83
+      ],
+      "confidence": 0.5161,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1210.35,
+        75.13,
+        1358.37,
+        86.0
+      ],
+      "confidence": 0.5082,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        290.23,
+        17.1,
+        338.54,
+        34.47
+      ],
+      "confidence": 0.1866,
+      "cluster_size": 1
+    }
+  ]
+}

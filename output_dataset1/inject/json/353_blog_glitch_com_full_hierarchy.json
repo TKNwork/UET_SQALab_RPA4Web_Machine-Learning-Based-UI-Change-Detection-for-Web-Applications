@@ -1,0 +1,307 @@
+{
+  "image": "353_blog_glitch_com.png",
+  "total_elements": 23,
+  "total_raw_nodes": 24,
+  "total_raw_edges": 11,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        254.0,
+        190.0,
+        1282.0,
+        613.0
+      ],
+      "confidence": 0.9944,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "ocr",
+      "class_label": "Glitch Blog",
+      "bbox": [
+        312.0,
+        48.0,
+        555.0,
+        91.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "Apps We Love Creator Interviews",
+      "bbox": [
+        527.0,
+        141.0,
+        797.0,
+        164.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "Industry News",
+      "bbox": [
+        819.0,
+        145.0,
+        929.0,
+        163.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "Internet Culture",
+      "bbox": [
+        950.0,
+        149.0,
+        1071.0,
+        160.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "June 18, 2024",
+      "bbox": [
+        1174.0,
+        632.0,
+        1278.0,
+        647.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "Glitch.com Search Q",
+      "bbox": [
+        1090.0,
+        65.0,
+        1278.0,
+        78.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Our first step to opening",
+      "bbox": [
+        382.0,
+        716.0,
+        1010.0,
+        776.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Glitch Updates Tips & Tutorials",
+      "bbox": [
+        256.0,
+        148.0,
+        507.0,
+        163.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        257.33,
+        47.79,
+        557.89,
+        97.63
+      ],
+      "confidence": 0.9436,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1199.97,
+        64.31,
+        1279.6,
+        79.36
+      ],
+      "confidence": 0.911,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1089.49,
+        64.23,
+        1182.24,
+        79.07
+      ],
+      "confidence": 0.9097,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        657.12,
+        147.65,
+        799.77,
+        160.95
+      ],
+      "confidence": 0.9028,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "un the new Glitch.",
+      "bbox": [
+        377.0,
+        798.0,
+        843.0,
+        825.0
+      ],
+      "confidence": 0.9,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        820.05,
+        147.23,
+        930.88,
+        164.4
+      ],
+      "confidence": 0.8934,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        291.05,
+        631.27,
+        313.6,
+        650.04
+      ],
+      "confidence": 0.7148,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        950.38,
+        147.67,
+        1071.56,
+        160.89
+      ],
+      "confidence": 0.8774,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        526.68,
+        147.74,
+        637.55,
+        164.92
+      ],
+      "confidence": 0.8734,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        370.0,
+        592.0,
+        463.0,
+        601.0
+      ],
+      "confidence": 0.8611,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        493.0,
+        50.0,
+        496.0,
+        81.0
+      ],
+      "confidence": 0.8609,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        389.94,
+        146.93,
+        507.4,
+        164.08
+      ],
+      "confidence": 0.825,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        256.03,
+        147.38,
+        368.95,
+        164.5
+      ],
+      "confidence": 0.6562,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        263.2,
+        627.15,
+        282.07,
+        650.62
+      ],
+      "confidence": 0.2931,
+      "cluster_size": 1
+    }
+  ]
+}

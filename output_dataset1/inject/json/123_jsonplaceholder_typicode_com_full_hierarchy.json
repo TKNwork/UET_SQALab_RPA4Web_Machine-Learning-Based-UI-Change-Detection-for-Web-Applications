@@ -1,0 +1,294 @@
+{
+  "image": "123_jsonplaceholder_typicode_com.png",
+  "total_elements": 22,
+  "total_raw_nodes": 26,
+  "total_raw_edges": 15,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        38.0,
+        1536.0,
+        41.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        487.0,
+        11.0,
+        1049.0,
+        32.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "Check my new project MistCSS write React components with 50% less code",
+      "bbox": [
+        488.0,
+        14.0,
+        1048.0,
+        29.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "JSONPlaceholder Guide Sponsor this project Blog My JSON Server",
+      "bbox": [
+        319.0,
+        70.0,
+        866.0,
+        86.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "Free fake and reliable API for testing and prototyping.",
+      "bbox": [
+        322.0,
+        310.0,
+        912.0,
+        341.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        320.42,
+        703.79,
+        479.27,
+        740.38
+      ],
+      "confidence": 0.9231,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "JSONPlaceholder is supported by the following companies and Sponsors on GitHub, check them out",
+      "bbox": [
+        318.0,
+        770.0,
+        1028.0,
+        786.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        319.94,
+        423.57,
+        619.9,
+        441.32
+      ],
+      "confidence": 0.8101,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        321.07,
+        200.0,
+        826.25,
+        254.71
+      ],
+      "confidence": 0.9471,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "Powered by JSON Server + LowDB.",
+      "bbox": [
+        320.0,
+        362.0,
+        703.0,
+        386.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        318.43,
+        69.07,
+        450.19,
+        82.41
+      ],
+      "confidence": 0.9197,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        546.17,
+        68.92,
+        687.52,
+        86.9
+      ],
+      "confidence": 0.895,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        455.12,
+        363.68,
+        591.34,
+        385.46
+      ],
+      "confidence": 0.882,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        728.0,
+        203.0,
+        732.0,
+        245.0
+      ],
+      "confidence": 0.8754,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        555.0,
+        203.0,
+        559.0,
+        245.0
+      ],
+      "confidence": 0.8754,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        752.33,
+        69.43,
+        866.28,
+        86.1
+      ],
+      "confidence": 0.8194,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        705.28,
+        69.35,
+        737.12,
+        86.14
+      ],
+      "confidence": 0.6586,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        767.03,
+        770.03,
+        835.08,
+        786.0
+      ],
+      "confidence": 0.6586,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        620.04,
+        363.45,
+        701.54,
+        385.88
+      ],
+      "confidence": 0.5234,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        488.58,
+        68.91,
+        532.6,
+        83.01
+      ],
+      "confidence": 0.3784,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1035.15,
+        770.05,
+        1050.41,
+        784.17
+      ],
+      "confidence": 0.2206,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        421.0,
+        362.6,
+        448.81,
+        387.44
+      ],
+      "confidence": 0.1283,
+      "cluster_size": 2
+    }
+  ]
+}

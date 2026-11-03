@@ -1,0 +1,333 @@
+{
+  "image": "356_sitepoint_com.png",
+  "total_elements": 25,
+  "total_raw_nodes": 28,
+  "total_raw_edges": 20,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1240.0,
+        780.0,
+        1276.0,
+        783.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1107.0,
+        780.0,
+        1232.0,
+        783.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1045.0,
+        765.0,
+        1097.0,
+        769.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1105.0,
+        761.0,
+        1213.0,
+        768.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        252.09,
+        32.0,
+        1290.16,
+        533.28
+      ],
+      "confidence": 0.9876,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "Latest News",
+      "bbox": [
+        252.0,
+        598.0,
+        367.0,
+        613.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "The Model Handshake: How to",
+      "bbox": [
+        780.0,
+        801.0,
+        1013.0,
+        814.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1042.55,
+        646.92,
+        1284.72,
+        778.74
+      ],
+      "confidence": 0.9577,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "12 Best Al Recruiting Sourcing Tools\nfor 2026",
+      "bbox": [
+        291.0,
+        414.0,
+        846.0,
+        482.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "How Al Virtual Assistants Are 7 Best Design Tools and",
+      "bbox": [
+        252.0,
+        801.0,
+        697.0,
+        815.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "Al Agent Testing Automation:",
+      "bbox": [
+        1043.0,
+        801.0,
+        1266.0,
+        815.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        515.45,
+        648.66,
+        756.45,
+        784.05
+      ],
+      "confidence": 0.9775,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        251.06,
+        647.22,
+        493.09,
+        784.05
+      ],
+      "confidence": 0.9442,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        778.98,
+        648.49,
+        1019.15,
+        783.33
+      ],
+      "confidence": 0.9705,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "%",
+      "bbox": [
+        1101.0,
+        94.0,
+        1129.0,
+        115.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "See all >",
+      "bbox": [
+        1210.0,
+        601.0,
+        1270.0,
+        611.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "Al - automation - April 6, 2026",
+      "bbox": [
+        292.0,
+        375.0,
+        498.0,
+        389.0
+      ],
+      "confidence": 0.93,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        780.13,
+        800.47,
+        1013.6,
+        820.96
+      ],
+      "confidence": 0.7849,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1043.29,
+        800.56,
+        1268.28,
+        818.47
+      ],
+      "confidence": 0.7629,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1208.22,
+        600.31,
+        1254.35,
+        611.66
+      ],
+      "confidence": 0.7136,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        525.94,
+        799.76,
+        700.2,
+        818.61
+      ],
+      "confidence": 0.7059,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        322.97,
+        374.71,
+        397.34,
+        389.83
+      ],
+      "confidence": 0.5662,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        292.0,
+        374.69,
+        307.27,
+        391.1
+      ],
+      "confidence": 0.4351,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1261.32,
+        601.87,
+        1269.75,
+        612.01
+      ],
+      "confidence": 0.2888,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        515.9,
+        800.96,
+        524.79,
+        816.16
+      ],
+      "confidence": 0.1907,
+      "cluster_size": 1
+    }
+  ]
+}

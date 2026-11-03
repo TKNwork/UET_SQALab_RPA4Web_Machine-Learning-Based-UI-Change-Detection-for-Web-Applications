@@ -1,0 +1,151 @@
+{
+  "image": "334_thriftbooks_com.png",
+  "total_elements": 11,
+  "total_raw_nodes": 12,
+  "total_raw_edges": 7,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "ocr",
+      "class_label": "ThriftBooks started in 2003 with a pick-up truck of used books stashed in a storage unit, listing books solely on\nAmazon.com. Our first book sold was the beloved children's classic, Charlotte's Web by E.B. White. Over the years,\nwe've added regional processing centers across the country and hundreds of employees. Throughout this time, we also\nbuilt our processes to purchase, grade, and distribute used and rare/collectible books.",
+      "bbox": [
+        198.0,
+        73.0,
+        1337.0,
+        158.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "ocr",
+      "class_label": "Today we are the world's largest online independent used book seller, operating with state-of-the-art automation and\nadvanced analytics in a safety-first environment. Our primary customer web and mobile destination is our brand home,\nThriftBooks.com. We also continue to sell on Amazon, eBay, Abe, and other commerce sites where booklovers gather. We\nhand-grade every book in our inventory and offer books in a variety of formats and conditions for our customers. We\npride ourselves on our wide assortment of quality used, accurately graded books provided to our customers at everyday\nlow prices. Our award-winning customer service team and our 5-star rating on Trustpilot, with over 640,000 reviews,\nprovide our customers assurance to shop with confidence while finding books they love and look forward to reading.\nOur ReadingRewards loyalty program continually delight loyal customers with free books awarded for their points\nearned.",
+      "bbox": [
+        189.0,
+        499.0,
+        1347.0,
+        689.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "Our partnerships extend into communities across the country. Our profit-sharing relationship with libraries large and\nsmall enables us to support these valuable institutions by finding homes for ex-library books and working with\nFriends of Library groups across the country to provide financial support for their continued success. We give back\nto our communities through our ThriftBooks Cares pillar, designed to connect with communities in the US and globally\ndonating books to those in need-including schools, non-profit organizations, and those rebuilding after natural",
+      "bbox": [
+        188.0,
+        712.0,
+        1348.0,
+        817.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        505.65,
+        21.32,
+        1026.72,
+        52.31
+      ],
+      "confidence": 0.9361,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "Web",
+      "bbox": [
+        718.0,
+        223.0,
+        814.0,
+        271.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "60",
+      "bbox": [
+        823.0,
+        258.0,
+        840.0,
+        269.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        666.73,
+        177.83,
+        868.91,
+        473.2
+      ],
+      "confidence": 0.9573,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Charlotte's",
+      "bbox": [
+        666.0,
+        179.0,
+        865.0,
+        244.0
+      ],
+      "confidence": 0.93,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "E.B.White",
+      "bbox": [
+        687.0,
+        422.0,
+        789.0,
+        444.0
+      ],
+      "confidence": 0.92,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "Garth Williams",
+      "bbox": [
+        692.0,
+        451.0,
+        785.0,
+        464.0
+      ],
+      "confidence": 0.83,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        878.3,
+        95.25,
+        1021.69,
+        112.67
+      ],
+      "confidence": 0.6587,
+      "cluster_size": 1
+    }
+  ]
+}

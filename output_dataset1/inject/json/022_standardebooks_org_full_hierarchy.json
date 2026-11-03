@@ -1,0 +1,515 @@
+{
+  "image": "022_standardebooks_org.png",
+  "total_elements": 39,
+  "total_raw_nodes": 41,
+  "total_raw_edges": 62,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        903.0,
+        647.0,
+        1178.0,
+        663.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        638.0,
+        549.0,
+        920.0,
+        571.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        437.0,
+        470.0,
+        1100.0,
+        475.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        107.0,
+        328.0,
+        1429.0,
+        334.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "And while all of the ebooks we feature and the cover\nart we draw from are already believed to be in the\npublic domain in the U.S., Standard Ebooks releases\nall of the work we put in to each ebook into the public\ndomain too. That makes each and every one of our\nebook files not just free, but libre too-because the\nworld deserves more unrestricted culture.",
+      "bbox": [
+        307.0,
+        55.0,
+        785.0,
+        244.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        683.75,
+        436.34,
+        887.65,
+        449.89
+      ],
+      "confidence": 0.8741,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "NO DRM",
+      "bbox": [
+        963.0,
+        237.0,
+        1090.0,
+        263.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "own changes with the click of a mouse.",
+      "bbox": [
+        308.0,
+        2.0,
+        653.0,
+        23.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Sponsored by\nElevenReader",
+      "bbox": [
+        683.0,
+        361.0,
+        903.0,
+        421.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "SE",
+      "bbox": [
+        752.0,
+        749.0,
+        781.0,
+        765.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        633.57,
+        551.03,
+        921.21,
+        568.08
+      ],
+      "confidence": 0.9419,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "Content produced by or for Standard Ebooks L³C is dedicated to the public domain via the CCO 1.0 Universal Public Domain Dedication.\nContent not produced by or for Standard Ebooks L³C but displayed on this website may be subject to copyright.",
+      "bbox": [
+        357.0,
+        646.0,
+        1178.0,
+        685.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "ebooks about get involved donate settings · github · bulk downloads ebook feeds accessibility.",
+      "bbox": [
+        271.0,
+        597.0,
+        1266.0,
+        617.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        750.0,
+        493.0,
+        786.0,
+        529.0
+      ],
+      "confidence": 0.9398,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        695.0,
+        493.0,
+        731.0,
+        529.0
+      ],
+      "confidence": 0.9352,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        360.05,
+        597.64,
+        415.65,
+        615.9
+      ],
+      "confidence": 0.9319,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        439.43,
+        597.39,
+        551.51,
+        617.43
+      ],
+      "confidence": 0.924,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        708.43,
+        360.63,
+        827.22,
+        381.68
+      ],
+      "confidence": 0.9158,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        575.42,
+        597.71,
+        641.13,
+        615.26
+      ],
+      "confidence": 0.9101,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        270.57,
+        597.3,
+        336.65,
+        615.73
+      ],
+      "confidence": 0.9078,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        762.82,
+        597.69,
+        824.96,
+        617.46
+      ],
+      "confidence": 0.9075,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        848.61,
+        596.98,
+        996.68,
+        615.73
+      ],
+      "confidence": 0.9047,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1152.9,
+        596.7,
+        1265.09,
+        617.14
+      ],
+      "confidence": 0.9019,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        664.71,
+        598.22,
+        738.32,
+        617.35
+      ],
+      "confidence": 0.897,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        723.34,
+        731.22,
+        810.97,
+        787.0
+      ],
+      "confidence": 0.894,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1019.71,
+        597.57,
+        1129.02,
+        616.17
+      ],
+      "confidence": 0.8905,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        765.16,
+        647.43,
+        859.09,
+        662.91
+      ],
+      "confidence": 0.8742,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        0.77,
+        0.0,
+        1175.27,
+        824.98
+      ],
+      "confidence": 0.8672,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        631.44,
+        394.99,
+        899.62,
+        422.64
+      ],
+      "confidence": 0.8438,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        898.11,
+        647.77,
+        1178.35,
+        661.24
+      ],
+      "confidence": 0.6897,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        575.29,
+        199.37,
+        618.27,
+        218.74
+      ],
+      "confidence": 0.558,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        861.71,
+        495.37,
+        894.05,
+        527.26
+      ],
+      "confidence": 0.5174,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        753.37,
+        495.32,
+        783.31,
+        526.99
+      ],
+      "confidence": 0.4597,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        642.05,
+        495.45,
+        673.96,
+        527.34
+      ],
+      "confidence": 0.4246,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        807.2,
+        495.37,
+        838.39,
+        526.78
+      ],
+      "confidence": 0.3836,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        650.12,
+        606.04,
+        656.5,
+        611.98
+      ],
+      "confidence": 0.3206,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        616.46,
+        553.8,
+        635.18,
+        567.28
+      ],
+      "confidence": 0.2425,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        424.51,
+        604.45,
+        432.07,
+        615.82
+      ],
+      "confidence": 0.1417,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        345.58,
+        604.32,
+        351.31,
+        614.38
+      ],
+      "confidence": 0.1076,
+      "cluster_size": 1
+    }
+  ]
+}

@@ -1,0 +1,489 @@
+{
+  "image": "311_librivox_org.png",
+  "total_elements": 37,
+  "total_raw_nodes": 46,
+  "total_raw_edges": 59,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        981.0,
+        291.0,
+        1048.0,
+        296.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        478.0,
+        291.0,
+        546.0,
+        296.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        376.0,
+        184.0,
+        1150.0,
+        588.0
+      ],
+      "confidence": 0.9962,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        763.46,
+        347.87,
+        1144.16,
+        585.24
+      ],
+      "confidence": 0.9483,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        380.0,
+        347.0,
+        761.0,
+        584.0
+      ],
+      "confidence": 0.9931,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        380.0,
+        188.0,
+        1146.0,
+        346.0
+      ],
+      "confidence": 0.9924,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "LibriVox",
+      "bbox": [
+        285.0,
+        74.0,
+        467.0,
+        108.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "free public domain audiobooks",
+      "bbox": [
+        286.0,
+        120.0,
+        495.0,
+        132.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Advanced search",
+      "bbox": [
+        962.0,
+        135.0,
+        1048.0,
+        144.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "Free public domain audiobooks",
+      "bbox": [
+        479.0,
+        229.0,
+        1046.0,
+        263.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "Read by volunteers from around the world.",
+      "bbox": [
+        559.0,
+        286.0,
+        966.0,
+        303.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "Read",
+      "bbox": [
+        536.0,
+        390.0,
+        601.0,
+        411.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "LibriVox audiobooks are read by volunteers",
+      "bbox": [
+        418.0,
+        426.0,
+        706.0,
+        440.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "from all over the world. Perhaps you would\nlike to join us?",
+      "bbox": [
+        417.0,
+        447.0,
+        703.0,
+        485.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        914.55,
+        391.46,
+        995.36,
+        411.26
+      ],
+      "confidence": 0.9553,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_15",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        802.71,
+        425.55,
+        1088.49,
+        484.35
+      ],
+      "confidence": 0.9404,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        287.39,
+        790.66,
+        464.91,
+        802.64
+      ],
+      "confidence": 0.8368,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_17",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        920.81,
+        519.85,
+        988.6,
+        529.98
+      ],
+      "confidence": 0.8416,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_18",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        968.84,
+        101.76,
+        1175.63,
+        115.51
+      ],
+      "confidence": 0.9038,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_19",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        526.79,
+        519.74,
+        613.66,
+        530.26
+      ],
+      "confidence": 0.9008,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_20",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        494.42,
+        507.27,
+        646.9,
+        544.49
+      ],
+      "confidence": 0.9126,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_21",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        879.11,
+        507.14,
+        1031.67,
+        544.57
+      ],
+      "confidence": 0.8983,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_22",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        477.9,
+        232.04,
+        1050.19,
+        267.56
+      ],
+      "confidence": 0.9498,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "ocr",
+      "class_label": "About Contact | Forum | Help",
+      "bbox": [
+        953.0,
+        10.0,
+        1172.0,
+        26.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        556.01,
+        285.49,
+        964.93,
+        305.81
+      ],
+      "confidence": 0.9276,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        419.16,
+        425.51,
+        704.96,
+        485.21
+      ],
+      "confidence": 0.9201,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        287.78,
+        72.06,
+        494.13,
+        133.08
+      ],
+      "confidence": 0.9062,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        537.99,
+        391.56,
+        604.57,
+        410.25
+      ],
+      "confidence": 0.9058,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        960.88,
+        90.52,
+        1248.25,
+        127.03
+      ],
+      "confidence": 0.8775,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        962.15,
+        133.68,
+        1048.9,
+        143.84
+      ],
+      "confidence": 0.7764,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1011.74,
+        12.11,
+        1061.91,
+        24.57
+      ],
+      "confidence": 0.7252,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1081.53,
+        12.47,
+        1121.56,
+        24.05
+      ],
+      "confidence": 0.6346,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1141.78,
+        12.08,
+        1171.64,
+        26.45
+      ],
+      "confidence": 0.5322,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        953.54,
+        11.99,
+        991.99,
+        24.4
+      ],
+      "confidence": 0.5286,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1226.04,
+        11.37,
+        1248.57,
+        27.31
+      ],
+      "confidence": 0.3877,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1216.77,
+        95.74,
+        1238.21,
+        116.94
+      ],
+      "confidence": 0.3436,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1192.18,
+        12.21,
+        1212.77,
+        26.55
+      ],
+      "confidence": 0.3249,
+      "cluster_size": 1
+    }
+  ]
+}

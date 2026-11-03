@@ -1,0 +1,177 @@
+{
+  "image": "197_worldnomads_com.png",
+  "total_elements": 13,
+  "total_raw_nodes": 19,
+  "total_raw_edges": 14,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        185.38,
+        34.59,
+        482.91,
+        62.2
+      ],
+      "confidence": 0.964,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_1",
+      "source": "ocr",
+      "class_label": "MEXICO",
+      "bbox": [
+        200.0,
+        479.0,
+        254.0,
+        491.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        799.46,
+        283.66,
+        871.89,
+        294.07
+      ],
+      "confidence": 0.9049,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "Thailand Nightlife: 6\nExpert Travel Tips for\nStaying Safe",
+      "bbox": [
+        799.0,
+        305.0,
+        998.0,
+        375.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1098.99,
+        283.81,
+        1181.43,
+        294.03
+      ],
+      "confidence": 0.9215,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1099.0,
+        307.65,
+        1317.83,
+        374.6
+      ],
+      "confidence": 0.9485,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1099.36,
+        397.86,
+        1329.92,
+        517.57
+      ],
+      "confidence": 0.9461,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        198.99,
+        506.99,
+        635.02,
+        565.27
+      ],
+      "confidence": 0.9467,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "This Mexican peninsula south of the US state of California offers beaches,\nparties, and a multitude of outdoor activities. But how safe is it for visitors?\nHere are our safety tips for Baja California and what to know before you go.\nRead more",
+      "bbox": [
+        199.0,
+        598.0,
+        735.0,
+        694.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "Thailand's nightlife is legendary,\nbut it's not always safe or kind to\ntravelers. Find out how to avoid\ntrouble with these tips.",
+      "bbox": [
+        799.0,
+        397.0,
+        1031.0,
+        492.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        183.96,
+        92.76,
+        750.35,
+        718.78
+      ],
+      "confidence": 0.9169,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        200.02,
+        480.05,
+        255.56,
+        489.47
+      ],
+      "confidence": 0.8454,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        199.8,
+        681.68,
+        281.45,
+        694.17
+      ],
+      "confidence": 0.598,
+      "cluster_size": 1
+    }
+  ]
+}

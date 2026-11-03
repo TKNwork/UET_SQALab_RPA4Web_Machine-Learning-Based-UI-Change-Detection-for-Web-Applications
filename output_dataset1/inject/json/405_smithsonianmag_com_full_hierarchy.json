@@ -1,0 +1,814 @@
+{
+  "image": "405_smithsonianmag_com.png",
+  "total_elements": 62,
+  "total_raw_nodes": 75,
+  "total_raw_edges": 53,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        0.0,
+        1536.0,
+        71.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        64.98,
+        247.35,
+        367.95,
+        448.16
+      ],
+      "confidence": 0.9705,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_2",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        79.29,
+        17.87,
+        336.19,
+        49.03
+      ],
+      "confidence": 0.95,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "Give a Gift Subscribe",
+      "bbox": [
+        1198.0,
+        29.0,
+        1381.0,
+        42.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1426.84,
+        28.3,
+        1513.18,
+        43.44
+      ],
+      "confidence": 0.9385,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "Subscribe to Smithsonian magazine and get a FREE tote.",
+      "bbox": [
+        569.0,
+        83.0,
+        966.0,
+        100.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "Smart News History Science",
+      "bbox": [
+        68.0,
+        174.0,
+        368.0,
+        188.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        689.56,
+        174.34,
+        739.97,
+        186.22
+      ],
+      "confidence": 0.9456,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        777.59,
+        173.52,
+        933.5,
+        186.27
+      ],
+      "confidence": 0.9487,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        67.32,
+        461.76,
+        166.83,
+        473.95
+      ],
+      "confidence": 0.9163,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "This Tiny Celestial Body Past\nPluto Shouldn't Have an\nAtmosphere-but Astronomers\nSay They May Have Detected",
+      "bbox": [
+        66.0,
+        489.0,
+        358.0,
+        615.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        447.96,
+        739.48,
+        555.48,
+        753.19
+      ],
+      "confidence": 0.9165,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "Global Culture Workshops",
+      "bbox": [
+        541.0,
+        774.0,
+        728.0,
+        790.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "American Revolution Books",
+      "bbox": [
+        775.0,
+        776.0,
+        974.0,
+        788.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1167.53,
+        247.08,
+        1321.38,
+        266.59
+      ],
+      "confidence": 0.9667,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "a Jeweler to Wrap His Teeth in Gold\nWire Hundreds of Years Ago?\nMay 8, 2026",
+      "bbox": [
+        1167.0,
+        313.0,
+        1455.0,
+        394.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "Mysterious Green Rocks Discovered\nin a Remote Cave in Spain Might Be",
+      "bbox": [
+        1167.0,
+        764.0,
+        1458.0,
+        815.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "Search Shop Newsletters",
+      "bbox": [
+        759.0,
+        25.0,
+        994.0,
+        45.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "Cancel Subscription",
+      "bbox": [
+        1027.0,
+        26.0,
+        1166.0,
+        44.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        409.36,
+        173.64,
+        494.52,
+        186.29
+      ],
+      "confidence": 0.9355,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "One",
+      "bbox": [
+        67.0,
+        622.0,
+        106.0,
+        640.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        68.4,
+        658.49,
+        157.21,
+        672.37
+      ],
+      "confidence": 0.8977,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "Smithsonian Educational Resources",
+      "bbox": [
+        786.0,
+        740.0,
+        1044.0,
+        752.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "ocr",
+      "class_label": "Visual Art & Design",
+      "bbox": [
+        599.0,
+        738.0,
+        737.0,
+        754.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        632.8,
+        808.31,
+        873.5,
+        825.39
+      ],
+      "confidence": 0.9429,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_25",
+      "source": "ocr",
+      "class_label": "Why Did This Wealthy Scotsman Pay",
+      "bbox": [
+        1166.0,
+        286.0,
+        1468.0,
+        307.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "ocr",
+      "class_label": "A Hiker in Norway Found an Elite\nWarrior's Golden Sword Ornament.",
+      "bbox": [
+        1167.0,
+        427.0,
+        1453.0,
+        473.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "ocr",
+      "class_label": "It Was Likely a Sacrifice to the Gods\nMade During a Time of Turmoil\nMay 8, 2026",
+      "bbox": [
+        1167.0,
+        484.0,
+        1456.0,
+        564.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1166.03,
+        595.75,
+        1468.82,
+        705.62
+      ],
+      "confidence": 0.9675,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_29",
+      "source": "ocr",
+      "class_label": "May 8, 2026",
+      "bbox": [
+        1167.0,
+        718.0,
+        1255.0,
+        735.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        414.74,
+        246.74,
+        1121.11,
+        716.24
+      ],
+      "confidence": 0.979,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "ocr",
+      "class_label": "=",
+      "bbox": [
+        18.0,
+        28.0,
+        41.0,
+        43.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "ocr",
+      "class_label": "Smithsonian",
+      "bbox": [
+        161.0,
+        769.0,
+        287.0,
+        797.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1167.85,
+        285.59,
+        1465.95,
+        366.21
+      ],
+      "confidence": 0.9696,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1166.01,
+        427.67,
+        1457.1,
+        534.93
+      ],
+      "confidence": 0.9681,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        534.29,
+        173.75,
+        649.72,
+        186.22
+      ],
+      "confidence": 0.9375,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_36",
+      "source": "ocr",
+      "class_label": "Secrets",
+      "bbox": [
+        227.0,
+        800.0,
+        308.0,
+        825.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        67.16,
+        491.8,
+        359.6,
+        640.52
+      ],
+      "confidence": 0.9453,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        911.57,
+        28.87,
+        993.9,
+        40.73
+      ],
+      "confidence": 0.9208,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1288.73,
+        0.67,
+        1402.87,
+        69.08
+      ],
+      "confidence": 0.9197,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1027.06,
+        28.63,
+        1165.52,
+        43.56
+      ],
+      "confidence": 0.9182,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        583.24,
+        738.98,
+        737.33,
+        755.42
+      ],
+      "confidence": 0.9157,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1167.71,
+        379.54,
+        1256.41,
+        395.4
+      ],
+      "confidence": 0.9103,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        841.91,
+        29.18,
+        878.19,
+        43.98
+      ],
+      "confidence": 0.9078,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        66.82,
+        173.68,
+        166.77,
+        186.43
+      ],
+      "confidence": 0.8971,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1167.42,
+        549.32,
+        1257.67,
+        565.24
+      ],
+      "confidence": 0.8954,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        303.9,
+        172.49,
+        369.62,
+        187.0
+      ],
+      "confidence": 0.8926,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        523.9,
+        774.81,
+        728.98,
+        790.85
+      ],
+      "confidence": 0.8911,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1198.23,
+        28.79,
+        1272.02,
+        40.66
+      ],
+      "confidence": 0.8784,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        767.33,
+        738.91,
+        1043.42,
+        752.46
+      ],
+      "confidence": 0.8708,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1312.76,
+        28.31,
+        1381.2,
+        41.35
+      ],
+      "confidence": 0.8671,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        762.49,
+        774.66,
+        971.86,
+        789.05
+      ],
+      "confidence": 0.8656,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        760.18,
+        29.43,
+        809.77,
+        41.41
+      ],
+      "confidence": 0.8174,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_53",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1166.84,
+        720.27,
+        1257.33,
+        734.56
+      ],
+      "confidence": 0.779,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_54",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        749.79,
+        766.67,
+        987.79,
+        798.63
+      ],
+      "confidence": 0.7016,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_55",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        517.56,
+        766.18,
+        739.7,
+        796.68
+      ],
+      "confidence": 0.6367,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_56",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1119.2,
+        742.37,
+        1142.53,
+        766.02
+      ],
+      "confidence": 0.4187,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_57",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        207.3,
+        173.27,
+        265.67,
+        190.24
+      ],
+      "confidence": 0.3837,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_58",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        18.74,
+        29.28,
+        40.91,
+        42.07
+      ],
+      "confidence": 0.3501,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_59",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1503.57,
+        80.27,
+        1526.08,
+        100.56
+      ],
+      "confidence": 0.3069,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_60",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        736.97,
+        29.3,
+        754.74,
+        44.68
+      ],
+      "confidence": 0.255,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_61",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        757.57,
+        774.93,
+        773.2,
+        789.33
+      ],
+      "confidence": 0.1609,
+      "cluster_size": 1
+    }
+  ]
+}

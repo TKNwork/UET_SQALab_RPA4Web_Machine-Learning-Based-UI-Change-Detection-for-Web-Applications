@@ -1,0 +1,840 @@
+{
+  "image": "217_martinfowler_com.png",
+  "total_elements": 64,
+  "total_raw_nodes": 74,
+  "total_raw_edges": 43,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        956.0,
+        577.0,
+        1257.0,
+        583.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        625.0,
+        577.0,
+        926.0,
+        583.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        294.0,
+        577.0,
+        596.0,
+        583.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        294.86,
+        19.73,
+        475.26,
+        33.66
+      ],
+      "confidence": 0.9564,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "Frequency Reduces Difficulty",
+      "bbox": [
+        626.0,
+        18.0,
+        858.0,
+        36.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "ARTICLE",
+      "bbox": [
+        1155.0,
+        371.0,
+        1206.0,
+        380.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "4 Feb 2010",
+      "bbox": [
+        493.0,
+        427.0,
+        561.0,
+        437.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        632.78,
+        415.6,
+        850.9,
+        448.2
+      ],
+      "confidence": 0.832,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "PRODUCTIVITY PROJECT\nTECHNICAL LEADERSHIP",
+      "bbox": [
+        1036.0,
+        456.0,
+        1194.0,
+        488.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "AGILE EXTREME PROGRAMMING",
+      "bbox": [
+        307.0,
+        493.0,
+        513.0,
+        506.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "REQUIREMENTS ANALYSIS COLLABORATION",
+      "bbox": [
+        309.0,
+        515.0,
+        583.0,
+        526.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "Customer Affinity",
+      "bbox": [
+        956.0,
+        602.0,
+        1101.0,
+        620.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        625.06,
+        699.56,
+        921.39,
+        820.49
+      ],
+      "confidence": 0.9733,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        293.93,
+        189.47,
+        590.62,
+        387.03
+      ],
+      "confidence": 0.9803,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "write & decide",
+      "bbox": [
+        372.0,
+        84.0,
+        426.0,
+        91.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "Developers",
+      "bbox": [
+        538.0,
+        154.0,
+        581.0,
+        161.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        294.95,
+        406.65,
+        404.95,
+        419.79
+      ],
+      "confidence": 0.9432,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "One of my favorite soundbites is: if it hurts, do it\nmore often. It has the happy property of seeming\nnonsensical on the surface, but yielding some\nvaluable meaning when you dig deeper\nby Martin Fowler",
+      "bbox": [
+        626.0,
+        234.0,
+        921.0,
+        341.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        626.48,
+        382.78,
+        705.89,
+        393.03
+      ],
+      "confidence": 0.9444,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "Management love their metrics. The thinking goes\nsomething like this, \"We need a number to\nmeasure how we're doing. Numbers focus people\nand help us measure success.\" Whilst well\nintentioned, management by numbers\nunintuitively leads to problematic behavior and\nultimately detracts from broader project and\norganizational goals. Metrics inherently aren't a\nbad thing; just often, inappropriately used. This\nessay demonstrates many of the issues caused by\nmanagement's traditional use of metrics and\noffers an alternative to address these\ndysfunctions.",
+      "bbox": [
+        956.0,
+        90.0,
+        1256.0,
+        349.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "BLIKI",
+      "bbox": [
+        826.0,
+        330.0,
+        855.0,
+        339.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "19 Feb 2013",
+      "bbox": [
+        1156.0,
+        391.0,
+        1229.0,
+        400.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "BLIKI",
+      "bbox": [
+        495.0,
+        409.0,
+        525.0,
+        418.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        956.86,
+        422.78,
+        1036.79,
+        432.84
+      ],
+      "confidence": 0.9361,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_24",
+      "source": "ocr",
+      "class_label": "METRICS\nPLANNING",
+      "bbox": [
+        957.0,
+        456.0,
+        1022.0,
+        488.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "ocr",
+      "class_label": "Read more...",
+      "bbox": [
+        296.0,
+        462.0,
+        376.0,
+        472.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        296.13,
+        603.82,
+        550.12,
+        617.25
+      ],
+      "confidence": 0.9425,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_27",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        626.05,
+        601.76,
+        922.46,
+        647.61
+      ],
+      "confidence": 0.9765,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_28",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        955.94,
+        673.87,
+        1256.07,
+        824.65
+      ],
+      "confidence": 0.9629,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_29",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        625.47,
+        233.65,
+        920.02,
+        309.41
+      ],
+      "confidence": 0.9724,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "ocr",
+      "class_label": "write",
+      "bbox": [
+        471.0,
+        60.0,
+        488.0,
+        66.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "ocr",
+      "class_label": "An Appropriate Use of Metrics",
+      "bbox": [
+        955.0,
+        21.0,
+        1199.0,
+        36.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "ocr",
+      "class_label": "28 Jul 2011",
+      "bbox": [
+        825.0,
+        351.0,
+        891.0,
+        363.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        623.87,
+        55.55,
+        925.62,
+        218.8
+      ],
+      "confidence": 0.9628,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "ocr",
+      "class_label": "User Stories",
+      "bbox": [
+        433.0,
+        139.0,
+        478.0,
+        148.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "ocr",
+      "class_label": "Time Between Actions",
+      "bbox": [
+        775.0,
+        205.0,
+        854.0,
+        214.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "ocr",
+      "class_label": "Patrick Kua",
+      "bbox": [
+        957.0,
+        371.0,
+        1031.0,
+        381.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        493.37,
+        406.85,
+        560.09,
+        436.59
+      ],
+      "confidence": 0.9556,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        823.98,
+        328.71,
+        890.15,
+        362.37
+      ],
+      "confidence": 0.9506,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "ocr",
+      "class_label": "Product Owner\n(and/or Analysts)",
+      "bbox": [
+        310.0,
+        153.0,
+        375.0,
+        173.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "ocr",
+      "class_label": "There isn't a simple dichotomy of remote versus.",
+      "bbox": [
+        295.0,
+        817.0,
+        583.0,
+        825.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1155.86,
+        369.1,
+        1229.43,
+        399.61
+      ],
+      "confidence": 0.9416,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        292.94,
+        639.1,
+        597.65,
+        801.83
+      ],
+      "confidence": 0.9373,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "ocr",
+      "class_label": "guide",
+      "bbox": [
+        496.0,
+        134.0,
+        516.0,
+        143.0
+      ],
+      "confidence": 0.93,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        956.32,
+        603.47,
+        1100.08,
+        621.38
+      ],
+      "confidence": 0.93,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        295.61,
+        460.86,
+        373.45,
+        470.53
+      ],
+      "confidence": 0.906,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        625.73,
+        328.53,
+        733.97,
+        341.53
+      ],
+      "confidence": 0.9049,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        956.75,
+        369.57,
+        1030.23,
+        379.07
+      ],
+      "confidence": 0.8962,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        624.77,
+        20.03,
+        858.06,
+        37.05
+      ],
+      "confidence": 0.8928,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        290.54,
+        56.63,
+        597.99,
+        173.79
+      ],
+      "confidence": 0.8913,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        295.0,
+        512.0,
+        465.0,
+        528.0
+      ],
+      "confidence": 0.8854,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        956.41,
+        640.0,
+        976.85,
+        659.9
+      ],
+      "confidence": 0.8406,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        295.78,
+        494.28,
+        583.87,
+        524.62
+      ],
+      "confidence": 0.8304,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_53",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        958.43,
+        476.32,
+        1183.07,
+        486.58
+      ],
+      "confidence": 0.8271,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_54",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        956.37,
+        56.62,
+        976.57,
+        76.02
+      ],
+      "confidence": 0.7899,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_55",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        958.19,
+        455.91,
+        1189.82,
+        466.5
+      ],
+      "confidence": 0.7363,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_56",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        298.29,
+        817.76,
+        578.61,
+        825.45
+      ],
+      "confidence": 0.7055,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_57",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        626.11,
+        666.81,
+        645.44,
+        686.89
+      ],
+      "confidence": 0.5843,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_58",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        311.57,
+        153.53,
+        372.36,
+        166.63
+      ],
+      "confidence": 0.47,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_59",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        349.06,
+        699.4,
+        391.52,
+        717.06
+      ],
+      "confidence": 0.2901,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_60",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        350.98,
+        644.39,
+        383.96,
+        674.77
+      ],
+      "confidence": 0.2471,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_61",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        537.37,
+        152.94,
+        579.43,
+        162.03
+      ],
+      "confidence": 0.1963,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_62",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        688.26,
+        90.65,
+        700.56,
+        99.07
+      ],
+      "confidence": 0.1329,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_63",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        352.53,
+        680.27,
+        387.05,
+        694.59
+      ],
+      "confidence": 0.1298,
+      "cluster_size": 1
+    }
+  ]
+}

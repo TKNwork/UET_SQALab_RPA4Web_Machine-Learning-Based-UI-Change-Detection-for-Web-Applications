@@ -1,0 +1,346 @@
+{
+  "image": "457_holidaze_com.png",
+  "total_elements": 26,
+  "total_raw_nodes": 28,
+  "total_raw_edges": 11,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        136.0,
+        1536.0,
+        140.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        285.62,
+        45.65,
+        434.27,
+        62.78
+      ],
+      "confidence": 0.9503,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "About Ski Destinations Non-Ski Destinations",
+      "bbox": [
+        501.0,
+        49.0,
+        822.0,
+        59.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "Newsletters",
+      "bbox": [
+        852.0,
+        48.0,
+        923.0,
+        59.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "Join A Group More",
+      "bbox": [
+        952.0,
+        50.0,
+        1092.0,
+        61.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "HOLIDAZE SKI TOURS\nYour Choice in Group Ski &\nAdventure Travel",
+      "bbox": [
+        342.0,
+        195.0,
+        1201.0,
+        394.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        359.0,
+        200.0,
+        363.0,
+        247.0
+      ],
+      "confidence": 0.9792,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        277.97,
+        32.75,
+        444.09,
+        73.57
+      ],
+      "confidence": 0.9445,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "DAIL",
+      "bbox": [
+        653.0,
+        658.0,
+        822.0,
+        710.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "NEW CONTENT WILL BE\nADDED UPDATED",
+      "bbox": [
+        357.0,
+        531.0,
+        1200.0,
+        657.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        718.0,
+        200.0,
+        722.0,
+        246.0
+      ],
+      "confidence": 0.9579,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        391.0,
+        200.0,
+        395.0,
+        246.0
+      ],
+      "confidence": 0.9579,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "Log In",
+      "bbox": [
+        1208.0,
+        27.0,
+        1249.0,
+        39.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        893.0,
+        201.0,
+        897.0,
+        246.0
+      ],
+      "confidence": 0.9374,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        525.0,
+        201.0,
+        529.0,
+        246.0
+      ],
+      "confidence": 0.9374,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        473.0,
+        201.0,
+        477.0,
+        246.0
+      ],
+      "confidence": 0.9374,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        968.0,
+        201.0,
+        972.0,
+        246.0
+      ],
+      "confidence": 0.9374,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        952.37,
+        48.75,
+        1031.18,
+        63.77
+      ],
+      "confidence": 0.9134,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        695.3,
+        48.33,
+        823.91,
+        60.86
+      ],
+      "confidence": 0.9021,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        567.39,
+        49.11,
+        667.47,
+        60.88
+      ],
+      "confidence": 0.8891,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        851.2,
+        48.19,
+        924.65,
+        61.09
+      ],
+      "confidence": 0.8827,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "0",
+      "bbox": [
+        1190.0,
+        81.0,
+        1199.0,
+        91.0
+      ],
+      "confidence": 0.86,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        499.9,
+        48.88,
+        540.76,
+        60.85
+      ],
+      "confidence": 0.7853,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1059.06,
+        50.09,
+        1095.1,
+        61.08
+      ],
+      "confidence": 0.5839,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1208.33,
+        25.68,
+        1249.24,
+        40.91
+      ],
+      "confidence": 0.5392,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1168.99,
+        19.21,
+        1194.02,
+        42.42
+      ],
+      "confidence": 0.2219,
+      "cluster_size": 1
+    }
+  ]
+}

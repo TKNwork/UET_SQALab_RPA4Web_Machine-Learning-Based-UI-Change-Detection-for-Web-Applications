@@ -1,0 +1,814 @@
+{
+  "image": "019_standardebooks_org.png",
+  "total_elements": 62,
+  "total_raw_nodes": 62,
+  "total_raw_edges": 29,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        636.0,
+        822.0,
+        704.0,
+        826.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        541.0,
+        822.0,
+        611.0,
+        826.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        529.0,
+        695.0,
+        533.0,
+        766.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        377.0,
+        454.0,
+        384.0,
+        551.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        329.0,
+        382.0,
+        341.0,
+        554.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        967.0,
+        334.0,
+        971.0,
+        383.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1161.0,
+        190.0,
+        1169.0,
+        302.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1166.0,
+        142.0,
+        1179.0,
+        302.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        969.0,
+        142.0,
+        977.0,
+        302.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        370.0,
+        142.0,
+        378.0,
+        302.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "STANDARD",
+      "bbox": [
+        276.0,
+        38.0,
+        455.0,
+        60.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "Editor",
+      "bbox": [
+        561.0,
+        172.0,
+        590.0,
+        181.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "ENCYCLO",
+      "bbox": [
+        696.0,
+        353.0,
+        786.0,
+        368.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "ENCYCLO",
+      "bbox": [
+        846.0,
+        347.0,
+        934.0,
+        361.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "THE ADVENTURE OF THE\nSOLITARY CYCLIST",
+      "bbox": [
+        992.0,
+        697.0,
+        1123.0,
+        723.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "The New",
+      "bbox": [
+        597.0,
+        228.0,
+        609.0,
+        294.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "Free, open-access ebooks thoughtfully\ncrafted for true book lovers.",
+      "bbox": [
+        142.0,
+        282.0,
+        1393.0,
+        413.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "THE ADVENTURE OF THE\nDANCING MEN",
+      "bbox": [
+        556.0,
+        668.0,
+        700.0,
+        696.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "the air of a p",
+      "bbox": [
+        743.0,
+        785.0,
+        788.0,
+        794.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "were",
+      "bbox": [
+        970.0,
+        798.0,
+        985.0,
+        803.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        323.0,
+        142.0,
+        332.0,
+        247.0
+      ],
+      "confidence": 0.9724,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "EBOOKS • ABOUT NEWSLETTER GET INVOLVED DONATE",
+      "bbox": [
+        770.0,
+        60.0,
+        1378.0,
+        75.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "THE\nCOLUMBIA",
+      "bbox": [
+        844.0,
+        241.0,
+        943.0,
+        284.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "ocr",
+      "class_label": "LAURENCE",
+      "bbox": [
+        547.0,
+        148.0,
+        605.0,
+        158.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "ocr",
+      "class_label": "Holmes had been seated for some hours in\nsilence with his long, thin back curved over a\nchemical vessel in which he was brewing a partic-\nularly malodorous product. His head was sunk\nupon his breast, and he looked from my point of\nview like a strange, lank bird, with dull gray\nplumage and a black topknot.",
+      "bbox": [
+        540.0,
+        735.0,
+        718.0,
+        810.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "ocr",
+      "class_label": "\"Now, Wa",
+      "bbox": [
+        750.0,
+        665.0,
+        787.0,
+        672.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "ocr",
+      "class_label": "ences, each",
+      "bbox": [
+        743.0,
+        808.0,
+        783.0,
+        815.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        689.0,
+        617.0,
+        769.0,
+        624.0
+      ],
+      "confidence": 0.9524,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "ocr",
+      "class_label": "\"So, Watson,\" said he, suddenly, \"you do not",
+      "bbox": [
+        548.0,
+        810.0,
+        714.0,
+        821.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "ocr",
+      "class_label": "URDANG,",
+      "bbox": [
+        552.0,
+        160.0,
+        602.0,
+        168.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "ocr",
+      "class_label": "not really di",
+      "bbox": [
+        742.0,
+        796.0,
+        786.0,
+        804.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "ocr",
+      "class_label": "each simple i",
+      "bbox": [
+        743.0,
+        818.0,
+        787.0,
+        824.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "ocr",
+      "class_label": "\"Because in\nall so absurd",
+      "bbox": [
+        742.0,
+        730.0,
+        790.0,
+        749.0
+      ],
+      "confidence": 0.93,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1301.11,
+        60.8,
+        1377.62,
+        74.38
+      ],
+      "confidence": 0.9211,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "ocr",
+      "class_label": "He wheeler\nsteaming to\namusement in",
+      "bbox": [
+        743.0,
+        632.0,
+        793.0,
+        662.0
+      ],
+      "confidence": 0.92,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "ocr",
+      "class_label": "From the years 1894 to 190s inclusive, Mr. Sherlock\nHolmes was a very busy man. It is safe to say that\nthere was no public case of any difficulty in which he\nwas not consulted during those eight years, and there\ntre hundreds of private cases, some of them of\nof the\nmost intricate and extraordinary character, in which he\nplayed a prominent part. Many startling successes and",
+      "bbox": [
+        970.0,
+        755.0,
+        1145.0,
+        825.0
+      ],
+      "confidence": 0.92,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        0.0,
+        141.17,
+        1081.79,
+        554.19
+      ],
+      "confidence": 0.9167,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "ocr",
+      "class_label": "7274",
+      "bbox": [
+        497.0,
+        215.0,
+        515.0,
+        222.0
+      ],
+      "confidence": 0.91,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "ocr",
+      "class_label": "aback,\"",
+      "bbox": [
+        743.0,
+        676.0,
+        769.0,
+        684.0
+      ],
+      "confidence": 0.91,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "ocr",
+      "class_label": "\"I am sure\n\"You see,\ntest-tube in",
+      "bbox": [
+        743.0,
+        752.0,
+        787.0,
+        781.0
+      ],
+      "confidence": 0.91,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        770.47,
+        61.05,
+        850.17,
+        74.08
+      ],
+      "confidence": 0.907,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "ocr",
+      "class_label": "parative",
+      "bbox": [
+        1323.0,
+        137.0,
+        1344.0,
+        279.0
+      ],
+      "confidence": 0.9,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        403.0,
+        753.0,
+        407.0,
+        796.0
+      ],
+      "confidence": 0.8961,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        814.0,
+        183.0,
+        818.0,
+        226.0
+      ],
+      "confidence": 0.8961,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "ocr",
+      "class_label": "75c",
+      "bbox": [
+        498.0,
+        227.0,
+        514.0,
+        235.0
+      ],
+      "confidence": 0.88,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "ocr",
+      "class_label": "PRONOUNCED WOR\nTOOD, MISUS\neryday Reader's D",
+      "bbox": [
+        549.0,
+        341.0,
+        613.0,
+        555.0
+      ],
+      "confidence": 0.88,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "ocr",
+      "class_label": "It is frightening her to death. She says no",
+      "bbox": [
+        823.0,
+        688.0,
+        940.0,
+        695.0
+      ],
+      "confidence": 0.88,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "ocr",
+      "class_label": "Holmes held up the paper so that the\nshone full spon is I was a page tom b\nbook. The markings were done in pencil,\nthis way",
+      "bbox": [
+        822.0,
+        713.0,
+        939.0,
+        747.0
+      ],
+      "confidence": 0.88,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "ocr",
+      "class_label": "SIE EBOOKS",
+      "bbox": [
+        183.0,
+        50.0,
+        455.0,
+        101.0
+      ],
+      "confidence": 0.85,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "ocr",
+      "class_label": "P PICNICA PARTIES",
+      "bbox": [
+        308.0,
+        140.0,
+        325.0,
+        291.0
+      ],
+      "confidence": 0.85,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "ocr",
+      "class_label": "I can see terror in her eyes. That's why\nsit the matter to the bosom.\"",
+      "bbox": [
+        823.0,
+        696.0,
+        940.0,
+        713.0
+      ],
+      "confidence": 0.85,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "ocr",
+      "class_label": "Holmes examined it for some time,\nfolding carefully up, he placed\npocketbook",
+      "bbox": [
+        823.0,
+        798.0,
+        937.0,
+        825.0
+      ],
+      "confidence": 0.84,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "ocr",
+      "class_label": "ATE TRAL GUIDE",
+      "bbox": [
+        1368.0,
+        141.0,
+        1396.0,
+        502.0
+      ],
+      "confidence": 0.83,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_53",
+      "source": "ocr",
+      "class_label": "THE\nCOLUMBI",
+      "bbox": [
+        695.0,
+        248.0,
+        780.0,
+        292.0
+      ],
+      "confidence": 0.81,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_54",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1132.35,
+        60.83,
+        1269.04,
+        74.47
+      ],
+      "confidence": 0.8068,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_55",
+      "source": "ocr",
+      "class_label": "ck,\" said",
+      "bbox": [
+        757.0,
+        676.0,
+        783.0,
+        683.0
+      ],
+      "confidence": 0.8,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_56",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        978.56,
+        60.67,
+        1099.33,
+        74.46
+      ],
+      "confidence": 0.7952,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_57",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        881.04,
+        61.35,
+        946.85,
+        73.92
+      ],
+      "confidence": 0.599,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_58",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1281.81,
+        64.61,
+        1289.63,
+        71.81
+      ],
+      "confidence": 0.5194,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_59",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1112.61,
+        64.55,
+        1120.06,
+        71.49
+      ],
+      "confidence": 0.3887,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_60",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        862.61,
+        64.49,
+        868.96,
+        72.02
+      ],
+      "confidence": 0.3249,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_61",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        958.91,
+        63.85,
+        965.57,
+        71.94
+      ],
+      "confidence": 0.2197,
+      "cluster_size": 1
+    }
+  ]
+}

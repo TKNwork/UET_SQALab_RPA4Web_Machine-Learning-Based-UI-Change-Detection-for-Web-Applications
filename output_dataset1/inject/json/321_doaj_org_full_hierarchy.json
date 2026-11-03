@@ -1,0 +1,801 @@
+{
+  "image": "321_doaj_org.png",
+  "total_elements": 61,
+  "total_raw_nodes": 78,
+  "total_raw_edges": 108,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        397.0,
+        561.0,
+        400.0,
+        731.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1137.0,
+        301.0,
+        1140.0,
+        471.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        397.0,
+        301.0,
+        400.0,
+        471.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        45.0,
+        1536.0,
+        48.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        26.0,
+        284.0,
+        1510.0,
+        488.0
+      ],
+      "confidence": 0.9904,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        26.0,
+        544.0,
+        1140.0,
+        748.0
+      ],
+      "confidence": 0.9902,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "VOLUNTEERS",
+      "bbox": [
+        67.0,
+        108.0,
+        171.0,
+        122.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        876.81,
+        16.69,
+        967.49,
+        26.28
+      ],
+      "confidence": 0.8646,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "We would not be able to work without our volunteers, such as these top-performing editors and associate editors.",
+      "bbox": [
+        65.0,
+        164.0,
+        1043.0,
+        181.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "DATA MANAGEMENT",
+      "bbox": [
+        70.0,
+        311.0,
+        194.0,
+        321.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        68.72,
+        392.16,
+        313.84,
+        440.09
+      ],
+      "confidence": 0.9516,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        439.14,
+        292.11,
+        640.07,
+        304.76
+      ],
+      "confidence": 0.915,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "MEDICAL SCIENCES, NUTRITION",
+      "bbox": [
+        809.0,
+        290.0,
+        1012.0,
+        303.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        809.52,
+        326.86,
+        1023.12,
+        346.87
+      ],
+      "confidence": 0.944,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "SOCIAL SCIENCES, HUMANITIES",
+      "bbox": [
+        69.0,
+        553.0,
+        272.0,
+        563.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        439.13,
+        551.96,
+        642.21,
+        563.89
+      ],
+      "confidence": 0.9313,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        440.92,
+        586.62,
+        632.66,
+        607.4
+      ],
+      "confidence": 0.9389,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "Bucharest, Romania (Romanian,",
+      "bbox": [
+        440.0,
+        634.0,
+        716.0,
+        650.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "English, French)",
+      "bbox": [
+        440.0,
+        661.0,
+        577.0,
+        680.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "SCIENCE",
+      "bbox": [
+        809.0,
+        553.0,
+        864.0,
+        563.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        400.15,
+        547.1,
+        767.12,
+        745.09
+      ],
+      "confidence": 0.9282,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_21",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1139.17,
+        286.38,
+        1506.61,
+        484.47
+      ],
+      "confidence": 0.951,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_22",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        400.88,
+        287.96,
+        767.39,
+        484.68
+      ],
+      "confidence": 0.9697,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_23",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        768.99,
+        546.48,
+        1137.8,
+        744.66
+      ],
+      "confidence": 0.9542,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_24",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        30.0,
+        548.0,
+        396.0,
+        744.0
+      ],
+      "confidence": 0.9876,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        770.0,
+        288.0,
+        1136.0,
+        484.0
+      ],
+      "confidence": 0.9876,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        31.12,
+        287.15,
+        397.69,
+        484.64
+      ],
+      "confidence": 0.9645,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_27",
+      "source": "ocr",
+      "class_label": "DOAJ",
+      "bbox": [
+        96.0,
+        10.0,
+        160.0,
+        29.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        88.04,
+        213.99,
+        290.66,
+        226.84
+      ],
+      "confidence": 0.9258,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_29",
+      "source": "ocr",
+      "class_label": "Caracas, Venezuela (Spanish,\nEnglish)",
+      "bbox": [
+        809.0,
+        373.0,
+        1058.0,
+        420.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "ocr",
+      "class_label": "RESEARCH EVALUATION",
+      "bbox": [
+        1179.0,
+        291.0,
+        1329.0,
+        304.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "ocr",
+      "class_label": "Paola Galimberti\nMilan, Italy (Italian, German,\nEnglish)",
+      "bbox": [
+        1179.0,
+        326.0,
+        1423.0,
+        420.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        70.13,
+        588.84,
+        230.32,
+        635.73
+      ],
+      "confidence": 0.9106,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_33",
+      "source": "ocr",
+      "class_label": "Ponorogo, Indonesia (Bahasa",
+      "bbox": [
+        69.0,
+        662.0,
+        320.0,
+        682.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "ocr",
+      "class_label": "Indonesia, English, Dutch)",
+      "bbox": [
+        69.0,
+        693.0,
+        294.0,
+        709.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        809.08,
+        586.37,
+        1064.51,
+        607.26
+      ],
+      "confidence": 0.921,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_36",
+      "source": "ocr",
+      "class_label": "Esfahan, Iran (Farsi, English)",
+      "bbox": [
+        809.0,
+        634.0,
+        1052.0,
+        650.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        66.56,
+        198.83,
+        308.5,
+        242.34
+      ],
+      "confidence": 0.9624,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_38",
+      "source": "ocr",
+      "class_label": "SEARCH Q",
+      "bbox": [
+        1386.0,
+        13.0,
+        1464.0,
+        26.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        70.54,
+        347.19,
+        140.44,
+        365.39
+      ],
+      "confidence": 0.935,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_40",
+      "source": "ocr",
+      "class_label": "Toruń, Poland (Polish, English)",
+      "bbox": [
+        439.0,
+        370.0,
+        702.0,
+        390.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        440.81,
+        326.36,
+        628.46,
+        347.3
+      ],
+      "confidence": 0.899,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_42",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        1474.0,
+        755.0,
+        1513.0,
+        793.0
+      ],
+      "confidence": 0.9467,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "ocr",
+      "class_label": "SUPPORT ✓",
+      "bbox": [
+        1073.0,
+        14.0,
+        1152.0,
+        24.0
+      ],
+      "confidence": 0.92,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1180.24,
+        372.94,
+        1422.52,
+        421.45
+      ],
+      "confidence": 0.9141,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "ocr",
+      "class_label": "LIBRARIANSHIP, SCHOLARLY PUBLISHING,",
+      "bbox": [
+        69.0,
+        292.0,
+        339.0,
+        304.0
+      ],
+      "confidence": 0.91,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1180.25,
+        326.75,
+        1388.85,
+        346.86
+      ],
+      "confidence": 0.9032,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "ocr",
+      "class_label": "APPLY ✓",
+      "bbox": [
+        1239.0,
+        13.0,
+        1298.0,
+        24.0
+      ],
+      "confidence": 0.89,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        810.97,
+        292.26,
+        1012.65,
+        305.88
+      ],
+      "confidence": 0.8809,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        811.73,
+        633.24,
+        1055.15,
+        652.42
+      ],
+      "confidence": 0.8744,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1181.02,
+        293.25,
+        1328.64,
+        302.95
+      ],
+      "confidence": 0.8643,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        441.19,
+        372.53,
+        703.84,
+        392.3
+      ],
+      "confidence": 0.8024,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        809.45,
+        551.71,
+        864.93,
+        562.43
+      ],
+      "confidence": 0.754,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_53",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        68.22,
+        552.05,
+        272.2,
+        564.88
+      ],
+      "confidence": 0.7401,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_54",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        65.36,
+        292.26,
+        338.34,
+        321.5
+      ],
+      "confidence": 0.7021,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_55",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        68.54,
+        10.92,
+        160.46,
+        30.35
+      ],
+      "confidence": 0.6288,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_56",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        67.14,
+        110.51,
+        171.96,
+        121.32
+      ],
+      "confidence": 0.5607,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_57",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1240.54,
+        14.38,
+        1282.23,
+        24.08
+      ],
+      "confidence": 0.4601,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_58",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1063.47,
+        13.35,
+        1137.47,
+        24.64
+      ],
+      "confidence": 0.2621,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_59",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        850.45,
+        14.45,
+        863.94,
+        26.78
+      ],
+      "confidence": 0.1771,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_60",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1144.28,
+        15.59,
+        1155.47,
+        22.18
+      ],
+      "confidence": 0.1331,
+      "cluster_size": 1
+    }
+  ]
+}

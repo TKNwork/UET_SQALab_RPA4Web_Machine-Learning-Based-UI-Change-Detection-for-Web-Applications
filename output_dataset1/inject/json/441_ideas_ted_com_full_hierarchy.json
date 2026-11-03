@@ -1,0 +1,671 @@
+{
+  "image": "441_ideas_ted_com.png",
+  "total_elements": 51,
+  "total_raw_nodes": 59,
+  "total_raw_edges": 37,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        97.94,
+        82.85,
+        149.85,
+        98.42
+      ],
+      "confidence": 0.9394,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_1",
+      "source": "ocr",
+      "class_label": "BUSINESS ARTS + DESIGN SCIENCE WE HUMANS",
+      "bbox": [
+        180.0,
+        80.0,
+        716.0,
+        98.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1374.08,
+        22.72,
+        1434.12,
+        42.88
+      ],
+      "confidence": 0.8934,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "6 WAYS TO GIVE\nTHAT AREN'T ABOUT",
+      "bbox": [
+        147.0,
+        484.0,
+        471.0,
+        554.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "MONEY",
+      "bbox": [
+        252.0,
+        571.0,
+        366.0,
+        597.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "Good news: You can be a generous person",
+      "bbox": [
+        145.0,
+        627.0,
+        469.0,
+        647.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        736.41,
+        448.71,
+        799.58,
+        463.03
+      ],
+      "confidence": 0.9298,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "3 STRATEGIES FOR",
+      "bbox": [
+        619.0,
+        484.0,
+        918.0,
+        511.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "EFFECTIVE\nLEADERSHIP, FROM\nA FORMER",
+      "bbox": [
+        612.0,
+        528.0,
+        921.0,
+        641.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "We humans",
+      "bbox": [
+        1178.0,
+        450.0,
+        1276.0,
+        463.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "COURTESY OF\nSOCCER GREAT",
+      "bbox": [
+        1104.0,
+        571.0,
+        1351.0,
+        640.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. You may change\nyour settings at any time or accept the default settings. You may close this banner to continue with only essential cookies. Privacy Policy.\nStorage Preferences",
+      "bbox": [
+        23.0,
+        686.0,
+        1228.0,
+        751.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "Save",
+      "bbox": [
+        1366.0,
+        693.0,
+        1403.0,
+        704.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "Targeted Advertising",
+      "bbox": [
+        73.0,
+        770.0,
+        218.0,
+        784.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "Personalization",
+      "bbox": [
+        276.0,
+        769.0,
+        384.0,
+        782.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        440.97,
+        769.72,
+        506.56,
+        785.23
+      ],
+      "confidence": 0.8843,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "Reject Non-Essential",
+      "bbox": [
+        1304.0,
+        772.0,
+        1463.0,
+        790.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "IDEAS.TED.COM Ideas change everything",
+      "bbox": [
+        108.0,
+        19.0,
+        643.0,
+        50.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "We humans",
+      "bbox": [
+        265.0,
+        450.0,
+        351.0,
+        462.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1343.91,
+        734.03,
+        1423.14,
+        748.65
+      ],
+      "confidence": 0.94,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "A SMART WAY TO\nHANDLE ANXIETY —",
+      "bbox": [
+        1072.0,
+        484.0,
+        1382.0,
+        554.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1262.71,
+        764.48,
+        1504.23,
+        797.93
+      ],
+      "confidence": 0.9465,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_22",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1263.12,
+        722.76,
+        1503.72,
+        757.81
+      ],
+      "confidence": 0.9138,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_23",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1264.88,
+        682.77,
+        1503.24,
+        714.32
+      ],
+      "confidence": 0.8408,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_24",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        109.95,
+        19.2,
+        382.94,
+        50.46
+      ],
+      "confidence": 0.9538,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        557.14,
+        152.98,
+        974.72,
+        403.27
+      ],
+      "confidence": 0.9507,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        178.75,
+        82.61,
+        280.66,
+        99.06
+      ],
+      "confidence": 0.9201,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        99.76,
+        0.76,
+        392.48,
+        64.47
+      ],
+      "confidence": 0.9191,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        594.82,
+        82.12,
+        719.66,
+        99.42
+      ],
+      "confidence": 0.9154,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        144.63,
+        629.22,
+        467.0,
+        646.11
+      ],
+      "confidence": 0.9139,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        99.64,
+        151.32,
+        515.82,
+        401.92
+      ],
+      "confidence": 0.9114,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        409.04,
+        23.5,
+        642.22,
+        44.67
+      ],
+      "confidence": 0.9081,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        684.41,
+        613.5,
+        848.38,
+        640.91
+      ],
+      "confidence": 0.904,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        306.02,
+        82.37,
+        453.23,
+        99.13
+      ],
+      "confidence": 0.9023,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        884.09,
+        707.72,
+        986.13,
+        724.86
+      ],
+      "confidence": 0.8953,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        480.12,
+        82.52,
+        567.72,
+        99.49
+      ],
+      "confidence": 0.8953,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        21.42,
+        687.96,
+        560.98,
+        724.72
+      ],
+      "confidence": 0.8818,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1305.06,
+        774.58,
+        1463.87,
+        790.52
+      ],
+      "confidence": 0.8815,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        266.66,
+        448.69,
+        351.83,
+        462.87
+      ],
+      "confidence": 0.8419,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1178.7,
+        448.61,
+        1278.34,
+        462.3
+      ],
+      "confidence": 0.8336,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1114.55,
+        571.35,
+        1332.52,
+        597.77
+      ],
+      "confidence": 0.8189,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        74.97,
+        769.02,
+        218.26,
+        785.77
+      ],
+      "confidence": 0.8128,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        23.81,
+        736.11,
+        171.19,
+        752.41
+      ],
+      "confidence": 0.7701,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1500.91,
+        657.84,
+        1531.68,
+        689.2
+      ],
+      "confidence": 0.7122,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1365.85,
+        691.6,
+        1402.65,
+        703.64
+      ],
+      "confidence": 0.6871,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        392.58,
+        764.97,
+        435.78,
+        787.23
+      ],
+      "confidence": 0.6647,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        23.94,
+        764.92,
+        67.33,
+        786.72
+      ],
+      "confidence": 0.653,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        764.03,
+        78.28,
+        786.85,
+        100.14
+      ],
+      "confidence": 0.5976,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        615.96,
+        570.95,
+        918.77,
+        601.31
+      ],
+      "confidence": 0.5756,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        225.73,
+        764.97,
+        268.3,
+        786.64
+      ],
+      "confidence": 0.5314,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        685.52,
+        614.12,
+        708.22,
+        640.04
+      ],
+      "confidence": 0.1179,
+      "cluster_size": 1
+    }
+  ]
+}

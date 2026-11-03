@@ -1,0 +1,710 @@
+{
+  "image": "446_myfoodstory_com.png",
+  "total_elements": 54,
+  "total_raw_nodes": 63,
+  "total_raw_edges": 38,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "ocr",
+      "class_label": "༢",
+      "bbox": [
+        1494.0,
+        687.0,
+        1513.0,
+        704.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        260.42,
+        17.82,
+        557.5,
+        43.44
+      ],
+      "confidence": 0.8875,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_2",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        893.52,
+        25.98,
+        935.67,
+        36.53
+      ],
+      "confidence": 0.9284,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_3",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        967.04,
+        23.74,
+        1054.93,
+        38.97
+      ],
+      "confidence": 0.9438,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        243.9,
+        379.3,
+        317.94,
+        390.07
+      ],
+      "confidence": 0.8049,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        489.58,
+        380.71,
+        559.03,
+        389.22
+      ],
+      "confidence": 0.8267,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        980.05,
+        380.63,
+        1042.71,
+        390.01
+      ],
+      "confidence": 0.8283,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1216.47,
+        380.61,
+        1292.52,
+        389.95
+      ],
+      "confidence": 0.8032,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        168.2,
+        446.16,
+        498.56,
+        477.91
+      ],
+      "confidence": 0.9612,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "VEGETARIAN RECIPES",
+      "bbox": [
+        398.0,
+        696.0,
+        529.0,
+        706.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "APPETIZERS",
+      "bbox": [
+        629.0,
+        694.0,
+        701.0,
+        706.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "CHICKEN",
+      "bbox": [
+        1045.0,
+        696.0,
+        1097.0,
+        706.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "MAINS",
+      "bbox": [
+        1255.0,
+        695.0,
+        1294.0,
+        707.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "Meet Richa",
+      "bbox": [
+        1088.0,
+        26.0,
+        1164.0,
+        36.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        700.65,
+        380.34,
+        834.66,
+        389.87
+      ],
+      "confidence": 0.8338,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "INDIAN RECIPES",
+      "bbox": [
+        213.0,
+        696.0,
+        309.0,
+        706.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "INDIAN CHINESE RECIPES",
+      "bbox": [
+        793.0,
+        696.0,
+        945.0,
+        706.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        371.32,
+        499.49,
+        558.2,
+        685.84
+      ],
+      "confidence": 0.9775,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "Subscribe оа",
+      "bbox": [
+        1196.0,
+        21.0,
+        1359.0,
+        42.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "By Course",
+      "bbox": [
+        168.0,
+        116.0,
+        341.0,
+        150.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        410.07,
+        173.89,
+        638.99,
+        400.35
+      ],
+      "confidence": 0.9695,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        167.73,
+        174.04,
+        395.89,
+        400.78
+      ],
+      "confidence": 0.9655,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        167.93,
+        500.01,
+        354.65,
+        684.96
+      ],
+      "confidence": 0.9632,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        978.65,
+        499.07,
+        1165.43,
+        687.45
+      ],
+      "confidence": 0.9568,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        897.28,
+        175.08,
+        1124.95,
+        400.0
+      ],
+      "confidence": 0.9507,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1183.61,
+        732.28,
+        1368.33,
+        826.0
+      ],
+      "confidence": 0.9425,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        574.41,
+        732.94,
+        758.86,
+        826.0
+      ],
+      "confidence": 0.9389,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        372.14,
+        732.0,
+        554.42,
+        826.0
+      ],
+      "confidence": 0.9382,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        168.18,
+        735.84,
+        350.77,
+        826.0
+      ],
+      "confidence": 0.9346,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        778.3,
+        733.26,
+        961.71,
+        826.0
+      ],
+      "confidence": 0.9314,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1139.94,
+        174.54,
+        1368.01,
+        399.8
+      ],
+      "confidence": 0.9296,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        776.72,
+        498.95,
+        961.73,
+        685.51
+      ],
+      "confidence": 0.9295,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1182.48,
+        492.09,
+        1368.2,
+        685.31
+      ],
+      "confidence": 0.9281,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        979.29,
+        732.38,
+        1164.43,
+        826.0
+      ],
+      "confidence": 0.9279,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        573.66,
+        499.51,
+        761.87,
+        687.99
+      ],
+      "confidence": 0.9252,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        653.46,
+        174.66,
+        882.53,
+        397.1
+      ],
+      "confidence": 0.9106,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1196.04,
+        23.87,
+        1264.7,
+        37.25
+      ],
+      "confidence": 0.885,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        213.21,
+        694.95,
+        310.09,
+        705.04
+      ],
+      "confidence": 0.8846,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        230.94,
+        368.68,
+        330.59,
+        400.7
+      ],
+      "confidence": 0.8815,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        793.4,
+        694.98,
+        944.42,
+        705.29
+      ],
+      "confidence": 0.8799,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1087.21,
+        23.93,
+        1165.16,
+        36.83
+      ],
+      "confidence": 0.8757,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        628.86,
+        695.11,
+        704.29,
+        705.72
+      ],
+      "confidence": 0.8486,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1045.42,
+        694.89,
+        1098.57,
+        705.65
+      ],
+      "confidence": 0.8479,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        397.86,
+        694.77,
+        529.42,
+        705.02
+      ],
+      "confidence": 0.8446,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1481.65,
+        674.81,
+        1526.3,
+        719.67
+      ],
+      "confidence": 0.8095,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1254.37,
+        694.97,
+        1294.73,
+        705.25
+      ],
+      "confidence": 0.7931,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        475.65,
+        368.4,
+        573.16,
+        400.83
+      ],
+      "confidence": 0.7715,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        170.99,
+        8.17,
+        241.93,
+        53.62
+      ],
+      "confidence": 0.7634,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1479.05,
+        610.29,
+        1528.71,
+        662.33
+      ],
+      "confidence": 0.6842,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1202.87,
+        369.24,
+        1307.64,
+        400.31
+      ],
+      "confidence": 0.6113,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1290.32,
+        21.39,
+        1313.92,
+        41.69
+      ],
+      "confidence": 0.6014,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1334.86,
+        20.7,
+        1358.21,
+        43.55
+      ],
+      "confidence": 0.4537,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        266.15,
+        62.57,
+        281.3,
+        68.5
+      ],
+      "confidence": 0.1517,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_53",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        170.15,
+        25.34,
+        192.24,
+        45.11
+      ],
+      "confidence": 0.1042,
+      "cluster_size": 1
+    }
+  ]
+}

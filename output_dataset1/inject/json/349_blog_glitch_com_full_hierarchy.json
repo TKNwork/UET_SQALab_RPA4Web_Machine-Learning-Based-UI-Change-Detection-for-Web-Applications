@@ -1,0 +1,450 @@
+{
+  "image": "349_blog_glitch_com.png",
+  "total_elements": 34,
+  "total_raw_nodes": 37,
+  "total_raw_edges": 43,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        691.0,
+        183.0,
+        861.0,
+        187.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        798.0,
+        89.0,
+        835.0,
+        92.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        603.57,
+        12.38,
+        931.94,
+        203.11
+      ],
+      "confidence": 0.9902,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "A new update makes\nthe Glitch editor more\nconvenient than ever",
+      "bbox": [
+        971.0,
+        259.0,
+        1171.0,
+        328.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "KAMALA HOLDING VINYLS",
+      "bbox": [
+        1058.0,
+        392.0,
+        1173.0,
+        406.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "Tuesday, September 10, 2024",
+      "bbox": [
+        623.0,
+        594.0,
+        825.0,
+        606.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "Fancify your website\nuser experience with\nedge computing",
+      "bbox": [
+        622.0,
+        618.0,
+        817.0,
+        695.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        656.0,
+        375.0,
+        868.0,
+        566.0
+      ],
+      "confidence": 0.9899,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        255.62,
+        10.46,
+        584.9,
+        203.79
+      ],
+      "confidence": 0.9852,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        952.53,
+        11.88,
+        1279.53,
+        203.25
+      ],
+      "confidence": 0.9847,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        275.78,
+        229.86,
+        509.71,
+        276.76
+      ],
+      "confidence": 0.9297,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        623.79,
+        229.75,
+        856.68,
+        277.0
+      ],
+      "confidence": 0.9684,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "Tuesday, September 24, 2024",
+      "bbox": [
+        972.0,
+        231.0,
+        1175.0,
+        243.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "Thursday, September 12, 2024\nAugust 2024 on",
+      "bbox": [
+        274.0,
+        592.0,
+        483.0,
+        639.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "Glitch: Award winning",
+      "bbox": [
+        275.0,
+        645.0,
+        474.0,
+        667.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "Thursday, August 8, 2024\nJuly 2024 on Glitch: The",
+      "bbox": [
+        971.0,
+        592.0,
+        1198.0,
+        638.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "jams come in waves",
+      "bbox": [
+        969.0,
+        649.0,
+        1159.0,
+        666.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        603.95,
+        373.84,
+        931.82,
+        567.13
+      ],
+      "confidence": 0.9745,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        258.12,
+        371.85,
+        584.52,
+        720.86
+      ],
+      "confidence": 0.9601,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "All Stories >",
+      "bbox": [
+        1191.0,
+        750.0,
+        1278.0,
+        762.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        971.34,
+        592.13,
+        1197.96,
+        668.71
+      ],
+      "confidence": 0.9585,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        601.8,
+        15.37,
+        931.69,
+        355.07
+      ],
+      "confidence": 0.9536,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        622.59,
+        592.22,
+        823.51,
+        695.77
+      ],
+      "confidence": 0.9486,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        256.34,
+        12.12,
+        583.65,
+        353.74
+      ],
+      "confidence": 0.9376,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        680.0,
+        50.0,
+        768.0,
+        86.0
+      ],
+      "confidence": 0.9337,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        273.54,
+        592.11,
+        483.08,
+        668.47
+      ],
+      "confidence": 0.9297,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        604.0,
+        50.0,
+        634.0,
+        86.0
+      ],
+      "confidence": 0.925,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        603.21,
+        357.52,
+        931.67,
+        721.17
+      ],
+      "confidence": 0.9191,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        949.66,
+        12.78,
+        1277.34,
+        354.02
+      ],
+      "confidence": 0.9022,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        955.31,
+        373.06,
+        1276.38,
+        717.17
+      ],
+      "confidence": 0.8996,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1192.47,
+        749.64,
+        1269.13,
+        761.33
+      ],
+      "confidence": 0.8927,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1271.73,
+        752.49,
+        1278.66,
+        761.11
+      ],
+      "confidence": 0.4201,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1127.89,
+        414.32,
+        1150.48,
+        422.46
+      ],
+      "confidence": 0.2193,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1081.05,
+        412.49,
+        1158.96,
+        423.81
+      ],
+      "confidence": 0.1356,
+      "cluster_size": 1
+    }
+  ]
+}

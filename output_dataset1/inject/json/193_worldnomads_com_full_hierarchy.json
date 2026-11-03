@@ -1,0 +1,190 @@
+{
+  "image": "193_worldnomads_com.png",
+  "total_elements": 14,
+  "total_raw_nodes": 16,
+  "total_raw_edges": 9,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "ocr",
+      "class_label": "What's included in our travel insurance?",
+      "bbox": [
+        422.0,
+        89.0,
+        1112.0,
+        116.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        525.5,
+        164.84,
+        1005.4,
+        181.79
+      ],
+      "confidence": 0.9213,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "View more",
+      "bbox": [
+        725.0,
+        504.0,
+        811.0,
+        518.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "*This is a general summary only. Restrictions, exclusions and limitations will apply. Coverage may not be available for all countries, states or provinces. Benefit limits may\nvary depending on the plan chosen. Get a quote for full details.",
+      "bbox": [
+        250.0,
+        631.0,
+        1287.0,
+        668.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "Explore your boundaries with World",
+      "bbox": [
+        457.0,
+        762.0,
+        1076.0,
+        801.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        257.97,
+        218.34,
+        495.11,
+        468.09
+      ],
+      "confidence": 0.9769,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        518.75,
+        218.24,
+        756.42,
+        467.79
+      ],
+      "confidence": 0.9758,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1041.07,
+        218.74,
+        1278.8,
+        468.06
+      ],
+      "confidence": 0.9734,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        684.4,
+        551.14,
+        852.3,
+        597.86
+      ],
+      "confidence": 0.9641,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        778.73,
+        217.61,
+        1017.73,
+        468.01
+      ],
+      "confidence": 0.9492,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        724.17,
+        503.04,
+        811.82,
+        520.06
+      ],
+      "confidence": 0.9127,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "Get a quote >",
+      "bbox": [
+        709.0,
+        566.0,
+        821.0,
+        582.0
+      ],
+      "confidence": 0.86,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        709.44,
+        566.8,
+        806.6,
+        583.79
+      ],
+      "confidence": 0.8429,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        812.68,
+        567.0,
+        823.22,
+        581.37
+      ],
+      "confidence": 0.1601,
+      "cluster_size": 1
+    }
+  ]
+}

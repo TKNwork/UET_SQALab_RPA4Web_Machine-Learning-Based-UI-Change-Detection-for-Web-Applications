@@ -1,0 +1,242 @@
+{
+  "image": "122_jsonplaceholder_typicode_com.png",
+  "total_elements": 18,
+  "total_raw_nodes": 21,
+  "total_raw_edges": 13,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        318.76,
+        29.42,
+        450.98,
+        42.38
+      ],
+      "confidence": 0.9293,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_1",
+      "source": "ocr",
+      "class_label": "Guide Sponsor this project Blog My JSON Server",
+      "bbox": [
+        839.0,
+        30.0,
+        1217.0,
+        45.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "Free fake and reliable API for testing and prototyping.",
+      "bbox": [
+        322.0,
+        270.0,
+        912.0,
+        300.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "Powered by JSON Server + LowDB.",
+      "bbox": [
+        320.0,
+        324.0,
+        701.0,
+        345.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        319.77,
+        663.51,
+        479.02,
+        699.77
+      ],
+      "confidence": 0.9497,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "JSONPlaceholder is supported by the following companies and Sponsors on GitHub, check them out ❤",
+      "bbox": [
+        318.0,
+        730.0,
+        1049.0,
+        745.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "Serving ~3 billion requests each month.",
+      "bbox": [
+        319.0,
+        386.0,
+        619.0,
+        401.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        320.46,
+        159.87,
+        826.1,
+        214.63
+      ],
+      "confidence": 0.9554,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        728.0,
+        163.0,
+        732.0,
+        205.0
+      ],
+      "confidence": 0.8754,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        555.0,
+        163.0,
+        559.0,
+        205.0
+      ],
+      "confidence": 0.8754,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        765.74,
+        729.75,
+        837.15,
+        746.33
+      ],
+      "confidence": 0.8383,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        455.39,
+        324.13,
+        592.72,
+        345.81
+      ],
+      "confidence": 0.838,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        620.46,
+        323.86,
+        701.14,
+        345.88
+      ],
+      "confidence": 0.7265,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        841.56,
+        729.54,
+        1029.6,
+        745.77
+      ],
+      "confidence": 0.5932,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1055.01,
+        29.46,
+        1088.34,
+        46.13
+      ],
+      "confidence": 0.5696,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        320.91,
+        385.2,
+        625.81,
+        402.37
+      ],
+      "confidence": 0.5213,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        838.93,
+        28.66,
+        882.96,
+        43.34
+      ],
+      "confidence": 0.4927,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1033.91,
+        729.87,
+        1050.91,
+        744.16
+      ],
+      "confidence": 0.2953,
+      "cluster_size": 1
+    }
+  ]
+}

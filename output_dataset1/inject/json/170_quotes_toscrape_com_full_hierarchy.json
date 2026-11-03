@@ -1,0 +1,125 @@
+{
+  "image": "170_quotes_toscrape_com.png",
+  "total_elements": 9,
+  "total_raw_nodes": 12,
+  "total_raw_edges": 6,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        198.5,
+        29.2,
+        537.95,
+        66.78
+      ],
+      "confidence": 0.9548,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_1",
+      "source": "ocr",
+      "class_label": "Born: July 31, 1965 in Yate, South Gloucestershire, England, The United Kingdom",
+      "bbox": [
+        198.0,
+        187.0,
+        894.0,
+        201.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "Description:",
+      "bbox": [
+        198.0,
+        222.0,
+        302.0,
+        234.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        197.36,
+        254.67,
+        1111.24,
+        818.18
+      ],
+      "confidence": 0.9519,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "Login",
+      "bbox": [
+        1299.0,
+        36.0,
+        1337.0,
+        49.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        196.92,
+        143.03,
+        357.97,
+        170.59
+      ],
+      "confidence": 0.9355,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1299.85,
+        34.79,
+        1338.09,
+        50.44
+      ],
+      "confidence": 0.8916,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        197.66,
+        220.81,
+        302.29,
+        236.15
+      ],
+      "confidence": 0.7103,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        832.02,
+        187.01,
+        893.99,
+        202.31
+      ],
+      "confidence": 0.1844,
+      "cluster_size": 1
+    }
+  ]
+}

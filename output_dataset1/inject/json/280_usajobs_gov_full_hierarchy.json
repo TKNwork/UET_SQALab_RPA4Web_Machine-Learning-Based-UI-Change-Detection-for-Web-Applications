@@ -1,0 +1,463 @@
+{
+  "image": "280_usajobs_gov.png",
+  "total_elements": 35,
+  "total_raw_nodes": 48,
+  "total_raw_edges": 55,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        315.0,
+        553.0,
+        456.0,
+        562.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        315.0,
+        542.0,
+        456.0,
+        551.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        317.0,
+        544.0,
+        454.0,
+        548.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        315.0,
+        531.0,
+        456.0,
+        539.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        83.19,
+        173.54,
+        195.35,
+        189.62
+      ],
+      "confidence": 0.9367,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "Students",
+      "bbox": [
+        389.0,
+        175.0,
+        456.0,
+        186.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "Federal employees",
+      "bbox": [
+        695.0,
+        172.0,
+        835.0,
+        189.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        999.83,
+        175.05,
+        1066.56,
+        186.24
+      ],
+      "confidence": 0.9302,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Learn about all hiring paths",
+      "bbox": [
+        508.0,
+        250.0,
+        716.0,
+        265.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "Explore unique careers with the government",
+      "bbox": [
+        431.0,
+        344.0,
+        1108.0,
+        372.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        32.28,
+        673.97,
+        274.38,
+        695.08
+      ],
+      "confidence": 0.933,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "Join the Talent Network",
+      "bbox": [
+        52.0,
+        797.0,
+        236.0,
+        810.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "The federal government needs attorneys",
+      "bbox": [
+        798.0,
+        672.0,
+        1221.0,
+        696.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "Your legal skills directly impact American citizens and shape the government that serves them.",
+      "bbox": [
+        797.0,
+        722.0,
+        1465.0,
+        738.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        818.21,
+        794.99,
+        1013.46,
+        812.61
+      ],
+      "confidence": 0.8375,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_15",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        622.82,
+        146.18,
+        911.2,
+        214.78
+      ],
+      "confidence": 0.9734,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_16",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        13.78,
+        145.8,
+        300.69,
+        214.73
+      ],
+      "confidence": 0.9601,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_17",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        930.53,
+        146.04,
+        1216.73,
+        214.54
+      ],
+      "confidence": 0.9628,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_18",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        318.57,
+        146.03,
+        605.51,
+        214.37
+      ],
+      "confidence": 0.9687,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_19",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        545.23,
+        56.65,
+        988.62,
+        86.08
+      ],
+      "confidence": 0.9531,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "Hiring paths help you understand what jobs you are eligible to apply for and why. You may fall under multiple hiring paths.",
+      "bbox": [
+        340.0,
+        113.0,
+        1196.0,
+        129.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        31.6,
+        720.25,
+        730.17,
+        763.14
+      ],
+      "confidence": 0.9144,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_22",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        797.1,
+        780.48,
+        1032.72,
+        822.95
+      ],
+      "confidence": 0.9162,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_23",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        33.08,
+        780.72,
+        254.38,
+        823.25
+      ],
+      "confidence": 0.9144,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_24",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        488.85,
+        234.47,
+        735.64,
+        276.92
+      ],
+      "confidence": 0.9692,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_25",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        779.73,
+        395.42,
+        1519.3,
+        651.83
+      ],
+      "confidence": 0.9619,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        18.26,
+        396.36,
+        752.43,
+        651.52
+      ],
+      "confidence": 0.9445,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        505.64,
+        249.42,
+        715.62,
+        267.25
+      ],
+      "confidence": 0.9256,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        388.03,
+        173.6,
+        457.11,
+        186.28
+      ],
+      "confidence": 0.8947,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        695.17,
+        173.6,
+        835.77,
+        190.01
+      ],
+      "confidence": 0.8792,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        53.65,
+        794.51,
+        236.32,
+        808.11
+      ],
+      "confidence": 0.8637,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        15.38,
+        651.59,
+        757.62,
+        826.0
+      ],
+      "confidence": 0.861,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        37.03,
+        161.43,
+        74.62,
+        198.71
+      ],
+      "confidence": 0.7414,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        341.67,
+        161.41,
+        380.16,
+        198.98
+      ],
+      "confidence": 0.5718,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        735.81,
+        411.73,
+        753.76,
+        441.53
+      ],
+      "confidence": 0.1047,
+      "cluster_size": 1
+    }
+  ]
+}

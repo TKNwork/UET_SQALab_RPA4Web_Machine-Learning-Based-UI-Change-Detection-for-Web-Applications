@@ -1,0 +1,320 @@
+{
+  "image": "092_smashingmagazine_com.png",
+  "total_elements": 24,
+  "total_raw_nodes": 37,
+  "total_raw_edges": 38,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        143.8,
+        29.37,
+        904.59,
+        296.49
+      ],
+      "confidence": 0.9926,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_1",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        141.59,
+        333.24,
+        886.55,
+        421.66
+      ],
+      "confidence": 0.974,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_2",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1056.61,
+        18.24,
+        1245.11,
+        30.72
+      ],
+      "confidence": 0.9244,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_3",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1058.02,
+        262.24,
+        1273.55,
+        283.25
+      ],
+      "confidence": 0.9571,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        981.27,
+        337.77,
+        1075.52,
+        356.62
+      ],
+      "confidence": 0.8388,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        716.44,
+        73.9,
+        883.66,
+        241.21
+      ],
+      "confidence": 0.9456,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        182.98,
+        80.4,
+        663.97,
+        246.49
+      ],
+      "confidence": 0.9558,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        167.93,
+        470.18,
+        895.51,
+        524.67
+      ],
+      "confidence": 0.9628,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        138.62,
+        682.05,
+        894.76,
+        773.4
+      ],
+      "confidence": 0.9796,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "Sunil is an experienced software engineer\nand tech entrepreneur with a strong focus\non building scalable web applications.\nMore about Sunil +",
+      "bbox": [
+        1056.0,
+        59.0,
+        1382.0,
+        171.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1130.92,
+        408.61,
+        1319.58,
+        449.83
+      ],
+      "confidence": 0.9122,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1241.68,
+        316.91,
+        1407.03,
+        381.81
+      ],
+      "confidence": 0.9714,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_12",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        760.45,
+        148.96,
+        839.23,
+        164.47
+      ],
+      "confidence": 0.7934,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "• Zod for validation (input correctness, boundary validation, type-safe parsing).",
+      "bbox": [
+        163.0,
+        556.0,
+        847.0,
+        576.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "• React Query for backend: submission, retries, caching, server sync, and so on.",
+      "bbox": [
+        162.0,
+        606.0,
+        853.0,
+        625.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1289.13,
+        340.0,
+        1361.17,
+        356.73
+      ],
+      "confidence": 0.9329,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_16",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        955.79,
+        314.85,
+        1241.72,
+        382.72
+      ],
+      "confidence": 0.9557,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "But every once in a while a form starts accumulating things like visibility rules that",
+      "bbox": [
+        142.0,
+        815.0,
+        859.0,
+        825.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        185.01,
+        471.12,
+        350.19,
+        486.83
+      ],
+      "confidence": 0.9199,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1057.51,
+        155.9,
+        1213.79,
+        172.06
+      ],
+      "confidence": 0.9121,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        143.87,
+        816.04,
+        858.87,
+        826.0
+      ],
+      "confidence": 0.8184,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        185.47,
+        506.31,
+        381.46,
+        526.0
+      ],
+      "confidence": 0.7813,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        166.07,
+        477.1,
+        171.98,
+        485.19
+      ],
+      "confidence": 0.1997,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        166.14,
+        610.69,
+        171.74,
+        618.8
+      ],
+      "confidence": 0.1016,
+      "cluster_size": 1
+    }
+  ]
+}

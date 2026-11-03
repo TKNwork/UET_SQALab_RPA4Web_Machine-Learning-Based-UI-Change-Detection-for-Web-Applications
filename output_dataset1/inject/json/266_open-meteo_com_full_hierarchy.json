@@ -1,0 +1,515 @@
+{
+  "image": "266_open-meteo_com.png",
+  "total_elements": 39,
+  "total_raw_nodes": 53,
+  "total_raw_edges": 37,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        47.03,
+        278.55,
+        492.18,
+        342.09
+      ],
+      "confidence": 0.9755,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_1",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        115.87,
+        468.11,
+        256.6,
+        491.02
+      ],
+      "confidence": 0.9633,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_2",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        606.99,
+        42.97,
+        795.19,
+        66.85
+      ],
+      "confidence": 0.9694,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "Most global models update every 6 hours. High-resolution\nregional models such as ICON-D2, HRRR, and AROME update\nevery 1-3 hours. Each update ingests the latest observations\nfrom weather stations, radiosondes, aircraft, radar, and satellites.\n15-minutely data is available for Central Europe and North\nAmerica, interpolated from hourly model output elsewhere.",
+      "bbox": [
+        538.0,
+        99.0,
+        991.0,
+        246.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "Multiple Historical Data Layers",
+      "bbox": [
+        1098.0,
+        45.0,
+        1419.0,
+        66.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1028.19,
+        521.76,
+        1484.14,
+        634.26
+      ],
+      "confidence": 0.981,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        46.01,
+        97.74,
+        497.28,
+        258.13
+      ],
+      "confidence": 0.9803,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1048.0,
+        206.0,
+        1248.0,
+        223.0
+      ],
+      "confidence": 0.9804,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        537.15,
+        97.94,
+        991.3,
+        184.53
+      ],
+      "confidence": 0.9802,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        116.52,
+        42.53,
+        338.45,
+        62.1
+      ],
+      "confidence": 0.9579,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        46.22,
+        521.98,
+        485.76,
+        607.56
+      ],
+      "confidence": 0.9534,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        46.23,
+        630.44,
+        495.16,
+        691.24
+      ],
+      "confidence": 0.9705,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_12",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        537.61,
+        522.8,
+        988.34,
+        582.67
+      ],
+      "confidence": 0.9788,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        539.36,
+        605.94,
+        969.29,
+        647.02
+      ],
+      "confidence": 0.9513,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "Four complementary historical datasets - each suited to a\ndifferent use case:",
+      "bbox": [
+        1029.0,
+        95.0,
+        1444.0,
+        140.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "• Previous Runs API - continuous time series at a fixed lead-\ntime offset of 1-7 days, from January 2024. For lead-time-\nstratified skill analysis.",
+      "bbox": [
+        1031.0,
+        278.0,
+        1479.0,
+        343.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1096.34,
+        465.59,
+        1274.12,
+        491.03
+      ],
+      "confidence": 0.9606,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_17",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1028.26,
+        654.49,
+        1481.57,
+        739.28
+      ],
+      "confidence": 0.9337,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "• ERA5 reanalysis - 1940 to present, 0.1-0.25°, gap-free\nglobal grid. For climate baselines and long-range ML training.\n• Historical Forecast archive - from 2021, same format as the\nlive Forecast API. For bias-correction and post-processing\npipelines.",
+      "bbox": [
+        1031.0,
+        160.0,
+        1487.0,
+        270.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1039.87,
+        349.63,
+        1487.23,
+        415.05
+      ],
+      "confidence": 0.9599,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_20",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        538.39,
+        448.31,
+        594.73,
+        503.67
+      ],
+      "confidence": 0.9637,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        607.2,
+        467.88,
+        692.06,
+        485.62
+      ],
+      "confidence": 0.9407,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_22",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        538.35,
+        24.22,
+        594.54,
+        80.77
+      ],
+      "confidence": 0.9592,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1029.56,
+        24.53,
+        1086.13,
+        80.73
+      ],
+      "confidence": 0.9565,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1097.9,
+        42.48,
+        1419.05,
+        67.42
+      ],
+      "confidence": 0.9487,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1049.91,
+        350.15,
+        1166.5,
+        366.6
+      ],
+      "confidence": 0.935,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        537.56,
+        206.2,
+        959.89,
+        246.45
+      ],
+      "confidence": 0.9329,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        843.29,
+        606.26,
+        973.41,
+        623.4
+      ],
+      "confidence": 0.9251,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1048.79,
+        158.09,
+        1166.2,
+        174.33
+      ],
+      "confidence": 0.925,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        387.56,
+        522.64,
+        496.43,
+        538.46
+      ],
+      "confidence": 0.9248,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        259.91,
+        523.39,
+        311.08,
+        538.74
+      ],
+      "confidence": 0.9138,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        355.53,
+        631.21,
+        422.36,
+        646.39
+      ],
+      "confidence": 0.9119,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1056.58,
+        726.68,
+        1166.09,
+        742.43
+      ],
+      "confidence": 0.9108,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        48.33,
+        24.18,
+        104.18,
+        80.52
+      ],
+      "confidence": 0.8745,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1047.75,
+        277.2,
+        1479.22,
+        334.74
+      ],
+      "confidence": 0.8679,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        73.37,
+        146.23,
+        163.02,
+        161.33
+      ],
+      "confidence": 0.8076,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1029.68,
+        448.34,
+        1085.7,
+        503.87
+      ],
+      "confidence": 0.7741,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1049.03,
+        206.03,
+        1244.81,
+        220.86
+      ],
+      "confidence": 0.6119,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        360.68,
+        570.55,
+        411.82,
+        586.69
+      ],
+      "confidence": 0.4308,
+      "cluster_size": 1
+    }
+  ]
+}

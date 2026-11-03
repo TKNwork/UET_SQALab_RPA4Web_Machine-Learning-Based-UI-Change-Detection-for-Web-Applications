@@ -1,0 +1,1360 @@
+{
+  "image": "100_kenh14_vn.png",
+  "total_elements": 104,
+  "total_raw_nodes": 118,
+  "total_raw_edges": 101,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1066.0,
+        128.0,
+        1070.0,
+        182.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1178.0,
+        109.0,
+        1235.0,
+        112.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        250.0,
+        331.0,
+        768.0,
+        456.0
+      ],
+      "confidence": 0.9901,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        729.09,
+        19.01,
+        807.02,
+        30.38
+      ],
+      "confidence": 0.9245,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "Sự thật về chợ nhà giàu 100 năm bán giá",
+      "bbox": [
+        170.0,
+        104.0,
+        534.0,
+        126.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "Vạn vật đều thua Takashimaya mùa giáng",
+      "bbox": [
+        582.0,
+        104.0,
+        954.0,
+        126.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "sinh",
+      "bbox": [
+        582.0,
+        135.0,
+        618.0,
+        150.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "KENH",
+      "bbox": [
+        274.0,
+        345.0,
+        321.0,
+        359.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "14",
+      "bbox": [
+        281.0,
+        367.0,
+        315.0,
+        390.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "Kenh14.vn rất hoan nghênh độc giả gửi thông tin và góp ý cho chúng tôi.",
+      "bbox": [
+        350.0,
+        398.0,
+        735.0,
+        412.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "Tầng 21, Tòa nhà Center Building, Hapulico",
+      "bbox": [
+        248.0,
+        514.0,
+        500.0,
+        534.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "Complex, Số 01, phố Nguyễn Huy Tưởng, phường",
+      "bbox": [
+        249.0,
+        529.0,
+        540.0,
+        550.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "Thanh Xuân, thành phố Hà Nội",
+      "bbox": [
+        248.0,
+        551.0,
+        427.0,
+        567.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "Tầng 4, Tòa nhà 123, số 127 Võ Văn Tần, Phường",
+      "bbox": [
+        248.0,
+        669.0,
+        541.0,
+        688.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "Xuân Hòa, TPHCM",
+      "bbox": [
+        248.0,
+        689.0,
+        357.0,
+        705.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "Điện thoại: 028 7307 7979",
+      "bbox": [
+        248.0,
+        706.0,
+        398.0,
+        722.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        609.95,
+        549.51,
+        786.6,
+        566.65
+      ],
+      "confidence": 0.9252,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_17",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        628.65,
+        599.21,
+        760.44,
+        614.84
+      ],
+      "confidence": 0.8971,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "XEM CHI TIẾT",
+      "bbox": [
+        624.0,
+        752.0,
+        702.0,
+        767.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "Tầng 17, 19, 20, 21 Tòa nhà Center Building -\nHapulico Complex, Số 01, phố Nguyễn Huy Tưởng,\nphường Thanh Xuân, thành phố Hà Nội",
+      "bbox": [
+        940.0,
+        604.0,
+        1238.0,
+        656.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "Giấy phép thiết lập trang thông tin điện tử tổng hợp\ntrên mạng số 2215/GP-TTĐT do Sở Thông tin và\nTruyền thông Hà Nội cấp ngày 10 tháng 4 năm 2019",
+      "bbox": [
+        940.0,
+        673.0,
+        1242.0,
+        725.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "đất đỏ vẫn có khách nườm nượp tại\nTPHCM",
+      "bbox": [
+        168.0,
+        129.0,
+        484.0,
+        180.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        193.57,
+        206.2,
+        312.25,
+        218.21
+      ],
+      "confidence": 0.9336,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_23",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        606.35,
+        177.27,
+        725.36,
+        189.28
+      ],
+      "confidence": 0.8877,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_24",
+      "source": "ocr",
+      "class_label": "0969 8888 01",
+      "bbox": [
+        1234.0,
+        135.0,
+        1338.0,
+        147.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        348.48,
+        343.55,
+        509.77,
+        362.56
+      ],
+      "confidence": 0.9324,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        377.77,
+        371.55,
+        503.68,
+        385.25
+      ],
+      "confidence": 0.8018,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_27",
+      "source": "ocr",
+      "class_label": "bandoc@kenh14.vn",
+      "bbox": [
+        547.0,
+        373.0,
+        662.0,
+        386.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "ocr",
+      "class_label": "Điện thoại: 024 7309 5555, máy lẻ 62.370",
+      "bbox": [
+        248.0,
+        572.0,
+        489.0,
+        585.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        608.9,
+        514.79,
+        731.65,
+        531.11
+      ],
+      "confidence": 0.8761,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_30",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        627.7,
+        680.8,
+        768.28,
+        697.0
+      ],
+      "confidence": 0.9198,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_31",
+      "source": "ocr",
+      "class_label": "VẬN HÀNH BỞI",
+      "bbox": [
+        944.0,
+        491.0,
+        1013.0,
+        500.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        580.0,
+        49.0,
+        965.0,
+        82.0
+      ],
+      "confidence": 0.9722,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "ocr",
+      "class_label": "TRANG THÔNG TIN ĐIỆN TỬ",
+      "bbox": [
+        101.0,
+        32.0,
+        174.0,
+        39.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "ocr",
+      "class_label": "ĐĂNG KÝ NGAY",
+      "bbox": [
+        1098.0,
+        136.0,
+        1202.0,
+        146.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "ocr",
+      "class_label": "Star | Ciné | Musik | Beauty & Fashion | Sport | Đời sống | Xã hội | Ăn - Quẩy - Đi | Xem Mua Luôn | Thế giới đó đây | Sức khỏe | Tek-Life | Học đường | Money-Z | Video",
+      "bbox": [
+        255.0,
+        272.0,
+        1282.0,
+        291.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        248.71,
+        643.21,
+        413.79,
+        661.11
+      ],
+      "confidence": 0.9369,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_37",
+      "source": "ocr",
+      "class_label": "( 024.73095555 (máy lẻ 62.370)",
+      "bbox": [
+        609.0,
+        576.0,
+        806.0,
+        594.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        609.26,
+        792.28,
+        766.21,
+        809.3
+      ],
+      "confidence": 0.9431,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_39",
+      "source": "ocr",
+      "class_label": "© Copyright 2007 - 2026 – CÔNG TY CỔ PHẦN",
+      "bbox": [
+        940.0,
+        553.0,
+        1239.0,
+        569.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "ocr",
+      "class_label": "TRỤ SỞ HÀ NỘI",
+      "bbox": [
+        249.0,
+        486.0,
+        353.0,
+        506.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        609.63,
+        488.45,
+        886.01,
+        505.35
+      ],
+      "confidence": 0.8676,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_42",
+      "source": "ocr",
+      "class_label": "LIÊN HỆ QUẢNG CÁO\nC02473007108",
+      "bbox": [
+        607.0,
+        632.0,
+        755.0,
+        673.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "ocr",
+      "class_label": "CHAT VỚI TƯ VẤN VIÊN",
+      "bbox": [
+        641.0,
+        715.0,
+        778.0,
+        727.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "ocr",
+      "class_label": "VCCORP",
+      "bbox": [
+        940.0,
+        574.0,
+        999.0,
+        584.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        607.0,
+        710.0,
+        795.0,
+        737.0
+      ],
+      "confidence": 0.957,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        608.01,
+        749.16,
+        720.8,
+        775.1
+      ],
+      "confidence": 0.7977,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_47",
+      "source": "ocr",
+      "class_label": "kenh14.vn",
+      "bbox": [
+        268.0,
+        412.0,
+        329.0,
+        424.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        592.78,
+        465.84,
+        905.66,
+        824.52
+      ],
+      "confidence": 0.9419,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        581.19,
+        104.91,
+        956.12,
+        151.32
+      ],
+      "confidence": 0.9401,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        167.53,
+        104.94,
+        533.99,
+        178.7
+      ],
+      "confidence": 0.9275,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1090.0,
+        130.0,
+        1346.0,
+        153.0
+      ],
+      "confidence": 0.9275,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        247.85,
+        488.34,
+        356.23,
+        505.54
+      ],
+      "confidence": 0.9265,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_53",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        940.0,
+        504.0,
+        1040.0,
+        537.0
+      ],
+      "confidence": 0.9179,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_54",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1118.0,
+        113.0,
+        1151.0,
+        116.0
+      ],
+      "confidence": 0.9167,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_55",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        167.0,
+        48.0,
+        551.0,
+        83.0
+      ],
+      "confidence": 0.9143,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_56",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        269.94,
+        344.22,
+        327.06,
+        404.19
+      ],
+      "confidence": 0.9124,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_57",
+      "source": "ocr",
+      "class_label": "ĐƠN VỊ THỰC HIỆN NHIỀU CA PHẪU THUẬT SMILE CỦA ZESS NHIỀU NHẤT ĐÔNG NAM Á (Y",
+      "bbox": [
+        1096.0,
+        191.0,
+        1342.0,
+        206.0
+      ],
+      "confidence": 0.9,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_58",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1067.49,
+        50.32,
+        1368.17,
+        242.31
+      ],
+      "confidence": 0.8934,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_59",
+      "source": "ocr",
+      "class_label": "SỐ 2. I . 15 ĐƯỜNG NGUYỄN ĐỖ CUNG,\nPHƯỜNG NGHĨA ĐÔI, HÀ NỘI",
+      "bbox": [
+        1118.0,
+        159.0,
+        1333.0,
+        185.0
+      ],
+      "confidence": 0.89,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_60",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1101.85,
+        275.58,
+        1169.0,
+        288.17
+      ],
+      "confidence": 0.8826,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_61",
+      "source": "ocr",
+      "class_label": "| XEM BẢN ĐỒ",
+      "bbox": [
+        255.0,
+        591.0,
+        326.0,
+        610.0
+      ],
+      "confidence": 0.88,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_62",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        608.32,
+        631.88,
+        756.37,
+        647.83
+      ],
+      "confidence": 0.8755,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_63",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1095.0,
+        162.0,
+        1346.0,
+        186.0
+      ],
+      "confidence": 0.8715,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_64",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        0.7,
+        0.57,
+        49.89,
+        49.29
+      ],
+      "confidence": 0.8595,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_65",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        383.68,
+        275.57,
+        484.65,
+        288.65
+      ],
+      "confidence": 0.8577,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_66",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        864.98,
+        273.68,
+        956.35,
+        288.96
+      ],
+      "confidence": 0.8325,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_67",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        244.45,
+        669.65,
+        537.75,
+        700.35
+      ],
+      "confidence": 0.8289,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_68",
+      "source": "ocr",
+      "class_label": "(4 kenh14",
+      "bbox": [
+        67.0,
+        9.0,
+        173.0,
+        34.0
+      ],
+      "confidence": 0.81,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_69",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        621.0,
+        753.07,
+        707.37,
+        765.63
+      ],
+      "confidence": 0.8066,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_70",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1248.92,
+        276.24,
+        1282.6,
+        285.71
+      ],
+      "confidence": 0.7857,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_71",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1185.09,
+        275.9,
+        1232.69,
+        287.34
+      ],
+      "confidence": 0.7781,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_72",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        628.07,
+        660.09,
+        709.54,
+        671.87
+      ],
+      "confidence": 0.7523,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_73",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        537.32,
+        371.72,
+        661.49,
+        386.85
+      ],
+      "confidence": 0.7518,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_74",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        263.65,
+        732.31,
+        326.94,
+        741.64
+      ],
+      "confidence": 0.7141,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_75",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1042.39,
+        276.95,
+        1088.57,
+        285.95
+      ],
+      "confidence": 0.6956,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_76",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        263.88,
+        593.63,
+        327.16,
+        604.57
+      ],
+      "confidence": 0.6892,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_77",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        267.85,
+        411.84,
+        329.08,
+        433.52
+      ],
+      "confidence": 0.6807,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_78",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        245.37,
+        709.09,
+        401.61,
+        722.85
+      ],
+      "confidence": 0.6711,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_79",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        938.71,
+        641.14,
+        1173.88,
+        656.83
+      ],
+      "confidence": 0.6477,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_80",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        944.83,
+        507.29,
+        1035.28,
+        531.88
+      ],
+      "confidence": 0.6257,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_81",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        971.34,
+        275.83,
+        1027.91,
+        286.61
+      ],
+      "confidence": 0.6209,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_82",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        617.34,
+        714.57,
+        776.18,
+        727.86
+      ],
+      "confidence": 0.6189,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_83",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        622.83,
+        578.06,
+        798.95,
+        594.43
+      ],
+      "confidence": 0.6089,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_84",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        608.07,
+        602.12,
+        620.49,
+        612.53
+      ],
+      "confidence": 0.588,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_85",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        940.75,
+        489.82,
+        1016.91,
+        501.72
+      ],
+      "confidence": 0.5756,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_86",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        940.65,
+        496.6,
+        1042.74,
+        537.74
+      ],
+      "confidence": 0.5678,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_87",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        609.37,
+        684.12,
+        620.51,
+        695.17
+      ],
+      "confidence": 0.5657,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_88",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        935.25,
+        605.45,
+        1211.11,
+        636.36
+      ],
+      "confidence": 0.5327,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_89",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1121.28,
+        709.94,
+        1244.0,
+        725.07
+      ],
+      "confidence": 0.5149,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_90",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        12.99,
+        13.82,
+        37.8,
+        36.26
+      ],
+      "confidence": 0.5041,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_91",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        763.39,
+        275.37,
+        850.67,
+        286.57
+      ],
+      "confidence": 0.501,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_92",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        166.39,
+        206.92,
+        183.83,
+        222.41
+      ],
+      "confidence": 0.4883,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_93",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        525.75,
+        373.77,
+        540.59,
+        383.47
+      ],
+      "confidence": 0.4221,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_94",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        501.97,
+        275.84,
+        535.37,
+        288.88
+      ],
+      "confidence": 0.4215,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_95",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        579.58,
+        177.3,
+        597.24,
+        193.8
+      ],
+      "confidence": 0.4213,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_96",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        354.67,
+        372.39,
+        370.33,
+        388.54
+      ],
+      "confidence": 0.3193,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_97",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        292.38,
+        275.74,
+        370.25,
+        288.12
+      ],
+      "confidence": 0.3324,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_98",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        246.89,
+        593.97,
+        258.09,
+        606.11
+      ],
+      "confidence": 0.331,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_99",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        608.47,
+        658.93,
+        617.99,
+        671.84
+      ],
+      "confidence": 0.328,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_100",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        252.62,
+        276.65,
+        277.58,
+        286.64
+      ],
+      "confidence": 0.2923,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_101",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        247.32,
+        732.92,
+        257.59,
+        743.43
+      ],
+      "confidence": 0.2007,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_102",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        608.49,
+        577.48,
+        619.78,
+        591.23
+      ],
+      "confidence": 0.155,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_103",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        607.52,
+        657.89,
+        617.95,
+        674.87
+      ],
+      "confidence": 0.1342,
+      "cluster_size": 1
+    }
+  ]
+}

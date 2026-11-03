@@ -1,0 +1,463 @@
+{
+  "image": "090_smashingmagazine_com.png",
+  "total_elements": 35,
+  "total_raw_nodes": 39,
+  "total_raw_edges": 20,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "ocr",
+      "class_label": "LATEST POSTS",
+      "bbox": [
+        93.0,
+        58.0,
+        104.0,
+        201.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "ocr",
+      "class_label": "Vitaly Friedman wrote",
+      "bbox": [
+        233.0,
+        46.0,
+        430.0,
+        62.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        856.14,
+        225.72,
+        1320.97,
+        418.04
+      ],
+      "confidence": 0.9853,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_3",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        234.01,
+        651.71,
+        646.09,
+        720.22
+      ],
+      "confidence": 0.9763,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "The way JavaScript handles time has evolved\nsignificantly, from the built-in Date API to Moment.js",
+      "bbox": [
+        234.0,
+        743.0,
+        698.0,
+        805.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "For years, developers have been hacking around the",
+      "bbox": [
+        855.0,
+        792.0,
+        1296.0,
+        817.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        234.64,
+        89.77,
+        678.3,
+        153.33
+      ],
+      "confidence": 0.9631,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "How to choose between modals and pages, when to\navoid modals, and how to determine the right level of\ninterruption or navigation. Brought to you by Smart\nInterface Design Patterns, a friendly video course\non UX and design patterns by Vitaly.",
+      "bbox": [
+        234.0,
+        185.0,
+        691.0,
+        343.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Alan Cohen wrote",
+      "bbox": [
+        855.0,
+        46.0,
+        1012.0,
+        60.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        854.71,
+        88.7,
+        1263.33,
+        193.39
+      ],
+      "confidence": 0.977,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "Brecht De Ruyte wrote",
+      "bbox": [
+        855.0,
+        608.0,
+        1060.0,
+        626.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "Beyond border-radius: What\nThe CSS corner-shape Property\nUnlocks For Everyday UI",
+      "bbox": [
+        855.0,
+        649.0,
+        1315.0,
+        768.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "MARCH 19, 2026 in Design, User Experience, UI",
+      "bbox": [
+        259.0,
+        380.0,
+        637.0,
+        396.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "MARCH 17, 2026 in Design, UX, Inspiration",
+      "bbox": [
+        880.0,
+        454.0,
+        1213.0,
+        471.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "Joe Attardi wrote",
+      "bbox": [
+        235.0,
+        608.0,
+        391.0,
+        624.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        855.71,
+        45.68,
+        960.45,
+        61.65
+      ],
+      "confidence": 0.9499,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        234.51,
+        45.22,
+        378.8,
+        62.9
+      ],
+      "confidence": 0.9359,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        402.41,
+        378.72,
+        630.7,
+        396.35
+      ],
+      "confidence": 0.9108,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1022.26,
+        453.01,
+        1212.45,
+        471.03
+      ],
+      "confidence": 0.8979,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        981.78,
+        657.35,
+        1175.95,
+        678.89
+      ],
+      "confidence": 0.894,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "and now Temporal The now standard fille gans in the",
+      "bbox": [
+        234.0,
+        816.0,
+        693.0,
+        825.0
+      ],
+      "confidence": 0.89,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        996.47,
+        700.18,
+        1169.77,
+        723.5
+      ],
+      "confidence": 0.8763,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        853.99,
+        794.49,
+        1294.53,
+        815.35
+      ],
+      "confidence": 0.8729,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        99.0,
+        0.0,
+        104.0,
+        51.0
+      ],
+      "confidence": 0.8503,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        235.7,
+        608.17,
+        339.35,
+        622.26
+      ],
+      "confidence": 0.8488,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        857.26,
+        453.7,
+        871.37,
+        467.56
+      ],
+      "confidence": 0.8061,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        856.22,
+        608.27,
+        1008.43,
+        626.05
+      ],
+      "confidence": 0.8015,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        964.7,
+        47.81,
+        1011.43,
+        60.22
+      ],
+      "confidence": 0.7111,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        236.83,
+        379.1,
+        251.15,
+        392.49
+      ],
+      "confidence": 0.6856,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        384.0,
+        48.12,
+        429.38,
+        60.28
+      ],
+      "confidence": 0.6647,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1015.63,
+        611.25,
+        1058.43,
+        622.67
+      ],
+      "confidence": 0.4068,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        346.38,
+        609.05,
+        389.46,
+        623.12
+      ],
+      "confidence": 0.37,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        500.99,
+        786.86,
+        539.6,
+        797.94
+      ],
+      "confidence": 0.2204,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        501.73,
+        784.44,
+        540.97,
+        798.24
+      ],
+      "confidence": 0.1841,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        503.24,
+        787.41,
+        536.24,
+        798.2
+      ],
+      "confidence": 0.1015,
+      "cluster_size": 1
+    }
+  ]
+}

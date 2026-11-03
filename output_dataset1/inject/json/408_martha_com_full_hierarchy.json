@@ -1,0 +1,268 @@
+{
+  "image": "408_martha_com.png",
+  "total_elements": 20,
+  "total_raw_nodes": 24,
+  "total_raw_edges": 18,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        344.0,
+        796.0,
+        481.0,
+        799.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        264.0,
+        632.0,
+        301.0,
+        635.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        267.0,
+        533.0,
+        379.0,
+        536.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        532.0,
+        568.0,
+        537.0,
+        650.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        198.0,
+        517.0,
+        210.0,
+        684.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        536.53,
+        34.5,
+        655.19,
+        46.23
+      ],
+      "confidence": 0.9409,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        694.38,
+        34.67,
+        842.55,
+        46.2
+      ],
+      "confidence": 0.9522,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        883.46,
+        34.16,
+        998.89,
+        46.65
+      ],
+      "confidence": 0.9526,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Find all the simply beautiful home essentials you need\nto elevate your living spaces in Martha's dedicated",
+      "bbox": [
+        998.0,
+        467.0,
+        1455.0,
+        506.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "brand store at Amazon.",
+      "bbox": [
+        999.0,
+        512.0,
+        1197.0,
+        527.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        722.0,
+        923.0,
+        801.0
+      ],
+      "confidence": 0.9736,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1285.0,
+        304.0,
+        1288.0,
+        339.0
+      ],
+      "confidence": 0.9724,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        997.22,
+        302.27,
+        1420.31,
+        436.44
+      ],
+      "confidence": 0.9456,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        38.0,
+        413.0,
+        416.0,
+        503.0
+      ],
+      "confidence": 0.9679,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        0.0,
+        73.4,
+        920.15,
+        807.21
+      ],
+      "confidence": 0.9671,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        66.0,
+        435.0,
+        153.0,
+        488.0
+      ],
+      "confidence": 0.9461,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        220.0,
+        526.0,
+        227.0,
+        604.0
+      ],
+      "confidence": 0.929,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1152.0,
+        352.0,
+        1155.0,
+        384.0
+      ],
+      "confidence": 0.8884,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        997.63,
+        466.01,
+        1455.77,
+        526.74
+      ],
+      "confidence": 0.8773,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "Martha",
+      "bbox": [
+        769.0,
+        409.0,
+        792.0,
+        433.0
+      ],
+      "confidence": 0.83,
+      "cluster_size": 1
+    }
+  ]
+}

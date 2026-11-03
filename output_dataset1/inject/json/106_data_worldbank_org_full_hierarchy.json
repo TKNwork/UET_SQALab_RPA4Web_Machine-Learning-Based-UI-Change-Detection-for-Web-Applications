@@ -1,0 +1,489 @@
+{
+  "image": "106_data_worldbank_org.png",
+  "total_elements": 37,
+  "total_raw_nodes": 42,
+  "total_raw_edges": 20,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1152.0,
+        724.0,
+        1536.0,
+        727.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1027.0,
+        166.0,
+        1301.0,
+        171.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        186.86,
+        132.62,
+        989.22,
+        594.93
+      ],
+      "confidence": 0.9489,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "Select an economy on the map to see data and access the economy profile",
+      "bbox": [
+        186.0,
+        97.0,
+        640.0,
+        110.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "High-income",
+      "bbox": [
+        213.0,
+        620.0,
+        285.0,
+        632.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "Upper-middle-income",
+      "bbox": [
+        331.0,
+        619.0,
+        457.0,
+        632.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "Lower-middle-income",
+      "bbox": [
+        503.0,
+        619.0,
+        627.0,
+        631.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        672.94,
+        619.48,
+        743.29,
+        630.8
+      ],
+      "confidence": 0.9208,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Search economy",
+      "bbox": [
+        1087.0,
+        66.0,
+        1195.0,
+        81.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1026.49,
+        139.57,
+        1095.75,
+        158.37
+      ],
+      "confidence": 0.9615,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1027.86,
+        191.49,
+        1122.1,
+        204.33
+      ],
+      "confidence": 0.9392,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        788.09,
+        620.49,
+        835.08,
+        630.26
+      ],
+      "confidence": 0.9137,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "World Development Indicators: Countries and Economies",
+      "bbox": [
+        187.0,
+        58.0,
+        683.0,
+        75.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "GDP, 2024",
+      "bbox": [
+        1027.0,
+        255.0,
+        1086.0,
+        265.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "World Profile >",
+      "bbox": [
+        1186.0,
+        340.0,
+        1289.0,
+        351.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "Help/Feedback",
+      "bbox": [
+        1414.0,
+        795.0,
+        1504.0,
+        808.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "8.14 Billion",
+      "bbox": [
+        1027.0,
+        212.0,
+        1128.0,
+        234.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        197.0,
+        142.0,
+        225.0,
+        198.0
+      ],
+      "confidence": 0.9445,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1075.6,
+        52.74,
+        1350.33,
+        91.42
+      ],
+      "confidence": 0.915,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1027.69,
+        213.54,
+        1128.79,
+        230.61
+      ],
+      "confidence": 0.9032,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1185.95,
+        339.01,
+        1274.53,
+        351.09
+      ],
+      "confidence": 0.9008,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1028.79,
+        274.94,
+        1161.53,
+        292.86
+      ],
+      "confidence": 0.8979,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        502.0,
+        620.0,
+        629.0,
+        632.0
+      ],
+      "confidence": 0.8819,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        212.15,
+        619.63,
+        286.71,
+        633.55
+      ],
+      "confidence": 0.8763,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "ocr",
+      "class_label": "110.98 Trillion",
+      "bbox": [
+        1028.0,
+        272.0,
+        1161.0,
+        296.0
+      ],
+      "confidence": 0.87,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        503.22,
+        620.42,
+        629.16,
+        630.04
+      ],
+      "confidence": 0.8662,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        331.47,
+        619.82,
+        457.62,
+        633.93
+      ],
+      "confidence": 0.8149,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1027.21,
+        253.64,
+        1085.69,
+        266.63
+      ],
+      "confidence": 0.8124,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        647.4,
+        616.76,
+        663.83,
+        631.64
+      ],
+      "confidence": 0.7928,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        306.24,
+        617.09,
+        321.47,
+        631.95
+      ],
+      "confidence": 0.7676,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        762.7,
+        616.74,
+        779.38,
+        632.03
+      ],
+      "confidence": 0.7674,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        187.91,
+        617.17,
+        203.46,
+        632.06
+      ],
+      "confidence": 0.7245,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        477.36,
+        616.86,
+        492.9,
+        631.98
+      ],
+      "confidence": 0.6972,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1375.08,
+        786.18,
+        1528.11,
+        821.11
+      ],
+      "confidence": 0.6807,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1281.16,
+        339.66,
+        1289.59,
+        351.47
+      ],
+      "confidence": 0.5881,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1381.49,
+        795.41,
+        1396.59,
+        813.0
+      ],
+      "confidence": 0.1765,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        480.62,
+        527.96,
+        500.23,
+        549.54
+      ],
+      "confidence": 0.109,
+      "cluster_size": 1
+    }
+  ]
+}

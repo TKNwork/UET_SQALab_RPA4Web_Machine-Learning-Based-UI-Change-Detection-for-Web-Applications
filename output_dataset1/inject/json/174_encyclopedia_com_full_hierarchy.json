@@ -1,0 +1,736 @@
+{
+  "image": "174_encyclopedia_com.png",
+  "total_elements": 56,
+  "total_raw_nodes": 72,
+  "total_raw_edges": 101,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        803.0,
+        1536.0,
+        806.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        227.0,
+        514.0,
+        1309.0,
+        577.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        229.0,
+        286.0,
+        236.0,
+        445.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1200.0,
+        233.0,
+        1273.0,
+        238.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1172.0,
+        88.0,
+        1176.0,
+        143.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        968.04,
+        283.61,
+        1308.57,
+        484.38
+      ],
+      "confidence": 0.9682,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        228.51,
+        284.33,
+        567.99,
+        478.46
+      ],
+      "confidence": 0.9805,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        242.31,
+        167.83,
+        531.41,
+        206.38
+      ],
+      "confidence": 0.9338,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        630.63,
+        98.06,
+        693.64,
+        111.41
+      ],
+      "confidence": 0.9289,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        613.61,
+        139.12,
+        669.76,
+        152.01
+      ],
+      "confidence": 0.9276,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "Buddhism",
+      "bbox": [
+        1001.0,
+        97.0,
+        1062.0,
+        109.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        984.73,
+        138.92,
+        1151.4,
+        152.76
+      ],
+      "confidence": 0.8423,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "French and Benelux Physical Geography",
+      "bbox": [
+        1001.0,
+        331.0,
+        1256.0,
+        347.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "More Topics",
+      "bbox": [
+        266.0,
+        536.0,
+        359.0,
+        553.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        412.01,
+        535.73,
+        584.83,
+        552.33
+      ],
+      "confidence": 0.9667,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "Surrogate Mother Education",
+      "bbox": [
+        636.0,
+        531.0,
+        957.0,
+        555.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "Martial Arts",
+      "bbox": [
+        1010.0,
+        536.0,
+        1118.0,
+        551.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "Barcelona",
+      "bbox": [
+        1171.0,
+        537.0,
+        1270.0,
+        552.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        697.36,
+        726.72,
+        840.35,
+        736.74
+      ],
+      "confidence": 0.9265,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_19",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        598.78,
+        290.58,
+        937.29,
+        478.32
+      ],
+      "confidence": 0.9668,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_20",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        969.13,
+        59.55,
+        1308.68,
+        254.58
+      ],
+      "confidence": 0.9835,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_21",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        228.85,
+        59.51,
+        568.16,
+        253.98
+      ],
+      "confidence": 0.9806,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_22",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        599.17,
+        58.98,
+        937.84,
+        254.28
+      ],
+      "confidence": 0.9787,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_23",
+      "source": "ocr",
+      "class_label": "Taxation",
+      "bbox": [
+        261.0,
+        98.0,
+        313.0,
+        109.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "ocr",
+      "class_label": "Pure Land Buddhism or Amidism,\ndevotional sect of Mahayana...",
+      "bbox": [
+        985.0,
+        168.0,
+        1253.0,
+        207.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        244.06,
+        401.9,
+        430.97,
+        419.86
+      ],
+      "confidence": 0.9215,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        629.37,
+        314.02,
+        866.84,
+        345.09
+      ],
+      "confidence": 0.9175,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_27",
+      "source": "ocr",
+      "class_label": "Pyrenees",
+      "bbox": [
+        985.0,
+        373.0,
+        1058.0,
+        390.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "ocr",
+      "class_label": "Individual Income Tax Return",
+      "bbox": [
+        358.0,
+        145.0,
+        520.0,
+        166.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "ocr",
+      "class_label": "autism, developmental disability\nresulting from a neurological disord....",
+      "bbox": [
+        614.0,
+        168.0,
+        914.0,
+        206.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "ocr",
+      "class_label": "U.S. History",
+      "bbox": [
+        262.0,
+        332.0,
+        337.0,
+        345.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "ocr",
+      "class_label": "Boston Tea Party",
+      "bbox": [
+        244.0,
+        372.0,
+        384.0,
+        390.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        615.38,
+        371.6,
+        731.42,
+        385.21
+      ],
+      "confidence": 0.8821,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_33",
+      "source": "ocr",
+      "class_label": "Income Tax",
+      "bbox": [
+        244.0,
+        137.0,
+        338.0,
+        154.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "ocr",
+      "class_label": "Hernán Cortés or Hernando Cortez,\n1485-1547, Spanish conquistador....",
+      "bbox": [
+        615.0,
+        399.0,
+        910.0,
+        439.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "ocr",
+      "class_label": "Pyrenees, Span. Pirineos, Fr.",
+      "bbox": [
+        984.0,
+        402.0,
+        1223.0,
+        420.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "ocr",
+      "class_label": "Presidential",
+      "bbox": [
+        239.0,
+        211.0,
+        287.0,
+        222.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        637.17,
+        535.27,
+        809.14,
+        556.94
+      ],
+      "confidence": 0.9396,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1009.41,
+        535.17,
+        1119.94,
+        553.0
+      ],
+      "confidence": 0.9375,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        860.77,
+        535.13,
+        957.34,
+        553.02
+      ],
+      "confidence": 0.9307,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        647.84,
+        692.21,
+        887.12,
+        714.78
+      ],
+      "confidence": 0.9226,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_41",
+      "source": "ocr",
+      "class_label": "Filing Status",
+      "bbox": [
+        232.0,
+        239.0,
+        302.0,
+        253.0
+      ],
+      "confidence": 0.91,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "ocr",
+      "class_label": "Election Campai",
+      "bbox": [
+        237.0,
+        218.0,
+        303.0,
+        230.0
+      ],
+      "confidence": 0.9,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1170.52,
+        535.08,
+        1270.86,
+        553.18
+      ],
+      "confidence": 0.8903,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        260.95,
+        333.21,
+        338.51,
+        347.61
+      ],
+      "confidence": 0.8776,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1000.26,
+        99.27,
+        1064.62,
+        108.79
+      ],
+      "confidence": 0.8625,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        262.79,
+        99.34,
+        313.57,
+        108.72
+      ],
+      "confidence": 0.8608,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        245.21,
+        89.72,
+        328.03,
+        117.62
+      ],
+      "confidence": 0.8571,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        997.26,
+        332.78,
+        1260.9,
+        347.67
+      ],
+      "confidence": 0.8493,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "ocr",
+      "class_label": "Americans throwing the Cargoes of the Tea Ships into the River\nat Bofton",
+      "bbox": [
+        267.0,
+        439.0,
+        523.0,
+        463.0
+      ],
+      "confidence": 0.84,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        244.43,
+        373.08,
+        379.11,
+        391.54
+      ],
+      "confidence": 0.8385,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        245.07,
+        135.96,
+        336.38,
+        152.65
+      ],
+      "confidence": 0.8176,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        985.51,
+        374.62,
+        1061.4,
+        391.23
+      ],
+      "confidence": 0.799,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_53",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        614.21,
+        88.95,
+        711.15,
+        117.7
+      ],
+      "confidence": 0.7796,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_54",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        246.65,
+        324.91,
+        351.64,
+        353.26
+      ],
+      "confidence": 0.6613,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_55",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        984.54,
+        88.49,
+        1081.87,
+        117.54
+      ],
+      "confidence": 0.6144,
+      "cluster_size": 1
+    }
+  ]
+}

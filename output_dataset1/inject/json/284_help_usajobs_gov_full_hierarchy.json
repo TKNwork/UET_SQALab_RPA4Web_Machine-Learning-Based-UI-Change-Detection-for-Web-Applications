@@ -1,0 +1,1139 @@
+{
+  "image": "284_help_usajobs_gov.png",
+  "total_elements": 87,
+  "total_raw_nodes": 96,
+  "total_raw_edges": 96,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        128.0,
+        728.0,
+        458.0,
+        748.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        649.0,
+        1536.0,
+        652.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        63.0,
+        557.0,
+        295.0,
+        575.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        112.0,
+        147.0,
+        414.0,
+        166.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1043.0,
+        14.0,
+        1443.0,
+        33.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1019.57,
+        176.67,
+        1486.88,
+        323.75
+      ],
+      "confidence": 0.9716,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "We offer flexible workplaces, generous leave, student loan repayment, medical insurance, flexible spending accounts and more.",
+      "bbox": [
+        72.0,
+        31.0,
+        969.0,
+        46.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        111.77,
+        148.87,
+        413.58,
+        164.64
+      ],
+      "confidence": 0.9577,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1043.7,
+        14.59,
+        1444.44,
+        58.7
+      ],
+      "confidence": 0.9486,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        33.15,
+        402.26,
+        239.69,
+        425.68
+      ],
+      "confidence": 0.9622,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1043.43,
+        208.37,
+        1344.88,
+        227.75
+      ],
+      "confidence": 0.954,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "Transcripts",
+      "bbox": [
+        1063.0,
+        268.0,
+        1148.0,
+        281.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        431.34,
+        474.92,
+        566.03,
+        491.65
+      ],
+      "confidence": 0.9554,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "Individuals with disabilities",
+      "bbox": [
+        800.0,
+        475.0,
+        993.0,
+        487.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1167.58,
+        474.42,
+        1369.04,
+        491.42
+      ],
+      "confidence": 0.96,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_15",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        432.4,
+        515.34,
+        633.48,
+        532.31
+      ],
+      "confidence": 0.9546,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "Native Americans",
+      "bbox": [
+        800.0,
+        516.0,
+        924.0,
+        528.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "Recent graduates",
+      "bbox": [
+        432.0,
+        556.0,
+        555.0,
+        573.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "Senior executives",
+      "bbox": [
+        800.0,
+        558.0,
+        924.0,
+        570.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "Special authorities",
+      "bbox": [
+        1167.0,
+        555.0,
+        1299.0,
+        573.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "Veterans",
+      "bbox": [
+        431.0,
+        598.0,
+        493.0,
+        613.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1167.57,
+        515.63,
+        1299.95,
+        531.76
+      ],
+      "confidence": 0.9419,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "Peace Corps & AmeriCorps VISTA\nStudents",
+      "bbox": [
+        63.0,
+        557.0,
+        295.0,
+        612.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "ocr",
+      "class_label": "OPM USAJOBS",
+      "bbox": [
+        38.0,
+        673.0,
+        186.0,
+        693.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "ocr",
+      "class_label": "USAJOBS is a United States Office of Personnel Management website.",
+      "bbox": [
+        32.0,
+        729.0,
+        519.0,
+        745.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "ocr",
+      "class_label": "Vote.gov",
+      "bbox": [
+        1441.0,
+        780.0,
+        1492.0,
+        791.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "ocr",
+      "class_label": "How do I search for jobs?",
+      "bbox": [
+        1045.0,
+        81.0,
+        1220.0,
+        98.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "ocr",
+      "class_label": "Military spouses",
+      "bbox": [
+        64.0,
+        517.0,
+        179.0,
+        531.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "ocr",
+      "class_label": "About USAJOBS Accessibility FOIA Inspector general No Fear Act Data Privacy policy Reports and publications Terms and conditions USA.gov",
+      "bbox": [
+        30.0,
+        779.0,
+        938.0,
+        792.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1017.5,
+        0.0,
+        1487.01,
+        144.12
+      ],
+      "confidence": 0.9677,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "ocr",
+      "class_label": "✈ Family of overseas employees",
+      "bbox": [
+        35.0,
+        475.0,
+        275.0,
+        491.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "ocr",
+      "class_label": "Benefits\nPay.\nLeave",
+      "bbox": [
+        114.0,
+        73.0,
+        172.0,
+        136.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        63.05,
+        474.25,
+        275.78,
+        491.59
+      ],
+      "confidence": 0.9404,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        63.72,
+        515.57,
+        179.3,
+        532.73
+      ],
+      "confidence": 0.9365,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        63.0,
+        473.0,
+        276.0,
+        492.0
+      ],
+      "confidence": 0.9342,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        0.0,
+        650.5,
+        904.12,
+        826.0
+      ],
+      "confidence": 0.9336,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1043.99,
+        82.72,
+        1219.04,
+        99.06
+      ],
+      "confidence": 0.9325,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        800.16,
+        475.05,
+        994.36,
+        490.49
+      ],
+      "confidence": 0.9321,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        267.94,
+        778.66,
+        369.12,
+        792.46
+      ],
+      "confidence": 0.9282,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        1407.0,
+        669.0,
+        1434.0,
+        696.0
+      ],
+      "confidence": 0.9246,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        799.92,
+        515.6,
+        924.59,
+        531.69
+      ],
+      "confidence": 0.9213,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        588.4,
+        778.18,
+        734.99,
+        792.81
+      ],
+      "confidence": 0.9212,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        113.38,
+        72.96,
+        172.04,
+        88.52
+      ],
+      "confidence": 0.9194,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        493.78,
+        778.05,
+        574.53,
+        792.81
+      ],
+      "confidence": 0.9125,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        799.0,
+        474.0,
+        994.0,
+        492.0
+      ],
+      "confidence": 0.9028,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1168.81,
+        557.1,
+        1301.84,
+        573.99
+      ],
+      "confidence": 0.9004,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        750.52,
+        778.27,
+        873.69,
+        789.61
+      ],
+      "confidence": 0.9003,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1440.66,
+        778.39,
+        1493.0,
+        792.96
+      ],
+      "confidence": 0.8981,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        139.45,
+        777.87,
+        210.56,
+        792.78
+      ],
+      "confidence": 0.8967,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1064.64,
+        266.27,
+        1148.17,
+        282.67
+      ],
+      "confidence": 0.8931,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1167.0,
+        474.0,
+        1370.0,
+        493.0
+      ],
+      "confidence": 0.8904,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        383.06,
+        778.79,
+        478.31,
+        789.86
+      ],
+      "confidence": 0.8901,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        431.0,
+        515.0,
+        632.0,
+        534.0
+      ],
+      "confidence": 0.8816,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_53",
+      "source": "ocr",
+      "class_label": "+",
+      "bbox": [
+        1421.0,
+        265.0,
+        1439.0,
+        282.0
+      ],
+      "confidence": 0.88,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_54",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        888.36,
+        778.66,
+        937.27,
+        792.8
+      ],
+      "confidence": 0.8714,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_55",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        30.84,
+        778.27,
+        125.44,
+        789.62
+      ],
+      "confidence": 0.8666,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_56",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        36.66,
+        0.0,
+        1009.0,
+        371.98
+      ],
+      "confidence": 0.865,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_57",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        800.53,
+        557.57,
+        925.04,
+        573.47
+      ],
+      "confidence": 0.8649,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_58",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        64.12,
+        556.86,
+        291.41,
+        574.41
+      ],
+      "confidence": 0.8642,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_59",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        38.85,
+        0.0,
+        998.18,
+        192.8
+      ],
+      "confidence": 0.8532,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_60",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        112.31,
+        123.45,
+        155.26,
+        139.15
+      ],
+      "confidence": 0.8137,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_61",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        129.35,
+        729.75,
+        517.83,
+        746.66
+      ],
+      "confidence": 0.8043,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_62",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        225.33,
+        779.01,
+        254.04,
+        789.96
+      ],
+      "confidence": 0.7992,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_63",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        432.01,
+        557.68,
+        555.79,
+        574.11
+      ],
+      "confidence": 0.7522,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_64",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        33.43,
+        511.7,
+        54.71,
+        533.66
+      ],
+      "confidence": 0.68,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_65",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        32.53,
+        552.56,
+        54.06,
+        575.34
+      ],
+      "confidence": 0.6283,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_66",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        63.36,
+        598.09,
+        128.0,
+        610.96
+      ],
+      "confidence": 0.6246,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_67",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        32.23,
+        470.72,
+        54.43,
+        492.18
+      ],
+      "confidence": 0.6025,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_68",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        431.02,
+        599.22,
+        493.92,
+        614.43
+      ],
+      "confidence": 0.602,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_69",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        106.31,
+        674.78,
+        186.44,
+        693.26
+      ],
+      "confidence": 0.5451,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_70",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        768.47,
+        511.54,
+        790.85,
+        533.9
+      ],
+      "confidence": 0.5055,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_71",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1136.44,
+        470.47,
+        1159.32,
+        492.69
+      ],
+      "confidence": 0.4838,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_72",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1136.67,
+        512.08,
+        1158.99,
+        534.05
+      ],
+      "confidence": 0.4802,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_73",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        768.78,
+        552.8,
+        791.25,
+        575.54
+      ],
+      "confidence": 0.4156,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_74",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1136.59,
+        552.4,
+        1158.42,
+        574.84
+      ],
+      "confidence": 0.366,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_75",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        32.79,
+        593.68,
+        53.85,
+        616.05
+      ],
+      "confidence": 0.3617,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_76",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        768.52,
+        471.04,
+        791.61,
+        492.71
+      ],
+      "confidence": 0.3436,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_77",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        400.76,
+        470.9,
+        424.58,
+        492.72
+      ],
+      "confidence": 0.3385,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_78",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        401.42,
+        512.04,
+        423.3,
+        533.24
+      ],
+      "confidence": 0.2964,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_79",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1458.49,
+        673.34,
+        1484.91,
+        691.01
+      ],
+      "confidence": 0.292,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_80",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1422.07,
+        266.57,
+        1438.86,
+        280.92
+      ],
+      "confidence": 0.2565,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_81",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1409.09,
+        670.97,
+        1431.55,
+        693.78
+      ],
+      "confidence": 0.2384,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_82",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        110.98,
+        98.11,
+        146.4,
+        116.09
+      ],
+      "confidence": 0.2291,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_83",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        401.2,
+        552.95,
+        422.76,
+        574.87
+      ],
+      "confidence": 0.1999,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_84",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        99.94,
+        0.0,
+        138.29,
+        4.76
+      ],
+      "confidence": 0.1994,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_85",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        400.94,
+        593.92,
+        422.96,
+        616.63
+      ],
+      "confidence": 0.1782,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_86",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        41.31,
+        675.26,
+        90.81,
+        690.66
+      ],
+      "confidence": 0.1407,
+      "cluster_size": 1
+    }
+  ]
+}

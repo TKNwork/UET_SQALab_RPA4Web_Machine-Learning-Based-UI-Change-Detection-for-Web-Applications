@@ -1,0 +1,645 @@
+{
+  "image": "184_sec_gov.png",
+  "total_elements": 49,
+  "total_raw_nodes": 62,
+  "total_raw_edges": 36,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        348.0,
+        1536.0,
+        351.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        275.0,
+        817.0,
+        382.0,
+        826.0
+      ],
+      "confidence": 0.9907,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        268.72,
+        69.52,
+        426.67,
+        80.14
+      ],
+      "confidence": 0.8506,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "Budget & Performance",
+      "bbox": [
+        105.0,
+        498.0,
+        274.0,
+        514.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        104.32,
+        533.1,
+        162.63,
+        546.12
+      ],
+      "confidence": 0.9308,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        353.98,
+        532.83,
+        511.01,
+        548.95
+      ],
+      "confidence": 0.9584,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        662.68,
+        468.48,
+        734.64,
+        480.67
+      ],
+      "confidence": 0.9533,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Related Sites\nUSA.gov",
+      "bbox": [
+        664.0,
+        533.0,
+        763.0,
+        584.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Site Information",
+      "bbox": [
+        848.0,
+        467.0,
+        971.0,
+        483.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "Site Map",
+      "bbox": [
+        849.0,
+        567.0,
+        916.0,
+        581.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        104.77,
+        567.9,
+        241.55,
+        580.11
+      ],
+      "confidence": 0.9414,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        354.39,
+        599.82,
+        487.34,
+        616.5
+      ],
+      "confidence": 0.9589,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "Ombuds",
+      "bbox": [
+        355.0,
+        669.0,
+        417.0,
+        682.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "SIGN UP",
+      "bbox": [
+        1110.0,
+        651.0,
+        1175.0,
+        662.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        104.66,
+        467.58,
+        216.63,
+        480.76
+      ],
+      "confidence": 0.9544,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "Transparency\nAccessibility & Disability",
+      "bbox": [
+        354.0,
+        469.0,
+        538.0,
+        514.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "Investor.gov",
+      "bbox": [
+        663.0,
+        499.0,
+        754.0,
+        514.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "Plain Writing",
+      "bbox": [
+        848.0,
+        498.0,
+        944.0,
+        513.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "Privacy & Security",
+      "bbox": [
+        849.0,
+        534.0,
+        985.0,
+        548.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1089.56,
+        467.18,
+        1379.7,
+        517.67
+      ],
+      "confidence": 0.9344,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_20",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        355.01,
+        568.28,
+        391.67,
+        580.0
+      ],
+      "confidence": 0.9077,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "Contact",
+      "bbox": [
+        105.0,
+        602.0,
+        164.0,
+        614.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "Contracts",
+      "bbox": [
+        105.0,
+        636.0,
+        177.0,
+        647.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "ocr",
+      "class_label": "No FEAR Act Data",
+      "bbox": [
+        355.0,
+        636.0,
+        490.0,
+        649.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1091.41,
+        559.63,
+        1431.58,
+        600.94
+      ],
+      "confidence": 0.9145,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_25",
+      "source": "ocr",
+      "class_label": "SEC Excess Personal Property\nGuidance +",
+      "bbox": [
+        355.0,
+        701.0,
+        582.0,
+        741.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1090.5,
+        635.2,
+        1194.45,
+        677.13
+      ],
+      "confidence": 0.9463,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_27",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        353.0,
+        702.0,
+        582.0,
+        722.0
+      ],
+      "confidence": 0.9542,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        247.07,
+        53.82,
+        448.94,
+        96.25
+      ],
+      "confidence": 0.8413,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_29",
+      "source": "ocr",
+      "class_label": "Your email address",
+      "bbox": [
+        1090.0,
+        530.0,
+        1231.0,
+        548.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        105.45,
+        409.62,
+        200.89,
+        426.34
+      ],
+      "confidence": 0.9447,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_31",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        354.76,
+        468.34,
+        459.94,
+        484.25
+      ],
+      "confidence": 0.9482,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        104.13,
+        499.36,
+        274.82,
+        515.07
+      ],
+      "confidence": 0.9278,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        353.21,
+        498.73,
+        540.96,
+        515.86
+      ],
+      "confidence": 0.9271,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        849.87,
+        467.96,
+        971.73,
+        481.21
+      ],
+      "confidence": 0.9145,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        354.66,
+        668.77,
+        416.62,
+        685.05
+      ],
+      "confidence": 0.9098,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        354.72,
+        635.62,
+        490.03,
+        651.11
+      ],
+      "confidence": 0.9077,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        849.73,
+        498.72,
+        944.2,
+        515.25
+      ],
+      "confidence": 0.8861,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1090.82,
+        533.05,
+        1232.25,
+        547.23
+      ],
+      "confidence": 0.8655,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1110.63,
+        649.44,
+        1174.87,
+        661.6
+      ],
+      "confidence": 0.857,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        664.34,
+        499.48,
+        768.36,
+        515.15
+      ],
+      "confidence": 0.8497,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "ocr",
+      "class_label": "U.S. Securities and\nExchange Commiccion",
+      "bbox": [
+        186.0,
+        799.0,
+        382.0,
+        825.0
+      ],
+      "confidence": 0.84,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        663.26,
+        567.02,
+        743.39,
+        583.69
+      ],
+      "confidence": 0.7122,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        354.4,
+        702.4,
+        580.57,
+        719.86
+      ],
+      "confidence": 0.7057,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        663.78,
+        532.47,
+        764.09,
+        545.92
+      ],
+      "confidence": 0.6922,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        105.02,
+        603.34,
+        178.56,
+        651.34
+      ],
+      "confidence": 0.5013,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1117.48,
+        804.2,
+        1140.28,
+        825.43
+      ],
+      "confidence": 0.3877,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        104.5,
+        601.84,
+        164.96,
+        616.36
+      ],
+      "confidence": 0.1973,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1283.77,
+        805.92,
+        1305.73,
+        825.43
+      ],
+      "confidence": 0.1522,
+      "cluster_size": 1
+    }
+  ]
+}

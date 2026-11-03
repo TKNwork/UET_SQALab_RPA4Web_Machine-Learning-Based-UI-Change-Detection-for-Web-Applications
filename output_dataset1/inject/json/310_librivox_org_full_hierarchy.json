@@ -1,0 +1,1022 @@
+{
+  "image": "310_librivox_org.png",
+  "total_elements": 78,
+  "total_raw_nodes": 89,
+  "total_raw_edges": 62,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        287.61,
+        33.11,
+        466.63,
+        44.79
+      ],
+      "confidence": 0.8289,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_1",
+      "source": "ocr",
+      "class_label": "Author",
+      "bbox": [
+        386.0,
+        68.0,
+        430.0,
+        79.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        287.76,
+        186.8,
+        522.3,
+        199.49
+      ],
+      "confidence": 0.9523,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "Title",
+      "bbox": [
+        635.0,
+        68.0,
+        659.0,
+        79.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "Genre/Subject",
+      "bbox": [
+        843.0,
+        69.0,
+        932.0,
+        81.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        969.22,
+        185.82,
+        1061.77,
+        198.35
+      ],
+      "confidence": 0.9549,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1096.76,
+        68.08,
+        1159.14,
+        82.85
+      ],
+      "confidence": 0.8158,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "LibriVox",
+      "bbox": [
+        300.0,
+        786.0,
+        350.0,
+        795.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "A narrative of travels on the Amazon and Rio Negro, with\nan account of the native tribes, and observations on the\nclimate, geology, and natural history of the Amazon\nvalley",
+      "bbox": [
+        408.0,
+        344.0,
+        814.0,
+        410.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "Look Homeward, Angel",
+      "bbox": [
+        409.0,
+        570.0,
+        575.0,
+        584.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "Barrier boundary of the Mediterranean basin and its\nnorthern breaches as factors in history",
+      "bbox": [
+        409.0,
+        758.0,
+        779.0,
+        791.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "LibriVox Community Podcast\n#162",
+      "bbox": [
+        968.0,
+        220.0,
+        1214.0,
+        259.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "0:00",
+      "bbox": [
+        1174.0,
+        350.0,
+        1200.0,
+        360.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "LibriVox Community Podcast\n#161",
+      "bbox": [
+        968.0,
+        532.0,
+        1214.0,
+        562.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "LibriVox",
+      "bbox": [
+        300.0,
+        279.0,
+        351.0,
+        289.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "Désespoir",
+      "bbox": [
+        410.0,
+        475.0,
+        484.0,
+        490.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "Macquart Cycle",
+      "bbox": [
+        409.0,
+        681.0,
+        521.0,
+        694.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "Ellen Churchill Semple (1863-1932)",
+      "bbox": [
+        410.0,
+        797.0,
+        598.0,
+        811.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "Listen to LibriVox Community Podcast #162",
+      "bbox": [
+        969.0,
+        282.0,
+        1248.0,
+        295.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "Alfred Russel Wallace (1823-1913)",
+      "bbox": [
+        408.0,
+        418.0,
+        595.0,
+        433.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "Joy of Life (Joie de Vivre), Book Twelve of Rougon-",
+      "bbox": [
+        408.0,
+        661.0,
+        776.0,
+        676.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "Posted on December 3, 2025",
+      "bbox": [
+        969.0,
+        263.0,
+        1101.0,
+        272.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        968.26,
+        291.72,
+        1249.19,
+        499.17
+      ],
+      "confidence": 0.9459,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_23",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        968.37,
+        591.21,
+        1249.32,
+        823.84
+      ],
+      "confidence": 0.9483,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_24",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        291.95,
+        340.86,
+        359.1,
+        407.27
+      ],
+      "confidence": 0.9254,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_25",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        291.84,
+        473.98,
+        359.17,
+        540.22
+      ],
+      "confidence": 0.9478,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_26",
+      "source": "ocr",
+      "class_label": "LibriVox",
+      "bbox": [
+        299.0,
+        594.0,
+        352.0,
+        607.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "ocr",
+      "class_label": "Children's Short Works, Vol. 060\nVarious",
+      "bbox": [
+        408.0,
+        248.0,
+        640.0,
+        290.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        409.54,
+        698.66,
+        529.87,
+        715.26
+      ],
+      "confidence": 0.8256,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_29",
+      "source": "ocr",
+      "class_label": "Posted on October 15, 2025",
+      "bbox": [
+        969.0,
+        572.0,
+        1097.0,
+        580.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        794.79,
+        189.26,
+        930.79,
+        202.02
+      ],
+      "confidence": 0.9064,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_31",
+      "source": "ocr",
+      "class_label": "Complete | Collaborative | English",
+      "bbox": [
+        408.0,
+        290.0,
+        574.0,
+        304.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "ocr",
+      "class_label": "Oscar Wilde (1854-1900)",
+      "bbox": [
+        409.0,
+        497.0,
+        539.0,
+        512.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "ocr",
+      "class_label": "Thomas Wolfe (1900-1938)",
+      "bbox": [
+        409.0,
+        589.0,
+        551.0,
+        603.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "ocr",
+      "class_label": "more news »",
+      "bbox": [
+        1168.0,
+        193.0,
+        1248.0,
+        202.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "ocr",
+      "class_label": "Complete | Poetry_weekly | English",
+      "bbox": [
+        408.0,
+        519.0,
+        582.0,
+        530.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "ocr",
+      "class_label": "Complete | Collaborative | English",
+      "bbox": [
+        408.0,
+        610.0,
+        575.0,
+        622.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "ocr",
+      "class_label": "Complete | Solo | English",
+      "bbox": [
+        409.0,
+        440.0,
+        532.0,
+        451.0
+      ],
+      "confidence": 0.93,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "ocr",
+      "class_label": "Complete | Solo | English",
+      "bbox": [
+        409.0,
+        721.0,
+        533.0,
+        732.0
+      ],
+      "confidence": 0.93,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "ocr",
+      "class_label": "Desespoir",
+      "bbox": [
+        300.0,
+        481.0,
+        348.0,
+        494.0
+      ],
+      "confidence": 0.91,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        287.21,
+        744.67,
+        929.15,
+        824.37
+      ],
+      "confidence": 0.9074,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        968.6,
+        222.87,
+        1213.04,
+        252.09
+      ],
+      "confidence": 0.8814,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        409.21,
+        477.05,
+        482.03,
+        490.34
+      ],
+      "confidence": 0.8719,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        410.18,
+        569.31,
+        573.81,
+        582.17
+      ],
+      "confidence": 0.8572,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        287.87,
+        646.15,
+        930.22,
+        744.53
+      ],
+      "confidence": 0.8571,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "ocr",
+      "class_label": "Complete | Solo | English",
+      "bbox": [
+        410.0,
+        819.0,
+        532.0,
+        825.0
+      ],
+      "confidence": 0.84,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1168.9,
+        191.86,
+        1239.33,
+        201.77
+      ],
+      "confidence": 0.8245,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        299.85,
+        277.91,
+        351.34,
+        288.02
+      ],
+      "confidence": 0.8109,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        842.82,
+        67.79,
+        933.09,
+        81.99
+      ],
+      "confidence": 0.797,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        409.82,
+        251.32,
+        636.03,
+        263.96
+      ],
+      "confidence": 0.7897,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        290.84,
+        753.66,
+        357.48,
+        824.44
+      ],
+      "confidence": 0.7722,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        290.97,
+        564.65,
+        358.13,
+        633.47
+      ],
+      "confidence": 0.7035,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        408.95,
+        717.88,
+        532.56,
+        731.42
+      ],
+      "confidence": 0.6937,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_53",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        298.61,
+        784.1,
+        350.99,
+        794.98
+      ],
+      "confidence": 0.6049,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_54",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        408.01,
+        438.25,
+        535.45,
+        450.82
+      ],
+      "confidence": 0.565,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_55",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        410.38,
+        589.84,
+        563.85,
+        601.79
+      ],
+      "confidence": 0.5553,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_56",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        968.86,
+        531.11,
+        1158.04,
+        560.62
+      ],
+      "confidence": 0.5409,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_57",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        407.78,
+        419.5,
+        591.6,
+        430.57
+      ],
+      "confidence": 0.525,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_58",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        299.39,
+        595.69,
+        350.47,
+        605.29
+      ],
+      "confidence": 0.4385,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_59",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        575.23,
+        801.51,
+        597.62,
+        810.08
+      ],
+      "confidence": 0.4158,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_60",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        509.47,
+        518.1,
+        582.69,
+        527.28
+      ],
+      "confidence": 0.414,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_61",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        409.19,
+        272.77,
+        452.32,
+        283.25
+      ],
+      "confidence": 0.397,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_62",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        967.61,
+        263.53,
+        1072.47,
+        272.5
+      ],
+      "confidence": 0.3586,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_63",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1079.43,
+        264.09,
+        1101.74,
+        271.2
+      ],
+      "confidence": 0.3258,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_64",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        535.25,
+        292.85,
+        575.79,
+        301.32
+      ],
+      "confidence": 0.2614,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_65",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        387.0,
+        69.3,
+        429.0,
+        79.56
+      ],
+      "confidence": 0.2581,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_66",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        530.99,
+        293.27,
+        577.42,
+        301.23
+      ],
+      "confidence": 0.2522,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_67",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        820.18,
+        64.11,
+        829.55,
+        83.56
+      ],
+      "confidence": 0.2456,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_68",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        409.82,
+        497.9,
+        484.03,
+        509.88
+      ],
+      "confidence": 0.238,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_69",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        409.13,
+        517.61,
+        492.57,
+        526.68
+      ],
+      "confidence": 0.2233,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_70",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        517.79,
+        500.37,
+        537.87,
+        509.93
+      ],
+      "confidence": 0.2094,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_71",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        637.63,
+        69.38,
+        661.1,
+        80.03
+      ],
+      "confidence": 0.192,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_72",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        364.6,
+        63.18,
+        377.62,
+        82.76
+      ],
+      "confidence": 0.1831,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_73",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1069.44,
+        65.06,
+        1087.9,
+        85.76
+      ],
+      "confidence": 0.1748,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_74",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1240.39,
+        193.65,
+        1248.98,
+        201.02
+      ],
+      "confidence": 0.1346,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_75",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        602.55,
+        66.43,
+        620.75,
+        81.81
+      ],
+      "confidence": 0.1276,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_76",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1199.38,
+        794.64,
+        1249.14,
+        803.39
+      ],
+      "confidence": 0.1255,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_77",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        968.68,
+        240.05,
+        1008.47,
+        253.32
+      ],
+      "confidence": 0.116,
+      "cluster_size": 1
+    }
+  ]
+}

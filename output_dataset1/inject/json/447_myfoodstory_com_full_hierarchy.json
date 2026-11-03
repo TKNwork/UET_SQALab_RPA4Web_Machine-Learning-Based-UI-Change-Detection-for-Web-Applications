@@ -1,0 +1,528 @@
+{
+  "image": "447_myfoodstory_com.png",
+  "total_elements": 40,
+  "total_raw_nodes": 44,
+  "total_raw_edges": 36,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "ocr",
+      "class_label": "༢",
+      "bbox": [
+        1494.0,
+        687.0,
+        1513.0,
+        705.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        259.23,
+        16.79,
+        557.4,
+        44.51
+      ],
+      "confidence": 0.8164,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_2",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        164.87,
+        122.44,
+        867.6,
+        231.97
+      ],
+      "confidence": 0.9794,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_3",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        168.52,
+        264.46,
+        460.68,
+        277.64
+      ],
+      "confidence": 0.8926,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "Home",
+      "bbox": [
+        894.0,
+        27.0,
+        936.0,
+        37.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "Recipe Index Meet Richa Subscribe",
+      "bbox": [
+        967.0,
+        24.0,
+        1264.0,
+        39.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "rom easy desserts like chocolate magic shell, instant rabdi and cinnamon bread pudding to more adventurous ones like panna cotta, churros, kulfi and tres\nleches cake, I've got your sweet tooth covered!",
+      "bbox": [
+        168.0,
+        312.0,
+        1334.0,
+        359.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        586.74,
+        412.88,
+        949.18,
+        441.99
+      ],
+      "confidence": 0.9625,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1080.69,
+        466.58,
+        1367.33,
+        734.7
+      ],
+      "confidence": 0.9738,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        776.1,
+        467.09,
+        1063.84,
+        735.57
+      ],
+      "confidence": 0.9692,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        473.17,
+        465.71,
+        760.5,
+        736.22
+      ],
+      "confidence": 0.9618,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "Dessert Recipes",
+      "bbox": [
+        167.0,
+        56.0,
+        473.0,
+        93.0
+      ],
+      "confidence": 0.92,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        643.13,
+        311.5,
+        836.24,
+        328.64
+      ],
+      "confidence": 0.9109,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        641.0,
+        311.0,
+        836.0,
+        329.0
+      ],
+      "confidence": 0.9028,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        967.02,
+        26.04,
+        1055.75,
+        40.91
+      ],
+      "confidence": 0.8991,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        647.74,
+        122.27,
+        847.66,
+        139.99
+      ],
+      "confidence": 0.8921,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "оа",
+      "bbox": [
+        1291.0,
+        21.0,
+        1358.0,
+        39.0
+      ],
+      "confidence": 0.89,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1197.26,
+        26.18,
+        1263.9,
+        37.69
+      ],
+      "confidence": 0.8822,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1086.73,
+        26.22,
+        1164.86,
+        37.59
+      ],
+      "confidence": 0.8768,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        168.46,
+        465.51,
+        455.87,
+        769.28
+      ],
+      "confidence": 0.8746,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        650.0,
+        122.0,
+        846.0,
+        141.0
+      ],
+      "confidence": 0.8596,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        336.41,
+        122.15,
+        617.98,
+        140.13
+      ],
+      "confidence": 0.8492,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1481.63,
+        674.47,
+        1526.15,
+        719.23
+      ],
+      "confidence": 0.8463,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        610.12,
+        153.47,
+        735.81,
+        169.87
+      ],
+      "confidence": 0.8341,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        893.25,
+        26.04,
+        936.21,
+        37.66
+      ],
+      "confidence": 0.8293,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        507.3,
+        311.06,
+        608.73,
+        326.49
+      ],
+      "confidence": 0.8227,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        332.57,
+        311.57,
+        501.78,
+        328.72
+      ],
+      "confidence": 0.819,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1065.93,
+        313.43,
+        1162.21,
+        327.81
+      ],
+      "confidence": 0.799,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1479.0,
+        610.46,
+        1528.6,
+        662.18
+      ],
+      "confidence": 0.7501,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        170.08,
+        7.86,
+        241.91,
+        53.64
+      ],
+      "confidence": 0.7064,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        848.19,
+        311.78,
+        1329.88,
+        328.97
+      ],
+      "confidence": 0.6478,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        478.08,
+        154.08,
+        537.32,
+        170.38
+      ],
+      "confidence": 0.6412,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1167.38,
+        311.82,
+        1229.87,
+        326.79
+      ],
+      "confidence": 0.5731,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1290.71,
+        21.67,
+        1313.72,
+        41.84
+      ],
+      "confidence": 0.5558,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        544.84,
+        153.31,
+        577.02,
+        169.4
+      ],
+      "confidence": 0.5403,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1302.07,
+        312.85,
+        1333.86,
+        325.96
+      ],
+      "confidence": 0.5342,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1334.95,
+        21.28,
+        1357.87,
+        43.84
+      ],
+      "confidence": 0.4952,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        9.18,
+        745.23,
+        34.58,
+        769.04
+      ],
+      "confidence": 0.3439,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1235.34,
+        311.61,
+        1269.05,
+        326.87
+      ],
+      "confidence": 0.3138,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        168.64,
+        25.86,
+        191.58,
+        38.33
+      ],
+      "confidence": 0.191,
+      "cluster_size": 1
+    }
+  ]
+}

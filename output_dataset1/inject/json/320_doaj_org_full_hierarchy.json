@@ -1,0 +1,775 @@
+{
+  "image": "320_doaj_org.png",
+  "total_elements": 59,
+  "total_raw_nodes": 75,
+  "total_raw_edges": 71,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1177.0,
+        750.0,
+        1469.0,
+        755.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        807.0,
+        750.0,
+        1100.0,
+        755.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        437.0,
+        750.0,
+        729.0,
+        755.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        67.0,
+        750.0,
+        360.0,
+        755.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        642.0,
+        1536.0,
+        645.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1136.0,
+        217.0,
+        1141.0,
+        285.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        765.0,
+        108.0,
+        770.0,
+        555.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        48.0,
+        1536.0,
+        51.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        66.67,
+        112.95,
+        251.99,
+        124.23
+      ],
+      "confidence": 0.9516,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        808.41,
+        113.1,
+        879.55,
+        124.58
+      ],
+      "confidence": 0.9459,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        876.99,
+        16.8,
+        967.39,
+        26.06
+      ],
+      "confidence": 0.802,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        67.04,
+        166.49,
+        701.35,
+        243.22
+      ],
+      "confidence": 0.966,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_12",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        67.63,
+        283.18,
+        691.84,
+        330.7
+      ],
+      "confidence": 0.9241,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "apply now",
+      "bbox": [
+        84.0,
+        495.0,
+        161.0,
+        512.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "FROM ACADEMIC ORGANISATIONS",
+      "bbox": [
+        808.0,
+        262.0,
+        1067.0,
+        279.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1180.09,
+        264.91,
+        1407.78,
+        277.66
+      ],
+      "confidence": 0.8927,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "BLOG",
+      "bbox": [
+        69.0,
+        708.0,
+        110.0,
+        718.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        67.39,
+        806.75,
+        327.36,
+        825.46
+      ],
+      "confidence": 0.8557,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_18",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        437.22,
+        807.9,
+        709.55,
+        825.48
+      ],
+      "confidence": 0.8752,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_19",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1177.48,
+        807.61,
+        1412.46,
+        825.51
+      ],
+      "confidence": 0.9154,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_20",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        768.24,
+        39.17,
+        1534.44,
+        643.36
+      ],
+      "confidence": 0.9849,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "DOAJ",
+      "bbox": [
+        95.0,
+        11.0,
+        161.0,
+        29.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        823.15,
+        327.02,
+        920.77,
+        343.87
+      ],
+      "confidence": 0.9484,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_23",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        808.15,
+        421.39,
+        1249.34,
+        439.89
+      ],
+      "confidence": 0.9296,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_24",
+      "source": "ocr",
+      "class_label": "27 April 2026",
+      "bbox": [
+        67.0,
+        772.0,
+        170.0,
+        785.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "ocr",
+      "class_label": "22 April 2026",
+      "bbox": [
+        437.0,
+        772.0,
+        540.0,
+        785.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "ocr",
+      "class_label": "15 April 2026",
+      "bbox": [
+        809.0,
+        772.0,
+        909.0,
+        785.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "ocr",
+      "class_label": "13 April 2026",
+      "bbox": [
+        1179.0,
+        772.0,
+        1279.0,
+        785.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        807.64,
+        807.8,
+        1088.69,
+        825.47
+      ],
+      "confidence": 0.8576,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_29",
+      "source": "ocr",
+      "class_label": "SEARCH Q",
+      "bbox": [
+        1386.0,
+        13.0,
+        1464.0,
+        26.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "ocr",
+      "class_label": "DOAJ is independent. All support is via donations.",
+      "bbox": [
+        808.0,
+        163.0,
+        1235.0,
+        186.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        808.21,
+        226.91,
+        858.77,
+        247.38
+      ],
+      "confidence": 0.9532,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_32",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1178.31,
+        226.42,
+        1229.01,
+        247.61
+      ],
+      "confidence": 0.8896,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_33",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1.11,
+        50.22,
+        770.3,
+        641.45
+      ],
+      "confidence": 0.9697,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        66.64,
+        481.54,
+        180.7,
+        524.61
+      ],
+      "confidence": 0.9612,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_35",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        808.86,
+        314.83,
+        937.14,
+        353.46
+      ],
+      "confidence": 0.8567,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_36",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        1474.0,
+        755.0,
+        1513.0,
+        793.0
+      ],
+      "confidence": 0.9467,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "ocr",
+      "class_label": "→ How to apply",
+      "bbox": [
+        67.0,
+        428.0,
+        206.0,
+        448.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "ocr",
+      "class_label": "SUPPORT ✓",
+      "bbox": [
+        1073.0,
+        14.0,
+        1154.0,
+        24.0
+      ],
+      "confidence": 0.92,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "ocr",
+      "class_label": "→ About DOAJ",
+      "bbox": [
+        67.0,
+        372.0,
+        195.0,
+        388.0
+      ],
+      "confidence": 0.92,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        69.71,
+        430.27,
+        206.69,
+        448.87
+      ],
+      "confidence": 0.9157,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        68.43,
+        769.84,
+        171.0,
+        786.08
+      ],
+      "confidence": 0.9071,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        808.22,
+        769.68,
+        910.53,
+        786.44
+      ],
+      "confidence": 0.9065,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        69.12,
+        371.49,
+        194.45,
+        386.23
+      ],
+      "confidence": 0.9055,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        82.97,
+        495.75,
+        164.26,
+        510.3
+      ],
+      "confidence": 0.8866,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "ocr",
+      "class_label": "APPLY ✓",
+      "bbox": [
+        1239.0,
+        14.0,
+        1299.0,
+        24.0
+      ],
+      "confidence": 0.88,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        808.43,
+        264.42,
+        1069.67,
+        277.88
+      ],
+      "confidence": 0.8788,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        438.28,
+        769.98,
+        540.66,
+        786.55
+      ],
+      "confidence": 0.8746,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1097.77,
+        166.65,
+        1234.23,
+        181.02
+      ],
+      "confidence": 0.8721,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        68.46,
+        705.99,
+        110.0,
+        717.76
+      ],
+      "confidence": 0.8597,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        68.16,
+        10.6,
+        160.32,
+        30.36
+      ],
+      "confidence": 0.8154,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        806.48,
+        166.48,
+        1096.74,
+        184.92
+      ],
+      "confidence": 0.7873,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1178.79,
+        770.16,
+        1280.02,
+        786.8
+      ],
+      "confidence": 0.7365,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_53",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1476.38,
+        756.35,
+        1511.39,
+        791.2
+      ],
+      "confidence": 0.5409,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_54",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1073.35,
+        13.97,
+        1136.12,
+        23.93
+      ],
+      "confidence": 0.3773,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_55",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1240.48,
+        14.62,
+        1284.27,
+        23.7
+      ],
+      "confidence": 0.3584,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_56",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        850.44,
+        14.15,
+        863.91,
+        26.81
+      ],
+      "confidence": 0.2031,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_57",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1144.39,
+        15.68,
+        1155.37,
+        22.35
+      ],
+      "confidence": 0.1647,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_58",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1046.66,
+        11.48,
+        1063.34,
+        26.17
+      ],
+      "confidence": 0.1078,
+      "cluster_size": 1
+    }
+  ]
+}

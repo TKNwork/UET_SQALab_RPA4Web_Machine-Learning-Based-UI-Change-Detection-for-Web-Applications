@@ -1,0 +1,203 @@
+{
+  "image": "124_jsonplaceholder_typicode_com.png",
+  "total_elements": 15,
+  "total_raw_nodes": 22,
+  "total_raw_edges": 40,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        318.0,
+        374.0,
+        1217.0,
+        449.0
+      ],
+      "confidence": 0.9989,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        316.55,
+        159.11,
+        1214.19,
+        280.91
+      ],
+      "confidence": 0.9528,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_2",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        318.34,
+        48.92,
+        404.84,
+        88.86
+      ],
+      "confidence": 0.962,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_3",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        320.37,
+        117.63,
+        664.91,
+        133.68
+      ],
+      "confidence": 0.9005,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        335.92,
+        321.72,
+        412.25,
+        338.07
+      ],
+      "confidence": 0.9043,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        318.23,
+        602.6,
+        537.83,
+        633.54
+      ],
+      "confidence": 0.9575,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        310.44,
+        670.09,
+        1195.61,
+        710.39
+      ],
+      "confidence": 0.9196,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        318.35,
+        309.95,
+        427.98,
+        347.18
+      ],
+      "confidence": 0.9424,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "fetch('https://jsonplaceholder.typicode.com/todos/1')\n.then(response => response.json())",
+      "bbox": [
+        343.0,
+        188.0,
+        809.0,
+        230.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        313.17,
+        376.07,
+        1209.83,
+        449.01
+      ],
+      "confidence": 0.9561,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": ".then(json => console.log(json))",
+      "bbox": [
+        398.0,
+        237.0,
+        677.0,
+        253.0
+      ],
+      "confidence": 0.92,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        298.47,
+        0.0,
+        1310.66,
+        825.31
+      ],
+      "confidence": 0.8773,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        735.05,
+        669.95,
+        1008.68,
+        687.04
+      ],
+      "confidence": 0.869,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        635.27,
+        213.42,
+        693.89,
+        227.4
+      ],
+      "confidence": 0.3075,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        345.51,
+        405.53,
+        360.46,
+        420.33
+      ],
+      "confidence": 0.1872,
+      "cluster_size": 1
+    }
+  ]
+}

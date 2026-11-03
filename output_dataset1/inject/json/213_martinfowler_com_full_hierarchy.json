@@ -1,0 +1,489 @@
+{
+  "image": "213_martinfowler_com.png",
+  "total_elements": 37,
+  "total_raw_nodes": 44,
+  "total_raw_edges": 29,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1012.0,
+        753.0,
+        1189.0,
+        761.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1015.0,
+        756.0,
+        1183.0,
+        759.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        308.33,
+        15.65,
+        538.91,
+        41.17
+      ],
+      "confidence": 0.8899,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "In 2000, I joined Thoughtworks, where my role is to learn about the techniques\nthat we've learned to deliver software for our clients, and pass these techniques\non to the wider software industry. As this site has developed into a respected\nplatform on software development, I've edited and published articles by my\ncolleagues, both Thoughtworkers and others, to help useful writing reach a wider",
+      "bbox": [
+        294.0,
+        329.0,
+        1024.0,
+        472.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "A website on building software effectively",
+      "bbox": [
+        293.0,
+        562.0,
+        871.0,
+        596.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        294.0,
+        635.89,
+        904.75,
+        779.91
+      ],
+      "confidence": 0.945,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        296.62,
+        805.37,
+        899.7,
+        820.01
+      ],
+      "confidence": 0.8418,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Recent Changes",
+      "bbox": [
+        956.0,
+        541.0,
+        1110.0,
+        562.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        956.69,
+        791.41,
+        1087.72,
+        807.43
+      ],
+      "confidence": 0.9293,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1054.16,
+        182.37,
+        1256.29,
+        383.7
+      ],
+      "confidence": 0.9796,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "Refactoring Agile Architecture About Thoughtworks\nSoftware development is a young profession, and we are still learning the\ntechniques and building the tools to do it effectively. I've been involved in this\nactivity for over three decades and in the last two I've been writing on this\nwebsite about patterns and practices that make it easier to build useful software.\nThe site began as a place to put my own writing, but I also use it to publish\narticles by my colleagues.",
+      "bbox": [
+        294.0,
+        77.0,
+        1018.0,
+        298.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "audience.",
+      "bbox": [
+        295.0,
+        484.0,
+        381.0,
+        497.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "Martin Fowler",
+      "bbox": [
+        1100.0,
+        425.0,
+        1212.0,
+        438.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "If you'd like to be notified when I post new\nmaterial, subscribe to my RSS feed. I also\npost announcements of new material to\nFediverse (Mastodon), Bluesky, LinkedIn,\nand X (Twitter). I also have a page\ndedicated to recent changes.",
+      "bbox": [
+        955.0,
+        594.0,
+        1229.0,
+        723.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1068.97,
+        386.65,
+        1242.63,
+        400.38
+      ],
+      "confidence": 0.9156,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_15",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        949.23,
+        526.8,
+        1254.15,
+        823.98
+      ],
+      "confidence": 0.921,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1099.87,
+        423.71,
+        1212.04,
+        436.8
+      ],
+      "confidence": 0.9078,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        956.7,
+        543.96,
+        1110.08,
+        564.25
+      ],
+      "confidence": 0.907,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        447.0,
+        328.79,
+        581.23,
+        350.14
+      ],
+      "confidence": 0.9032,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        868.96,
+        77.5,
+        978.04,
+        94.57
+      ],
+      "confidence": 0.8793,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        535.28,
+        77.24,
+        623.19,
+        94.17
+      ],
+      "confidence": 0.8654,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        296.35,
+        566.47,
+        870.74,
+        595.28
+      ],
+      "confidence": 0.8639,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        694.47,
+        77.56,
+        787.9,
+        90.5
+      ],
+      "confidence": 0.8391,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        640.13,
+        77.29,
+        677.19,
+        94.22
+      ],
+      "confidence": 0.7786,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        907.98,
+        11.73,
+        1106.39,
+        31.95
+      ],
+      "confidence": 0.6965,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        806.13,
+        78.07,
+        851.41,
+        90.3
+      ],
+      "confidence": 0.6701,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1040.65,
+        707.55,
+        1139.22,
+        724.34
+      ],
+      "confidence": 0.6326,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1065.56,
+        77.45,
+        1079.13,
+        90.12
+      ],
+      "confidence": 0.6243,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        965.34,
+        685.27,
+        1057.24,
+        700.45
+      ],
+      "confidence": 0.611,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1098.88,
+        76.72,
+        1111.51,
+        90.27
+      ],
+      "confidence": 0.4946,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        996.66,
+        77.44,
+        1011.14,
+        91.31
+      ],
+      "confidence": 0.4711,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1031.23,
+        78.32,
+        1045.08,
+        90.16
+      ],
+      "confidence": 0.3504,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_32",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1170.27,
+        5.37,
+        1197.74,
+        29.42
+      ],
+      "confidence": 0.3125,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1117.76,
+        13.46,
+        1133.84,
+        27.52
+      ],
+      "confidence": 0.2362,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1132.7,
+        77.89,
+        1147.3,
+        89.89
+      ],
+      "confidence": 0.2352,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1101.89,
+        661.92,
+        1150.23,
+        678.42
+      ],
+      "confidence": 0.163,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        312.36,
+        0.0,
+        1123.39,
+        0.07
+      ],
+      "confidence": 0.1163,
+      "cluster_size": 1
+    }
+  ]
+}

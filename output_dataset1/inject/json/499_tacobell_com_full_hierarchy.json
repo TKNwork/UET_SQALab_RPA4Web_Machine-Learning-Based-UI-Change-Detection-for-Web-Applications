@@ -1,0 +1,619 @@
+{
+  "image": "499_tacobell_com.png",
+  "total_elements": 47,
+  "total_raw_nodes": 54,
+  "total_raw_edges": 52,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "ocr",
+      "class_label": "COMPANY",
+      "bbox": [
+        95.0,
+        151.0,
+        141.0,
+        161.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "ocr",
+      "class_label": "KFC",
+      "bbox": [
+        276.0,
+        25.0,
+        293.0,
+        30.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "Habit",
+      "bbox": [
+        307.0,
+        40.0,
+        337.0,
+        52.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "COMPANY",
+      "bbox": [
+        338.0,
+        52.0,
+        403.0,
+        64.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        96.05,
+        227.82,
+        165.94,
+        240.76
+      ],
+      "confidence": 0.9503,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "BRANDS",
+      "bbox": [
+        96.0,
+        270.0,
+        134.0,
+        279.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        96.48,
+        345.73,
+        154.75,
+        355.87
+      ],
+      "confidence": 0.9345,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Pizza Hut",
+      "bbox": [
+        96.0,
+        378.0,
+        155.0,
+        391.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        39.75,
+        554.65,
+        102.3,
+        568.33
+      ],
+      "confidence": 0.9527,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "CAREERS",
+      "bbox": [
+        96.0,
+        654.0,
+        137.0,
+        664.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        95.58,
+        695.77,
+        170.13,
+        706.22
+      ],
+      "confidence": 0.9421,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        95.87,
+        798.13,
+        262.56,
+        813.63
+      ],
+      "confidence": 0.9298,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "Yum!",
+      "bbox": [
+        15.0,
+        13.0,
+        55.0,
+        29.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "Habit",
+      "bbox": [
+        149.0,
+        15.0,
+        170.0,
+        23.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "Yum!",
+      "bbox": [
+        188.0,
+        25.0,
+        253.0,
+        43.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "YUM - NYSE\n128.22",
+      "bbox": [
+        1437.0,
+        44.0,
+        1504.0,
+        83.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "KFC",
+      "bbox": [
+        95.0,
+        310.0,
+        123.0,
+        323.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "FRANCHISING & REAL ESTATE",
+      "bbox": [
+        96.0,
+        457.0,
+        227.0,
+        467.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "Our Functions",
+      "bbox": [
+        96.0,
+        765.0,
+        185.0,
+        775.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "Good Growth Strategy",
+      "bbox": [
+        96.0,
+        193.0,
+        238.0,
+        207.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        95.68,
+        414.05,
+        219.06,
+        427.99
+      ],
+      "confidence": 0.9352,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "How We Work",
+      "bbox": [
+        96.0,
+        731.0,
+        187.0,
+        742.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        37.92,
+        612.13,
+        1380.98,
+        825.81
+      ],
+      "confidence": 0.9612,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        96.85,
+        194.46,
+        238.14,
+        208.51
+      ],
+      "confidence": 0.9345,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        38.9,
+        108.4,
+        956.67,
+        509.96
+      ],
+      "confidence": 0.9199,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        95.28,
+        764.52,
+        185.25,
+        778.88
+      ],
+      "confidence": 0.9172,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        95.08,
+        455.85,
+        227.07,
+        469.79
+      ],
+      "confidence": 0.916,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "ocr",
+      "class_label": "-0.42",
+      "bbox": [
+        1438.0,
+        101.0,
+        1462.0,
+        111.0
+      ],
+      "confidence": 0.91,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        95.43,
+        378.68,
+        155.78,
+        394.14
+      ],
+      "confidence": 0.9004,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        95.77,
+        312.11,
+        122.94,
+        324.49
+      ],
+      "confidence": 0.8522,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        96.07,
+        151.14,
+        141.55,
+        164.35
+      ],
+      "confidence": 0.8502,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        96.43,
+        730.07,
+        185.68,
+        745.62
+      ],
+      "confidence": 0.8375,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1437.17,
+        42.72,
+        1505.13,
+        56.25
+      ],
+      "confidence": 0.8328,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        178.71,
+        4.02,
+        261.97,
+        64.95
+      ],
+      "confidence": 0.8129,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        96.16,
+        269.43,
+        134.24,
+        281.08
+      ],
+      "confidence": 0.7298,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1438.24,
+        69.39,
+        1486.93,
+        84.05
+      ],
+      "confidence": 0.6931,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        148.22,
+        153.79,
+        157.76,
+        161.18
+      ],
+      "confidence": 0.3479,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1440.54,
+        101.91,
+        1463.12,
+        110.45
+      ],
+      "confidence": 0.3354,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        96.09,
+        655.26,
+        153.84,
+        664.09
+      ],
+      "confidence": 0.2386,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_39",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        141.61,
+        271.99,
+        150.64,
+        279.53
+      ],
+      "confidence": 0.2267,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        307.42,
+        6.8,
+        335.68,
+        30.99
+      ],
+      "confidence": 0.2142,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        272.38,
+        7.54,
+        296.72,
+        31.3
+      ],
+      "confidence": 0.1527,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        138.57,
+        269.41,
+        152.13,
+        279.55
+      ],
+      "confidence": 0.1284,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        87.18,
+        12.68,
+        115.71,
+        31.03
+      ],
+      "confidence": 0.1255,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        121.88,
+        12.63,
+        172.82,
+        31.42
+      ],
+      "confidence": 0.1094,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        65.38,
+        12.61,
+        87.95,
+        31.03
+      ],
+      "confidence": 0.1073,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        271.25,
+        36.75,
+        301.81,
+        63.05
+      ],
+      "confidence": 0.1013,
+      "cluster_size": 1
+    }
+  ]
+}

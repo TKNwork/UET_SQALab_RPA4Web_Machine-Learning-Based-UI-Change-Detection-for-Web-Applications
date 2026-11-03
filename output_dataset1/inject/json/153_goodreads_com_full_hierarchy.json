@@ -1,0 +1,1438 @@
+{
+  "image": "153_goodreads_com.png",
+  "total_elements": 110,
+  "total_raw_nodes": 127,
+  "total_raw_edges": 72,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "ocr",
+      "class_label": "THIS\nLAND",
+      "bbox": [
+        404.0,
+        249.0,
+        436.0,
+        295.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "ocr",
+      "class_label": "૧",
+      "bbox": [
+        586.0,
+        650.0,
+        601.0,
+        666.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        298.0,
+        647.0,
+        605.0,
+        670.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "Deciding what to read next?",
+      "bbox": [
+        296.0,
+        19.0,
+        517.0,
+        37.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        294.76,
+        58.96,
+        570.8,
+        125.08
+      ],
+      "confidence": 0.9831,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        614.16,
+        21.42,
+        860.62,
+        38.36
+      ],
+      "confidence": 0.9591,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "GATHER MOTHERLESS",
+      "bbox": [
+        318.0,
+        254.0,
+        481.0,
+        281.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "skin",
+      "bbox": [
+        752.0,
+        310.0,
+        784.0,
+        322.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1003.22,
+        4.26,
+        1190.85,
+        18.61
+      ],
+      "confidence": 0.9429,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "123 likes",
+      "bbox": [
+        1048.0,
+        421.0,
+        1095.0,
+        430.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "Best Books of the 20th",
+      "bbox": [
+        1049.0,
+        560.0,
+        1190.0,
+        571.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "Century",
+      "bbox": [
+        1048.0,
+        579.0,
+        1099.0,
+        590.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        295.05,
+        616.77,
+        497.06,
+        630.38
+      ],
+      "confidence": 0.9466,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "Ebooks",
+      "bbox": [
+        453.0,
+        689.0,
+        497.0,
+        699.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "Biography",
+      "bbox": [
+        296.0,
+        709.0,
+        359.0,
+        721.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "Fantasy",
+      "bbox": [
+        453.0,
+        709.0,
+        500.0,
+        720.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "Music\nMystery",
+      "bbox": [
+        608.0,
+        689.0,
+        660.0,
+        721.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "Business",
+      "bbox": [
+        296.0,
+        729.0,
+        349.0,
+        741.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "Fiction",
+      "bbox": [
+        453.0,
+        729.0,
+        494.0,
+        741.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "Thriller",
+      "bbox": [
+        765.0,
+        729.0,
+        809.0,
+        742.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        294.99,
+        750.54,
+        356.48,
+        761.12
+      ],
+      "confidence": 0.8268,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "Graphic Novels",
+      "bbox": [
+        452.0,
+        751.0,
+        546.0,
+        763.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "Travel",
+      "bbox": [
+        764.0,
+        750.0,
+        801.0,
+        762.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "ocr",
+      "class_label": "Christian",
+      "bbox": [
+        296.0,
+        773.0,
+        351.0,
+        783.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "ocr",
+      "class_label": "Psychology",
+      "bbox": [
+        608.0,
+        773.0,
+        677.0,
+        786.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        764.32,
+        772.26,
+        839.58,
+        784.24
+      ],
+      "confidence": 0.8136,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_26",
+      "source": "ocr",
+      "class_label": "Romance",
+      "bbox": [
+        609.0,
+        793.0,
+        664.0,
+        803.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        764.72,
+        791.95,
+        842.56,
+        805.15
+      ],
+      "confidence": 0.8495,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_28",
+      "source": "ocr",
+      "class_label": "Nonfiction\nPoetry",
+      "bbox": [
+        608.0,
+        729.0,
+        673.0,
+        762.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        764.02,
+        688.62,
+        820.93,
+        700.18
+      ],
+      "confidence": 0.8097,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_30",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1046.04,
+        717.44,
+        1309.87,
+        734.44
+      ],
+      "confidence": 0.9567,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_31",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1046.96,
+        753.33,
+        1324.63,
+        802.04
+      ],
+      "confidence": 0.9316,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_32",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        295.9,
+        812.95,
+        340.69,
+        824.15
+      ],
+      "confidence": 0.8026,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_33",
+      "source": "ocr",
+      "class_label": "Horror",
+      "bbox": [
+        453.0,
+        814.0,
+        494.0,
+        824.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "ocr",
+      "class_label": "Science",
+      "bbox": [
+        608.0,
+        813.0,
+        654.0,
+        824.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        615.24,
+        58.44,
+        888.44,
+        106.98
+      ],
+      "confidence": 0.9479,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_36",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        310.1,
+        173.43,
+        497.03,
+        189.2
+      ],
+      "confidence": 0.9461,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_37",
+      "source": "ocr",
+      "class_label": "Because Shomeret liked...",
+      "bbox": [
+        311.0,
+        213.0,
+        446.0,
+        223.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "ocr",
+      "class_label": "ME",
+      "bbox": [
+        336.0,
+        274.0,
+        363.0,
+        288.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "ocr",
+      "class_label": "GLORY EDIM",
+      "bbox": [
+        317.0,
+        333.0,
+        382.0,
+        349.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "ocr",
+      "class_label": "colored\ntelevision",
+      "bbox": [
+        598.0,
+        319.0,
+        655.0,
+        344.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "ocr",
+      "class_label": "Because Shomeret liked...",
+      "bbox": [
+        311.0,
+        403.0,
+        445.0,
+        414.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "ocr",
+      "class_label": "THE",
+      "bbox": [
+        462.0,
+        460.0,
+        478.0,
+        466.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "ocr",
+      "class_label": "VANISHING\nTREASURES",
+      "bbox": [
+        599.0,
+        448.0,
+        654.0,
+        465.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "ocr",
+      "class_label": "She discovered:",
+      "bbox": [
+        710.0,
+        213.0,
+        793.0,
+        223.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "ocr",
+      "class_label": "Contemporary",
+      "bbox": [
+        800.0,
+        249.0,
+        878.0,
+        259.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "ocr",
+      "class_label": "bones",
+      "bbox": [
+        748.0,
+        337.0,
+        786.0,
+        349.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        710.04,
+        403.11,
+        793.9,
+        412.7
+      ],
+      "confidence": 0.9096,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_48",
+      "source": "ocr",
+      "class_label": "KATHERINE\nRUNDELL",
+      "bbox": [
+        601.0,
+        533.0,
+        654.0,
+        547.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1048.16,
+        179.5,
+        1181.62,
+        191.64
+      ],
+      "confidence": 0.9423,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_50",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1045.94,
+        214.35,
+        1343.97,
+        227.88
+      ],
+      "confidence": 0.9279,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_51",
+      "source": "ocr",
+      "class_label": "THE\nGLORIANS",
+      "bbox": [
+        1199.0,
+        269.0,
+        1258.0,
+        295.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1047.97,
+        484.8,
+        1128.31,
+        498.65
+      ],
+      "confidence": 0.9447,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_53",
+      "source": "ocr",
+      "class_label": "WHEN THE\nFOREST\nBREATHES",
+      "bbox": [
+        1280.0,
+        302.0,
+        1329.0,
+        331.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_54",
+      "source": "ocr",
+      "class_label": "Title / Author / ISBN",
+      "bbox": [
+        301.0,
+        652.0,
+        422.0,
+        664.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_55",
+      "source": "ocr",
+      "class_label": "Sports",
+      "bbox": [
+        764.0,
+        708.0,
+        803.0,
+        721.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_56",
+      "source": "ocr",
+      "class_label": "Historical Fiction",
+      "bbox": [
+        453.0,
+        773.0,
+        556.0,
+        784.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_57",
+      "source": "ocr",
+      "class_label": "Classics",
+      "bbox": [
+        296.0,
+        793.0,
+        344.0,
+        803.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_58",
+      "source": "ocr",
+      "class_label": "History",
+      "bbox": [
+        452.0,
+        793.0,
+        498.0,
+        805.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_59",
+      "source": "ocr",
+      "class_label": "More book lists",
+      "bbox": [
+        1048.0,
+        675.0,
+        1142.0,
+        688.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_60",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        588.0,
+        437.0,
+        667.0,
+        556.0
+      ],
+      "confidence": 0.9787,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_61",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        312.0,
+        437.0,
+        391.0,
+        556.0
+      ],
+      "confidence": 0.9787,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_62",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        312.0,
+        246.0,
+        391.0,
+        365.0
+      ],
+      "confidence": 0.9787,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_63",
+      "source": "ocr",
+      "class_label": "MIGHTY",
+      "bbox": [
+        502.0,
+        275.0,
+        568.0,
+        293.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_64",
+      "source": "ocr",
+      "class_label": "IMMORTAL LIFE",
+      "bbox": [
+        415.0,
+        475.0,
+        480.0,
+        482.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_65",
+      "source": "ocr",
+      "class_label": "Nonfiction,\nMicrohistory",
+      "bbox": [
+        801.0,
+        437.0,
+        870.0,
+        468.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_66",
+      "source": "ocr",
+      "class_label": "MARY ROACH",
+      "bbox": [
+        321.0,
+        531.0,
+        380.0,
+        537.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_67",
+      "source": "ocr",
+      "class_label": "SALT LAKES",
+      "bbox": [
+        1131.0,
+        254.0,
+        1190.0,
+        269.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_68",
+      "source": "ocr",
+      "class_label": "Best for Book Clubs\n15,223 books | 19,362 voters",
+      "bbox": [
+        1048.0,
+        517.0,
+        1190.0,
+        543.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_69",
+      "source": "ocr",
+      "class_label": "Best Crime & Mystery Books\n7,414 books | 16,253 voters",
+      "bbox": [
+        1047.0,
+        615.0,
+        1225.0,
+        643.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_70",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        792.0,
+        341.0,
+        920.0,
+        380.0
+      ],
+      "confidence": 0.9663,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_71",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1043.73,
+        245.05,
+        1349.61,
+        402.76
+      ],
+      "confidence": 0.9608,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_72",
+      "source": "ocr",
+      "class_label": "Stiff",
+      "bbox": [
+        317.0,
+        489.0,
+        385.0,
+        520.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_73",
+      "source": "ocr",
+      "class_label": "THE",
+      "bbox": [
+        518.0,
+        253.0,
+        551.0,
+        272.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_74",
+      "source": "ocr",
+      "class_label": "7,888 books | 49,805 voters",
+      "bbox": [
+        1047.0,
+        596.0,
+        1184.0,
+        607.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_75",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        1291.0,
+        557.0,
+        1350.0,
+        600.0
+      ],
+      "confidence": 0.9484,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_76",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        1232.0,
+        512.0,
+        1350.0,
+        555.0
+      ],
+      "confidence": 0.9471,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_77",
+      "source": "ocr",
+      "class_label": "RED",
+      "bbox": [
+        519.0,
+        295.0,
+        551.0,
+        314.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_78",
+      "source": "ocr",
+      "class_label": "HENRIETTA\nLACKS",
+      "bbox": [
+        431.0,
+        495.0,
+        480.0,
+        518.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_79",
+      "source": "ocr",
+      "class_label": "Amanda\nMontell",
+      "bbox": [
+        540.0,
+        524.0,
+        573.0,
+        542.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_80",
+      "source": "ocr",
+      "class_label": "FOREST\nEUPHORIA",
+      "bbox": [
+        1052.0,
+        306.0,
+        1093.0,
+        325.0
+      ],
+      "confidence": 0.93,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_81",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        296.03,
+        21.08,
+        517.62,
+        38.86
+      ],
+      "confidence": 0.9291,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_82",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        947.56,
+        0.0,
+        1246.23,
+        44.48
+      ],
+      "confidence": 0.9245,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_83",
+      "source": "ocr",
+      "class_label": "TERRY TEMPEST\nWILLIAMS",
+      "bbox": [
+        1210.0,
+        357.0,
+        1270.0,
+        378.0
+      ],
+      "confidence": 0.92,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_84",
+      "source": "ocr",
+      "class_label": "Art",
+      "bbox": [
+        295.0,
+        690.0,
+        317.0,
+        699.0
+      ],
+      "confidence": 0.92,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_85",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        492.83,
+        244.62,
+        575.35,
+        365.35
+      ],
+      "confidence": 0.9175,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_86",
+      "source": "ocr",
+      "class_label": "EYELINER",
+      "bbox": [
+        718.0,
+        443.0,
+        771.0,
+        452.0
+      ],
+      "confidence": 0.91,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_87",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        298.12,
+        380.4,
+        918.63,
+        583.75
+      ],
+      "confidence": 0.905,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_88",
+      "source": "ocr",
+      "class_label": "Renee Watson Fiction",
+      "bbox": [
+        713.0,
+        266.0,
+        838.0,
+        278.0
+      ],
+      "confidence": 0.9,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_89",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1048.1,
+        676.01,
+        1142.46,
+        686.01
+      ],
+      "confidence": 0.8949,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_90",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        710.94,
+        213.74,
+        792.19,
+        222.2
+      ],
+      "confidence": 0.8849,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_91",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        297.0,
+        341.0,
+        711.0,
+        380.0
+      ],
+      "confidence": 0.8846,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_92",
+      "source": "ocr",
+      "class_label": "NIKKT MAY ERDRICH danzy Senna",
+      "bbox": [
+        404.0,
+        338.0,
+        664.0,
+        361.0
+      ],
+      "confidence": 0.88,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_93",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        310.9,
+        213.35,
+        445.1,
+        221.88
+      ],
+      "confidence": 0.8799,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_94",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1048.72,
+        419.69,
+        1095.51,
+        429.64
+      ],
+      "confidence": 0.8702,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_95",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1048.74,
+        515.95,
+        1170.06,
+        528.36
+      ],
+      "confidence": 0.8541,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_96",
+      "source": "ocr",
+      "class_label": "Cultish",
+      "bbox": [
+        494.0,
+        480.0,
+        570.0,
+        511.0
+      ],
+      "confidence": 0.85,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_97",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1209.07,
+        360.11,
+        1270.3,
+        377.32
+      ],
+      "confidence": 0.7774,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_98",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        295.67,
+        643.48,
+        608.41,
+        671.12
+      ],
+      "confidence": 0.6477,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_99",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        295.76,
+        688.35,
+        315.64,
+        698.92
+      ],
+      "confidence": 0.643,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_100",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1047.83,
+        560.03,
+        1190.0,
+        589.65
+      ],
+      "confidence": 0.6421,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_101",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        296.49,
+        708.11,
+        358.59,
+        722.42
+      ],
+      "confidence": 0.641,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_102",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        800.9,
+        248.12,
+        878.31,
+        275.65
+      ],
+      "confidence": 0.5269,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_103",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        301.44,
+        650.44,
+        423.63,
+        664.43
+      ],
+      "confidence": 0.511,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_104",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1214.19,
+        247.23,
+        1236.65,
+        267.69
+      ],
+      "confidence": 0.2306,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_105",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        584.94,
+        648.83,
+        605.35,
+        667.86
+      ],
+      "confidence": 0.2219,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_106",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        586.47,
+        649.38,
+        604.41,
+        666.25
+      ],
+      "confidence": 0.158,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_107",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        584.73,
+        645.7,
+        606.51,
+        669.91
+      ],
+      "confidence": 0.148,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_108",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        296.32,
+        707.34,
+        317.27,
+        719.79
+      ],
+      "confidence": 0.1351,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_109",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        453.62,
+        687.93,
+        497.51,
+        698.04
+      ],
+      "confidence": 0.1192,
+      "cluster_size": 1
+    }
+  ]
+}

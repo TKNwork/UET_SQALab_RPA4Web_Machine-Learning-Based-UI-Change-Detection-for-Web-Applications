@@ -1,0 +1,385 @@
+{
+  "image": "042_apple_com.png",
+  "total_elements": 29,
+  "total_raw_nodes": 37,
+  "total_raw_edges": 42,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        92.41,
+        153.47,
+        1000.69,
+        275.58
+      ],
+      "confidence": 0.957,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_1",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        247.7,
+        411.64,
+        335.48,
+        432.87
+      ],
+      "confidence": 0.9366,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_2",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        645.39,
+        411.57,
+        737.94,
+        432.96
+      ],
+      "confidence": 0.9329,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_3",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        538.08,
+        443.0,
+        847.59,
+        482.39
+      ],
+      "confidence": 0.9458,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        938.71,
+        443.5,
+        1245.62,
+        481.1
+      ],
+      "confidence": 0.9196,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "Shop Sensors and",
+      "bbox": [
+        1389.0,
+        478.0,
+        1527.0,
+        494.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "Shop accessories >",
+      "bbox": [
+        680.0,
+        297.0,
+        853.0,
+        318.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Put your routine on a timer. Or set the\nmood with bulbs and switches.",
+      "bbox": [
+        145.0,
+        445.0,
+        439.0,
+        480.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1046.3,
+        411.55,
+        1137.9,
+        429.63
+      ],
+      "confidence": 0.9024,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "Shop Thermostats >",
+      "bbox": [
+        1015.0,
+        501.0,
+        1169.0,
+        514.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1335.58,
+        443.29,
+        1534.97,
+        460.88
+      ],
+      "confidence": 0.8239,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        649.0,
+        559.0,
+        736.0,
+        800.0
+      ],
+      "confidence": 0.9751,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "Shop Lights & Bulbs, Outlets,\nand Switches >",
+      "bbox": [
+        179.0,
+        500.0,
+        404.0,
+        535.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        579.34,
+        500.72,
+        803.41,
+        515.79
+      ],
+      "confidence": 0.9454,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "72",
+      "bbox": [
+        1008.0,
+        675.0,
+        1069.0,
+        714.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        660.0,
+        571.0,
+        724.0,
+        641.0
+      ],
+      "confidence": 0.9689,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "Entry",
+      "bbox": [
+        1465.0,
+        412.0,
+        1521.0,
+        431.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        503.49,
+        371.43,
+        884.15,
+        825.57
+      ],
+      "confidence": 0.9468,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1301.39,
+        373.32,
+        1534.42,
+        823.29
+      ],
+      "confidence": 0.9447,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        901.81,
+        371.77,
+        1283.3,
+        824.97
+      ],
+      "confidence": 0.9385,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        681.18,
+        300.03,
+        843.16,
+        319.52
+      ],
+      "confidence": 0.931,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        103.42,
+        372.77,
+        485.51,
+        826.0
+      ],
+      "confidence": 0.9294,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1389.56,
+        479.22,
+        1534.01,
+        495.22
+      ],
+      "confidence": 0.9227,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1015.62,
+        500.53,
+        1167.96,
+        516.93
+      ],
+      "confidence": 0.9159,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1431.7,
+        694.26,
+        1518.19,
+        782.21
+      ],
+      "confidence": 0.8864,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1333.44,
+        694.31,
+        1419.03,
+        780.68
+      ],
+      "confidence": 0.8782,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1463.99,
+        411.18,
+        1522.26,
+        433.56
+      ],
+      "confidence": 0.8266,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        845.23,
+        304.1,
+        854.7,
+        314.74
+      ],
+      "confidence": 0.3658,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1363.28,
+        734.45,
+        1391.36,
+        760.03
+      ],
+      "confidence": 0.2579,
+      "cluster_size": 1
+    }
+  ]
+}

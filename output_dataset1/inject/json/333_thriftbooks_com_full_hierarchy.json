@@ -1,0 +1,1113 @@
+{
+  "image": "333_thriftbooks_com.png",
+  "total_elements": 85,
+  "total_raw_nodes": 96,
+  "total_raw_edges": 58,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        134.0,
+        1536.0,
+        137.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        228.0,
+        0.0,
+        392.0,
+        9.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        217.33,
+        191.59,
+        320.99,
+        232.26
+      ],
+      "confidence": 0.9716,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_3",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        217.09,
+        256.82,
+        278.74,
+        268.36
+      ],
+      "confidence": 0.9512,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "Website",
+      "bbox": [
+        415.0,
+        190.0,
+        495.0,
+        208.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "Partnerships",
+      "bbox": [
+        617.0,
+        190.0,
+        739.0,
+        209.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "Educator Benefits",
+      "bbox": [
+        415.0,
+        265.0,
+        526.0,
+        277.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Library Program\nWholesale",
+      "bbox": [
+        615.0,
+        234.0,
+        713.0,
+        277.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Librarian Benefits\ne-Gift Cards\nBlog",
+      "bbox": [
+        414.0,
+        297.0,
+        525.0,
+        373.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        217.65,
+        445.22,
+        276.03,
+        456.75
+      ],
+      "confidence": 0.9367,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        217.84,
+        474.92,
+        326.43,
+        489.6
+      ],
+      "confidence": 0.9598,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "News",
+      "bbox": [
+        815.0,
+        390.0,
+        851.0,
+        402.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "Testimonials",
+      "bbox": [
+        815.0,
+        422.0,
+        891.0,
+        432.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        215.48,
+        636.53,
+        1001.02,
+        679.79
+      ],
+      "confidence": 0.9597,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "Excellent quality - as described\nSusan Lockyer, 42 minutes ago",
+      "bbox": [
+        754.0,
+        0.0,
+        932.0,
+        34.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "I enjoy being able to browse the books\nfrom home, finding new authors and...\nILENE LANE, 48 minutes ago",
+      "bbox": [
+        1037.0,
+        0.0,
+        1257.0,
+        49.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "ShareBookLove",
+      "bbox": [
+        415.0,
+        234.0,
+        511.0,
+        246.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        814.29,
+        191.27,
+        902.63,
+        206.61
+      ],
+      "confidence": 0.9524,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "Follow Us",
+      "bbox": [
+        1055.0,
+        189.0,
+        1149.0,
+        204.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "Our Purpose\nOur Team",
+      "bbox": [
+        814.0,
+        266.0,
+        892.0,
+        310.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "Quick Help",
+      "bbox": [
+        616.0,
+        318.0,
+        721.0,
+        334.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "Mystery & Thriller",
+      "bbox": [
+        218.0,
+        381.0,
+        328.0,
+        395.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "View Mobile Site",
+      "bbox": [
+        414.0,
+        390.0,
+        519.0,
+        402.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        218.19,
+        506.38,
+        368.9,
+        518.73
+      ],
+      "confidence": 0.9444,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_24",
+      "source": "ocr",
+      "class_label": "Social Responsibility\nCareers",
+      "bbox": [
+        814.0,
+        326.0,
+        940.0,
+        370.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "ocr",
+      "class_label": "I was pleasantly surprised at how fast\nreceived the two books I had ordered. T...\nAdele, 25 minutes ago",
+      "bbox": [
+        469.0,
+        0.0,
+        708.0,
+        49.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "ocr",
+      "class_label": "Showing our 5 star reviews",
+      "bbox": [
+        469.0,
+        71.0,
+        627.0,
+        83.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        814.16,
+        234.7,
+        874.97,
+        247.53
+      ],
+      "confidence": 0.941,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_28",
+      "source": "ocr",
+      "class_label": "My Account",
+      "bbox": [
+        416.0,
+        439.0,
+        528.0,
+        459.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "ocr",
+      "class_label": "Help & Support\nShipping Costs\nBilling\nReturn Policy\nWebsite Suggestions",
+      "bbox": [
+        615.0,
+        359.0,
+        747.0,
+        498.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        209.49,
+        742.79,
+        423.91,
+        759.62
+      ],
+      "confidence": 0.8344,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_31",
+      "source": "ocr",
+      "class_label": "Terms of Use | Privacy Policy | Do Not Sell/Share My Personal Information | Cookie Policy | Cookie Preferences | Accessibility Statement\nThriftBooks® and the ThriftBooks® logo are registered trademarks of Thrift Books Global, LLC",
+      "bbox": [
+        209.0,
+        769.0,
+        1049.0,
+        807.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "ocr",
+      "class_label": "Based on 2,758,557 reviews",
+      "bbox": [
+        228.0,
+        19.0,
+        392.0,
+        30.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        218.34,
+        350.9,
+        335.14,
+        362.74
+      ],
+      "confidence": 0.9405,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_34",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        216.68,
+        413.12,
+        315.32,
+        426.97
+      ],
+      "confidence": 0.9464,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_35",
+      "source": "ocr",
+      "class_label": "Settings\nShopping Cart\nOrder History\nWish List",
+      "bbox": [
+        413.0,
+        485.0,
+        505.0,
+        591.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        615.81,
+        358.04,
+        711.9,
+        373.52
+      ],
+      "confidence": 0.954,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        617.28,
+        315.94,
+        721.97,
+        335.41
+      ],
+      "confidence": 0.9506,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "ocr",
+      "class_label": "Teen and Young Adult\nSelf-Help",
+      "bbox": [
+        216.0,
+        288.0,
+        355.0,
+        334.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        618.09,
+        191.43,
+        739.46,
+        210.59
+      ],
+      "confidence": 0.9473,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        416.22,
+        191.17,
+        494.55,
+        206.46
+      ],
+      "confidence": 0.9323,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        813.8,
+        327.47,
+        939.28,
+        342.03
+      ],
+      "confidence": 0.932,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        617.24,
+        452.41,
+        698.78,
+        467.11
+      ],
+      "confidence": 0.9307,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        616.37,
+        388.86,
+        708.96,
+        403.53
+      ],
+      "confidence": 0.9297,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        218.91,
+        380.62,
+        330.29,
+        396.92
+      ],
+      "confidence": 0.9256,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        616.88,
+        483.85,
+        745.49,
+        498.21
+      ],
+      "confidence": 0.9246,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        469.8,
+        69.37,
+        626.73,
+        84.8
+      ],
+      "confidence": 0.9246,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        814.31,
+        359.59,
+        862.96,
+        370.05
+      ],
+      "confidence": 0.9204,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "ocr",
+      "class_label": "⭑Trustpilot",
+      "bbox": [
+        257.0,
+        39.0,
+        364.0,
+        63.0
+      ],
+      "confidence": 0.92,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        616.49,
+        420.15,
+        654.93,
+        433.92
+      ],
+      "confidence": 0.9175,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        814.32,
+        297.22,
+        876.39,
+        307.82
+      ],
+      "confidence": 0.9169,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1056.71,
+        187.7,
+        1148.54,
+        203.04
+      ],
+      "confidence": 0.9168,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        415.36,
+        388.97,
+        518.23,
+        401.17
+      ],
+      "confidence": 0.916,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_53",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        417.08,
+        442.16,
+        528.92,
+        459.89
+      ],
+      "confidence": 0.9156,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_54",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        415.86,
+        296.54,
+        524.32,
+        307.29
+      ],
+      "confidence": 0.9152,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_55",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        414.67,
+        327.86,
+        490.21,
+        338.8
+      ],
+      "confidence": 0.9139,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_56",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        1289.0,
+        225.0,
+        1316.0,
+        252.0
+      ],
+      "confidence": 0.9108,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_57",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        217.14,
+        318.45,
+        274.37,
+        334.45
+      ],
+      "confidence": 0.9107,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_58",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        219.79,
+        288.5,
+        355.22,
+        303.18
+      ],
+      "confidence": 0.9073,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_59",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        415.2,
+        576.37,
+        473.75,
+        588.19
+      ],
+      "confidence": 0.8966,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_60",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        415.75,
+        233.43,
+        512.72,
+        244.56
+      ],
+      "confidence": 0.8952,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_61",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        814.19,
+        265.3,
+        893.55,
+        278.87
+      ],
+      "confidence": 0.8948,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_62",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        414.75,
+        515.14,
+        502.81,
+        528.73
+      ],
+      "confidence": 0.8888,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_63",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        414.72,
+        545.09,
+        499.73,
+        559.94
+      ],
+      "confidence": 0.8797,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_64",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        416.29,
+        263.77,
+        525.7,
+        275.78
+      ],
+      "confidence": 0.8786,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_65",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        414.05,
+        483.96,
+        464.87,
+        498.3
+      ],
+      "confidence": 0.8749,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_66",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        818.56,
+        420.54,
+        890.58,
+        431.78
+      ],
+      "confidence": 0.8739,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_67",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        616.77,
+        233.7,
+        715.76,
+        248.3
+      ],
+      "confidence": 0.8681,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_68",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1020.21,
+        137.02,
+        1536.0,
+        826.0
+      ],
+      "confidence": 0.8636,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_69",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        414.88,
+        358.26,
+        443.73,
+        372.57
+      ],
+      "confidence": 0.8416,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_70",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        615.94,
+        264.29,
+        680.87,
+        275.97
+      ],
+      "confidence": 0.8225,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_71",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        814.73,
+        390.73,
+        849.22,
+        400.85
+      ],
+      "confidence": 0.8142,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_72",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        679.08,
+        767.62,
+        891.42,
+        783.73
+      ],
+      "confidence": 0.7936,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_73",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        754.97,
+        20.94,
+        927.57,
+        34.21
+      ],
+      "confidence": 0.7174,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_74",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        906.41,
+        768.28,
+        1048.81,
+        782.98
+      ],
+      "confidence": 0.6933,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_75",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        644.29,
+        790.85,
+        788.71,
+        808.1
+      ],
+      "confidence": 0.69,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_76",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        416.66,
+        4.92,
+        442.86,
+        29.52
+      ],
+      "confidence": 0.621,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_77",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        284.04,
+        44.78,
+        364.12,
+        64.08
+      ],
+      "confidence": 0.6061,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_78",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        470.12,
+        0.19,
+        708.95,
+        26.46
+      ],
+      "confidence": 0.5797,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_79",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1035.86,
+        2.3,
+        1260.63,
+        27.55
+      ],
+      "confidence": 0.559,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_80",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1292.1,
+        4.28,
+        1318.96,
+        30.14
+      ],
+      "confidence": 0.5424,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_81",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1290.64,
+        227.8,
+        1314.5,
+        250.44
+      ],
+      "confidence": 0.2751,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_82",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1072.37,
+        227.44,
+        1086.69,
+        250.62
+      ],
+      "confidence": 0.2337,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_83",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1122.24,
+        227.93,
+        1146.3,
+        249.99
+      ],
+      "confidence": 0.2233,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_84",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        258.46,
+        39.55,
+        281.64,
+        61.57
+      ],
+      "confidence": 0.1644,
+      "cluster_size": 1
+    }
+  ]
+}

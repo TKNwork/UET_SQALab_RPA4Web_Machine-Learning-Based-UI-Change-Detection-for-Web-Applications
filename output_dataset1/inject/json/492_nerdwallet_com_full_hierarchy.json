@@ -1,0 +1,957 @@
+{
+  "image": "492_nerdwallet_com.png",
+  "total_elements": 73,
+  "total_raw_nodes": 86,
+  "total_raw_edges": 123,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        25.01,
+        107.88,
+        162.76,
+        118.69
+      ],
+      "confidence": 0.9337,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_1",
+      "source": "ocr",
+      "class_label": "Banking",
+      "bbox": [
+        200.0,
+        174.0,
+        389.0,
+        215.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "Whether you need a high-yield savings account, a checking account or a CD, we can\noptions so you can make the smartest banking decisions.",
+      "bbox": [
+        199.0,
+        247.0,
+        1042.0,
+        296.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "Banking tools",
+      "bbox": [
+        193.0,
+        461.0,
+        399.0,
+        498.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        403.68,
+        532.22,
+        547.76,
+        545.4
+      ],
+      "confidence": 0.9445,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        608.81,
+        531.61,
+        731.77,
+        545.81
+      ],
+      "confidence": 0.9436,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "Bonuses",
+      "bbox": [
+        839.0,
+        534.0,
+        892.0,
+        543.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Calculator",
+      "bbox": [
+        1027.0,
+        534.0,
+        1094.0,
+        544.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Compare",
+      "bbox": [
+        634.0,
+        654.0,
+        707.0,
+        667.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "checking options",
+      "bbox": [
+        602.0,
+        677.0,
+        740.0,
+        691.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "See our picks for the best\nsavings accounts.",
+      "bbox": [
+        199.0,
+        737.0,
+        366.0,
+        769.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        398.5,
+        736.39,
+        555.7,
+        769.07
+      ],
+      "confidence": 0.9214,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_12",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        606.48,
+        736.73,
+        735.48,
+        767.73
+      ],
+      "confidence": 0.881,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "interest calculator",
+      "bbox": [
+        988.0,
+        678.0,
+        1133.0,
+        690.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        984.68,
+        736.12,
+        1136.61,
+        768.58
+      ],
+      "confidence": 0.8807,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "Tiếp tục sử dụng dịch vụ bằng Google",
+      "bbox": [
+        1190.0,
+        275.0,
+        1436.0,
+        295.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        971.0,
+        554.0,
+        1149.0,
+        727.0
+      ],
+      "confidence": 0.9886,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        387.0,
+        554.0,
+        565.0,
+        727.0
+      ],
+      "confidence": 0.9886,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        777.0,
+        554.0,
+        953.0,
+        727.0
+      ],
+      "confidence": 0.9885,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        583.0,
+        554.0,
+        759.0,
+        727.0
+      ],
+      "confidence": 0.9885,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        193.0,
+        554.0,
+        369.0,
+        727.0
+      ],
+      "confidence": 0.9885,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        773.7,
+        522.48,
+        955.27,
+        728.22
+      ],
+      "confidence": 0.9819,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        224.28,
+        531.99,
+        337.97,
+        545.76
+      ],
+      "confidence": 0.9422,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_23",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        217.6,
+        653.56,
+        346.27,
+        689.27
+      ],
+      "confidence": 0.9731,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_24",
+      "source": "ocr",
+      "class_label": "Scrap the spreadsheets.\nWe'll track your money in one place for you.",
+      "bbox": [
+        1099.0,
+        161.0,
+        1458.0,
+        199.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "ocr",
+      "class_label": "Compound",
+      "bbox": [
+        1015.0,
+        653.0,
+        1105.0,
+        667.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        787.96,
+        736.1,
+        943.17,
+        767.57
+      ],
+      "confidence": 0.9543,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_27",
+      "source": "ocr",
+      "class_label": "Cancel with Apple",
+      "bbox": [
+        1238.0,
+        230.0,
+        1350.0,
+        245.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "ocr",
+      "class_label": "or continue with email",
+      "bbox": [
+        1203.0,
+        319.0,
+        1356.0,
+        329.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "ocr",
+      "class_label": "By signing up, I agree to NerdWallet's\nTerms of Service and Privacy Policy.",
+      "bbox": [
+        1165.0,
+        345.0,
+        1393.0,
+        372.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        580.1,
+        524.34,
+        763.47,
+        726.82
+      ],
+      "confidence": 0.9741,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        966.98,
+        523.1,
+        1152.52,
+        727.02
+      ],
+      "confidence": 0.9733,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1120.89,
+        217.42,
+        1464.29,
+        259.69
+      ],
+      "confidence": 0.947,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_33",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        383.17,
+        526.19,
+        569.32,
+        727.36
+      ],
+      "confidence": 0.9708,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        1163.0,
+        267.0,
+        1463.0,
+        306.0
+      ],
+      "confidence": 0.9707,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        408.47,
+        664.65,
+        544.25,
+        677.81
+      ],
+      "confidence": 0.9527,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_36",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        813.92,
+        665.15,
+        918.31,
+        677.87
+      ],
+      "confidence": 0.9512,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_37",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        190.46,
+        523.74,
+        372.95,
+        727.93
+      ],
+      "confidence": 0.9667,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "ocr",
+      "class_label": "%",
+      "bbox": [
+        468.0,
+        626.0,
+        487.0,
+        638.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        15.89,
+        97.98,
+        170.66,
+        128.17
+      ],
+      "confidence": 0.9113,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_40",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        603.06,
+        653.33,
+        740.91,
+        691.13
+      ],
+      "confidence": 0.9522,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        192.2,
+        465.9,
+        400.77,
+        499.21
+      ],
+      "confidence": 0.9515,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "ocr",
+      "class_label": "G",
+      "bbox": [
+        1135.0,
+        278.0,
+        1152.0,
+        293.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        0.0,
+        89.09,
+        1048.54,
+        394.02
+      ],
+      "confidence": 0.9451,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        1127.0,
+        269.0,
+        1162.0,
+        303.0
+      ],
+      "confidence": 0.9387,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        453.17,
+        604.58,
+        499.91,
+        645.69
+      ],
+      "confidence": 0.9317,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1037.18,
+        591.57,
+        1083.44,
+        633.89
+      ],
+      "confidence": 0.9237,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1044.9,
+        80.95,
+        1506.47,
+        399.27
+      ],
+      "confidence": 0.9236,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        646.54,
+        591.3,
+        695.14,
+        634.78
+      ],
+      "confidence": 0.9162,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1122.3,
+        265.31,
+        1465.1,
+        305.56
+      ],
+      "confidence": 0.9151,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        841.26,
+        605.55,
+        889.55,
+        643.37
+      ],
+      "confidence": 0.9112,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        991.4,
+        653.16,
+        1134.37,
+        688.77
+      ],
+      "confidence": 0.908,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        257.84,
+        592.54,
+        303.89,
+        631.91
+      ],
+      "confidence": 0.9029,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_53",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        200.21,
+        173.3,
+        392.48,
+        221.85
+      ],
+      "confidence": 0.8998,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_54",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        579.42,
+        521.61,
+        762.96,
+        554.8
+      ],
+      "confidence": 0.8936,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_55",
+      "source": "ocr",
+      "class_label": "о",
+      "bbox": [
+        472.0,
+        610.0,
+        480.0,
+        617.0
+      ],
+      "confidence": 0.89,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_56",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1191.1,
+        276.61,
+        1438.62,
+        293.75
+      ],
+      "confidence": 0.8883,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_57",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        382.33,
+        521.9,
+        569.86,
+        554.06
+      ],
+      "confidence": 0.8853,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_58",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        188.64,
+        521.21,
+        372.52,
+        554.7
+      ],
+      "confidence": 0.8721,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_59",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        773.14,
+        521.19,
+        954.36,
+        554.53
+      ],
+      "confidence": 0.8707,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_60",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1236.45,
+        231.73,
+        1350.19,
+        245.7
+      ],
+      "confidence": 0.8503,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_61",
+      "source": "ocr",
+      "class_label": "$",
+      "bbox": [
+        275.0,
+        605.0,
+        288.0,
+        621.0
+      ],
+      "confidence": 0.85,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_62",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1201.03,
+        317.94,
+        1356.72,
+        330.38
+      ],
+      "confidence": 0.8202,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_63",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1026.24,
+        532.59,
+        1093.63,
+        543.34
+      ],
+      "confidence": 0.7906,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_64",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        582.03,
+        728.68,
+        762.23,
+        777.09
+      ],
+      "confidence": 0.788,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_65",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        837.69,
+        532.31,
+        894.25,
+        543.07
+      ],
+      "confidence": 0.7388,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_66",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        969.3,
+        729.66,
+        1151.79,
+        778.41
+      ],
+      "confidence": 0.7222,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_67",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        776.81,
+        732.18,
+        955.15,
+        775.49
+      ],
+      "confidence": 0.6674,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_68",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        388.28,
+        731.9,
+        567.71,
+        776.29
+      ],
+      "confidence": 0.5359,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_69",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        966.58,
+        521.46,
+        1151.05,
+        555.44
+      ],
+      "confidence": 0.508,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_70",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1478.37,
+        141.42,
+        1492.65,
+        155.33
+      ],
+      "confidence": 0.4325,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_71",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        197.83,
+        38.59,
+        211.92,
+        53.11
+      ],
+      "confidence": 0.2885,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_72",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1306.47,
+        361.95,
+        1386.41,
+        371.51
+      ],
+      "confidence": 0.2022,
+      "cluster_size": 1
+    }
+  ]
+}

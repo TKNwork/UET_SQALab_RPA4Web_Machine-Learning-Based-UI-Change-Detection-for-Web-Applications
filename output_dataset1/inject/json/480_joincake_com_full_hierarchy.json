@@ -1,0 +1,424 @@
+{
+  "image": "480_joincake_com.png",
+  "total_elements": 32,
+  "total_raw_nodes": 37,
+  "total_raw_edges": 18,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        46.0,
+        761.0,
+        50.0,
+        826.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "ocr",
+      "class_label": "Login",
+      "bbox": [
+        31.0,
+        116.0,
+        71.0,
+        129.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        9.28,
+        186.9,
+        163.97,
+        203.45
+      ],
+      "confidence": 0.9478,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "Honoring lives well lived",
+      "bbox": [
+        8.0,
+        225.0,
+        259.0,
+        251.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        8.26,
+        335.93,
+        425.1,
+        350.55
+      ],
+      "confidence": 0.8645,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "A nationwide network of locally run funeral homes, cremation providers, and cemeteries.",
+      "bbox": [
+        7.0,
+        430.0,
+        580.0,
+        445.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        7.61,
+        524.64,
+        312.9,
+        539.42
+      ],
+      "confidence": 0.9315,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        6.25,
+        564.4,
+        256.37,
+        585.64
+      ],
+      "confidence": 0.9454,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Back",
+      "bbox": [
+        40.0,
+        90.0,
+        69.0,
+        100.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "Login",
+      "bbox": [
+        71.0,
+        27.0,
+        110.0,
+        42.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "Making the important decisions about funeral arrangements is already difficult enough. Learn from experts what you need to know, before you need to know it.\nMake a Plan",
+      "bbox": [
+        7.0,
+        609.0,
+        825.0,
+        658.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1422.22,
+        782.35,
+        1511.06,
+        799.5
+      ],
+      "confidence": 0.893,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_12",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        48.38,
+        673.96,
+        507.07,
+        825.17
+      ],
+      "confidence": 0.9781,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        5.99,
+        230.53,
+        261.1,
+        251.99
+      ],
+      "confidence": 0.9547,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1377.45,
+        761.2,
+        1528.95,
+        817.23
+      ],
+      "confidence": 0.9508,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        10.0,
+        80.0,
+        75.0,
+        104.0
+      ],
+      "confidence": 0.9423,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        10.0,
+        134.0,
+        41.0,
+        159.0
+      ],
+      "confidence": 0.9265,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        7.21,
+        643.26,
+        89.45,
+        657.65
+      ],
+      "confidence": 0.9156,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        5.81,
+        272.66,
+        49.16,
+        313.83
+      ],
+      "confidence": 0.8808,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        70.55,
+        25.79,
+        110.74,
+        42.98
+      ],
+      "confidence": 0.8452,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        182.55,
+        161.87,
+        218.94,
+        199.11
+      ],
+      "confidence": 0.8269,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        38.51,
+        88.05,
+        69.61,
+        102.13
+      ],
+      "confidence": 0.7579,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        8.54,
+        370.63,
+        45.96,
+        402.64
+      ],
+      "confidence": 0.7462,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        15.46,
+        463.29,
+        40.63,
+        497.6
+      ],
+      "confidence": 0.6786,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        9.2,
+        76.63,
+        79.36,
+        110.92
+      ],
+      "confidence": 0.6356,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        9.64,
+        108.34,
+        29.06,
+        128.52
+      ],
+      "confidence": 0.3787,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        48.37,
+        21.43,
+        67.46,
+        40.96
+      ],
+      "confidence": 0.377,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        23.45,
+        112.72,
+        72.03,
+        131.9
+      ],
+      "confidence": 0.304,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1395.81,
+        781.13,
+        1414.58,
+        797.82
+      ],
+      "confidence": 0.2793,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        37.59,
+        114.47,
+        71.38,
+        131.77
+      ],
+      "confidence": 0.1573,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        28.43,
+        114.81,
+        71.15,
+        131.22
+      ],
+      "confidence": 0.1498,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        32.3,
+        29.73,
+        38.55,
+        38.29
+      ],
+      "confidence": 0.1395,
+      "cluster_size": 1
+    }
+  ]
+}

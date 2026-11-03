@@ -1,0 +1,606 @@
+{
+  "image": "163_arxiv_org.png",
+  "total_elements": 46,
+  "total_raw_nodes": 48,
+  "total_raw_edges": 88,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        552.0,
+        85.0,
+        1310.0,
+        139.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        558.0,
+        94.0,
+        1081.0,
+        133.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        596.0,
+        113.0,
+        841.0,
+        127.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "Subject search and browse:\nPhysics",
+      "bbox": [
+        561.0,
+        94.0,
+        751.0,
+        127.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "Physics",
+      "bbox": [
+        10.0,
+        171.0,
+        91.0,
+        189.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        10.17,
+        549.95,
+        139.85,
+        567.8
+      ],
+      "confidence": 0.9702,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "arXiv is a free distribution service and an open-access archive for nearly 2.4 million scholarly articles in the fields of\nphysics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and\nsystems science, and economics. Materials on this site are not peer-reviewed by arxiv.",
+      "bbox": [
+        551.0,
+        17.0,
+        1308.0,
+        64.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Search Form Interface Catchup",
+      "bbox": [
+        853.0,
+        112.0,
+        1072.0,
+        127.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "• Astrophysics (astro-ph new, recent, search) Astrophysics of Galaxies; Cosmology and Nongalactic Astrophysics; Earth and Planetary Astrophysics; High Energy Astrophysical Phenomena; Instrumentation and Methods for\nAstrophysics; Solar and Stellar Astrophysics",
+      "bbox": [
+        35.0,
+        214.0,
+        1460.0,
+        244.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "• Condensed Matter (cond-mat new, recent, search) Disordered Systems and Neural Networks; Materials Science; Mesoscale and Nanoscale Physics; Other Condensed Matter; Quantum Gases; Soft Condensed Matter; Statistical\nMechanics; Strongly Correlated Electrons; Superconductivity",
+      "bbox": [
+        35.0,
+        247.0,
+        1505.0,
+        277.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "High Energy Physics - Phenomenology (hep-ph new, recent, search)",
+      "bbox": [
+        50.0,
+        332.0,
+        491.0,
+        345.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "High Energy Physics - Theory (hep-th new, recent, search)",
+      "bbox": [
+        50.0,
+        349.0,
+        428.0,
+        362.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "includes: Adaptation and Self-Organizing Systems; Cellular Automata and Lattice Gases; Chaotic Dynamics; Exactly Solvable and Integrable Systems; Pattern Formation and Solitons",
+      "bbox": [
+        50.0,
+        398.0,
+        1210.0,
+        412.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "Physics (physics new, recent, search)",
+      "bbox": [
+        50.0,
+        449.0,
+        297.0,
+        462.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "includes: Accelerator Physics; Applied Physics; Atmospheric and Oceanic Physics; Atomic and Molecular Clusters; Atomic Physics; Biological Physics; Chemical Physics; Classical Physics; Computational Physics; Data Analysis,\nStatistics and Probability; Fluid Dynamics; General Physics; Geophysics; History and Philosophy of Physics; Instrumentation and Detectors; Medical Physics; Optics; Physics and Society; Physics Education; Plasma Physics; Popular\nPhysics; Space Physics",
+      "bbox": [
+        49.0,
+        465.0,
+        1527.0,
+        512.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "includes: (see detailed description): Algebraic Geometry; Algebraic Topology; Analysis of PDES; Category Theory; Classical Analysis and ODES; Combinatorics; Commutative Algebra; Complex Variables; Differential Geometry;\nDynamical Systems; Functional Analysis; General Mathematics; General Topology; Geometric Topology; Group Theory; History and Overview; Information Theory; K-Theory and Homology; Logic; Mathematical Physics; Metric\nGeometry; Number Theory; Numerical Analysis; Operator Algebras; Optimization and Control; Probability; Quantum Algebra; Representation Theory; Rings and Algebras; Spectral Theory; Statistics Theory; Symplectic Geometry\nComputer Science",
+      "bbox": [
+        9.0,
+        604.0,
+        1494.0,
+        698.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "includes: (see detailed description): Artificial Intelligence; Computation and Language; Computational Complexity; Computational Engineering, Finance, and Science; Computational Geometry; Computer Science and Game Theory;\nComputer Vision and Pattern Recognition; Computers and Society; Cryptography and Security; Data Structures and Algorithms; Databases; Digital Libraries; Discrete Mathematics; Distributed, Parallel, and Cluster Computing;\nEmerging Technologies; Formal Languages and Automata Theory; General Literature; Graphics; Hardware Architecture; Human-Computer Interaction; Information Retrieval; Information Theory; Logic in Computer Science; Machine\nLearning; Mathematical Software; Multiagent Systems; Multimedia; Networking and Internet Architecture; Neural and Evolutionary Computing; Numerical Analysis; Operating Systems; Other Computer Science; Performance;\nProgramming Languages; Robotics; Social and Information Networks; Software Engineering; Sound; Symbolic Computation; Systems and Control",
+      "bbox": [
+        49.0,
+        737.0,
+        1515.0,
+        818.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "• High Energy Physics - Experiment (hep-ex new, recent, search)",
+      "bbox": [
+        35.0,
+        298.0,
+        459.0,
+        312.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "High Energy Physics - Lattice (hep-lat new, recent, search)",
+      "bbox": [
+        50.0,
+        315.0,
+        429.0,
+        328.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "• Mathematical Physics (math-ph new, recent, search)",
+      "bbox": [
+        36.0,
+        363.0,
+        389.0,
+        379.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "• Nonlinear Sciences (nlin new, recent, search)",
+      "bbox": [
+        35.0,
+        380.0,
+        343.0,
+        395.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "• Nuclear Experiment (nucl-ex new, recent, search)",
+      "bbox": [
+        35.0,
+        416.0,
+        370.0,
+        428.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "• Nuclear Theory (nucl-th new, recent, search)",
+      "bbox": [
+        35.0,
+        433.0,
+        340.0,
+        446.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "ocr",
+      "class_label": "⚫ General Relativity and Quantum Cosmology (gr-qc new, recent, search)",
+      "bbox": [
+        35.0,
+        281.0,
+        511.0,
+        294.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "ocr",
+      "class_label": "• Quantum Physics (quant-ph new, recent, search)",
+      "bbox": [
+        35.0,
+        517.0,
+        367.0,
+        531.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        41.4,
+        592.07,
+        306.8,
+        607.12
+      ],
+      "confidence": 0.8711,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        10.16,
+        677.7,
+        199.98,
+        699.08
+      ],
+      "confidence": 0.9508,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "ocr",
+      "class_label": "• Computing Research Repository (CORR new, recent, search)",
+      "bbox": [
+        35.0,
+        721.0,
+        441.0,
+        734.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        9.4,
+        169.77,
+        92.36,
+        191.89
+      ],
+      "confidence": 0.9377,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        0.61,
+        15.75,
+        905.23,
+        826.0
+      ],
+      "confidence": 0.925,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        798.3,
+        84.78,
+        1312.47,
+        140.57
+      ],
+      "confidence": 0.9137,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        715.02,
+        0.0,
+        1533.45,
+        826.0
+      ],
+      "confidence": 0.9024,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        560.41,
+        95.59,
+        751.45,
+        109.93
+      ],
+      "confidence": 0.8849,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        53.15,
+        719.5,
+        460.41,
+        737.55
+      ],
+      "confidence": 0.856,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        54.54,
+        515.03,
+        377.82,
+        531.21
+      ],
+      "confidence": 0.8515,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        914.37,
+        113.13,
+        1002.58,
+        125.95
+      ],
+      "confidence": 0.8241,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        853.65,
+        113.61,
+        896.96,
+        126.22
+      ],
+      "confidence": 0.6925,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        55.45,
+        379.15,
+        369.42,
+        394.99
+      ],
+      "confidence": 0.6597,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1019.09,
+        112.51,
+        1075.45,
+        128.51
+      ],
+      "confidence": 0.6426,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1015.6,
+        397.43,
+        1211.01,
+        410.74
+      ],
+      "confidence": 0.6166,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        49.8,
+        379.25,
+        401.27,
+        396.05
+      ],
+      "confidence": 0.5963,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        45.9,
+        313.21,
+        174.17,
+        330.94
+      ],
+      "confidence": 0.5817,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        194.91,
+        330.47,
+        437.9,
+        351.8
+      ],
+      "confidence": 0.5596,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        46.38,
+        329.87,
+        180.67,
+        352.2
+      ],
+      "confidence": 0.5146,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        560.13,
+        112.18,
+        612.57,
+        127.33
+      ],
+      "confidence": 0.3608,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1477.38,
+        481.56,
+        1526.65,
+        496.49
+      ],
+      "confidence": 0.2914,
+      "cluster_size": 1
+    }
+  ]
+}

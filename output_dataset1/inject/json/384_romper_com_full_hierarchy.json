@@ -1,0 +1,437 @@
+{
+  "image": "384_romper_com.png",
+  "total_elements": 33,
+  "total_raw_nodes": 43,
+  "total_raw_edges": 39,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        742.0,
+        772.0,
+        885.0,
+        779.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        372.0,
+        772.0,
+        655.0,
+        778.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        928.83,
+        142.58,
+        1165.23,
+        318.26
+      ],
+      "confidence": 0.9882,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_3",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        90.21,
+        19.75,
+        237.81,
+        47.92
+      ],
+      "confidence": 0.9041,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "PARENTING",
+      "bbox": [
+        92.0,
+        530.0,
+        164.0,
+        542.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "Registry",
+      "bbox": [
+        502.0,
+        266.0,
+        551.0,
+        279.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "LIFE",
+      "bbox": [
+        929.0,
+        337.0,
+        952.0,
+        348.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        370.41,
+        651.13,
+        438.62,
+        662.66
+      ],
+      "confidence": 0.9557,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        372.78,
+        796.35,
+        514.2,
+        810.87
+      ],
+      "confidence": 0.9112,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1208.97,
+        295.52,
+        1445.7,
+        548.58
+      ],
+      "confidence": 0.9863,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        929.31,
+        525.69,
+        1166.27,
+        700.43
+      ],
+      "confidence": 0.9843,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        928.52,
+        362.86,
+        1160.11,
+        418.46
+      ],
+      "confidence": 0.9754,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_12",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        371.05,
+        680.33,
+        817.56,
+        714.83
+      ],
+      "confidence": 0.9628,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "Because you deserve to feel the *most* confident going out with your baby.",
+      "bbox": [
+        371.0,
+        741.0,
+        842.0,
+        757.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        929.08,
+        719.76,
+        952.96,
+        729.95
+      ],
+      "confidence": 0.8481,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_15",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1208.79,
+        566.94,
+        1325.73,
+        578.91
+      ],
+      "confidence": 0.8634,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_16",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        370.96,
+        114.61,
+        884.57,
+        626.74
+      ],
+      "confidence": 0.9781,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        90.24,
+        333.41,
+        327.53,
+        511.52
+      ],
+      "confidence": 0.976,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "Is Anyone Ever Financially Ready",
+      "bbox": [
+        91.0,
+        557.0,
+        324.0,
+        572.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        928.95,
+        745.64,
+        1165.3,
+        785.27
+      ],
+      "confidence": 0.8549,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_20",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1208.53,
+        591.94,
+        1433.44,
+        631.82
+      ],
+      "confidence": 0.8725,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "To Have A Baby?",
+      "bbox": [
+        91.0,
+        576.0,
+        213.0,
+        595.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "good\nENOUGH",
+      "bbox": [
+        119.0,
+        378.0,
+        165.0,
+        406.0
+      ],
+      "confidence": 0.93,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        91.76,
+        530.22,
+        165.87,
+        540.61
+      ],
+      "confidence": 0.9279,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        90.43,
+        555.57,
+        324.76,
+        595.46
+      ],
+      "confidence": 0.9239,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        897.15,
+        81.74,
+        1535.54,
+        823.7
+      ],
+      "confidence": 0.9211,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "ocr",
+      "class_label": "romper",
+      "bbox": [
+        514.0,
+        258.0,
+        538.0,
+        263.0
+      ],
+      "confidence": 0.92,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "ocr",
+      "class_label": "fro",
+      "bbox": [
+        1380.0,
+        36.0,
+        1402.0,
+        48.0
+      ],
+      "confidence": 0.91,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1380.97,
+        20.83,
+        1442.64,
+        47.59
+      ],
+      "confidence": 0.896,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        555.0,
+        322.0,
+        559.0,
+        363.0
+      ],
+      "confidence": 0.8538,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        928.97,
+        335.92,
+        953.61,
+        347.18
+      ],
+      "confidence": 0.7714,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        370.63,
+        797.58,
+        385.29,
+        811.1
+      ],
+      "confidence": 0.246,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1115.16,
+        746.14,
+        1165.3,
+        759.76
+      ],
+      "confidence": 0.2441,
+      "cluster_size": 1
+    }
+  ]
+}

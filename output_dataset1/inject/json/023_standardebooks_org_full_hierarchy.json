@@ -1,0 +1,567 @@
+{
+  "image": "023_standardebooks_org.png",
+  "total_elements": 43,
+  "total_raw_nodes": 46,
+  "total_raw_edges": 34,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        903.0,
+        636.0,
+        1178.0,
+        652.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        638.0,
+        538.0,
+        920.0,
+        560.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        437.0,
+        459.0,
+        1100.0,
+        464.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        107.0,
+        327.0,
+        1429.0,
+        333.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        106.0,
+        32.0,
+        1430.0,
+        286.0
+      ],
+      "confidence": 0.9952,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "Any skill level, from simple proofreading to complete ebook production, is welcome. We're here to help!",
+      "bbox": [
+        152.0,
+        216.0,
+        972.0,
+        235.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        684.1,
+        424.8,
+        887.98,
+        439.43
+      ],
+      "confidence": 0.8703,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "subscribe to our free newsletter",
+      "bbox": [
+        639.0,
+        539.0,
+        919.0,
+        556.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        109.9,
+        34.18,
+        1188.56,
+        287.3
+      ],
+      "confidence": 0.9803,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "Is there an out-of-copyright book you'd like to read, but that we don't have in our catalog?",
+      "bbox": [
+        152.0,
+        85.0,
+        873.0,
+        104.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "Help us produce that ebook so that others can read it in the future! There's probably a basic transcription available at Project Gutenberg-get in touch\nwith us and we'll help you make it meet Standard Ebooks standards.",
+      "bbox": [
+        152.0,
+        134.0,
+        1382.0,
+        185.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1116.0,
+        135.0,
+        1384.0,
+        158.0
+      ],
+      "confidence": 0.971,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "ebooks about get involved donate settings github bulk downloads ebook feeds . accessibility.",
+      "bbox": [
+        270.0,
+        585.0,
+        1265.0,
+        607.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "Content produced by or for Standard Ebooks L³C is dedicated to the public domain via the CCO 1.0 Universal Public Domain Dedication.",
+      "bbox": [
+        357.0,
+        635.0,
+        1178.0,
+        651.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "Content not produced by or for Standard Ebooks L³C but displayed on this website may be subject to copyright.",
+      "bbox": [
+        431.0,
+        659.0,
+        1103.0,
+        675.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        634.06,
+        384.88,
+        902.44,
+        410.66
+      ],
+      "confidence": 0.841,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "SE",
+      "bbox": [
+        750.0,
+        739.0,
+        784.0,
+        756.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        730.42,
+        356.99,
+        805.65,
+        370.88
+      ],
+      "confidence": 0.9064,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_18",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        750.0,
+        482.0,
+        786.0,
+        518.0
+      ],
+      "confidence": 0.9383,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        439.46,
+        586.03,
+        551.85,
+        607.29
+      ],
+      "confidence": 0.9354,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        695.0,
+        482.0,
+        731.0,
+        518.0
+      ],
+      "confidence": 0.9336,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1117.23,
+        136.12,
+        1264.26,
+        156.01
+      ],
+      "confidence": 0.9301,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        628.38,
+        540.22,
+        920.77,
+        557.24
+      ],
+      "confidence": 0.9217,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        664.92,
+        585.9,
+        738.63,
+        607.17
+      ],
+      "confidence": 0.9191,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        359.92,
+        585.89,
+        415.85,
+        604.77
+      ],
+      "confidence": 0.9143,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        573.87,
+        586.4,
+        641.7,
+        604.75
+      ],
+      "confidence": 0.9139,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        763.94,
+        586.32,
+        825.3,
+        607.06
+      ],
+      "confidence": 0.9086,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        849.8,
+        585.97,
+        998.04,
+        605.14
+      ],
+      "confidence": 0.8962,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        724.74,
+        720.22,
+        812.02,
+        776.33
+      ],
+      "confidence": 0.8834,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1019.24,
+        586.14,
+        1129.44,
+        604.83
+      ],
+      "confidence": 0.8812,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        270.25,
+        586.15,
+        337.46,
+        604.59
+      ],
+      "confidence": 0.859,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1151.94,
+        586.01,
+        1266.22,
+        607.07
+      ],
+      "confidence": 0.857,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1283.62,
+        136.61,
+        1383.04,
+        156.17
+      ],
+      "confidence": 0.855,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        767.11,
+        637.37,
+        858.91,
+        652.29
+      ],
+      "confidence": 0.8526,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        894.92,
+        637.23,
+        1177.6,
+        651.07
+      ],
+      "confidence": 0.599,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        152.71,
+        135.81,
+        378.22,
+        156.56
+      ],
+      "confidence": 0.5859,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        616.37,
+        542.72,
+        635.28,
+        556.47
+      ],
+      "confidence": 0.4382,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        752.57,
+        485.11,
+        784.3,
+        515.69
+      ],
+      "confidence": 0.3211,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        746.96,
+        591.71,
+        754.37,
+        601.48
+      ],
+      "confidence": 0.2391,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        807.28,
+        485.29,
+        837.99,
+        515.68
+      ],
+      "confidence": 0.2124,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        697.54,
+        484.94,
+        729.36,
+        515.85
+      ],
+      "confidence": 0.1659,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        862.0,
+        485.15,
+        893.17,
+        515.94
+      ],
+      "confidence": 0.1454,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        642.56,
+        485.26,
+        674.13,
+        516.06
+      ],
+      "confidence": 0.1138,
+      "cluster_size": 1
+    }
+  ]
+}

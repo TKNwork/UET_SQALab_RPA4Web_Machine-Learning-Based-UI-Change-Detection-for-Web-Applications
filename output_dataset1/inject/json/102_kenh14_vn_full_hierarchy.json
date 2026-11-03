@@ -1,0 +1,580 @@
+{
+  "image": "102_kenh14_vn.png",
+  "total_elements": 44,
+  "total_raw_nodes": 50,
+  "total_raw_edges": 26,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1178.0,
+        624.0,
+        1235.0,
+        627.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        363.0,
+        246.0,
+        367.0,
+        358.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1066.0,
+        210.0,
+        1070.0,
+        349.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        166.0,
+        146.0,
+        965.0,
+        153.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        169.0,
+        148.0,
+        962.0,
+        151.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        166.91,
+        512.69,
+        550.02,
+        751.46
+      ],
+      "confidence": 0.9858,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        728.24,
+        19.14,
+        807.89,
+        30.41
+      ],
+      "confidence": 0.8504,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "RHYDER",
+      "bbox": [
+        290.0,
+        59.0,
+        335.0,
+        69.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "thẻ tín dụng",
+      "bbox": [
+        222.0,
+        708.0,
+        370.0,
+        734.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        564.27,
+        515.02,
+        947.36,
+        596.76
+      ],
+      "confidence": 0.9832,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        564.96,
+        247.62,
+        917.7,
+        357.09
+      ],
+      "confidence": 0.9804,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        589.54,
+        373.6,
+        707.77,
+        386.82
+      ],
+      "confidence": 0.9336,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_12",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        589.43,
+        612.77,
+        708.37,
+        624.6
+      ],
+      "confidence": 0.8666,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "0969 8888 01",
+      "bbox": [
+        1234.0,
+        650.0,
+        1338.0,
+        662.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        168.0,
+        245.39,
+        549.83,
+        485.42
+      ],
+      "confidence": 0.9763,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "TRANG THÔNG TIN ĐIỆN TỬ",
+      "bbox": [
+        101.0,
+        32.0,
+        174.0,
+        39.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "CONCERT",
+      "bbox": [
+        174.0,
+        58.0,
+        229.0,
+        69.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "Nổi bật",
+      "bbox": [
+        169.0,
+        155.0,
+        275.0,
+        197.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "BỆNH VIỆN MẮT QUỐC TẾ\nVIỆT - NGA",
+      "bbox": [
+        1142.0,
+        207.0,
+        1211.0,
+        229.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "| BỐ MẸ NGHIỆN DÙNG",
+      "bbox": [
+        176.0,
+        657.0,
+        417.0,
+        705.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "ĐĂNG KÝ NGA",
+      "bbox": [
+        1098.0,
+        651.0,
+        1186.0,
+        662.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "PHƯỜNG NGHĨA ĐÔI, HÀ NỘI",
+      "bbox": [
+        1120.0,
+        688.0,
+        1268.0,
+        698.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "Mong cho mọi cha mẹ trên đời không bao\ngiờ phải nói: “Giá như mình đã làm tốt hơn”",
+      "bbox": [
+        566.0,
+        785.0,
+        944.0,
+        825.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        578.0,
+        49.0,
+        757.0,
+        80.0
+      ],
+      "confidence": 0.9446,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        166.0,
+        49.0,
+        345.0,
+        80.0
+      ],
+      "confidence": 0.9365,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1090.0,
+        645.0,
+        1346.0,
+        668.0
+      ],
+      "confidence": 0.9275,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        990.0,
+        48.0,
+        1168.0,
+        80.0
+      ],
+      "confidence": 0.9195,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1118.0,
+        628.0,
+        1151.0,
+        631.0
+      ],
+      "confidence": 0.9167,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        167.16,
+        780.0,
+        550.46,
+        825.35
+      ],
+      "confidence": 0.9101,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "ocr",
+      "class_label": "ILLUSTRATION",
+      "bbox": [
+        401.0,
+        535.0,
+        453.0,
+        540.0
+      ],
+      "confidence": 0.9,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        169.58,
+        161.06,
+        276.66,
+        195.1
+      ],
+      "confidence": 0.8943,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1073.51,
+        154.6,
+        1369.17,
+        759.06
+      ],
+      "confidence": 0.8908,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "ocr",
+      "class_label": "ĐƠN VỊ THỰC HIỆN NHIỀU CA PHẪU THUẬT SHILE CỦA 2018 NHIỀU NHẤT ĐÔNG NAM Á (",
+      "bbox": [
+        1096.0,
+        706.0,
+        1336.0,
+        722.0
+      ],
+      "confidence": 0.88,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1095.0,
+        677.0,
+        1346.0,
+        701.0
+      ],
+      "confidence": 0.8715,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "ocr",
+      "class_label": "SỐ ) . II . IS ĐƯỜNG NGUYỄN ĐỖ CUNG,",
+      "bbox": [
+        1119.0,
+        674.0,
+        1334.0,
+        694.0
+      ],
+      "confidence": 0.87,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        0.32,
+        0.26,
+        50.24,
+        49.4
+      ],
+      "confidence": 0.8555,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "ocr",
+      "class_label": "14 kenh14",
+      "bbox": [
+        69.0,
+        8.0,
+        174.0,
+        33.0
+      ],
+      "confidence": 0.83,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "ocr",
+      "class_label": "в тибиз,",
+      "bbox": [
+        1263.0,
+        169.0,
+        1285.0,
+        176.0
+      ],
+      "confidence": 0.82,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        992.91,
+        51.75,
+        1165.17,
+        76.97
+      ],
+      "confidence": 0.6379,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        562.82,
+        374.24,
+        580.19,
+        390.81
+      ],
+      "confidence": 0.4179,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        13.02,
+        13.52,
+        38.05,
+        36.46
+      ],
+      "confidence": 0.4013,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        625.34,
+        50.27,
+        646.19,
+        61.11
+      ],
+      "confidence": 0.1751,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        562.89,
+        614.34,
+        580.96,
+        629.7
+      ],
+      "confidence": 0.1653,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        64.48,
+        7.7,
+        94.15,
+        41.3
+      ],
+      "confidence": 0.1265,
+      "cluster_size": 1
+    }
+  ]
+}

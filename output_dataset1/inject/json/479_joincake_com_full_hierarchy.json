@@ -1,0 +1,307 @@
+{
+  "image": "479_joincake_com.png",
+  "total_elements": 23,
+  "total_raw_nodes": 28,
+  "total_raw_edges": 35,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        46.0,
+        773.0,
+        1120.0,
+        826.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        47.0,
+        734.0,
+        420.0,
+        754.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        10.58,
+        28.31,
+        162.25,
+        44.81
+      ],
+      "confidence": 0.9405,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "A collaboration of more than 1,700 compassionate professionals.",
+      "bbox": [
+        6.0,
+        109.0,
+        423.0,
+        125.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "A nationwide network of locally run funeral homes, cremation providers, and cemeteries.",
+      "bbox": [
+        6.0,
+        205.0,
+        579.0,
+        219.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        7.11,
+        299.65,
+        315.66,
+        314.7
+      ],
+      "confidence": 0.9058,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        6.84,
+        339.89,
+        255.91,
+        360.62
+      ],
+      "confidence": 0.9635,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Making the important decisions about funeral arrangements is already difficult enough. Learn from experts what you need to know, before you need to know it.\nMake a Plan",
+      "bbox": [
+        7.0,
+        387.0,
+        825.0,
+        432.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        46.94,
+        734.83,
+        422.01,
+        751.26
+      ],
+      "confidence": 0.8894,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "Learn 6 benefits of planning your funeral: Save money, reduce family stress, ensure your wishes are honored, and gain peace of mind for yourself and your loved ones.",
+      "bbox": [
+        47.0,
+        775.0,
+        1117.0,
+        789.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1422.16,
+        782.39,
+        1511.07,
+        799.47
+      ],
+      "confidence": 0.8941,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        47.39,
+        450.46,
+        506.83,
+        707.84
+      ],
+      "confidence": 0.9774,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1377.42,
+        761.2,
+        1528.85,
+        817.27
+      ],
+      "confidence": 0.9501,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        2.98,
+        0.72,
+        875.94,
+        786.79
+      ],
+      "confidence": 0.9221,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        7.56,
+        419.31,
+        89.09,
+        433.53
+      ],
+      "confidence": 0.9037,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        13.27,
+        204.03,
+        568.54,
+        220.33
+      ],
+      "confidence": 0.8953,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        11.51,
+        110.45,
+        428.33,
+        125.72
+      ],
+      "confidence": 0.8298,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        5.71,
+        47.33,
+        49.16,
+        88.12
+      ],
+      "confidence": 0.7672,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        181.53,
+        2.7,
+        219.68,
+        40.7
+      ],
+      "confidence": 0.7604,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        15.2,
+        237.9,
+        40.92,
+        273.06
+      ],
+      "confidence": 0.7492,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        8.39,
+        145.75,
+        46.39,
+        177.76
+      ],
+      "confidence": 0.7019,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        519.98,
+        774.31,
+        745.91,
+        790.17
+      ],
+      "confidence": 0.5024,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1395.77,
+        781.15,
+        1414.71,
+        797.87
+      ],
+      "confidence": 0.261,
+      "cluster_size": 1
+    }
+  ]
+}

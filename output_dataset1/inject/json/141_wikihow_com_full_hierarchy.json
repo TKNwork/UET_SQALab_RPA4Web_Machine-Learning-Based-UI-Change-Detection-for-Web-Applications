@@ -1,0 +1,606 @@
+{
+  "image": "141_wikihow_com.png",
+  "total_elements": 46,
+  "total_raw_nodes": 54,
+  "total_raw_edges": 59,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        358.0,
+        313.0,
+        1037.0,
+        365.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        38.0,
+        1536.0,
+        41.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        414.0,
+        10.0,
+        739.0,
+        34.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        759.77,
+        10.92,
+        816.2,
+        24.27
+      ],
+      "confidence": 0.9411,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "PRO",
+      "bbox": [
+        937.0,
+        14.0,
+        964.0,
+        23.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "QUIZZES",
+      "bbox": [
+        1014.0,
+        14.0,
+        1057.0,
+        22.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "EXPLORE",
+      "bbox": [
+        1086.0,
+        15.0,
+        1133.0,
+        23.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "RANDOM",
+      "bbox": [
+        1234.0,
+        15.0,
+        1276.0,
+        22.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        686.22,
+        476.66,
+        980.04,
+        535.42
+      ],
+      "confidence": 0.9656,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "Enter your email",
+      "bbox": [
+        643.0,
+        620.0,
+        760.0,
+        634.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        811.35,
+        106.97,
+        1023.71,
+        276.0
+      ],
+      "confidence": 0.9756,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        588.6,
+        108.3,
+        799.8,
+        276.01
+      ],
+      "confidence": 0.9833,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1165.72,
+        13.9,
+        1199.02,
+        21.95
+      ],
+      "confidence": 0.7916,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "How Freaky Am I Quiz Sex Personality Test",
+      "bbox": [
+        589.0,
+        288.0,
+        988.0,
+        304.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "The Official wikiHow Quiz Newsletter",
+      "bbox": [
+        705.0,
+        446.0,
+        958.0,
+        459.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "Sign Up",
+      "bbox": [
+        939.0,
+        620.0,
+        1007.0,
+        635.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        366.6,
+        108.51,
+        576.0,
+        275.14
+      ],
+      "confidence": 0.9775,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "wikiHow to do anything...",
+      "bbox": [
+        243.0,
+        6.0,
+        565.0,
+        33.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "Do I Have a Dirty Sense Am I Naughty Quiz\nof Humor Quiz",
+      "bbox": [
+        589.0,
+        49.0,
+        973.0,
+        88.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        633.51,
+        549.25,
+        1030.95,
+        586.6
+      ],
+      "confidence": 0.9351,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_20",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        348.33,
+        747.06,
+        690.18,
+        768.18
+      ],
+      "confidence": 0.8783,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_21",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        634.0,
+        608.0,
+        915.0,
+        646.0
+      ],
+      "confidence": 0.9698,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        916.34,
+        605.65,
+        1028.68,
+        647.14
+      ],
+      "confidence": 0.917,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_23",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        334.94,
+        35.14,
+        1056.31,
+        398.15
+      ],
+      "confidence": 0.9641,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "ocr",
+      "class_label": "How Vanilla Am I Quiz",
+      "bbox": [
+        366.0,
+        49.0,
+        555.0,
+        65.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        366.32,
+        287.85,
+        554.97,
+        301.77
+      ],
+      "confidence": 0.9413,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_26",
+      "source": "ocr",
+      "class_label": "Explore All Quizzes",
+      "bbox": [
+        586.0,
+        325.0,
+        806.0,
+        350.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        588.52,
+        329.17,
+        808.01,
+        352.14
+      ],
+      "confidence": 0.9593,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        334.19,
+        418.03,
+        600.35,
+        690.7
+      ],
+      "confidence": 0.9462,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        332.16,
+        415.58,
+        1060.89,
+        690.16
+      ],
+      "confidence": 0.933,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        590.65,
+        287.45,
+        779.37,
+        304.85
+      ],
+      "confidence": 0.9276,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        589.96,
+        47.56,
+        789.42,
+        88.95
+      ],
+      "confidence": 0.9176,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        812.05,
+        287.52,
+        988.03,
+        304.55
+      ],
+      "confidence": 0.9032,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        419.68,
+        10.33,
+        559.15,
+        30.88
+      ],
+      "confidence": 0.9003,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        366.51,
+        48.23,
+        555.99,
+        62.68
+      ],
+      "confidence": 0.8761,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        912.3,
+        4.63,
+        988.36,
+        33.72
+      ],
+      "confidence": 0.876,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        812.2,
+        47.86,
+        973.82,
+        66.55
+      ],
+      "confidence": 0.8571,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "ocr",
+      "class_label": "Alright let's talk sex. Right off the bat how does that make you feel? Awkward?",
+      "bbox": [
+        359.0,
+        817.0,
+        920.0,
+        825.0
+      ],
+      "confidence": 0.85,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        939.34,
+        618.08,
+        1007.09,
+        636.03
+      ],
+      "confidence": 0.8104,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        244.4,
+        6.05,
+        404.64,
+        31.84
+      ],
+      "confidence": 0.8098,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        932.18,
+        11.07,
+        970.17,
+        25.32
+      ],
+      "confidence": 0.7887,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1014.27,
+        13.71,
+        1058.42,
+        23.09
+      ],
+      "confidence": 0.7681,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        748.82,
+        1.63,
+        826.83,
+        35.96
+      ],
+      "confidence": 0.7127,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1233.44,
+        13.92,
+        1278.59,
+        21.82
+      ],
+      "confidence": 0.7009,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1085.53,
+        13.81,
+        1132.65,
+        21.88
+      ],
+      "confidence": 0.6967,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        704.35,
+        447.1,
+        957.02,
+        458.12
+      ],
+      "confidence": 0.6128,
+      "cluster_size": 1
+    }
+  ]
+}

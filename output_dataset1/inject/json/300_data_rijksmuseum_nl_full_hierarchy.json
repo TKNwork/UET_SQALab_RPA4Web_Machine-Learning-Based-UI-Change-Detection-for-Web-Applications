@@ -1,0 +1,346 @@
+{
+  "image": "300_data_rijksmuseum_nl.png",
+  "total_elements": 26,
+  "total_raw_nodes": 28,
+  "total_raw_edges": 17,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        494.0,
+        586.0,
+        775.0,
+        607.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        360.0,
+        480.0,
+        604.0,
+        500.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        445.0,
+        272.0,
+        449.0,
+        320.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "Docs Tutorials Policy About",
+      "bbox": [
+        274.0,
+        32.0,
+        530.0,
+        49.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "Computercentrum Amro-bank Michel Pellanders",
+      "bbox": [
+        361.0,
+        479.0,
+        795.0,
+        497.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "The Rijksmuseum makes available extensive descriptions of more than a half a million\nart historical objects, hundreds of thousands of object photographs and the complete\nlibrary catalogue to developers, researchers and enthusiasts. We strive for the\nhighest data quality. We do this by following standards and best practices in the",
+      "bbox": [
+        361.0,
+        724.0,
+        1174.0,
+        825.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        78.57,
+        26.09,
+        206.51,
+        57.3
+      ],
+      "confidence": 0.9238,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "RUKSMUSEUM DATA SERVICES",
+      "bbox": [
+        86.0,
+        261.0,
+        1501.0,
+        336.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "The Rijksmuseum links individuals with art and history. Our data services are\nimportant building blocks for this. That is why we offer them in different ways,\nguided by our Information- and Data Policy. Our curators, registrars, librarians,\nconservators, information specialists and data managers collaboratively make\navailable a wide range of data on the Rijksmuseum collection and its context.\nReusable by everyone and growing every day.",
+      "bbox": [
+        361.0,
+        527.0,
+        1142.0,
+        693.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        1254.0,
+        15.0,
+        1458.0,
+        68.0
+      ],
+      "confidence": 0.975,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "SYSAS",
+      "bbox": [
+        1469.0,
+        368.0,
+        1534.0,
+        392.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "Q Search",
+      "bbox": [
+        1267.0,
+        31.0,
+        1337.0,
+        48.0
+      ],
+      "confidence": 0.92,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        1383.0,
+        32.0,
+        1421.0,
+        50.0
+      ],
+      "confidence": 0.9123,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "D36\nE36",
+      "bbox": [
+        890.0,
+        208.0,
+        933.0,
+        240.0
+      ],
+      "confidence": 0.91,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "A5038R",
+      "bbox": [
+        822.0,
+        216.0,
+        873.0,
+        236.0
+      ],
+      "confidence": 0.9,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        359.0,
+        481.17,
+        603.75,
+        498.76
+      ],
+      "confidence": 0.8029,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "ctrl",
+      "bbox": [
+        1386.0,
+        34.0,
+        1415.0,
+        48.0
+      ],
+      "confidence": 0.86,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        485.8,
+        34.58,
+        529.6,
+        47.69
+      ],
+      "confidence": 0.8493,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        331.97,
+        34.38,
+        395.59,
+        47.72
+      ],
+      "confidence": 0.8454,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        419.7,
+        33.94,
+        461.59,
+        50.87
+      ],
+      "confidence": 0.8206,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        274.7,
+        34.94,
+        307.58,
+        47.27
+      ],
+      "confidence": 0.8152,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1292.77,
+        34.31,
+        1337.62,
+        46.72
+      ],
+      "confidence": 0.6598,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1379.7,
+        31.03,
+        1421.28,
+        51.93
+      ],
+      "confidence": 0.4097,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1268.95,
+        33.28,
+        1284.7,
+        50.22
+      ],
+      "confidence": 0.2054,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1424.81,
+        28.74,
+        1444.22,
+        53.97
+      ],
+      "confidence": 0.1146,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        611.66,
+        483.47,
+        622.24,
+        494.08
+      ],
+      "confidence": 0.1002,
+      "cluster_size": 1
+    }
+  ]
+}

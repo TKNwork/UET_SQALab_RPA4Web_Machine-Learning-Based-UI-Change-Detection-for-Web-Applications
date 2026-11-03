@@ -1,0 +1,541 @@
+{
+  "image": "426_brighteyedbaker_com.png",
+  "total_elements": 41,
+  "total_raw_nodes": 48,
+  "total_raw_edges": 27,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        835.0,
+        630.0,
+        900.0,
+        634.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        978.0,
+        454.0,
+        983.0,
+        515.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        785.0,
+        299.0,
+        958.0,
+        305.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        994.0,
+        355.0,
+        1002.0,
+        471.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        809.0,
+        293.0,
+        885.0,
+        299.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        219.0,
+        88.0,
+        1301.0,
+        157.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        766.85,
+        292.08,
+        1027.45,
+        635.99
+      ],
+      "confidence": 0.98,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1041.46,
+        321.47,
+        1302.17,
+        666.42
+      ],
+      "confidence": 0.9777,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "All Recipes",
+      "bbox": [
+        451.0,
+        32.0,
+        541.0,
+        50.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        701.87,
+        33.76,
+        801.33,
+        47.73
+      ],
+      "confidence": 0.9462,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "Portfolio Subscribe",
+      "bbox": [
+        841.0,
+        34.0,
+        1034.0,
+        47.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "Biscotti",
+      "bbox": [
+        221.0,
+        247.0,
+        328.0,
+        267.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        260.2,
+        651.73,
+        439.7,
+        693.37
+      ],
+      "confidence": 0.9159,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "free, refined sugar-free}",
+      "bbox": [
+        522.0,
+        695.0,
+        724.0,
+        716.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1074.18,
+        682.36,
+        1269.13,
+        719.12
+      ],
+      "confidence": 0.9609,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_15",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        581.3,
+        33.86,
+        662.27,
+        47.68
+      ],
+      "confidence": 0.9366,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "SEARCH",
+      "bbox": [
+        1186.0,
+        114.0,
+        1271.0,
+        129.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        783.06,
+        652.68,
+        1012.02,
+        692.3
+      ],
+      "confidence": 0.966,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "See more Biscotti →",
+      "bbox": [
+        1133.0,
+        767.0,
+        1299.0,
+        780.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        492.52,
+        294.02,
+        751.11,
+        636.54
+      ],
+      "confidence": 0.9715,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "search recipes...",
+      "bbox": [
+        269.0,
+        113.0,
+        411.0,
+        132.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "Strawberry Almond Biscotti\n{gluten-free, dairy-",
+      "bbox": [
+        507.0,
+        650.0,
+        736.0,
+        693.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        219.37,
+        293.34,
+        478.05,
+        637.56
+      ],
+      "confidence": 0.9642,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        536.0,
+        451.0,
+        552.0,
+        635.0
+      ],
+      "confidence": 0.9579,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        926.0,
+        629.0,
+        959.0,
+        632.0
+      ],
+      "confidence": 0.9167,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        769.0,
+        630.0,
+        834.0,
+        636.0
+      ],
+      "confidence": 0.9028,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        840.87,
+        32.61,
+        911.75,
+        48.41
+      ],
+      "confidence": 0.8861,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        449.98,
+        32.93,
+        541.9,
+        52.15
+      ],
+      "confidence": 0.8847,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1164.25,
+        93.94,
+        1299.34,
+        153.62
+      ],
+      "confidence": 0.8819,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        542.0,
+        475.0,
+        546.0,
+        517.0
+      ],
+      "confidence": 0.8754,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        949.96,
+        32.84,
+        1036.35,
+        48.33
+      ],
+      "confidence": 0.8745,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        220.71,
+        245.54,
+        330.68,
+        269.28
+      ],
+      "confidence": 0.8453,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        222.78,
+        21.9,
+        416.87,
+        61.17
+      ],
+      "confidence": 0.8376,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1185.83,
+        115.57,
+        1271.67,
+        127.72
+      ],
+      "confidence": 0.726,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1188.34,
+        13.88,
+        1227.47,
+        53.14
+      ],
+      "confidence": 0.6752,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1480.87,
+        675.01,
+        1526.51,
+        720.6
+      ],
+      "confidence": 0.6584,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1215.9,
+        765.99,
+        1299.8,
+        784.83
+      ],
+      "confidence": 0.6274,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1099.14,
+        14.47,
+        1137.28,
+        52.64
+      ],
+      "confidence": 0.5847,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        269.99,
+        114.73,
+        409.9,
+        133.06
+      ],
+      "confidence": 0.5703,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1143.24,
+        14.12,
+        1181.36,
+        53.05
+      ],
+      "confidence": 0.5612,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1278.66,
+        22.09,
+        1307.81,
+        50.1
+      ],
+      "confidence": 0.4252,
+      "cluster_size": 1
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "image": "099_kenh14_vn.png",
+  "total_elements": 23,
+  "total_raw_nodes": 25,
+  "total_raw_edges": 13,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        0.0,
+        1536.0,
+        53.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "ocr",
+      "class_label": "KEN",
+      "bbox": [
+        66.0,
+        7.0,
+        85.0,
+        15.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "GENZ AREA",
+      "bbox": [
+        729.0,
+        20.0,
+        808.0,
+        30.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "Những gương mặt Gen Z Việt, trải dài ở nhiều lĩnh vực, ngành nghề,\nplatform. Điểm chung của họ chính là sự quyết tâm theo đuổi đam mê,\ncá tính không lẫn vào đâu được cùng sức ảnh hưởng tích cực đến hàng\ntriệu người trẻ.",
+      "bbox": [
+        570.0,
+        190.0,
+        966.0,
+        263.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        167.55,
+        525.27,
+        343.4,
+        567.62
+      ],
+      "confidence": 0.9425,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        667.35,
+        618.48,
+        1065.97,
+        760.75
+      ],
+      "confidence": 0.9706,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        166.71,
+        616.76,
+        653.48,
+        826.0
+      ],
+      "confidence": 0.9698,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "\"Trăm người bán, vạn người mua\"... dịch vụ, có tiền đầu tư kinh doanh\nchỉ mới là bước đầu.",
+      "bbox": [
+        664.0,
+        783.0,
+        1054.0,
+        818.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "TRANG THÔNG TIN ĐIỆN TỬ",
+      "bbox": [
+        101.0,
+        32.0,
+        173.0,
+        39.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1083.12,
+        339.84,
+        1367.87,
+        442.15
+      ],
+      "confidence": 0.9255,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1097.77,
+        533.65,
+        1367.09,
+        824.69
+      ],
+      "confidence": 0.9143,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "GENZ1-AREA",
+      "bbox": [
+        533.0,
+        89.0,
+        1001.0,
+        141.0
+      ],
+      "confidence": 0.88,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "Community\nTolks",
+      "bbox": [
+        180.0,
+        372.0,
+        309.0,
+        411.0
+      ],
+      "confidence": 0.86,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "lu--\nĐương",
+      "bbox": [
+        489.0,
+        373.0,
+        560.0,
+        415.0
+      ],
+      "confidence": 0.86,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        728.63,
+        19.09,
+        808.23,
+        31.15
+      ],
+      "confidence": 0.8458,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        0.45,
+        0.53,
+        50.17,
+        49.88
+      ],
+      "confidence": 0.8454,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "14 kenh14",
+      "bbox": [
+        69.0,
+        9.0,
+        173.0,
+        33.0
+      ],
+      "confidence": 0.84,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "Money\nTalk",
+      "bbox": [
+        795.0,
+        377.0,
+        871.0,
+        411.0
+      ],
+      "confidence": 0.84,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "Fce",
+      "bbox": [
+        1101.0,
+        391.0,
+        1156.0,
+        410.0
+      ],
+      "confidence": 0.82,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1384.81,
+        365.77,
+        1417.59,
+        398.66
+      ],
+      "confidence": 0.7466,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        63.98,
+        7.93,
+        176.58,
+        40.87
+      ],
+      "confidence": 0.6656,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        491.12,
+        372.95,
+        532.04,
+        389.61
+      ],
+      "confidence": 0.3559,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        11.88,
+        12.88,
+        38.82,
+        37.77
+      ],
+      "confidence": 0.333,
+      "cluster_size": 1
+    }
+  ]
+}

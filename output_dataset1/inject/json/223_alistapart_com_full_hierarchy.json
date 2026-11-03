@@ -1,0 +1,554 @@
+{
+  "image": "223_alistapart_com.png",
+  "total_elements": 42,
+  "total_raw_nodes": 46,
+  "total_raw_edges": 37,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "ocr",
+      "class_label": "Ste Grainer takes a brief look at the",
+      "bbox": [
+        294.0,
+        8.0,
+        513.0,
+        20.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "ocr",
+      "class_label": "design OG Zeldman ponders the\nmoments of inspiration, the hours\nof plodding, and the ultimate\nmystery at the heart of a creative",
+      "bbox": [
+        781.0,
+        7.0,
+        991.0,
+        94.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "Humility: An Essential\nValue",
+      "bbox": [
+        294.0,
+        174.0,
+        473.0,
+        212.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        305.14,
+        616.81,
+        343.91,
+        626.19
+      ],
+      "confidence": 0.8541,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        460.14,
+        616.6,
+        523.46,
+        626.31
+      ],
+      "confidence": 0.931,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "Style Guide",
+      "bbox": [
+        556.0,
+        615.0,
+        628.0,
+        627.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "history of the web, where we are\nnow, and how we can shape its\nfuture.",
+      "bbox": [
+        294.0,
+        32.0,
+        495.0,
+        91.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "In this article, Aaron Gustafson\nmuses on some of the many ways\nwe can and should-harness the\ncapabilities of AI to create a more\naccessible world.\nAccessibility February 07, 2024",
+      "bbox": [
+        536.0,
+        8.0,
+        746.0,
+        139.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "career.",
+      "bbox": [
+        781.0,
+        107.0,
+        822.0,
+        116.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "by Justin Dauer",
+      "bbox": [
+        295.0,
+        223.0,
+        391.0,
+        236.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "In this excerpt from In Fulfillment:\nThe Designer's Journey, Justin\nDauer ruminates on the past and\nthe importance of keeping an open\nmind.",
+      "bbox": [
+        294.0,
+        245.0,
+        510.0,
+        358.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "Design June 22, 2023",
+      "bbox": [
+        295.0,
+        368.0,
+        412.0,
+        381.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "Personalization Pyramid:\nA Framework for\nDesigning with User Data\nby Colin Eagan, Jeffrey MacIntyre\nColin Eagan and Jeffrey MacIntyre\noffer a \"ground-up\" approach to\nimplementing personalized digital\nexperiences that are intentional,\nethical, and technologically sound.\nContent - December 08, 2022",
+      "bbox": [
+        537.0,
+        176.0,
+        754.0,
+        405.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "Is mobile-first CSS always the best\noption? Patrick Clancey explores\nthe pros and cons and lays out an\nalternative.",
+      "bbox": [
+        780.0,
+        249.0,
+        995.0,
+        333.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "A List Apart explores the design, development, and meaning of web content, with a special focus on web standards and best practices.\nExplore our articles or find out more about us.",
+      "bbox": [
+        376.0,
+        510.0,
+        1160.0,
+        546.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        376.23,
+        616.66,
+        427.16,
+        626.16
+      ],
+      "confidence": 0.8941,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "Contact Sponsorships",
+      "bbox": [
+        663.0,
+        617.0,
+        833.0,
+        628.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        954.06,
+        617.02,
+        1225.85,
+        626.45
+      ],
+      "confidence": 0.8747,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "Permissions & Copyright Privacy Policy Fonts by Webtype",
+      "bbox": [
+        306.0,
+        730.0,
+        701.0,
+        741.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "*FOR PEOPLE WHO MAKE WEBSITES",
+      "bbox": [
+        287.0,
+        772.0,
+        1248.0,
+        825.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "Mobile-First CSS: Is It\nTime for a Rethink?\nby Patrick Clancey",
+      "bbox": [
+        781.0,
+        176.0,
+        959.0,
+        237.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "Code - June 08, 2022",
+      "bbox": [
+        780.0,
+        346.0,
+        889.0,
+        357.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "ISSN 1534-0295 Copyright © 1998-2026 A List Apart & Our Authors\nDesigned with WordPress. Hosted by Pressable.",
+      "bbox": [
+        288.0,
+        675.0,
+        693.0,
+        711.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "ocr",
+      "class_label": "State of the Web - February 29, 2024",
+      "bbox": [
+        294.0,
+        104.0,
+        481.0,
+        115.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        262.49,
+        596.45,
+        1310.74,
+        825.9
+      ],
+      "confidence": 0.958,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "ocr",
+      "class_label": "Career - January 29, 2024",
+      "bbox": [
+        780.0,
+        126.0,
+        912.0,
+        139.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        1135.0,
+        770.0,
+        1151.0,
+        826.0
+      ],
+      "confidence": 0.9174,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        745.71,
+        616.87,
+        833.45,
+        628.83
+      ],
+      "confidence": 0.8814,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        556.17,
+        616.46,
+        629.68,
+        628.42
+      ],
+      "confidence": 0.8688,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        780.94,
+        225.27,
+        898.24,
+        237.61
+      ],
+      "confidence": 0.8616,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        781.62,
+        175.16,
+        957.44,
+        187.16
+      ],
+      "confidence": 0.857,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        296.37,
+        174.59,
+        471.79,
+        192.03
+      ],
+      "confidence": 0.8452,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        303.5,
+        224.78,
+        392.18,
+        235.44
+      ],
+      "confidence": 0.8208,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        780.47,
+        128.68,
+        913.0,
+        138.49
+      ],
+      "confidence": 0.8163,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        662.47,
+        616.85,
+        712.52,
+        627.01
+      ],
+      "confidence": 0.7971,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        295.1,
+        369.44,
+        413.06,
+        382.27
+      ],
+      "confidence": 0.7482,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        779.14,
+        198.43,
+        945.97,
+        212.27
+      ],
+      "confidence": 0.6691,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        778.97,
+        345.39,
+        889.66,
+        355.7
+      ],
+      "confidence": 0.6661,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        279.59,
+        673.9,
+        705.97,
+        688.44
+      ],
+      "confidence": 0.5592,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        294.46,
+        198.69,
+        342.68,
+        211.86
+      ],
+      "confidence": 0.3605,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        294.41,
+        225.29,
+        307.07,
+        236.9
+      ],
+      "confidence": 0.3151,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        779.76,
+        320.7,
+        850.91,
+        331.52
+      ],
+      "confidence": 0.1091,
+      "cluster_size": 1
+    }
+  ]
+}

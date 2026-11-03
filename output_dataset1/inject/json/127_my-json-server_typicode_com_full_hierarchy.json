@@ -1,0 +1,320 @@
+{
+  "image": "127_my-json-server_typicode_com.png",
+  "total_elements": 24,
+  "total_raw_nodes": 28,
+  "total_raw_edges": 14,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        44.0,
+        1536.0,
+        53.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "ocr",
+      "class_label": "Limits",
+      "bbox": [
+        310.0,
+        142.0,
+        398.0,
+        168.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "To be able to provide a free service to as many people as possible during this phase, the project comes with a few limits:",
+      "bbox": [
+        308.0,
+        206.0,
+        1163.0,
+        221.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "Requests are cached ( 1 minute)",
+      "bbox": [
+        337.0,
+        278.0,
+        579.0,
+        299.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "Roadmap",
+      "bbox": [
+        310.0,
+        419.0,
+        455.0,
+        450.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "Need more? Private repo, random values, REST+GraphQL... check our sponsor Mockend",
+      "bbox": [
+        446.0,
+        17.0,
+        1090.0,
+        32.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "Use it at your own risk. If you need a reliable solution, please install JSON Server.",
+      "bbox": [
+        308.0,
+        89.0,
+        886.0,
+        105.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Changes are faked and aren't persisted (just like JSONPlaceholder)",
+      "bbox": [
+        337.0,
+        256.0,
+        822.0,
+        272.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "db.json has limits",
+      "bbox": [
+        344.0,
+        307.0,
+        479.0,
+        326.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "I hope to be able to support private repositories later and plan to improve this service regularly. To be notified of updates, you can\nfollow me on Twitter @typicode.",
+      "bbox": [
+        307.0,
+        477.0,
+        1224.0,
+        526.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        714.91,
+        643.12,
+        821.2,
+        654.32
+      ],
+      "confidence": 0.9099,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        694.67,
+        626.43,
+        841.26,
+        672.05
+      ],
+      "confidence": 0.9008,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "© 2017-2019 Typicode. All rights reserved.",
+      "bbox": [
+        925.0,
+        799.0,
+        1227.0,
+        813.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "• All servers are public",
+      "bbox": [
+        320.0,
+        336.0,
+        496.0,
+        354.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "• Private GitHub repositories aren't supported (yet)",
+      "bbox": [
+        320.0,
+        363.0,
+        685.0,
+        381.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        308.34,
+        418.36,
+        455.68,
+        455.04
+      ],
+      "confidence": 0.9595,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        306.12,
+        798.0,
+        463.56,
+        813.79
+      ],
+      "confidence": 0.8372,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_17",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        925.25,
+        797.71,
+        1227.37,
+        814.45
+      ],
+      "confidence": 0.8892,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        340.27,
+        309.78,
+        480.3,
+        328.24
+      ],
+      "confidence": 0.8182,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        335.07,
+        255.32,
+        621.2,
+        272.91
+      ],
+      "confidence": 0.7571,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        880.24,
+        15.92,
+        1086.78,
+        32.5
+      ],
+      "confidence": 0.7005,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        309.41,
+        505.16,
+        531.67,
+        523.36
+      ],
+      "confidence": 0.5738,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        448.59,
+        339.11,
+        499.9,
+        353.84
+      ],
+      "confidence": 0.423,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_23",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        321.81,
+        44.97,
+        363.31,
+        51.16
+      ],
+      "confidence": 0.1034,
+      "cluster_size": 1
+    }
+  ]
+}

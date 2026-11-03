@@ -1,0 +1,697 @@
+{
+  "image": "216_martinfowler_com.png",
+  "total_elements": 53,
+  "total_raw_nodes": 60,
+  "total_raw_edges": 56,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        294.0,
+        765.0,
+        1257.0,
+        826.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1012.0,
+        377.0,
+        1189.0,
+        385.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1015.0,
+        379.0,
+        1183.0,
+        382.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        363.0,
+        240.0,
+        560.0,
+        256.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        294.0,
+        77.0,
+        916.0,
+        85.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        296.0,
+        79.0,
+        909.0,
+        83.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        956.61,
+        6.97,
+        1080.85,
+        16.68
+      ],
+      "confidence": 0.9415,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "as infrastructure: versioned, reviewed, and\nshared artifacts that encode tacit team\nknowledge into executable instructions,\nmaking quality consistent regardless of\nwho is at the keyboard.",
+      "bbox": [
+        956.0,
+        202.0,
+        1241.0,
+        309.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Tue 24 Mar 2026 09:50",
+      "bbox": [
+        956.0,
+        453.0,
+        1081.0,
+        463.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "any",
+      "bbox": [
+        621.0,
+        1.0,
+        640.0,
+        10.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        303.0,
+        479.63,
+        914.1,
+        512.57
+      ],
+      "confidence": 0.9481,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "Al coding assistants respond to whoever is\nprompting, and the quality of what they\nproduce depends on how well the\nprompter articulates team standards.\nRahul Garg proposes treating the\ninstructions that govern Al interactions\n(generation, refactoring, security, review)",
+      "bbox": [
+        955.0,
+        39.0,
+        1241.0,
+        194.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        955.3,
+        415.5,
+        1200.23,
+        427.78
+      ],
+      "confidence": 0.9332,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        955.05,
+        485.96,
+        1243.14,
+        686.71
+      ],
+      "confidence": 0.9526,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "My Board Games page...",
+      "bbox": [
+        621.0,
+        50.0,
+        775.0,
+        63.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "All Content",
+      "bbox": [
+        295.0,
+        533.0,
+        367.0,
+        542.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        300.93,
+        781.87,
+        501.25,
+        812.57
+      ],
+      "confidence": 0.9229,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_17",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        295.05,
+        119.71,
+        352.22,
+        143.68
+      ],
+      "confidence": 0.9462,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "API design ⚫ agile ⚫ agile adoption analysis patterns application architecture application integration⚫\nbad things. board games build scripting⚫ certification collaboration ⚫ computer history. conference\npanels. conferences ⚫ continuous delivery.covid-19. data analytics data mesh. database. design⚫\ndictionary distributed computing magazine diversions diversity documentation ⚫ domain driven\ndesign ⚫ domain specific language domestic encapsulation enterprise architecture ⚫ estimation.\nevent architectures evolutionary design experience reports expositional architectures extreme\nprogramming front-end gadgets generative Al ieeeSoftware. infodecks. internet culture\ninterviews • language feature language workbench lean legacy modernization • legal ⚫ metrics.\nmicroservices. mobile noSQL object collaboration design parser generators ⚫ photography.\nplatforms ⚫ podcast presentation technique privacy process theory productivity programming\nenvironments ⚫ programming style project planning recruiting refactoring⚫ refactoring boundary.\nrequirements analysis. ruby⚫ security talk videos⚫ team environment team organization • technical\ndebt ⚫ technical leadership ⚫ test categories testing.thoughtworks⚫ tools ⚫ travel • uml • version\ncontrol • web development web services website. writing",
+      "bbox": [
+        295.0,
+        180.0,
+        905.0,
+        458.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "more...",
+      "bbox": [
+        956.0,
+        335.0,
+        1003.0,
+        344.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "© Martin Fowler | Disclosures",
+      "bbox": [
+        987.0,
+        810.0,
+        1166.0,
+        822.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        945.77,
+        2.13,
+        1253.15,
+        751.61
+      ],
+      "confidence": 0.9298,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        955.24,
+        39.11,
+        1241.39,
+        310.23
+      ],
+      "confidence": 0.9205,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "ocr",
+      "class_label": "more...",
+      "bbox": [
+        956.0,
+        711.0,
+        1004.0,
+        720.0
+      ],
+      "confidence": 0.92,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        295.07,
+        532.0,
+        367.3,
+        543.65
+      ],
+      "confidence": 0.917,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        348.08,
+        445.85,
+        456.21,
+        458.76
+      ],
+      "confidence": 0.9046,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        621.97,
+        48.94,
+        771.39,
+        62.13
+      ],
+      "confidence": 0.9046,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        955.81,
+        334.43,
+        1003.26,
+        346.79
+      ],
+      "confidence": 0.9038,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        957.19,
+        452.35,
+        1080.72,
+        461.79
+      ],
+      "confidence": 0.8917,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "ocr",
+      "class_label": "I also appear\nregularly on Heavy Cardboard.",
+      "bbox": [
+        620.0,
+        0.0,
+        860.0,
+        31.0
+      ],
+      "confidence": 0.89,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        954.0,
+        722.0,
+        1007.0,
+        727.0
+      ],
+      "confidence": 0.8833,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        611.91,
+        179.55,
+        750.69,
+        193.43
+      ],
+      "confidence": 0.8794,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        669.0,
+        281.0,
+        826.0,
+        296.0
+      ],
+      "confidence": 0.8722,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        486.0,
+        343.0,
+        650.0,
+        359.0
+      ],
+      "confidence": 0.8542,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        294.44,
+        446.6,
+        338.12,
+        457.91
+      ],
+      "confidence": 0.8426,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        464.91,
+        446.09,
+        541.83,
+        458.27
+      ],
+      "confidence": 0.8206,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        693.59,
+        15.45,
+        802.45,
+        29.73
+      ],
+      "confidence": 0.7805,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        761.73,
+        179.44,
+        899.69,
+        193.04
+      ],
+      "confidence": 0.7407,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        954.97,
+        710.47,
+        1006.71,
+        723.93
+      ],
+      "confidence": 0.6724,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1099.07,
+        808.85,
+        1166.54,
+        821.66
+      ],
+      "confidence": 0.6253,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        307.21,
+        219.09,
+        540.86,
+        233.99
+      ],
+      "confidence": 0.6113,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        363.75,
+        363.4,
+        412.13,
+        376.22
+      ],
+      "confidence": 0.4685,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        294.63,
+        480.13,
+        325.83,
+        490.69
+      ],
+      "confidence": 0.4544,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        605.46,
+        445.91,
+        647.41,
+        457.68
+      ],
+      "confidence": 0.394,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        705.94,
+        219.96,
+        771.4,
+        233.1
+      ],
+      "confidence": 0.3917,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1167.63,
+        777.03,
+        1192.39,
+        799.32
+      ],
+      "confidence": 0.3545,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        295.66,
+        220.31,
+        337.23,
+        233.29
+      ],
+      "confidence": 0.24,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        550.43,
+        446.32,
+        598.4,
+        457.65
+      ],
+      "confidence": 0.2254,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        780.2,
+        219.86,
+        834.8,
+        232.91
+      ],
+      "confidence": 0.2089,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        295.01,
+        179.62,
+        353.63,
+        193.06
+      ],
+      "confidence": 0.1574,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        295.31,
+        363.51,
+        351.3,
+        376.25
+      ],
+      "confidence": 0.1452,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        472.98,
+        405.0,
+        519.63,
+        417.18
+      ],
+      "confidence": 0.1211,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_52",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        841.54,
+        404.63,
+        898.14,
+        416.71
+      ],
+      "confidence": 0.1262,
+      "cluster_size": 1
+    }
+  ]
+}

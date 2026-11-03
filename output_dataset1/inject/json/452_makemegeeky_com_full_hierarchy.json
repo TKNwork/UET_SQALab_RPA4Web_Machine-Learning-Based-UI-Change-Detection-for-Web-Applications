@@ -1,0 +1,463 @@
+{
+  "image": "452_makemegeeky_com.png",
+  "total_elements": 35,
+  "total_raw_nodes": 39,
+  "total_raw_edges": 37,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        237.0,
+        565.0,
+        518.0,
+        587.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "ocr",
+      "class_label": "CONTACT",
+      "bbox": [
+        913.0,
+        27.0,
+        949.0,
+        32.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        229.18,
+        110.24,
+        338.96,
+        124.19
+      ],
+      "confidence": 0.9053,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "ABOUT",
+      "bbox": [
+        804.0,
+        27.0,
+        827.0,
+        32.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "PRODUCTS",
+      "bbox": [
+        851.0,
+        27.0,
+        890.0,
+        32.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "bold\nmoves",
+      "bbox": [
+        801.0,
+        55.0,
+        944.0,
+        125.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        212.19,
+        406.72,
+        500.83,
+        428.61
+      ],
+      "confidence": 0.9653,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "yourideas",
+      "bbox": [
+        1110.0,
+        3.0,
+        1162.0,
+        13.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": ".com",
+      "bbox": [
+        1198.0,
+        5.0,
+        1221.0,
+        10.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        212.86,
+        28.21,
+        564.75,
+        68.52
+      ],
+      "confidence": 0.9213,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "SHOP NOW",
+      "bbox": [
+        803.0,
+        146.0,
+        841.0,
+        151.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "Page views",
+      "bbox": [
+        1045.0,
+        196.0,
+        1093.0,
+        206.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "1.934 +32%",
+      "bbox": [
+        1042.0,
+        228.0,
+        1132.0,
+        251.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "Build your website today Press or\nWebsite Builder using Al tools, templates,\nand reliable hosting.",
+      "bbox": [
+        236.0,
+        565.0,
+        541.0,
+        632.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        614.55,
+        565.41,
+        917.02,
+        655.14
+      ],
+      "confidence": 0.9291,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_15",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        968.45,
+        455.65,
+        1324.23,
+        698.5
+      ],
+      "confidence": 0.9573,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        210.6,
+        455.7,
+        566.62,
+        693.78
+      ],
+      "confidence": 0.9527,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        591.24,
+        456.32,
+        945.49,
+        699.14
+      ],
+      "confidence": 0.9505,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        716.0,
+        15.0,
+        753.0,
+        49.0
+      ],
+      "confidence": 0.9416,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        697.0,
+        189.0,
+        730.0,
+        223.0
+      ],
+      "confidence": 0.9367,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "Bevier your projects with VPS\nresources. Scale apps, websites, and\nworkloads on secure VPS hosting.",
+      "bbox": [
+        992.0,
+        563.0,
+        1273.0,
+        631.0
+      ],
+      "confidence": 0.93,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        692.2,
+        0.0,
+        1295.93,
+        318.3
+      ],
+      "confidence": 0.925,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        213.05,
+        96.47,
+        353.66,
+        135.92
+      ],
+      "confidence": 0.9166,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        778.98,
+        722.4,
+        1322.99,
+        826.0
+      ],
+      "confidence": 0.9156,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        992.0,
+        565.0,
+        1231.0,
+        587.0
+      ],
+      "confidence": 0.9053,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        754.0,
+        14.0,
+        770.0,
+        49.0
+      ],
+      "confidence": 0.9018,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        238.5,
+        566.6,
+        474.23,
+        585.35
+      ],
+      "confidence": 0.8976,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        212.25,
+        722.22,
+        756.87,
+        826.0
+      ],
+      "confidence": 0.8971,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        614.87,
+        566.21,
+        826.15,
+        585.62
+      ],
+      "confidence": 0.8849,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        993.77,
+        566.27,
+        1273.02,
+        585.74
+      ],
+      "confidence": 0.836,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        993.35,
+        481.18,
+        1028.98,
+        516.81
+      ],
+      "confidence": 0.7947,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        615.22,
+        481.05,
+        650.82,
+        516.27
+      ],
+      "confidence": 0.7785,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        244.86,
+        754.64,
+        280.22,
+        789.94
+      ],
+      "confidence": 0.7689,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        238.11,
+        481.25,
+        272.56,
+        516.32
+      ],
+      "confidence": 0.7251,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        811.7,
+        754.98,
+        847.15,
+        789.84
+      ],
+      "confidence": 0.6918,
+      "cluster_size": 1
+    }
+  ]
+}

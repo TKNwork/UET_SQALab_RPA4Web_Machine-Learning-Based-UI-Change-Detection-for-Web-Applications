@@ -1,0 +1,229 @@
+{
+  "image": "021_standardebooks_org.png",
+  "total_elements": 17,
+  "total_raw_nodes": 21,
+  "total_raw_edges": 9,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1214.0,
+        337.0,
+        1218.0,
+        390.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1214.0,
+        236.0,
+        1218.0,
+        334.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "Modern & consistent typography",
+      "bbox": [
+        307.0,
+        34.0,
+        1061.0,
+        93.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        307.4,
+        304.09,
+        784.55,
+        412.3
+      ],
+      "confidence": 0.965,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        302.85,
+        551.88,
+        1153.76,
+        601.18
+      ],
+      "confidence": 0.9625,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        307.95,
+        137.41,
+        784.52,
+        273.82
+      ],
+      "confidence": 0.9493,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        308.22,
+        648.57,
+        783.87,
+        786.35
+      ],
+      "confidence": 0.9666,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "\"Nothing but the impress\n\"I've never lost it.\"",
+      "bbox": [
+        834.0,
+        167.0,
+        1146.0,
+        229.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "\"Nothing but the im\n\"The heart. \"I've never lost it.\"\n\"Then your manuscrip\n\"Is in old, faded ink, a",
+      "bbox": [
+        834.0,
+        235.0,
+        1217.0,
+        386.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        309.16,
+        41.78,
+        1060.15,
+        90.41
+      ],
+      "confidence": 0.9505,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "\"Goodbye, Matt, old man. About the\nwolf-you needn't write. You see\nI've...!\"",
+      "bbox": [
+        838.0,
+        740.0,
+        1201.0,
+        811.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        828.8,
+        728.05,
+        1228.33,
+        825.85
+      ],
+      "confidence": 0.8939,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1142.0,
+        188.0,
+        1146.0,
+        230.0
+      ],
+      "confidence": 0.8754,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        927.96,
+        360.74,
+        1216.76,
+        388.99
+      ],
+      "confidence": 0.8376,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "At Standard Ebooks we do a coreful and complete",
+      "bbox": [
+        309.0,
+        817.0,
+        783.0,
+        825.0
+      ],
+      "confidence": 0.8,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        937.59,
+        321.19,
+        1217.2,
+        348.12
+      ],
+      "confidence": 0.7931,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        927.21,
+        812.94,
+        976.74,
+        825.66
+      ],
+      "confidence": 0.1334,
+      "cluster_size": 1
+    }
+  ]
+}

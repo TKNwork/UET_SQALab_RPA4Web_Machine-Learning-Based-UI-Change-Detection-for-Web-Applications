@@ -1,0 +1,320 @@
+{
+  "image": "200_worldnomads_com.png",
+  "total_elements": 24,
+  "total_raw_nodes": 31,
+  "total_raw_edges": 17,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        52.44,
+        25.96,
+        194.17,
+        41.09
+      ],
+      "confidence": 0.9286,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_1",
+      "source": "ocr",
+      "class_label": "How safe is the United States for",
+      "bbox": [
+        184.0,
+        95.0,
+        752.0,
+        122.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "international visitors?",
+      "bbox": [
+        185.0,
+        141.0,
+        565.0,
+        168.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        183.22,
+        338.72,
+        421.24,
+        359.66
+      ],
+      "confidence": 0.9685,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        180.43,
+        526.26,
+        954.73,
+        573.6
+      ],
+      "confidence": 0.9651,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "The threat of gun violence",
+      "bbox": [
+        184.0,
+        602.0,
+        541.0,
+        628.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "All World Cup stadium venues will have a fenced, outer perimeter with metal detectors and",
+      "bbox": [
+        183.0,
+        792.0,
+        952.0,
+        808.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Facebook f",
+      "bbox": [
+        230.0,
+        20.0,
+        334.0,
+        40.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        180.32,
+        206.41,
+        955.65,
+        311.63
+      ],
+      "confidence": 0.9224,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        183.24,
+        394.41,
+        956.56,
+        496.56
+      ],
+      "confidence": 0.9731,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        182.43,
+        656.61,
+        956.86,
+        761.25
+      ],
+      "confidence": 0.9611,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        218.7,
+        11.33,
+        347.33,
+        52.7
+      ],
+      "confidence": 0.9454,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "in",
+      "bbox": [
+        411.0,
+        24.0,
+        432.0,
+        41.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        183.58,
+        94.82,
+        753.88,
+        169.58
+      ],
+      "confidence": 0.957,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        352.0,
+        10.0,
+        395.0,
+        53.0
+      ],
+      "confidence": 0.9502,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        399.0,
+        10.0,
+        445.0,
+        53.0
+      ],
+      "confidence": 0.9489,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        353.85,
+        12.69,
+        393.52,
+        51.8
+      ],
+      "confidence": 0.9061,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        250.0,
+        818.0,
+        336.0,
+        826.0
+      ],
+      "confidence": 0.8958,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        699.0,
+        818.0,
+        783.0,
+        826.0
+      ],
+      "confidence": 0.875,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        232.49,
+        24.54,
+        313.88,
+        38.45
+      ],
+      "confidence": 0.8535,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        400.94,
+        12.94,
+        442.93,
+        51.98
+      ],
+      "confidence": 0.8527,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "creenings at the entry pointe Weanene of any kind are prohibited within the perimeter",
+      "bbox": [
+        264.0,
+        819.0,
+        949.0,
+        825.0
+      ],
+      "confidence": 0.8,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        21.44,
+        17.97,
+        43.76,
+        49.82
+      ],
+      "confidence": 0.2958,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        323.58,
+        17.54,
+        339.72,
+        46.64
+      ],
+      "confidence": 0.1462,
+      "cluster_size": 1
+    }
+  ]
+}

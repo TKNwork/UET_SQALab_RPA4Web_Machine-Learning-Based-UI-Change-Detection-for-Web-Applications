@@ -1,0 +1,801 @@
+{
+  "image": "295_abebooks_com.png",
+  "total_elements": 61,
+  "total_raw_nodes": 78,
+  "total_raw_edges": 74,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1045.0,
+        381.0,
+        1341.0,
+        386.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        396.0,
+        21.0,
+        920.0,
+        59.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "AbeBooks",
+      "bbox": [
+        197.0,
+        35.0,
+        313.0,
+        52.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "Enter keyword title, author, or ISBN",
+      "bbox": [
+        411.0,
+        35.0,
+        634.0,
+        47.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        157.26,
+        95.88,
+        266.58,
+        106.61
+      ],
+      "confidence": 0.9458,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        370.21,
+        95.68,
+        489.5,
+        105.87
+      ],
+      "confidence": 0.9538,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "Sign in",
+      "bbox": [
+        1072.0,
+        35.0,
+        1111.0,
+        47.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1142.28,
+        34.99,
+        1210.58,
+        47.79
+      ],
+      "confidence": 0.9268,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Basket",
+      "bbox": [
+        1239.0,
+        34.0,
+        1278.0,
+        46.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "Help",
+      "bbox": [
+        1334.0,
+        35.0,
+        1361.0,
+        47.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        984.37,
+        96.04,
+        1049.42,
+        105.96
+      ],
+      "confidence": 0.9394,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1152.79,
+        95.85,
+        1195.39,
+        105.89
+      ],
+      "confidence": 0.9136,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "Most expensive sales from January to March 2026",
+      "bbox": [
+        183.0,
+        221.0,
+        1300.0,
+        266.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "FIRSTS",
+      "bbox": [
+        1045.0,
+        348.0,
+        1124.0,
+        365.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "THE WASTE LAND",
+      "bbox": [
+        419.0,
+        690.0,
+        522.0,
+        699.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        662.4,
+        804.54,
+        960.94,
+        821.31
+      ],
+      "confidence": 0.8952,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_16",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        593.91,
+        95.8,
+        665.02,
+        105.98
+      ],
+      "confidence": 0.9307,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_17",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        767.85,
+        95.81,
+        879.96,
+        106.46
+      ],
+      "confidence": 0.943,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_18",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        182.64,
+        340.76,
+        858.89,
+        358.31
+      ],
+      "confidence": 0.9762,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_19",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        183.35,
+        386.46,
+        974.37,
+        456.36
+      ],
+      "confidence": 0.9704,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "Start Selling",
+      "bbox": [
+        1299.0,
+        94.0,
+        1377.0,
+        108.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        662.04,
+        600.69,
+        981.96,
+        761.59
+      ],
+      "confidence": 0.9648,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "firstslondon.com",
+      "bbox": [
+        1045.0,
+        554.0,
+        1138.0,
+        564.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "ocr",
+      "class_label": "Firsts: London's Rare Book Fair\nWhether you're an avid collector looking\nfor your next treasure, or a bibliophile\nhappiest among stacks of secondhand\nclassics, Firsts London is the book fair for\nyou.",
+      "bbox": [
+        1050.0,
+        604.0,
+        1333.0,
+        738.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1052.91,
+        767.98,
+        1194.35,
+        779.4
+      ],
+      "confidence": 0.8535,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_25",
+      "source": "ocr",
+      "class_label": "USD",
+      "bbox": [
+        1017.0,
+        35.0,
+        1041.0,
+        44.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        264.82,
+        542.78,
+        721.72,
+        571.07
+      ],
+      "confidence": 0.9455,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_27",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        263.2,
+        616.43,
+        622.46,
+        826.0
+      ],
+      "confidence": 0.9607,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "ocr",
+      "class_label": "\"REVOLUTION!\"\nSaatchi Gallery, 14-17 May 2026",
+      "bbox": [
+        1196.0,
+        348.0,
+        1341.0,
+        380.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        183.81,
+        219.58,
+        1007.39,
+        269.57
+      ],
+      "confidence": 0.9556,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        1131.0,
+        25.0,
+        1221.0,
+        56.0
+      ],
+      "confidence": 0.9541,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        1229.0,
+        25.0,
+        1315.0,
+        56.0
+      ],
+      "confidence": 0.9509,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        983.0,
+        25.0,
+        1053.0,
+        56.0
+      ],
+      "confidence": 0.9502,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "ocr",
+      "class_label": "BOOKS > RARE BOOKS",
+      "bbox": [
+        183.0,
+        180.0,
+        324.0,
+        194.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1060.41,
+        24.06,
+        1124.61,
+        56.47
+      ],
+      "confidence": 0.8646,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_35",
+      "source": "ocr",
+      "class_label": "Follow us @firstslondon | #FirstsLondon",
+      "bbox": [
+        1184.0,
+        555.0,
+        1340.0,
+        564.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        874.44,
+        23.78,
+        917.99,
+        56.43
+      ],
+      "confidence": 0.8679,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_37",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        1323.0,
+        25.0,
+        1373.0,
+        56.0
+      ],
+      "confidence": 0.9387,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "ocr",
+      "class_label": "41.",
+      "bbox": [
+        662.0,
+        760.0,
+        689.0,
+        771.0
+      ],
+      "confidence": 0.93,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        182.22,
+        540.03,
+        244.35,
+        599.94
+      ],
+      "confidence": 0.9288,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1225.26,
+        22.46,
+        1316.64,
+        58.1
+      ],
+      "confidence": 0.9189,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "ocr",
+      "class_label": "1",
+      "bbox": [
+        208.0,
+        563.0,
+        217.0,
+        576.0
+      ],
+      "confidence": 0.91,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1127.64,
+        22.5,
+        1223.99,
+        57.23
+      ],
+      "confidence": 0.9046,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        410.51,
+        34.27,
+        635.76,
+        49.0
+      ],
+      "confidence": 0.9026,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1299.74,
+        95.71,
+        1378.12,
+        109.86
+      ],
+      "confidence": 0.8814,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        249.3,
+        182.35,
+        324.73,
+        191.19
+      ],
+      "confidence": 0.8709,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1318.08,
+        22.29,
+        1375.87,
+        58.13
+      ],
+      "confidence": 0.8703,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        979.0,
+        21.0,
+        1377.0,
+        60.0
+      ],
+      "confidence": 0.8504,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "ocr",
+      "class_label": "LONDON'S RARE BOOK FAIR",
+      "bbox": [
+        1046.0,
+        369.0,
+        1125.0,
+        375.0
+      ],
+      "confidence": 0.85,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        154.04,
+        21.79,
+        316.11,
+        57.21
+      ],
+      "confidence": 0.8372,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        183.24,
+        182.17,
+        225.29,
+        191.62
+      ],
+      "confidence": 0.8337,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "ocr",
+      "class_label": "Q",
+      "bbox": [
+        885.0,
+        31.0,
+        904.0,
+        47.0
+      ],
+      "confidence": 0.82,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "ocr",
+      "class_label": "LAND",
+      "bbox": [
+        347.0,
+        709.0,
+        362.0,
+        713.0
+      ],
+      "confidence": 0.81,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_53",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1000.06,
+        35.1,
+        1042.91,
+        47.52
+      ],
+      "confidence": 0.7878,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_54",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        981.22,
+        22.79,
+        1060.91,
+        57.21
+      ],
+      "confidence": 0.644,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_55",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1335.66,
+        34.95,
+        1361.37,
+        49.38
+      ],
+      "confidence": 0.5866,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_56",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1240.66,
+        33.74,
+        1283.33,
+        46.73
+      ],
+      "confidence": 0.4403,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_57",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1071.98,
+        35.65,
+        1112.85,
+        49.35
+      ],
+      "confidence": 0.2351,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_58",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1284.3,
+        31.75,
+        1301.16,
+        48.18
+      ],
+      "confidence": 0.2181,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_59",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        232.78,
+        184.59,
+        240.86,
+        192.28
+      ],
+      "confidence": 0.1858,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_60",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1182.89,
+        769.44,
+        1197.19,
+        779.16
+      ],
+      "confidence": 0.1005,
+      "cluster_size": 1
+    }
+  ]
+}

@@ -1,0 +1,359 @@
+{
+  "image": "026_standardebooks_org.png",
+  "total_elements": 27,
+  "total_raw_nodes": 35,
+  "total_raw_edges": 24,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        107.0,
+        724.0,
+        1429.0,
+        731.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        904.0,
+        412.0,
+        1189.0,
+        417.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        355.0,
+        412.0,
+        640.0,
+        417.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        330.0,
+        123.0,
+        1206.0,
+        192.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        329.92,
+        17.68,
+        1209.25,
+        67.44
+      ],
+      "confidence": 0.9434,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "Your email address",
+      "bbox": [
+        327.0,
+        96.0,
+        501.0,
+        115.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "Email",
+      "bbox": [
+        383.0,
+        147.0,
+        434.0,
+        163.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Summary of New Releases",
+      "bbox": [
+        351.0,
+        510.0,
+        593.0,
+        532.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1055.2,
+        634.59,
+        1163.99,
+        654.0
+      ],
+      "confidence": 0.9488,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1010.12,
+        609.11,
+        1209.49,
+        684.57
+      ],
+      "confidence": 0.9823,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        328.71,
+        268.53,
+        757.27,
+        339.56
+      ],
+      "confidence": 0.9756,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "What kind of email would you like to receive?",
+      "bbox": [
+        327.0,
+        390.0,
+        747.0,
+        409.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        349.41,
+        437.14,
+        655.19,
+        452.23
+      ],
+      "confidence": 0.9442,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "Analysis and insight into books in the S.E. catalog, sent once a month.",
+      "bbox": [
+        350.0,
+        465.0,
+        909.0,
+        483.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "A list of all of the ebooks Standard Ebooks has released in the previous month, sent once a month.",
+      "bbox": [
+        350.0,
+        540.0,
+        1121.0,
+        559.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        778.67,
+        265.91,
+        1009.88,
+        340.72
+      ],
+      "confidence": 0.9593,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_16",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        731.31,
+        753.4,
+        804.92,
+        767.36
+      ],
+      "confidence": 0.9198,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_17",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        335.96,
+        121.13,
+        1210.23,
+        194.4
+      ],
+      "confidence": 0.9645,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        328.28,
+        243.46,
+        660.09,
+        262.38
+      ],
+      "confidence": 0.9381,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "*ElevenReader",
+      "bbox": [
+        635.0,
+        783.0,
+        903.0,
+        807.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        350.78,
+        513.54,
+        594.56,
+        533.07
+      ],
+      "confidence": 0.9058,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        327.57,
+        98.21,
+        503.99,
+        113.57
+      ],
+      "confidence": 0.8843,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        329.2,
+        389.7,
+        747.13,
+        413.94
+      ],
+      "confidence": 0.8783,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        385.34,
+        149.33,
+        435.05,
+        163.62
+      ],
+      "confidence": 0.5236,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        352.09,
+        463.94,
+        676.16,
+        484.47
+      ],
+      "confidence": 0.5091,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        349.21,
+        148.87,
+        372.39,
+        166.09
+      ],
+      "confidence": 0.3289,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        349.17,
+        291.44,
+        371.75,
+        314.36
+      ],
+      "confidence": 0.2334,
+      "cluster_size": 1
+    }
+  ]
+}

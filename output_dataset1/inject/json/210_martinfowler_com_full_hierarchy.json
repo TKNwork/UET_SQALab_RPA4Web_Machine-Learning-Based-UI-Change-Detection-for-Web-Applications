@@ -1,0 +1,502 @@
+{
+  "image": "210_martinfowler_com.png",
+  "total_elements": 38,
+  "total_raw_nodes": 46,
+  "total_raw_edges": 33,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1012.0,
+        753.0,
+        1189.0,
+        761.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1015.0,
+        756.0,
+        1183.0,
+        759.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        308.39,
+        16.16,
+        538.07,
+        40.65
+      ],
+      "confidence": 0.895,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "Software development is a young profession, and we are still learning the\ntechniques and building the tools to do it effectively. I've been involved in this\nactivity for over three decades and in the last two I've been writing on this\nwebsite about patterns and practices that make it easier to build useful software.\nThe site began as a place to put my own writing, but I also use it to publish\narticles by my colleagues.",
+      "bbox": [
+        294.0,
+        126.0,
+        1026.0,
+        298.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1056.1,
+        373.45,
+        1168.57,
+        387.46
+      ],
+      "confidence": 0.9446,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "A website on building software effectively",
+      "bbox": [
+        293.0,
+        562.0,
+        870.0,
+        596.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "As software becomes more critical to modern business, software needs to be able",
+      "bbox": [
+        293.0,
+        806.0,
+        916.0,
+        820.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Recent Changes",
+      "bbox": [
+        956.0,
+        541.0,
+        1110.0,
+        563.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        956.71,
+        792.35,
+        1088.24,
+        807.43
+      ],
+      "confidence": 0.9346,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1054.26,
+        131.38,
+        1256.24,
+        332.67
+      ],
+      "confidence": 0.9834,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        294.41,
+        328.89,
+        1029.81,
+        498.36
+      ],
+      "confidence": 0.9449,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1055.46,
+        335.8,
+        1229.18,
+        348.78
+      ],
+      "confidence": 0.9435,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_12",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        294.16,
+        635.56,
+        920.1,
+        780.05
+      ],
+      "confidence": 0.9539,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "If you'd like to be notified when I post new\nmaterial, subscribe to my RSS feed. I also\npost announcements of new material to\nFediverse (Mastodon), Bluesky, LinkedIn,\nand X (Twitter). I also have a page\ndedicated to recent changes.",
+      "bbox": [
+        955.0,
+        593.0,
+        1247.0,
+        725.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "Refactoring Agile Architecture About Thoughtworks",
+      "bbox": [
+        534.0,
+        77.0,
+        979.0,
+        94.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        452.76,
+        328.76,
+        589.04,
+        350.24
+      ],
+      "confidence": 0.9237,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        956.85,
+        543.93,
+        1110.05,
+        564.16
+      ],
+      "confidence": 0.921,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        949.14,
+        525.57,
+        1253.78,
+        823.72
+      ],
+      "confidence": 0.9082,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        535.41,
+        77.23,
+        623.11,
+        94.13
+      ],
+      "confidence": 0.8934,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        296.55,
+        566.49,
+        871.65,
+        595.29
+      ],
+      "confidence": 0.8895,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        694.49,
+        77.63,
+        788.14,
+        90.43
+      ],
+      "confidence": 0.8848,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        869.07,
+        77.55,
+        977.93,
+        94.53
+      ],
+      "confidence": 0.8837,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        640.15,
+        77.35,
+        677.24,
+        94.2
+      ],
+      "confidence": 0.828,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        806.09,
+        78.01,
+        851.43,
+        90.33
+      ],
+      "confidence": 0.794,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1009.19,
+        685.23,
+        1071.6,
+        700.66
+      ],
+      "confidence": 0.7737,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        908.14,
+        11.71,
+        1106.68,
+        31.91
+      ],
+      "confidence": 0.766,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1039.01,
+        707.36,
+        1136.63,
+        724.21
+      ],
+      "confidence": 0.6967,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        956.87,
+        661.11,
+        1104.76,
+        678.34
+      ],
+      "confidence": 0.6912,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1065.71,
+        77.47,
+        1079.0,
+        90.06
+      ],
+      "confidence": 0.67,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1098.9,
+        76.8,
+        1111.46,
+        90.4
+      ],
+      "confidence": 0.5698,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        996.6,
+        77.48,
+        1011.17,
+        91.21
+      ],
+      "confidence": 0.5643,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1031.33,
+        78.38,
+        1045.04,
+        90.01
+      ],
+      "confidence": 0.454,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_32",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1118.47,
+        662.05,
+        1171.2,
+        676.81
+      ],
+      "confidence": 0.3731,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1117.81,
+        13.53,
+        1133.87,
+        27.52
+      ],
+      "confidence": 0.293,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1170.27,
+        5.34,
+        1197.73,
+        29.41
+      ],
+      "confidence": 0.292,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1185.55,
+        661.84,
+        1244.84,
+        678.19
+      ],
+      "confidence": 0.2553,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1132.86,
+        77.61,
+        1147.26,
+        89.86
+      ],
+      "confidence": 0.2033,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        307.53,
+        0.0,
+        1125.9,
+        0.13
+      ],
+      "confidence": 0.1085,
+      "cluster_size": 1
+    }
+  ]
+}

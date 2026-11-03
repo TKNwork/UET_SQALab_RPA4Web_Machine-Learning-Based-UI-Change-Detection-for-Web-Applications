@@ -1,0 +1,112 @@
+{
+  "image": "379_khanacademy_org.png",
+  "total_elements": 8,
+  "total_raw_nodes": 9,
+  "total_raw_edges": 3,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        883.57,
+        203.78,
+        964.71,
+        214.11
+      ],
+      "confidence": 0.9406,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_1",
+      "source": "ocr",
+      "class_label": "Differentiate your\nclassroom and engage",
+      "bbox": [
+        884.0,
+        256.0,
+        1325.0,
+        351.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "every student.",
+      "bbox": [
+        884.0,
+        354.0,
+        1165.0,
+        399.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "We empower teachers to support their entire classroom.\n90% of US teachers who have used Khan Academy have\nfound us effective.",
+      "bbox": [
+        883.0,
+        430.0,
+        1322.0,
+        506.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "Teachers, start here",
+      "bbox": [
+        816.0,
+        577.0,
+        971.0,
+        593.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        782.0,
+        556.0,
+        1005.0,
+        615.0
+      ],
+      "confidence": 0.977,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "*",
+      "bbox": [
+        620.0,
+        241.0,
+        656.0,
+        269.0
+      ],
+      "confidence": 0.9,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        815.79,
+        578.14,
+        972.32,
+        595.21
+      ],
+      "confidence": 0.5745,
+      "cluster_size": 1
+    }
+  ]
+}

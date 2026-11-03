@@ -1,0 +1,632 @@
+{
+  "image": "177_encyclopedia_com.png",
+  "total_elements": 48,
+  "total_raw_nodes": 59,
+  "total_raw_edges": 62,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        212.0,
+        167.0,
+        1039.0,
+        176.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        232.16,
+        197.44,
+        513.64,
+        223.5
+      ],
+      "confidence": 0.9525,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "Updated May 23 2018",
+      "bbox": [
+        526.0,
+        262.0,
+        667.0,
+        274.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        555.66,
+        335.45,
+        845.28,
+        356.98
+      ],
+      "confidence": 0.9513,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        882.33,
+        36.43,
+        1092.93,
+        51.55
+      ],
+      "confidence": 0.9108,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1067.63,
+        177.15,
+        1256.11,
+        190.4
+      ],
+      "confidence": 0.9497,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1194.7,
+        286.35,
+        1264.91,
+        300.99
+      ],
+      "confidence": 0.7987,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "About encyclopedia.com content",
+      "bbox": [
+        1067.0,
+        415.0,
+        1255.0,
+        427.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1067.62,
+        450.72,
+        1129.52,
+        461.18
+      ],
+      "confidence": 0.947,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "Boston Tea Party",
+      "bbox": [
+        1069.0,
+        227.0,
+        1246.0,
+        247.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "At nine o'clock on the night of December 16,\n1773, a band of Bostonians disguised as\nNative Americans boarded the British merchant\nship Dartmouth and two companion vessels\nanchored at Griffin's Wharf in Boston harbor.",
+      "bbox": [
+        553.0,
+        435.0,
+        1016.0,
+        592.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "The Americans, who numbered around 70, shared a common aim: to destroy the\nships' cargo of British East India Company tea. Many years later George Hewes,\na 31-year-old shoemaker and participant, recalled \"We then were ordered by\nour commander to open the hatches and take out all the chests of tea and throw\nthem overboard. And we immediately proceeded to execute his orders, first\ncutting and splitting the chests with our tomahawks, so as thoroughly to expose",
+      "bbox": [
+        231.0,
+        611.0,
+        1018.0,
+        807.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1067.22,
+        380.69,
+        1186.82,
+        390.94
+      ],
+      "confidence": 0.9396,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        214.02,
+        170.06,
+        1036.85,
+        824.38
+      ],
+      "confidence": 0.9647,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "Oxford 2",
+      "bbox": [
+        1078.0,
+        331.0,
+        1134.0,
+        342.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        231.55,
+        431.99,
+        1014.78,
+        823.37
+      ],
+      "confidence": 0.9509,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "CENGAGE Views 2,636,775",
+      "bbox": [
+        259.0,
+        261.0,
+        450.0,
+        276.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1076.0,
+        287.47,
+        1161.78,
+        299.01
+      ],
+      "confidence": 0.7979,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_18",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        1067.0,
+        281.0,
+        1173.0,
+        306.0
+      ],
+      "confidence": 0.9472,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        1184.0,
+        280.0,
+        1277.0,
+        307.0
+      ],
+      "confidence": 0.9456,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1066.82,
+        323.48,
+        1143.26,
+        348.49
+      ],
+      "confidence": 0.939,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "> History > United States and Canada > U.S. History > Boston Tea Party",
+      "bbox": [
+        240.0,
+        119.0,
+        803.0,
+        135.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1248.63,
+        37.96,
+        1319.02,
+        48.04
+      ],
+      "confidence": 0.8595,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_23",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1185.26,
+        281.3,
+        1275.47,
+        304.82
+      ],
+      "confidence": 0.9385,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1068.57,
+        227.96,
+        1248.36,
+        250.03
+      ],
+      "confidence": 0.9365,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1102.51,
+        414.55,
+        1253.02,
+        427.04
+      ],
+      "confidence": 0.9215,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1068.88,
+        282.97,
+        1170.91,
+        303.71
+      ],
+      "confidence": 0.911,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        211.76,
+        33.16,
+        450.33,
+        56.1
+      ],
+      "confidence": 0.8919,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_28",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        526.34,
+        261.04,
+        666.59,
+        275.66
+      ],
+      "confidence": 0.8806,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        381.1,
+        645.74,
+        645.17,
+        666.51
+      ],
+      "confidence": 0.863,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1067.24,
+        414.75,
+        1100.06,
+        425.24
+      ],
+      "confidence": 0.8608,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        327.93,
+        118.29,
+        534.86,
+        132.48
+      ],
+      "confidence": 0.8579,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        551.85,
+        118.66,
+        648.29,
+        136.52
+      ],
+      "confidence": 0.8546,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "ocr",
+      "class_label": "66",
+      "bbox": [
+        945.0,
+        263.0,
+        968.0,
+        277.0
+      ],
+      "confidence": 0.84,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        555.8,
+        505.84,
+        723.96,
+        521.81
+      ],
+      "confidence": 0.7983,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        346.04,
+        261.16,
+        450.65,
+        273.77
+      ],
+      "confidence": 0.7939,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        253.9,
+        118.49,
+        308.07,
+        136.29
+      ],
+      "confidence": 0.776,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        259.32,
+        260.03,
+        334.31,
+        275.06
+      ],
+      "confidence": 0.7586,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1074.88,
+        330.12,
+        1134.03,
+        342.82
+      ],
+      "confidence": 0.6757,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        998.88,
+        261.74,
+        1017.74,
+        278.68
+      ],
+      "confidence": 0.6035,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        985.67,
+        208.84,
+        1008.65,
+        223.59
+      ],
+      "confidence": 0.5587,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        232.5,
+        255.27,
+        255.7,
+        279.34
+      ],
+      "confidence": 0.5545,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1193.58,
+        286.66,
+        1266.72,
+        302.11
+      ],
+      "confidence": 0.5224,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        948.0,
+        261.74,
+        966.71,
+        278.16
+      ],
+      "confidence": 0.507,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        897.47,
+        263.15,
+        917.64,
+        277.72
+      ],
+      "confidence": 0.5005,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        220.87,
+        121.52,
+        235.48,
+        132.92
+      ],
+      "confidence": 0.4666,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        826.67,
+        32.5,
+        852.57,
+        56.12
+      ],
+      "confidence": 0.2823,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1191.12,
+        37.67,
+        1204.13,
+        49.23
+      ],
+      "confidence": 0.2394,
+      "cluster_size": 1
+    }
+  ]
+}

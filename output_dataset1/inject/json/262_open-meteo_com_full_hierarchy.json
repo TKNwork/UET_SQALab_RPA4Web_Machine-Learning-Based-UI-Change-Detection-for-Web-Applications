@@ -1,0 +1,1230 @@
+{
+  "image": "262_open-meteo_com.png",
+  "total_elements": 94,
+  "total_raw_nodes": 101,
+  "total_raw_edges": 139,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1075.0,
+        375.0,
+        1303.0,
+        393.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1395.0,
+        188.0,
+        1536.0,
+        192.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1306.0,
+        188.0,
+        1380.0,
+        192.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        113.0,
+        1294.0,
+        192.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "Features",
+      "bbox": [
+        658.0,
+        32.0,
+        718.0,
+        47.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        63.01,
+        591.49,
+        151.11,
+        604.36
+      ],
+      "confidence": 0.9526,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        199.49,
+        591.4,
+        298.93,
+        604.25
+      ],
+      "confidence": 0.9457,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Forecast & Current",
+      "bbox": [
+        821.0,
+        294.0,
+        955.0,
+        307.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Historical Data",
+      "bbox": [
+        1107.0,
+        293.0,
+        1208.0,
+        307.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        46.79,
+        260.82,
+        706.85,
+        356.1
+      ],
+      "confidence": 0.9768,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        55.01,
+        495.6,
+        755.86,
+        533.49
+      ],
+      "confidence": 0.9273,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "Last 10 Days",
+      "bbox": [
+        987.0,
+        292.0,
+        1075.0,
+        308.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "2",
+      "bbox": [
+        827.0,
+        486.0,
+        836.0,
+        495.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "3",
+      "bbox": [
+        827.0,
+        510.0,
+        835.0,
+        519.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "12",
+      "bbox": [
+        820.0,
+        727.0,
+        836.0,
+        735.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        0.0,
+        0.33,
+        758.66,
+        189.26
+      ],
+      "confidence": 0.9788,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        782.03,
+        253.9,
+        1489.04,
+        824.98
+      ],
+      "confidence": 0.9788,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "Try the API here",
+      "bbox": [
+        765.0,
+        33.0,
+        878.0,
+        48.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "⚫ ERA5 reanalysis from January 1940, hourly, spatially complete - no missing values",
+      "bbox": [
+        49.0,
+        424.0,
+        659.0,
+        440.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "• Historical forecast archive from 2021 — identical format to the live Forecast API, ready for bias-\ncorrection pipelines",
+      "bbox": [
+        49.0,
+        448.0,
+        752.0,
+        488.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "\"time\": \"2022-01-01T15:00\",",
+      "bbox": [
+        888.0,
+        533.0,
+        1123.0,
+        546.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "},",
+      "bbox": [
+        870.0,
+        605.0,
+        886.0,
+        619.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "9",
+      "bbox": [
+        827.0,
+        654.0,
+        836.0,
+        663.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "ocr",
+      "class_label": "11",
+      "bbox": [
+        820.0,
+        702.0,
+        836.0,
+        711.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        889.22,
+        556.87,
+        1083.55,
+        571.17
+      ],
+      "confidence": 0.9117,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_25",
+      "source": "ocr",
+      "class_label": "13",
+      "bbox": [
+        820.0,
+        750.0,
+        835.0,
+        758.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        761.11,
+        1.44,
+        1530.39,
+        189.72
+      ],
+      "confidence": 0.9663,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        48.76,
+        578.87,
+        165.99,
+        617.19
+      ],
+      "confidence": 0.9608,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_28",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        181.75,
+        577.02,
+        315.79,
+        618.77
+      ],
+      "confidence": 0.9614,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "ocr",
+      "class_label": "• 30+ weather models from ECMWF, NOAA, DWD, Météo-France, JMA, KMA, KNMI, DMI,\nMeteoSwiss, UK Met Office, BOM, CMA, and more - globally, up to 1 km resolution",
+      "bbox": [
+        50.0,
+        376.0,
+        692.0,
+        415.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "ocr",
+      "class_label": "• Simple JSON API — HTTP GET, no authentication, CC BY 4.0 data licence",
+      "bbox": [
+        49.0,
+        544.0,
+        576.0,
+        559.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "ocr",
+      "class_label": "$ curl \"https://api.open-meteo.com/v1/forecast?\nlatitude=52.52&longitude=13.41&current=temperature_2m, wind_speed_10m&",
+      "bbox": [
+        830.0,
+        353.0,
+        1437.0,
+        392.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "ocr",
+      "class_label": "hourly=temperature_2m, relative_humidity_2m, wind_speed_10m\"",
+      "bbox": [
+        829.0,
+        401.0,
+        1339.0,
+        415.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "ocr",
+      "class_label": "\"current\":{",
+      "bbox": [
+        870.0,
+        508.0,
+        975.0,
+        523.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "ocr",
+      "class_label": "4",
+      "bbox": [
+        826.0,
+        534.0,
+        835.0,
+        542.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "ocr",
+      "class_label": "8",
+      "bbox": [
+        827.0,
+        630.0,
+        835.0,
+        638.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        887.13,
+        580.77,
+        1086.57,
+        595.4
+      ],
+      "confidence": 0.8319,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_37",
+      "source": "ocr",
+      "class_label": "\"hourly\": {",
+      "bbox": [
+        870.0,
+        629.0,
+        965.0,
+        643.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "ocr",
+      "class_label": "}",
+      "bbox": [
+        870.0,
+        749.0,
+        879.0,
+        763.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        642.03,
+        18.64,
+        731.75,
+        57.58
+      ],
+      "confidence": 0.9565,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "ocr",
+      "class_label": "5",
+      "bbox": [
+        827.0,
+        558.0,
+        836.0,
+        568.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "ocr",
+      "class_label": "\"relative humidity_2m\": [82,83,86,85,88,88,84,76, ...],",
+      "bbox": [
+        887.0,
+        725.0,
+        1369.0,
+        740.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "ocr",
+      "class_label": "6",
+      "bbox": [
+        827.0,
+        582.0,
+        836.0,
+        591.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "ocr",
+      "class_label": "\"time\": [\"2022-07-01T00:00\",\"2022-07-01T01:00\", ...],\n\"wind_speed_10m\": [3.16,3.02,3.3,3.14,3.2,2.95, ...],\n\"temperature_2m\": [13.7,13.3,12.8,12.3,11.8, ...],",
+      "bbox": [
+        887.0,
+        653.0,
+        1351.0,
+        715.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "ocr",
+      "class_label": "14 }",
+      "bbox": [
+        821.0,
+        773.0,
+        860.0,
+        786.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        803.48,
+        278.16,
+        970.27,
+        318.24
+      ],
+      "confidence": 0.9317,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "ocr",
+      "class_label": "7",
+      "bbox": [
+        827.0,
+        606.0,
+        835.0,
+        615.0
+      ],
+      "confidence": 0.93,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        820.49,
+        292.69,
+        954.95,
+        305.33
+      ],
+      "confidence": 0.9217,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "ocr",
+      "class_label": "1 {",
+      "bbox": [
+        827.0,
+        461.0,
+        861.0,
+        475.0
+      ],
+      "confidence": 0.92,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "ocr",
+      "class_label": "10",
+      "bbox": [
+        820.0,
+        678.0,
+        836.0,
+        687.0
+      ],
+      "confidence": 0.92,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        829.0,
+        399.0,
+        1022.0,
+        417.0
+      ],
+      "confidence": 0.8935,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1105.81,
+        292.51,
+        1208.88,
+        305.35
+      ],
+      "confidence": 0.8825,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        662.47,
+        32.98,
+        718.15,
+        43.72
+      ],
+      "confidence": 0.8682,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_53",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        861.33,
+        352.34,
+        1279.35,
+        369.03
+      ],
+      "confidence": 0.8671,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_54",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        741.0,
+        16.0,
+        896.0,
+        31.0
+      ],
+      "confidence": 0.8611,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_55",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        984.48,
+        293.05,
+        1074.9,
+        309.5
+      ],
+      "confidence": 0.8558,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_56",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        870.16,
+        628.78,
+        949.06,
+        643.64
+      ],
+      "confidence": 0.8485,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_57",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        822.48,
+        676.48,
+        837.75,
+        688.0
+      ],
+      "confidence": 0.8336,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_58",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        819.58,
+        400.14,
+        1380.08,
+        415.68
+      ],
+      "confidence": 0.7953,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_59",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        870.17,
+        604.59,
+        886.42,
+        620.53
+      ],
+      "confidence": 0.7886,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_60",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        870.31,
+        508.37,
+        959.92,
+        521.48
+      ],
+      "confidence": 0.7822,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_61",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        889.58,
+        652.03,
+        943.03,
+        664.3
+      ],
+      "confidence": 0.7803,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_62",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        768.15,
+        30.92,
+        876.42,
+        48.33
+      ],
+      "confidence": 0.7662,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_63",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1041.89,
+        698.11,
+        1282.26,
+        716.9
+      ],
+      "confidence": 0.7489,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_64",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        739.69,
+        17.16,
+        895.07,
+        58.83
+      ],
+      "confidence": 0.7115,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_65",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        827.9,
+        580.34,
+        836.17,
+        592.67
+      ],
+      "confidence": 0.6985,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_66",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        820.69,
+        772.07,
+        838.18,
+        784.86
+      ],
+      "confidence": 0.6871,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_67",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        827.81,
+        556.2,
+        836.0,
+        569.37
+      ],
+      "confidence": 0.675,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_68",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        888.33,
+        676.46,
+        1034.1,
+        691.7
+      ],
+      "confidence": 0.6677,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_69",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        66.37,
+        544.43,
+        281.21,
+        558.41
+      ],
+      "confidence": 0.6484,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_70",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        827.92,
+        484.51,
+        836.26,
+        497.22
+      ],
+      "confidence": 0.6464,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_71",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        941.1,
+        532.22,
+        1121.29,
+        544.66
+      ],
+      "confidence": 0.6374,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_72",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        828.76,
+        604.43,
+        836.23,
+        617.37
+      ],
+      "confidence": 0.625,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_73",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        827.26,
+        460.35,
+        835.4,
+        474.46
+      ],
+      "confidence": 0.6123,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_74",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        852.74,
+        459.96,
+        860.4,
+        475.73
+      ],
+      "confidence": 0.5961,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_75",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        820.83,
+        748.84,
+        837.29,
+        760.65
+      ],
+      "confidence": 0.5925,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_76",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        828.95,
+        508.57,
+        836.32,
+        521.21
+      ],
+      "confidence": 0.5789,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_77",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        277.18,
+        542.97,
+        572.38,
+        557.46
+      ],
+      "confidence": 0.5697,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_78",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        822.51,
+        700.68,
+        837.25,
+        711.28
+      ],
+      "confidence": 0.5548,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_79",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        880.87,
+        722.72,
+        1356.75,
+        739.33
+      ],
+      "confidence": 0.5496,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_80",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        827.62,
+        653.1,
+        835.94,
+        665.23
+      ],
+      "confidence": 0.5448,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_81",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        828.81,
+        628.14,
+        836.22,
+        639.85
+      ],
+      "confidence": 0.5399,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_82",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        828.86,
+        532.66,
+        836.14,
+        543.74
+      ],
+      "confidence": 0.5353,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_83",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        821.67,
+        724.8,
+        837.45,
+        737.13
+      ],
+      "confidence": 0.4667,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_84",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        851.95,
+        772.09,
+        860.0,
+        787.72
+      ],
+      "confidence": 0.3756,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_85",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        870.99,
+        748.13,
+        878.63,
+        763.91
+      ],
+      "confidence": 0.3094,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_86",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        889.01,
+        532.32,
+        942.92,
+        543.92
+      ],
+      "confidence": 0.2666,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_87",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        958.58,
+        628.89,
+        966.69,
+        644.41
+      ],
+      "confidence": 0.2493,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_88",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        861.46,
+        352.1,
+        895.78,
+        364.83
+      ],
+      "confidence": 0.2195,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_89",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        966.52,
+        508.71,
+        975.41,
+        523.56
+      ],
+      "confidence": 0.1926,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_90",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1338.28,
+        652.89,
+        1352.13,
+        667.64
+      ],
+      "confidence": 0.1224,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_91",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1041.7,
+        580.54,
+        1087.9,
+        595.22
+      ],
+      "confidence": 0.1157,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_92",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1338.12,
+        677.2,
+        1351.62,
+        690.9
+      ],
+      "confidence": 0.1147,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_93",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        836.66,
+        351.6,
+        845.76,
+        365.54
+      ],
+      "confidence": 0.1125,
+      "cluster_size": 1
+    }
+  ]
+}

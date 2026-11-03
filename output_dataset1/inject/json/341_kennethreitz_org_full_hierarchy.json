@@ -1,0 +1,346 @@
+{
+  "image": "341_kennethreitz_org.png",
+  "total_elements": 26,
+  "total_raw_nodes": 30,
+  "total_raw_edges": 15,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        190.0,
+        793.0,
+        933.0,
+        826.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        191.0,
+        287.0,
+        492.0,
+        307.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        191.0,
+        244.0,
+        428.0,
+        262.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        190.0,
+        154.0,
+        489.0,
+        173.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        0.0,
+        523.0,
+        3.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "Browse the full archive, or subscribe via RSS.",
+      "bbox": [
+        192.0,
+        335.0,
+        543.0,
+        350.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "my wife's poetry collection. Twenty-six poems tracing a journey from",
+      "bbox": [
+        485.0,
+        538.0,
+        1064.0,
+        557.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        191.33,
+        733.11,
+        347.15,
+        767.2
+      ],
+      "confidence": 0.9229,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Recent Writing (archive)",
+      "bbox": [
+        191.0,
+        47.0,
+        434.0,
+        81.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        191.01,
+        155.68,
+        486.41,
+        169.5
+      ],
+      "confidence": 0.943,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "Infrastructure for One",
+      "bbox": [
+        192.0,
+        202.0,
+        349.0,
+        214.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "What Functional Emotion Actually Means",
+      "bbox": [
+        192.0,
+        289.0,
+        491.0,
+        303.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        191.82,
+        471.12,
+        352.57,
+        503.39
+      ],
+      "confidence": 0.9623,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "The Becoming by Sarah L. Reitz",
+      "bbox": [
+        191.0,
+        535.0,
+        450.0,
+        557.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "darkness through self-discovery to love. Raw, honest, unflinching. Available free at poemsbysarah.com or in\npaperback & Kindle. I built the publishing pipeline; she wrote every word.",
+      "bbox": [
+        190.0,
+        568.0,
+        1066.0,
+        616.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        191.88,
+        111.55,
+        363.45,
+        127.62
+      ],
+      "confidence": 0.9554,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "Write It First, Then Let AI Drive",
+      "bbox": [
+        192.0,
+        245.0,
+        428.0,
+        258.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        191.82,
+        201.0,
+        348.15,
+        215.68
+      ],
+      "confidence": 0.9297,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        190.37,
+        244.16,
+        427.84,
+        260.11
+      ],
+      "confidence": 0.9181,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        315.23,
+        335.6,
+        375.3,
+        352.52
+      ],
+      "confidence": 0.9007,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        871.68,
+        568.64,
+        1020.02,
+        588.01
+      ],
+      "confidence": 0.8764,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        190.93,
+        52.21,
+        370.44,
+        81.54
+      ],
+      "confidence": 0.7775,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        193.95,
+        288.17,
+        488.19,
+        305.19
+      ],
+      "confidence": 0.6725,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        374.51,
+        57.78,
+        433.86,
+        76.04
+      ],
+      "confidence": 0.5773,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        505.11,
+        335.47,
+        543.46,
+        352.47
+      ],
+      "confidence": 0.3856,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1470.78,
+        766.27,
+        1493.06,
+        787.84
+      ],
+      "confidence": 0.13,
+      "cluster_size": 1
+    }
+  ]
+}

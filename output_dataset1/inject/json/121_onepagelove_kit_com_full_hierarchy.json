@@ -1,0 +1,775 @@
+{
+  "image": "121_onepagelove_kit_com.png",
+  "total_elements": 59,
+  "total_raw_nodes": 62,
+  "total_raw_edges": 30,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "ocr",
+      "class_label": "EGG EGG\nCHICKEN",
+      "bbox": [
+        66.0,
+        193.0,
+        249.0,
+        306.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "ocr",
+      "class_label": "STEAK",
+      "bbox": [
+        183.0,
+        284.0,
+        283.0,
+        330.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "been this easy",
+      "bbox": [
+        136.0,
+        706.0,
+        190.0,
+        722.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "THE WORLD IS\nYOUR PLAYGROUND",
+      "bbox": [
+        1094.0,
+        107.0,
+        1247.0,
+        163.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "Email Address",
+      "bbox": [
+        599.0,
+        404.0,
+        699.0,
+        415.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "Subscribe",
+      "bbox": [
+        1021.0,
+        403.0,
+        1103.0,
+        414.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "ALKEMY",
+      "bbox": [
+        1379.0,
+        233.0,
+        1442.0,
+        257.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Mesh gradients",
+      "bbox": [
+        141.0,
+        415.0,
+        217.0,
+        438.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "right inside of Sketch",
+      "bbox": [
+        130.0,
+        424.0,
+        232.0,
+        454.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "Make\nChrome\nFaster",
+      "bbox": [
+        337.0,
+        405.0,
+        414.0,
+        457.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        576.87,
+        107.43,
+        1082.22,
+        189.52
+      ],
+      "confidence": 0.9402,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        577.13,
+        222.71,
+        1111.65,
+        334.58
+      ],
+      "confidence": 0.9155,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "Subscribe free. Unsubscribe any time. Examples? View Love Letter archive.",
+      "bbox": [
+        580.0,
+        455.0,
+        1080.0,
+        468.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "Use them on any",
+      "bbox": [
+        258.0,
+        782.0,
+        323.0,
+        801.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "WE ANTICIPATE\nTHE WAYS IN WHIC\nBRANDS & PEOPL\nWILL INTERACT\nN THE FUTURE",
+      "bbox": [
+        1413.0,
+        329.0,
+        1535.0,
+        416.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        579.0,
+        384.0,
+        972.0,
+        436.0
+      ],
+      "confidence": 0.9767,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "Works Everywhere",
+      "bbox": [
+        363.0,
+        172.0,
+        447.0,
+        196.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "3 E",
+      "bbox": [
+        0.0,
+        482.0,
+        19.0,
+        496.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "Creating a mesh\ngradient has never",
+      "bbox": [
+        132.0,
+        681.0,
+        204.0,
+        713.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "businesses",
+      "bbox": [
+        891.0,
+        337.0,
+        960.0,
+        359.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "shape as a Fil",
+      "bbox": [
+        261.0,
+        793.0,
+        314.0,
+        811.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "Blazing Fast\nPerformance",
+      "bbox": [
+        401.0,
+        762.0,
+        485.0,
+        798.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "Aa",
+      "bbox": [
+        1216.0,
+        383.0,
+        1245.0,
+        400.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        993.38,
+        383.65,
+        1132.36,
+        435.08
+      ],
+      "confidence": 0.8559,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_24",
+      "source": "ocr",
+      "class_label": "More Tabs,\nLess Memory",
+      "bbox": [
+        369.0,
+        582.0,
+        451.0,
+        620.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "ocr",
+      "class_label": "Built with Kit",
+      "bbox": [
+        685.0,
+        787.0,
+        819.0,
+        807.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "ocr",
+      "class_label": "COMMUN\nDESIC\nDEVELC\nPRODU",
+      "bbox": [
+        1426.0,
+        451.0,
+        1535.0,
+        569.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "ocr",
+      "class_label": "The Ultimate\nGuide to",
+      "bbox": [
+        952.0,
+        774.0,
+        1065.0,
+        825.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "ocr",
+      "class_label": "Selected work.",
+      "bbox": [
+        918.0,
+        572.0,
+        992.0,
+        595.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "ocr",
+      "class_label": "A complete\neSignature tool.",
+      "bbox": [
+        1358.0,
+        27.0,
+        1433.0,
+        62.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "ocr",
+      "class_label": "NASCO\nSTIFY",
+      "bbox": [
+        1207.0,
+        747.0,
+        1266.0,
+        787.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "ocr",
+      "class_label": "HAVING\nFUN",
+      "bbox": [
+        1187.0,
+        623.0,
+        1235.0,
+        653.0
+      ],
+      "confidence": 0.93,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "ocr",
+      "class_label": "Static website\ngenerator, create\nwebsites easily.",
+      "bbox": [
+        1470.0,
+        723.0,
+        1535.0,
+        761.0
+      ],
+      "confidence": 0.93,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "ocr",
+      "class_label": "NOW BUY NOW BUY NOW BUY NOW BUY NOW BUY NO",
+      "bbox": [
+        0.0,
+        29.0,
+        233.0,
+        79.0
+      ],
+      "confidence": 0.92,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "ocr",
+      "class_label": "TEAK",
+      "bbox": [
+        39.0,
+        313.0,
+        119.0,
+        357.0
+      ],
+      "confidence": 0.92,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "ocr",
+      "class_label": "Make colors work for you",
+      "bbox": [
+        657.0,
+        716.0,
+        732.0,
+        735.0
+      ],
+      "confidence": 0.92,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        0.0,
+        3.07,
+        360.91,
+        826.0
+      ],
+      "confidence": 0.9129,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "ocr",
+      "class_label": "OUR FAMILY",
+      "bbox": [
+        62.0,
+        379.0,
+        100.0,
+        394.0
+      ],
+      "confidence": 0.91,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "ocr",
+      "class_label": "BX",
+      "bbox": [
+        1429.0,
+        192.0,
+        1535.0,
+        280.0
+      ],
+      "confidence": 0.91,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "ocr",
+      "class_label": "PEPPA SAU",
+      "bbox": [
+        113.0,
+        0.0,
+        153.0,
+        37.0
+      ],
+      "confidence": 0.9,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "ocr",
+      "class_label": "Messy Ene",
+      "bbox": [
+        387.0,
+        309.0,
+        434.0,
+        327.0
+      ],
+      "confidence": 0.9,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "ocr",
+      "class_label": "AND EXPE",
+      "bbox": [
+        1464.0,
+        216.0,
+        1535.0,
+        244.0
+      ],
+      "confidence": 0.9,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        910.0,
+        454.0,
+        1079.0,
+        470.0
+      ],
+      "confidence": 0.8802,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "ocr",
+      "class_label": "BUY NOW BUY NOW BUY NOW BUY NOW BUY NOW - BU",
+      "bbox": [
+        50.0,
+        325.0,
+        286.0,
+        376.0
+      ],
+      "confidence": 0.88,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "ocr",
+      "class_label": "Design with\ncolors you love.",
+      "bbox": [
+        593.0,
+        352.0,
+        669.0,
+        388.0
+      ],
+      "confidence": 0.88,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "ocr",
+      "class_label": "2,400 SHU",
+      "bbox": [
+        176.0,
+        8.0,
+        220.0,
+        25.0
+      ],
+      "confidence": 0.87,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "ocr",
+      "class_label": "HAND",
+      "bbox": [
+        248.0,
+        349.0,
+        270.0,
+        359.0
+      ],
+      "confidence": 0.87,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "ocr",
+      "class_label": "SAUCE IS NO",
+      "bbox": [
+        153.0,
+        130.0,
+        190.0,
+        143.0
+      ],
+      "confidence": 0.86,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "ocr",
+      "class_label": "JUY NOW BUY NOW BUY NOW BUY NOW BUY NOW BUY",
+      "bbox": [
+        20.0,
+        172.0,
+        259.0,
+        223.0
+      ],
+      "confidence": 0.86,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "ocr",
+      "class_label": "OUR NATIONAL",
+      "bbox": [
+        139.0,
+        94.0,
+        182.0,
+        110.0
+      ],
+      "confidence": 0.85,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "ocr",
+      "class_label": "DIFFERENT, COM",
+      "bbox": [
+        66.0,
+        149.0,
+        115.0,
+        166.0
+      ],
+      "confidence": 0.85,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "ocr",
+      "class_label": "BLAZING BLASIAN",
+      "bbox": [
+        47.0,
+        0.0,
+        121.0,
+        55.0
+      ],
+      "confidence": 0.84,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "ocr",
+      "class_label": "WE",
+      "bbox": [
+        599.0,
+        186.0,
+        631.0,
+        210.0
+      ],
+      "confidence": 0.84,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_53",
+      "source": "ocr",
+      "class_label": "COUNTRY IN SOUTH",
+      "bbox": [
+        118.0,
+        74.0,
+        176.0,
+        91.0
+      ],
+      "confidence": 0.83,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_54",
+      "source": "ocr",
+      "class_label": "ENDENT GOIN\nPENDENT GOING IN",
+      "bbox": [
+        579.0,
+        0.0,
+        685.0,
+        50.0
+      ],
+      "confidence": 0.81,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_55",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        774.51,
+        785.62,
+        818.59,
+        806.0
+      ],
+      "confidence": 0.7488,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_56",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        686.41,
+        787.83,
+        766.28,
+        803.87
+      ],
+      "confidence": 0.6833,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_57",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        810.91,
+        316.73,
+        1069.09,
+        337.16
+      ],
+      "confidence": 0.6803,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_58",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        955.72,
+        355.76,
+        990.93,
+        369.46
+      ],
+      "confidence": 0.1055,
+      "cluster_size": 1
+    }
+  ]
+}

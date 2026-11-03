@@ -1,0 +1,619 @@
+{
+  "image": "225_alistapart_com.png",
+  "total_elements": 47,
+  "total_raw_nodes": 55,
+  "total_raw_edges": 49,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        196.0,
+        70.0,
+        356.0,
+        75.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "ocr",
+      "class_label": "Northwestern",
+      "bbox": [
+        197.0,
+        47.0,
+        354.0,
+        66.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "INFORMATION DESIGN\nAND STRATEGY",
+      "bbox": [
+        196.0,
+        79.0,
+        347.0,
+        103.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "Brief books for people who make\nwebsites.",
+      "bbox": [
+        181.0,
+        427.0,
+        371.0,
+        457.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        420.7,
+        39.85,
+        937.23,
+        58.27
+      ],
+      "confidence": 0.9319,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "2. Some designs exclude people. You have seen people unable to read the text on a\nwebsite or app that somebody designed. You've seen people unable to use a physical\ndevice that somebody has designed. You've seen people utterly bamboozled while\ntrying to use a service that somebody designed.",
+      "bbox": [
+        424.0,
+        188.0,
+        1115.0,
+        297.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1174.71,
+        54.68,
+        1348.02,
+        73.86
+      ],
+      "confidence": 0.9463,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Further reading about\nAccessibility",
+      "bbox": [
+        1146.0,
+        281.0,
+        1275.0,
+        316.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1168.64,
+        359.78,
+        1249.67,
+        371.97
+      ],
+      "confidence": 0.808,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "for accessibility, emphasizing the\nneed for responsible use and\ndiverse teams to mitigate harm and",
+      "bbox": [
+        1105.0,
+        431.0,
+        1314.0,
+        486.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "somebody might miss a life event, such as their daughter's fifth birthday party; or",
+      "bbox": [
+        443.0,
+        580.0,
+        1089.0,
+        597.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1121.07,
+        554.37,
+        1299.05,
+        585.77
+      ],
+      "confidence": 0.9372,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "take to address it.",
+      "bbox": [
+        1156.0,
+        755.0,
+        1262.0,
+        765.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "Ready to advance in content\nstrategy, UX/UI, data\ncommunication, or learning design?\nExplore Northwestern's online MS in\nInformation Design & Strategy.",
+      "bbox": [
+        170.0,
+        149.0,
+        382.0,
+        240.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "1. Designers are good people. I have never heard a designer say, \"I don't care if\nsomebody can't read this text\", \"Not my fault if somebody can't use this device\", or\n\"Who cares if this is confusing?\"",
+      "bbox": [
+        426.0,
+        96.0,
+        1097.0,
+        174.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "Share this:",
+      "bbox": [
+        1232.0,
+        125.0,
+        1287.0,
+        137.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1139.15,
+        338.92,
+        1281.51,
+        350.12
+      ],
+      "confidence": 0.8345,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "Microsoft's Accessibility Innovation",
+      "bbox": [
+        1108.0,
+        386.0,
+        1312.0,
+        398.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "The first question is, “Is this life-or-death stuff?\" The answer is, \"Yes.\" In my favorite Strategist discusses Al's potential\nessay, This Is All There Is, Aral Balkan makes the point that pretty much everything\nthat we design can affect life events and death events. Aral gives the example of how\neven a straightforward bus timetable app can affect life and death events, if we design promote inclusion for people with\nbadly:",
+      "bbox": [
+        419.0,
+        396.0,
+        1310.0,
+        542.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "⚫ somebody might miss a death event, such as the chance to say goodbye to a dying\ngrandmother.",
+      "bbox": [
+        426.0,
+        611.0,
+        1089.0,
+        658.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        422.39,
+        696.14,
+        1087.94,
+        741.39
+      ],
+      "confidence": 0.9156,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "disabilities.",
+      "bbox": [
+        1177.0,
+        519.0,
+        1244.0,
+        529.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "You may not realize it, but your site\nmight be actively discouraging user\nengagement because your content\nmodels are shaped by bias. Daniel\nCarter and Carra Martinez are here\nto help you to understand this\nphenomena and the steps you can",
+      "bbox": [
+        1106.0,
+        601.0,
+        1314.0,
+        744.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "ocr",
+      "class_label": "A Book Apart:",
+      "bbox": [
+        236.0,
+        408.0,
+        316.0,
+        418.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        418.69,
+        350.17,
+        518.92,
+        365.27
+      ],
+      "confidence": 0.9468,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_25",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        154.81,
+        290.83,
+        396.06,
+        475.55
+      ],
+      "confidence": 0.9668,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1147.18,
+        32.04,
+        1373.9,
+        95.04
+      ],
+      "confidence": 0.9629,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        419.29,
+        398.99,
+        1089.22,
+        538.66
+      ],
+      "confidence": 0.9606,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        432.26,
+        782.54,
+        694.63,
+        801.78
+      ],
+      "confidence": 0.9217,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_29",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1141.09,
+        232.43,
+        1379.92,
+        295.36
+      ],
+      "confidence": 0.9576,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        153.74,
+        31.39,
+        392.39,
+        256.75
+      ],
+      "confidence": 0.9444,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        435.75,
+        579.62,
+        1089.2,
+        659.08
+      ],
+      "confidence": 0.9402,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        179.34,
+        408.05,
+        373.98,
+        455.34
+      ],
+      "confidence": 0.9391,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        237.61,
+        304.93,
+        312.3,
+        384.49
+      ],
+      "confidence": 0.9316,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "ocr",
+      "class_label": "⚫ not everybody can hear nerfectly",
+      "bbox": [
+        426.0,
+        815.0,
+        702.0,
+        825.0
+      ],
+      "confidence": 0.93,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1139.93,
+        113.08,
+        1381.67,
+        216.3
+      ],
+      "confidence": 0.8902,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1096.54,
+        260.04,
+        1330.71,
+        794.67
+      ],
+      "confidence": 0.8739,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1170.29,
+        149.51,
+        1218.21,
+        197.24
+      ],
+      "confidence": 0.8224,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        437.7,
+        813.76,
+        706.03,
+        826.0
+      ],
+      "confidence": 0.791,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1232.66,
+        126.68,
+        1283.9,
+        135.13
+      ],
+      "confidence": 0.7514,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        436.32,
+        186.04,
+        702.22,
+        206.79
+      ],
+      "confidence": 0.6982,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1235.87,
+        149.51,
+        1283.88,
+        197.75
+      ],
+      "confidence": 0.6978,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1148.32,
+        279.47,
+        1269.8,
+        294.95
+      ],
+      "confidence": 0.6614,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1196.38,
+        245.01,
+        1223.05,
+        270.08
+      ],
+      "confidence": 0.6552,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        505.58,
+        695.7,
+        725.52,
+        714.47
+      ],
+      "confidence": 0.6053,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1301.35,
+        149.68,
+        1349.03,
+        197.77
+      ],
+      "confidence": 0.5377,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1202.83,
+        16.15,
+        1218.11,
+        31.15
+      ],
+      "confidence": 0.4394,
+      "cluster_size": 1
+    }
+  ]
+}

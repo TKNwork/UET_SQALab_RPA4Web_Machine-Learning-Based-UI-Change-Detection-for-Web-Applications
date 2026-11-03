@@ -1,0 +1,697 @@
+{
+  "image": "268_weworkremotely_com.png",
+  "total_elements": 53,
+  "total_raw_nodes": 62,
+  "total_raw_edges": 73,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "ocr",
+      "class_label": "WE WORK REMOTELY",
+      "bbox": [
+        46.0,
+        33.0,
+        271.0,
+        50.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "ocr",
+      "class_label": "Community",
+      "bbox": [
+        717.0,
+        33.0,
+        798.0,
+        48.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "About",
+      "bbox": [
+        987.0,
+        35.0,
+        1030.0,
+        46.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "39,878 jobs posted",
+      "bbox": [
+        93.0,
+        128.0,
+        256.0,
+        144.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "job board for remote jobs",
+      "bbox": [
+        56.0,
+        254.0,
+        716.0,
+        304.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        59.95,
+        352.35,
+        928.35,
+        406.1
+      ],
+      "confidence": 0.961,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "Need to hire top talent quickly? Fill your open remote roles with pre-vetted on-demand talent.",
+      "bbox": [
+        61.0,
+        555.0,
+        858.0,
+        574.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1110.42,
+        33.87,
+        1161.6,
+        46.66
+      ],
+      "confidence": 0.8491,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Sign in",
+      "bbox": [
+        1281.0,
+        33.0,
+        1329.0,
+        47.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1328.22,
+        711.85,
+        1363.85,
+        723.13
+      ],
+      "confidence": 0.7728,
+      "cluster_size": 3
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "Newest",
+      "bbox": [
+        797.0,
+        745.0,
+        844.0,
+        757.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "Find Jobs",
+      "bbox": [
+        611.0,
+        34.0,
+        673.0,
+        46.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "The largest",
+      "bbox": [
+        61.0,
+        183.0,
+        350.0,
+        234.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        80.59,
+        479.77,
+        251.68,
+        499.28
+      ],
+      "confidence": 0.9485,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_14",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        170.67,
+        681.36,
+        340.26,
+        698.98
+      ],
+      "confidence": 0.8869,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "Post a job",
+      "bbox": [
+        1391.0,
+        34.0,
+        1462.0,
+        48.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "Search remote jobs",
+      "bbox": [
+        972.0,
+        704.0,
+        1158.0,
+        724.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "Back-End Programming Jobs Latest post about 7 hours ago",
+      "bbox": [
+        159.0,
+        789.0,
+        760.0,
+        816.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        60.8,
+        451.21,
+        270.86,
+        526.04
+      ],
+      "confidence": 0.9746,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "Jobs 463",
+      "bbox": [
+        164.0,
+        745.0,
+        242.0,
+        757.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "Q Search everything",
+      "bbox": [
+        985.0,
+        763.0,
+        1143.0,
+        781.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1370.9,
+        20.29,
+        1480.6,
+        58.98
+      ],
+      "confidence": 0.9331,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_22",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1.08,
+        81.19,
+        946.75,
+        644.01
+      ],
+      "confidence": 0.9533,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        58.35,
+        257.28,
+        718.75,
+        308.8
+      ],
+      "confidence": 0.9512,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        840.21,
+        34.13,
+        958.77,
+        46.0
+      ],
+      "confidence": 0.931,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_25",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1259.09,
+        20.1,
+        1351.84,
+        60.08
+      ],
+      "confidence": 0.9487,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        180.06,
+        187.97,
+        351.07,
+        236.66
+      ],
+      "confidence": 0.9445,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1071.97,
+        21.28,
+        1242.36,
+        58.57
+      ],
+      "confidence": 0.9338,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        936.37,
+        80.27,
+        1536.0,
+        644.06
+      ],
+      "confidence": 0.9314,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        133.52,
+        555.55,
+        262.47,
+        574.06
+      ],
+      "confidence": 0.9311,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        93.33,
+        126.2,
+        258.21,
+        146.54
+      ],
+      "confidence": 0.9255,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        717.3,
+        34.34,
+        810.32,
+        50.17
+      ],
+      "confidence": 0.9245,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        45.1,
+        32.03,
+        273.73,
+        51.97
+      ],
+      "confidence": 0.9138,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        731.47,
+        730.93,
+        909.48,
+        772.63
+      ],
+      "confidence": 0.9109,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1282.69,
+        34.3,
+        1330.04,
+        49.41
+      ],
+      "confidence": 0.9041,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        0.91,
+        645.9,
+        937.41,
+        826.0
+      ],
+      "confidence": 0.8868,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        146.53,
+        730.5,
+        276.32,
+        773.05
+      ],
+      "confidence": 0.8757,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        986.94,
+        34.21,
+        1044.63,
+        46.34
+      ],
+      "confidence": 0.865,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        610.78,
+        33.94,
+        687.64,
+        46.18
+      ],
+      "confidence": 0.828,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        973.13,
+        705.8,
+        1157.83,
+        727.13
+      ],
+      "confidence": 0.7966,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        160.93,
+        791.19,
+        494.48,
+        814.92
+      ],
+      "confidence": 0.7843,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        253.86,
+        353.17,
+        314.16,
+        369.54
+      ],
+      "confidence": 0.7542,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1390.97,
+        33.36,
+        1460.57,
+        49.83
+      ],
+      "confidence": 0.7413,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        510.11,
+        794.75,
+        770.67,
+        814.67
+      ],
+      "confidence": 0.6726,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        797.24,
+        745.81,
+        843.75,
+        756.06
+      ],
+      "confidence": 0.6059,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        60.53,
+        123.55,
+        81.07,
+        145.0
+      ],
+      "confidence": 0.499,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        767.92,
+        795.26,
+        782.88,
+        811.9
+      ],
+      "confidence": 0.4838,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        147.39,
+        680.86,
+        164.82,
+        697.49
+      ],
+      "confidence": 0.4628,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        346.7,
+        681.3,
+        362.92,
+        696.62
+      ],
+      "confidence": 0.3951,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1083.04,
+        29.9,
+        1102.69,
+        49.57
+      ],
+      "confidence": 0.2483,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        166.0,
+        743.77,
+        206.63,
+        756.47
+      ],
+      "confidence": 0.2437,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        983.28,
+        762.63,
+        1001.9,
+        779.94
+      ],
+      "confidence": 0.2287,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        747.74,
+        745.72,
+        762.06,
+        759.39
+      ],
+      "confidence": 0.136,
+      "cluster_size": 1
+    }
+  ]
+}

@@ -1,0 +1,1256 @@
+{
+  "image": "009_en_wikipedia_org.png",
+  "total_elements": 96,
+  "total_raw_nodes": 110,
+  "total_raw_edges": 67,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        51.0,
+        785.0,
+        708.0,
+        825.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        726.0,
+        756.0,
+        1265.0,
+        796.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        164.0,
+        408.0,
+        167.0,
+        447.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        726.0,
+        272.0,
+        1265.0,
+        312.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        51.0,
+        272.0,
+        708.0,
+        312.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        43.0,
+        124.0,
+        1273.0,
+        129.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        289.0,
+        15.0,
+        768.0,
+        51.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Search Wikipedia",
+      "bbox": [
+        326.0,
+        25.0,
+        435.0,
+        40.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "25 years of the free encyclopedia",
+      "bbox": [
+        108.0,
+        39.0,
+        248.0,
+        53.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "Main Page Talk",
+      "bbox": [
+        44.0,
+        102.0,
+        152.0,
+        117.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "Search",
+      "bbox": [
+        707.0,
+        28.0,
+        752.0,
+        38.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1280.26,
+        27.83,
+        1327.16,
+        38.21
+      ],
+      "confidence": 0.8518,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "Create account Log in",
+      "bbox": [
+        1347.0,
+        25.0,
+        1489.0,
+        41.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "Appearance",
+      "bbox": [
+        1311.0,
+        145.0,
+        1392.0,
+        156.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "hide",
+      "bbox": [
+        1412.0,
+        143.0,
+        1434.0,
+        152.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "Text",
+      "bbox": [
+        1312.0,
+        181.0,
+        1338.0,
+        191.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        61.86,
+        284.99,
+        323.76,
+        301.62
+      ],
+      "confidence": 0.9617,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_17",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1311.64,
+        324.02,
+        1348.18,
+        334.71
+      ],
+      "confidence": 0.9245,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "Wide",
+      "bbox": [
+        1335.0,
+        395.0,
+        1368.0,
+        405.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "Color",
+      "bbox": [
+        1311.0,
+        435.0,
+        1346.0,
+        446.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "ASSEFA",
+      "bbox": [
+        1168.0,
+        451.0,
+        1206.0,
+        469.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1133.65,
+        479.97,
+        1208.89,
+        492.82
+      ],
+      "confidence": 0.9354,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_22",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1335.62,
+        474.98,
+        1398.91,
+        485.59
+      ],
+      "confidence": 0.9094,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_23",
+      "source": "ocr",
+      "class_label": "Light",
+      "bbox": [
+        1336.0,
+        506.0,
+        1365.0,
+        520.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "ocr",
+      "class_label": "Welcome to Wikipedia,",
+      "bbox": [
+        516.0,
+        160.0,
+        798.0,
+        186.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "ocr",
+      "class_label": "the free encyclopedia that anyone can edit.\n273,077 active editors ⚫ 7,175,551 articles in English",
+      "bbox": [
+        499.0,
+        203.0,
+        816.0,
+        240.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1335.24,
+        218.9,
+        1370.93,
+        230.6
+      ],
+      "confidence": 0.9097,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_27",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1335.67,
+        251.85,
+        1393.33,
+        261.86
+      ],
+      "confidence": 0.9173,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_28",
+      "source": "ocr",
+      "class_label": "Large",
+      "bbox": [
+        1336.0,
+        283.0,
+        1371.0,
+        296.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        51.03,
+        325.6,
+        706.73,
+        678.09
+      ],
+      "confidence": 0.954,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_30",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        743.94,
+        325.39,
+        1115.22,
+        367.34
+      ],
+      "confidence": 0.9583,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_31",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        744.81,
+        378.8,
+        1114.03,
+        447.6
+      ],
+      "confidence": 0.9448,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_32",
+      "source": "ocr",
+      "class_label": "Dark",
+      "bbox": [
+        1336.0,
+        539.0,
+        1366.0,
+        549.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "ocr",
+      "class_label": "kinetics",
+      "bbox": [
+        653.0,
+        732.0,
+        707.0,
+        743.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        727.48,
+        808.83,
+        1216.92,
+        825.25
+      ],
+      "confidence": 0.8538,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_35",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        745.59,
+        457.34,
+        1100.86,
+        526.3
+      ],
+      "confidence": 0.939,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_36",
+      "source": "ocr",
+      "class_label": "Standard",
+      "bbox": [
+        1336.0,
+        363.0,
+        1393.0,
+        373.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "ocr",
+      "class_label": "⚫ The Progressive Bulgaria coalition, led by former president Rumen\nRadev, wins a majority of the National Assembly in the parliamentary\nelection, in a bid to end the ongoing Bulgarian political crisis.\nOngoing: Afghanistan-Pakistan war. Iran war (Lebanon war) - Russo-\nUkrainian war (timeline) - Sudanese civil war (timeline)",
+      "bbox": [
+        728.0,
+        538.0,
+        1250.0,
+        666.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "ocr",
+      "class_label": "Recently featured: 1998-99 Gillingham F.C. season This Side of the Moon. Enzyme Rodríguez Will Stanhope Michael Tilson Thomas",
+      "bbox": [
+        100.0,
+        700.0,
+        1092.0,
+        723.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "ocr",
+      "class_label": "More current events - Nominate an article",
+      "bbox": [
+        949.0,
+        729.0,
+        1264.0,
+        742.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "ocr",
+      "class_label": "On this day",
+      "bbox": [
+        737.0,
+        765.0,
+        841.0,
+        784.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        752.36,
+        537.68,
+        1248.72,
+        605.76
+      ],
+      "confidence": 0.9677,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1132.49,
+        323.8,
+        1262.76,
+        473.04
+      ],
+      "confidence": 0.9644,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "ocr",
+      "class_label": "Read View source View history Tools ✓",
+      "bbox": [
+        989.0,
+        105.0,
+        1270.0,
+        117.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        736.31,
+        284.95,
+        841.12,
+        299.6
+      ],
+      "confidence": 0.9498,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_45",
+      "source": "ocr",
+      "class_label": "Recent deaths: Jaan Puhvel - Sadio Camara - Ruth Slenczynska - Ellie",
+      "bbox": [
+        729.0,
+        676.0,
+        1238.0,
+        691.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        62.08,
+        796.85,
+        204.38,
+        815.67
+      ],
+      "confidence": 0.9239,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_47",
+      "source": "ocr",
+      "class_label": "Archive - By email. More featured articles - About",
+      "bbox": [
+        326.0,
+        757.0,
+        708.0,
+        772.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        697.0,
+        19.0,
+        764.0,
+        47.0
+      ],
+      "confidence": 0.948,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        513.52,
+        163.35,
+        792.38,
+        187.33
+      ],
+      "confidence": 0.9411,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        52.72,
+        325.82,
+        166.76,
+        497.91
+      ],
+      "confidence": 0.9332,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "ocr",
+      "class_label": "WIKIPEDIA",
+      "bbox": [
+        108.0,
+        12.0,
+        225.0,
+        33.0
+      ],
+      "confidence": 0.92,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        108.0,
+        40.0,
+        250.0,
+        53.0
+      ],
+      "confidence": 0.9103,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_53",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1311.27,
+        143.8,
+        1392.24,
+        157.49
+      ],
+      "confidence": 0.9096,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_54",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1129.98,
+        105.0,
+        1205.13,
+        117.95
+      ],
+      "confidence": 0.9077,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_55",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        45.26,
+        104.7,
+        111.2,
+        118.86
+      ],
+      "confidence": 0.8906,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_56",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        737.65,
+        767.79,
+        840.87,
+        785.49
+      ],
+      "confidence": 0.8905,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_57",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        706.86,
+        27.45,
+        753.12,
+        39.02
+      ],
+      "confidence": 0.8889,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_58",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        108.1,
+        13.28,
+        250.14,
+        52.56
+      ],
+      "confidence": 0.871,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_59",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1037.49,
+        106.09,
+        1114.54,
+        114.85
+      ],
+      "confidence": 0.8694,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_60",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        730.45,
+        622.77,
+        1244.7,
+        739.71
+      ],
+      "confidence": 0.8658,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_61",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1347.81,
+        27.63,
+        1488.37,
+        40.24
+      ],
+      "confidence": 0.8614,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_62",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1311.71,
+        436.04,
+        1346.61,
+        446.61
+      ],
+      "confidence": 0.8503,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_63",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1403.91,
+        137.06,
+        1442.44,
+        157.35
+      ],
+      "confidence": 0.8308,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_64",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1311.07,
+        179.92,
+        1339.86,
+        191.53
+      ],
+      "confidence": 0.8257,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_65",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        181.57,
+        325.45,
+        346.33,
+        339.68
+      ],
+      "confidence": 0.8225,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_66",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1337.2,
+        394.67,
+        1368.81,
+        405.62
+      ],
+      "confidence": 0.8126,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_67",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        751.56,
+        326.58,
+        943.4,
+        338.74
+      ],
+      "confidence": 0.7955,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_68",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        326.75,
+        757.73,
+        386.84,
+        770.53
+      ],
+      "confidence": 0.784,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_69",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1223.3,
+        105.69,
+        1254.36,
+        114.93
+      ],
+      "confidence": 0.777,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_70",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        129.79,
+        106.17,
+        152.05,
+        115.6
+      ],
+      "confidence": 0.7615,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_71",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        325.32,
+        27.04,
+        434.66,
+        40.8
+      ],
+      "confidence": 0.7604,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_72",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1340.96,
+        505.61,
+        1367.02,
+        519.79
+      ],
+      "confidence": 0.7519,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_73",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1335.63,
+        537.28,
+        1367.47,
+        549.65
+      ],
+      "confidence": 0.7428,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_74",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1311.85,
+        502.92,
+        1329.44,
+        520.73
+      ],
+      "confidence": 0.7377,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_75",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        479.44,
+        757.45,
+        647.48,
+        769.7
+      ],
+      "confidence": 0.7163,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_76",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        234.94,
+        705.11,
+        458.43,
+        719.92
+      ],
+      "confidence": 0.7147,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_77",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        988.75,
+        105.55,
+        1022.51,
+        114.79
+      ],
+      "confidence": 0.7112,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_78",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        645.8,
+        226.64,
+        815.43,
+        241.36
+      ],
+      "confidence": 0.7047,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_79",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        99.85,
+        705.09,
+        226.78,
+        720.47
+      ],
+      "confidence": 0.6596,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_80",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1311.09,
+        470.29,
+        1330.21,
+        489.69
+      ],
+      "confidence": 0.6586,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_81",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1310.84,
+        214.61,
+        1330.86,
+        235.35
+      ],
+      "confidence": 0.6557,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_82",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1340.09,
+        283.88,
+        1372.65,
+        297.28
+      ],
+      "confidence": 0.6206,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_83",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        44.8,
+        25.7,
+        63.24,
+        41.07
+      ],
+      "confidence": 0.6082,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_84",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1312.1,
+        247.41,
+        1330.38,
+        265.39
+      ],
+      "confidence": 0.594,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_85",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        401.5,
+        757.99,
+        467.93,
+        772.85
+      ],
+      "confidence": 0.5822,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_86",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1311.07,
+        533.03,
+        1329.85,
+        552.25
+      ],
+      "confidence": 0.563,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_87",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1311.4,
+        391.41,
+        1330.71,
+        408.81
+      ],
+      "confidence": 0.5573,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_88",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1311.22,
+        278.41,
+        1330.82,
+        297.45
+      ],
+      "confidence": 0.5432,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_89",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1320.13,
+        360.5,
+        1393.8,
+        374.1
+      ],
+      "confidence": 0.5328,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_90",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        298.97,
+        22.78,
+        317.18,
+        42.82
+      ],
+      "confidence": 0.438,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_91",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1260.12,
+        107.78,
+        1271.07,
+        113.8
+      ],
+      "confidence": 0.4323,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_92",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1253.49,
+        24.24,
+        1273.21,
+        42.69
+      ],
+      "confidence": 0.2986,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_93",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1312.63,
+        359.65,
+        1329.71,
+        375.76
+      ],
+      "confidence": 0.2935,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_94",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        754.25,
+        589.58,
+        814.81,
+        603.29
+      ],
+      "confidence": 0.1286,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_95",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1452.07,
+        28.41,
+        1488.54,
+        40.87
+      ],
+      "confidence": 0.1027,
+      "cluster_size": 1
+    }
+  ]
+}

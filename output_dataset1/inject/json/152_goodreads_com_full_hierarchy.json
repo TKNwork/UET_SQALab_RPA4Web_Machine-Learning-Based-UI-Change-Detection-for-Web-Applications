@@ -1,0 +1,723 @@
+{
+  "image": "152_goodreads_com.png",
+  "total_elements": 55,
+  "total_raw_nodes": 60,
+  "total_raw_edges": 40,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        281.87,
+        25.18,
+        477.75,
+        68.07
+      ],
+      "confidence": 0.9148,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_1",
+      "source": "ocr",
+      "class_label": "2026 Reading\nChallenge",
+      "bbox": [
+        416.0,
+        160.0,
+        878.0,
+        281.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "Deciding what to read next?",
+      "bbox": [
+        296.0,
+        401.0,
+        518.0,
+        416.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        295.63,
+        437.57,
+        568.9,
+        503.52
+      ],
+      "confidence": 0.9798,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        614.09,
+        400.71,
+        860.98,
+        417.61
+      ],
+      "confidence": 0.8596,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "Chances are your friends are discussing their\nfavorite (and least favorite) books on\nGoodreads.",
+      "bbox": [
+        615.0,
+        438.0,
+        888.0,
+        486.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "JOHN\nGRISHAM",
+      "bbox": [
+        499.0,
+        634.0,
+        568.0,
+        665.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "COLORS",
+      "bbox": [
+        600.0,
+        652.0,
+        653.0,
+        663.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "DARK",
+      "bbox": [
+        608.0,
+        682.0,
+        644.0,
+        693.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "CHRIS\nWHITAKER",
+      "bbox": [
+        589.0,
+        703.0,
+        665.0,
+        729.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "ASHES",
+      "bbox": [
+        714.0,
+        716.0,
+        787.0,
+        738.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "FOREST",
+      "bbox": [
+        1181.0,
+        689.0,
+        1217.0,
+        700.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "123 likes",
+      "bbox": [
+        948.0,
+        800.0,
+        994.0,
+        809.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        400.0,
+        137.0,
+        573.0,
+        310.0
+      ],
+      "confidence": 0.9882,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "What will you discover?",
+      "bbox": [
+        309.0,
+        553.0,
+        497.0,
+        568.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "Because Deborah liked...",
+      "bbox": [
+        311.0,
+        782.0,
+        440.0,
+        792.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "BOYS FROM",
+      "bbox": [
+        507.0,
+        686.0,
+        561.0,
+        693.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "She discovered:",
+      "bbox": [
+        710.0,
+        592.0,
+        794.0,
+        602.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        947.14,
+        557.96,
+        1080.86,
+        570.09
+      ],
+      "confidence": 0.8007,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "Celebrate Earth Day with New Nature Nonfiction",
+      "bbox": [
+        947.0,
+        594.0,
+        1243.0,
+        606.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "SALT LAKES",
+      "bbox": [
+        1031.0,
+        633.0,
+        1090.0,
+        647.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "WHEN THE\nBREATHES",
+      "bbox": [
+        1180.0,
+        681.0,
+        1231.0,
+        709.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        709.97,
+        781.95,
+        793.07,
+        791.66
+      ],
+      "confidence": 0.887,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_23",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        312.0,
+        625.0,
+        391.0,
+        744.0
+      ],
+      "confidence": 0.9784,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        426.0,
+        672.0,
+        461.0,
+        675.0
+      ],
+      "confidence": 0.9722,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "ocr",
+      "class_label": "THE\nGLORIANS",
+      "bbox": [
+        1099.0,
+        650.0,
+        1160.0,
+        674.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "ocr",
+      "class_label": "OF THE",
+      "bbox": [
+        612.0,
+        670.0,
+        643.0,
+        678.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "ocr",
+      "class_label": "S.A.COSBY Mystery, Thriller",
+      "bbox": [
+        712.0,
+        621.0,
+        889.0,
+        652.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        791.0,
+        720.0,
+        920.0,
+        759.0
+      ],
+      "confidence": 0.9598,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        501.0,
+        670.0,
+        570.0,
+        676.0
+      ],
+      "confidence": 0.9583,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "ocr",
+      "class_label": "Attica Locke",
+      "bbox": [
+        412.0,
+        728.0,
+        473.0,
+        735.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "ocr",
+      "class_label": "EVERYTHING IS",
+      "bbox": [
+        591.0,
+        821.0,
+        664.0,
+        825.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "ocr",
+      "class_label": "Nonfiction. History",
+      "bbox": [
+        801.0,
+        818.0,
+        904.0,
+        825.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        405.0,
+        724.0,
+        481.0,
+        743.0
+      ],
+      "confidence": 0.9335,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "ocr",
+      "class_label": "OF",
+      "bbox": [
+        742.0,
+        700.0,
+        762.0,
+        713.0
+      ],
+      "confidence": 0.93,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "ocr",
+      "class_label": "ALL THE",
+      "bbox": [
+        609.0,
+        641.0,
+        644.0,
+        648.0
+      ],
+      "confidence": 0.92,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "ocr",
+      "class_label": "The\nGodfather\nMario\nPuzo",
+      "bbox": [
+        316.0,
+        656.0,
+        382.0,
+        740.0
+      ],
+      "confidence": 0.91,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "ocr",
+      "class_label": "BLUEBIRD\nBLUEBIRD",
+      "bbox": [
+        421.0,
+        660.0,
+        464.0,
+        683.0
+      ],
+      "confidence": 0.91,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "ocr",
+      "class_label": "KING!",
+      "bbox": [
+        725.0,
+        675.0,
+        786.0,
+        695.0
+      ],
+      "confidence": 0.91,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        946.52,
+        624.71,
+        1247.74,
+        782.62
+      ],
+      "confidence": 0.9056,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "ocr",
+      "class_label": "Because ♥Meagan❤ liked...",
+      "bbox": [
+        311.0,
+        591.0,
+        452.0,
+        602.0
+      ],
+      "confidence": 0.9,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "ocr",
+      "class_label": "TERRY TEMPEST",
+      "bbox": [
+        1110.0,
+        737.0,
+        1170.0,
+        751.0
+      ],
+      "confidence": 0.89,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        295.81,
+        534.99,
+        921.49,
+        760.35
+      ],
+      "confidence": 0.8769,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "ocr",
+      "class_label": "BILOXI",
+      "bbox": [
+        510.0,
+        694.0,
+        559.0,
+        707.0
+      ],
+      "confidence": 0.87,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "ocr",
+      "class_label": "WILLIAMS",
+      "bbox": [
+        1122.0,
+        745.0,
+        1160.0,
+        756.0
+      ],
+      "confidence": 0.86,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "ocr",
+      "class_label": "FOREST\nEUPHORIA",
+      "bbox": [
+        951.0,
+        684.0,
+        993.0,
+        705.0
+      ],
+      "confidence": 0.83,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        296.72,
+        400.49,
+        518.19,
+        418.13
+      ],
+      "confidence": 0.8254,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        710.47,
+        591.74,
+        791.12,
+        600.67
+      ],
+      "confidence": 0.7635,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        944.73,
+        592.74,
+        1242.96,
+        607.61
+      ],
+      "confidence": 0.7401,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        948.55,
+        798.51,
+        995.64,
+        809.95
+      ],
+      "confidence": 0.6123,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        587.27,
+        815.41,
+        666.4,
+        825.82
+      ],
+      "confidence": 0.5453,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        492.53,
+        814.19,
+        574.07,
+        825.95
+      ],
+      "confidence": 0.3597,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        709.52,
+        814.37,
+        792.32,
+        825.46
+      ],
+      "confidence": 0.3159,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_53",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        799.01,
+        817.91,
+        902.06,
+        825.9
+      ],
+      "confidence": 0.147,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_54",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        310.63,
+        815.01,
+        389.81,
+        824.53
+      ],
+      "confidence": 0.1466,
+      "cluster_size": 1
+    }
+  ]
+}

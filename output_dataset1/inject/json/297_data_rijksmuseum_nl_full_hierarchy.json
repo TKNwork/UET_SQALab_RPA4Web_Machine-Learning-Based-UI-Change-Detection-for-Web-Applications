@@ -1,0 +1,372 @@
+{
+  "image": "297_data_rijksmuseum_nl.png",
+  "total_elements": 28,
+  "total_raw_nodes": 35,
+  "total_raw_edges": 42,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        389.16,
+        111.61,
+        610.83,
+        127.04
+      ],
+      "confidence": 0.8717,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_1",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        389.84,
+        177.74,
+        566.4,
+        192.1
+      ],
+      "confidence": 0.9448,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_2",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        361.85,
+        255.7,
+        638.54,
+        293.06
+      ],
+      "confidence": 0.9692,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "The Rijksmuseum Research Library manages one of the foremost collections of art historical books and journals,\nas well as auction, exhibition and collections catalogues. We make all of this bibliographic data available as an\nopen data service - including metadata relating to digital publications and electronic magazines - alongside\nsustainable references to the associated digital files. This data is available in different formats.",
+      "bbox": [
+        359.0,
+        550.0,
+        1181.0,
+        651.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        360.17,
+        718.04,
+        575.82,
+        745.42
+      ],
+      "confidence": 0.9738,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "Tutorials Policy About",
+      "bbox": [
+        332.0,
+        34.0,
+        532.0,
+        49.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "160,000 records for people and institutions",
+      "bbox": [
+        390.0,
+        144.0,
+        707.0,
+        160.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        357.16,
+        320.74,
+        1166.66,
+        420.99
+      ],
+      "confidence": 0.9339,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Bibliographic Data",
+      "bbox": [
+        362.0,
+        481.0,
+        671.0,
+        521.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "The Rijksmuseum uses controlled vocabularies in order to describe its collection and bibliographic datasets\nunambiguously. These thesauri contain information about, for example, people, locations, events and concepts.",
+      "bbox": [
+        360.0,
+        781.0,
+        1170.0,
+        825.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        322.7,
+        0.0,
+        1244.86,
+        826.0
+      ],
+      "confidence": 0.9754,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        1254.0,
+        15.0,
+        1458.0,
+        68.0
+      ],
+      "confidence": 0.975,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        78.8,
+        25.99,
+        205.9,
+        57.75
+      ],
+      "confidence": 0.925,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        274.55,
+        34.57,
+        307.18,
+        47.11
+      ],
+      "confidence": 0.933,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "ctrl",
+      "bbox": [
+        1387.0,
+        34.0,
+        1415.0,
+        46.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "Q Search",
+      "bbox": [
+        1268.0,
+        33.0,
+        1337.0,
+        49.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        0.0,
+        75.73,
+        319.29,
+        824.89
+      ],
+      "confidence": 0.9319,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        332.4,
+        34.38,
+        395.54,
+        47.6
+      ],
+      "confidence": 0.9209,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        1383.0,
+        32.0,
+        1421.0,
+        50.0
+      ],
+      "confidence": 0.9123,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        485.69,
+        34.65,
+        529.29,
+        47.5
+      ],
+      "confidence": 0.8942,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        482.54,
+        407.17,
+        649.94,
+        422.93
+      ],
+      "confidence": 0.892,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        419.92,
+        34.09,
+        461.59,
+        50.56
+      ],
+      "confidence": 0.8886,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        701.51,
+        407.11,
+        777.25,
+        421.24
+      ],
+      "confidence": 0.8445,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1292.63,
+        34.3,
+        1337.48,
+        46.63
+      ],
+      "confidence": 0.7157,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        376.17,
+        82.34,
+        809.78,
+        94.51
+      ],
+      "confidence": 0.6775,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1380.04,
+        31.03,
+        1419.88,
+        51.66
+      ],
+      "confidence": 0.4922,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1424.97,
+        28.15,
+        1445.91,
+        54.2
+      ],
+      "confidence": 0.2717,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1268.91,
+        33.79,
+        1284.15,
+        50.04
+      ],
+      "confidence": 0.2611,
+      "cluster_size": 1
+    }
+  ]
+}

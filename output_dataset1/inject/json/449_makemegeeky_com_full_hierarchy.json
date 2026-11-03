@@ -1,0 +1,580 @@
+{
+  "image": "449_makemegeeky_com.png",
+  "total_elements": 44,
+  "total_raw_nodes": 54,
+  "total_raw_edges": 62,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "ocr",
+      "class_label": "CONTACT",
+      "bbox": [
+        913.0,
+        27.0,
+        949.0,
+        32.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        229.18,
+        110.24,
+        338.97,
+        124.19
+      ],
+      "confidence": 0.9064,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "ABOUT",
+      "bbox": [
+        804.0,
+        27.0,
+        827.0,
+        32.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "PRODUCTS",
+      "bbox": [
+        851.0,
+        27.0,
+        890.0,
+        32.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "bold\nmoves",
+      "bbox": [
+        801.0,
+        55.0,
+        944.0,
+        125.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        212.43,
+        406.03,
+        502.46,
+        428.64
+      ],
+      "confidence": 0.8863,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        237.41,
+        535.83,
+        474.63,
+        555.36
+      ],
+      "confidence": 0.9505,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "yourideas",
+      "bbox": [
+        1110.0,
+        3.0,
+        1162.0,
+        13.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": ".com",
+      "bbox": [
+        1198.0,
+        5.0,
+        1221.0,
+        10.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        212.89,
+        28.21,
+        564.74,
+        68.53
+      ],
+      "confidence": 0.9197,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "SHOP NOW",
+      "bbox": [
+        803.0,
+        146.0,
+        841.0,
+        151.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "Page views",
+      "bbox": [
+        1045.0,
+        196.0,
+        1093.0,
+        206.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        252.95,
+        665.21,
+        368.59,
+        679.72
+      ],
+      "confidence": 0.9469,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "Chat with Al to build a complete website",
+      "bbox": [
+        614.0,
+        567.0,
+        916.0,
+        582.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "- with CRM, booking forms, and more.\nHorizons handles code, design, and copy",
+      "bbox": [
+        615.0,
+        591.0,
+        917.0,
+        633.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "Get Horizons",
+      "bbox": [
+        631.0,
+        690.0,
+        719.0,
+        703.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        992.24,
+        534.67,
+        1273.38,
+        555.32
+      ],
+      "confidence": 0.9321,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "Get full control with dedicated",
+      "bbox": [
+        993.0,
+        568.0,
+        1219.0,
+        580.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "resources. Scale apps, websites, and\nworkloads on secure VPS hosting.",
+      "bbox": [
+        992.0,
+        591.0,
+        1262.0,
+        632.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        209.12,
+        456.7,
+        564.65,
+        742.17
+      ],
+      "confidence": 0.9736,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        234.37,
+        566.29,
+        541.82,
+        632.38
+      ],
+      "confidence": 0.9428,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_21",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        615.33,
+        534.83,
+        813.72,
+        555.2
+      ],
+      "confidence": 0.9471,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "so you can launch instantly.",
+      "bbox": [
+        614.0,
+        641.0,
+        819.0,
+        655.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1008.84,
+        665.2,
+        1119.74,
+        679.67
+      ],
+      "confidence": 0.9417,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_24",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        589.93,
+        456.58,
+        944.11,
+        741.22
+      ],
+      "confidence": 0.9688,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        969.34,
+        456.29,
+        1320.23,
+        741.21
+      ],
+      "confidence": 0.9675,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        235.19,
+        649.74,
+        385.87,
+        693.99
+      ],
+      "confidence": 0.9517,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_27",
+      "source": "ocr",
+      "class_label": "1.934 +32%",
+      "bbox": [
+        1042.0,
+        228.0,
+        1132.0,
+        251.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        995.0,
+        653.0,
+        1135.0,
+        691.0
+      ],
+      "confidence": 0.9573,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        613.75,
+        567.38,
+        917.39,
+        655.36
+      ],
+      "confidence": 0.9572,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        991.42,
+        650.59,
+        1137.86,
+        693.36
+      ],
+      "confidence": 0.9538,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        692.37,
+        0.0,
+        1296.1,
+        318.5
+      ],
+      "confidence": 0.9433,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        716.0,
+        15.0,
+        753.0,
+        49.0
+      ],
+      "confidence": 0.9416,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        697.0,
+        189.0,
+        730.0,
+        223.0
+      ],
+      "confidence": 0.9367,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        614.3,
+        675.05,
+        736.97,
+        717.94
+      ],
+      "confidence": 0.9365,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        213.04,
+        96.47,
+        353.66,
+        135.93
+      ],
+      "confidence": 0.9173,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        754.0,
+        14.0,
+        770.0,
+        49.0
+      ],
+      "confidence": 0.9018,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        630.95,
+        688.49,
+        720.2,
+        699.99
+      ],
+      "confidence": 0.8802,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        993.3,
+        481.13,
+        1028.59,
+        516.82
+      ],
+      "confidence": 0.8588,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        779.89,
+        763.84,
+        1323.32,
+        825.64
+      ],
+      "confidence": 0.8587,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        615.29,
+        481.08,
+        650.5,
+        516.38
+      ],
+      "confidence": 0.8378,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        238.24,
+        481.18,
+        272.39,
+        516.09
+      ],
+      "confidence": 0.7739,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        245.93,
+        796.49,
+        280.47,
+        825.88
+      ],
+      "confidence": 0.6905,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        811.39,
+        796.54,
+        847.41,
+        825.18
+      ],
+      "confidence": 0.6783,
+      "cluster_size": 1
+    }
+  ]
+}

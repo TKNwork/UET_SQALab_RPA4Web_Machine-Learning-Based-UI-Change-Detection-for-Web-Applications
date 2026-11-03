@@ -1,0 +1,294 @@
+{
+  "image": "290_abebooks_com.png",
+  "total_elements": 22,
+  "total_raw_nodes": 25,
+  "total_raw_edges": 33,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        478.0,
+        311.0,
+        484.0,
+        436.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        102.0,
+        0.0,
+        1435.0,
+        2.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        146.0,
+        90.0,
+        770.0,
+        558.0
+      ],
+      "confidence": 0.9933,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        100.74,
+        645.63,
+        851.09,
+        794.22
+      ],
+      "confidence": 0.9771,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "ALBERT",
+      "bbox": [
+        525.0,
+        199.0,
+        554.0,
+        210.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "THE\nWASTE",
+      "bbox": [
+        590.0,
+        240.0,
+        613.0,
+        256.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        692.5,
+        232.8,
+        765.75,
+        244.69
+      ],
+      "confidence": 0.8752,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Whether you're a collector looking for the next masterpiece to add to your library, or a bibliophile",
+      "bbox": [
+        147.0,
+        711.0,
+        810.0,
+        725.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Most expensive sales from\nJanuary to March 2026",
+      "bbox": [
+        812.0,
+        213.0,
+        1279.0,
+        297.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "Firsts: London's Rare Book Fair - Revolution!",
+      "bbox": [
+        147.0,
+        670.0,
+        677.0,
+        691.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "From T.S. Eliot's inscribed poetry to Shackleton's Antarctic\nexpeditions: rare books, manuscripts, and photographs.",
+      "bbox": [
+        817.0,
+        325.0,
+        1291.0,
+        369.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "LAND",
+      "bbox": [
+        593.0,
+        258.0,
+        611.0,
+        265.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "who loves browsing secondhand classics, Firsts London is the book fair for you.",
+      "bbox": [
+        147.0,
+        730.0,
+        683.0,
+        745.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        848.09,
+        406.62,
+        922.81,
+        417.87
+      ],
+      "confidence": 0.7947,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_14",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        98.01,
+        45.11,
+        809.94,
+        605.95
+      ],
+      "confidence": 0.9666,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "More →",
+      "bbox": [
+        147.0,
+        758.0,
+        201.0,
+        771.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        143.72,
+        709.68,
+        809.85,
+        771.18
+      ],
+      "confidence": 0.9196,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        795.34,
+        39.7,
+        1437.51,
+        606.48
+      ],
+      "confidence": 0.9149,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        589.0,
+        338.0,
+        619.0,
+        370.0
+      ],
+      "confidence": 0.9115,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "EINSTEIN",
+      "bbox": [
+        524.0,
+        212.0,
+        555.0,
+        221.0
+      ],
+      "confidence": 0.85,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        818.51,
+        391.74,
+        952.98,
+        433.44
+      ],
+      "confidence": 0.6697,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        147.41,
+        758.18,
+        184.59,
+        770.02
+      ],
+      "confidence": 0.1834,
+      "cluster_size": 1
+    }
+  ]
+}

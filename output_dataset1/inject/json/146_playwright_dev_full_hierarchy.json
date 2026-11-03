@@ -1,0 +1,671 @@
+{
+  "image": "146_playwright_dev.png",
+  "total_elements": 51,
+  "total_raw_nodes": 65,
+  "total_raw_edges": 42,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        124.29,
+        104.8,
+        268.2,
+        125.48
+      ],
+      "confidence": 0.9688,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_1",
+      "source": "ocr",
+      "class_label": "Token-efficient browser automation for coding agents",
+      "bbox": [
+        563.0,
+        141.0,
+        945.0,
+        156.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "like Claude Code and GitHub Copilot. Skill-based\nworkflows without large context overhead.",
+      "bbox": [
+        563.0,
+        167.0,
+        908.0,
+        209.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1004.42,
+        104.09,
+        1154.43,
+        125.57
+      ],
+      "confidence": 0.968,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1003.53,
+        140.26,
+        1387.98,
+        209.84
+      ],
+      "confidence": 0.942,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        124.36,
+        304.51,
+        289.69,
+        321.35
+      ],
+      "confidence": 0.9529,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "Built for testing",
+      "bbox": [
+        665.0,
+        458.0,
+        872.0,
+        485.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1004.3,
+        305.32,
+        1153.02,
+        318.0
+      ],
+      "confidence": 0.9459,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        122.3,
+        524.75,
+        385.23,
+        537.73
+      ],
+      "confidence": 0.9417,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        783.97,
+        524.62,
+        913.07,
+        537.57
+      ],
+      "confidence": 0.9504,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        783.82,
+        624.71,
+        967.87,
+        640.99
+      ],
+      "confidence": 0.9417,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "Playwright Docs MCP CLI ΑΡΙ Node.js",
+      "bbox": [
+        55.0,
+        23.0,
+        433.0,
+        42.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        122.88,
+        140.68,
+        505.94,
+        206.62
+      ],
+      "confidence": 0.9651,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "npm init playwright@latest",
+      "bbox": [
+        137.0,
+        248.0,
+        292.0,
+        261.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "Playwright CLI",
+      "bbox": [
+        563.0,
+        101.0,
+        699.0,
+        125.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        576.93,
+        247.13,
+        763.41,
+        262.32
+      ],
+      "confidence": 0.9015,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1016.99,
+        246.58,
+        1186.1,
+        261.98
+      ],
+      "confidence": 0.8899,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_17",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        563.61,
+        305.3,
+        701.92,
+        317.98
+      ],
+      "confidence": 0.9435,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "Playwright waits for elements to be actionable before performing actions. Assertions\nautomatically retry until conditions are met. No artificial timeouts, no flaky tests.",
+      "bbox": [
+        124.0,
+        552.0,
+        719.0,
+        594.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "Test isolation",
+      "bbox": [
+        123.0,
+        622.0,
+        223.0,
+        635.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        123.74,
+        648.41,
+        742.75,
+        714.1
+      ],
+      "confidence": 0.9249,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_21",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        787.81,
+        651.88,
+        1371.68,
+        694.93
+      ],
+      "confidence": 0.9349,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_22",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        123.22,
+        231.47,
+        532.73,
+        274.69
+      ],
+      "confidence": 0.9721,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "ocr",
+      "class_label": "Find elements with selectors that mirror how users see the page: getByRole,\ngetByLabel, getByPlaceholder, getByTestId. No brittle CSS paths.",
+      "bbox": [
+        784.0,
+        550.0,
+        1327.0,
+        597.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        564.12,
+        105.32,
+        698.83,
+        126.02
+      ],
+      "confidence": 0.9388,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1003.77,
+        231.36,
+        1412.4,
+        274.97
+      ],
+      "confidence": 0.9264,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        124.06,
+        621.37,
+        223.49,
+        633.6
+      ],
+      "confidence": 0.9166,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        56.75,
+        23.93,
+        137.53,
+        40.6
+      ],
+      "confidence": 0.8967,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        136.26,
+        246.12,
+        291.59,
+        262.17
+      ],
+      "confidence": 0.878,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        561.91,
+        231.55,
+        972.48,
+        274.87
+      ],
+      "confidence": 0.8712,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "ocr",
+      "class_label": "Q Search CTRL K",
+      "bbox": [
+        1371.0,
+        18.0,
+        1499.0,
+        40.0
+      ],
+      "confidence": 0.86,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1004.0,
+        232.0,
+        1412.0,
+        272.0
+      ],
+      "confidence": 0.85,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        564.0,
+        232.0,
+        972.0,
+        272.0
+      ],
+      "confidence": 0.85,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        124.0,
+        232.0,
+        532.0,
+        272.0
+      ],
+      "confidence": 0.85,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        786.15,
+        581.75,
+        873.77,
+        596.09
+      ],
+      "confidence": 0.8361,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1032.88,
+        581.47,
+        1126.15,
+        596.12
+      ],
+      "confidence": 0.829,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        886.19,
+        582.15,
+        1018.23,
+        595.02
+      ],
+      "confidence": 0.8275,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1397.79,
+        22.9,
+        1450.23,
+        35.66
+      ],
+      "confidence": 0.7395,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        378.65,
+        24.36,
+        435.68,
+        40.75
+      ],
+      "confidence": 0.7346,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        164.4,
+        25.37,
+        200.76,
+        37.18
+      ],
+      "confidence": 0.6928,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        224.44,
+        26.17,
+        258.78,
+        37.26
+      ],
+      "confidence": 0.665,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        17.53,
+        20.23,
+        46.07,
+        41.24
+      ],
+      "confidence": 0.6162,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        328.13,
+        25.59,
+        353.89,
+        37.42
+      ],
+      "confidence": 0.5814,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1244.93,
+        553.71,
+        1322.23,
+        567.24
+      ],
+      "confidence": 0.5149,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1236.13,
+        19.0,
+        1261.13,
+        42.22
+      ],
+      "confidence": 0.5031,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1284.58,
+        21.72,
+        1308.8,
+        37.89
+      ],
+      "confidence": 0.4651,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1327.01,
+        21.28,
+        1347.42,
+        39.32
+      ],
+      "confidence": 0.4614,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        282.8,
+        25.91,
+        305.42,
+        37.03
+      ],
+      "confidence": 0.4533,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        436.28,
+        28.46,
+        450.01,
+        37.41
+      ],
+      "confidence": 0.4,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1460.42,
+        19.28,
+        1487.74,
+        39.65
+      ],
+      "confidence": 0.289,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1460.88,
+        18.23,
+        1505.39,
+        40.61
+      ],
+      "confidence": 0.2255,
+      "cluster_size": 1
+    }
+  ]
+}

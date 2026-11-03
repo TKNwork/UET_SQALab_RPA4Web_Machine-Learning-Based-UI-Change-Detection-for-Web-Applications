@@ -1,0 +1,996 @@
+{
+  "image": "140_wikihow_com.png",
+  "total_elements": 76,
+  "total_raw_nodes": 89,
+  "total_raw_edges": 108,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        37.0,
+        1536.0,
+        145.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        414.0,
+        10.0,
+        739.0,
+        34.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        759.85,
+        10.95,
+        815.95,
+        24.15
+      ],
+      "confidence": 0.9289,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "PRO",
+      "bbox": [
+        937.0,
+        14.0,
+        964.0,
+        23.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "EXPLORE",
+      "bbox": [
+        1085.0,
+        15.0,
+        1132.0,
+        21.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1233.82,
+        14.61,
+        1278.17,
+        21.92
+      ],
+      "confidence": 0.8392,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        248.45,
+        414.79,
+        337.65,
+        423.18
+      ],
+      "confidence": 0.907,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "1. Do you ever fantasize about strangers?",
+      "bbox": [
+        268.0,
+        644.0,
+        588.0,
+        658.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1012.42,
+        221.79,
+        1135.44,
+        232.99
+      ],
+      "confidence": 0.9319,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1009.04,
+        282.54,
+        1091.96,
+        294.65
+      ],
+      "confidence": 0.9618,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "How Vanilla",
+      "bbox": [
+        1013.0,
+        379.0,
+        1075.0,
+        388.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "Share yours!",
+      "bbox": [
+        1205.0,
+        221.0,
+        1274.0,
+        234.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "QUIZZES",
+      "bbox": [
+        1014.0,
+        15.0,
+        1058.0,
+        22.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "LOG IN",
+      "bbox": [
+        1166.0,
+        15.0,
+        1198.0,
+        21.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        259.66,
+        217.93,
+        595.72,
+        233.41
+      ],
+      "confidence": 0.9522,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "Share this quiz with your friends and see how your results compare.",
+      "bbox": [
+        268.0,
+        286.0,
+        749.0,
+        305.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        258.94,
+        573.33,
+        451.21,
+        590.25
+      ],
+      "confidence": 0.9552,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "f",
+      "bbox": [
+        554.0,
+        333.0,
+        564.0,
+        349.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        283.04,
+        666.06,
+        589.18,
+        681.62
+      ],
+      "confidence": 0.7997,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "B. Sure, I wonder who they are and where they're going.",
+      "bbox": [
+        281.0,
+        693.0,
+        680.0,
+        708.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "A. Why would I ever need to use that emoji?",
+      "bbox": [
+        280.0,
+        806.0,
+        595.0,
+        821.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "WikiCaveDancer367",
+      "bbox": [
+        1056.0,
+        147.0,
+        1181.0,
+        158.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "\"It was very accurate to me.\"",
+      "bbox": [
+        1012.0,
+        189.0,
+        1178.0,
+        204.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1091.22,
+        434.11,
+        1194.91,
+        444.02
+      ],
+      "confidence": 0.9224,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_24",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        244.86,
+        614.48,
+        971.76,
+        826.0
+      ],
+      "confidence": 0.9754,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1101.84,
+        306.31,
+        1184.23,
+        375.58
+      ],
+      "confidence": 0.9509,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_26",
+      "source": "ocr",
+      "class_label": "wikiHow to do anything...",
+      "bbox": [
+        243.0,
+        5.0,
+        565.0,
+        32.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "ocr",
+      "class_label": "Do I Have a\nDirty Sense of\nHumor Quiz",
+      "bbox": [
+        1102.0,
+        378.0,
+        1178.0,
+        415.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1191.02,
+        306.12,
+        1273.6,
+        376.59
+      ],
+      "confidence": 0.9587,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_29",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1007.72,
+        421.18,
+        1278.58,
+        456.21
+      ],
+      "confidence": 0.9309,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_30",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        283.17,
+        781.03,
+        570.98,
+        797.08
+      ],
+      "confidence": 0.9202,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_31",
+      "source": "ocr",
+      "class_label": "Apr 1",
+      "bbox": [
+        1056.0,
+        166.0,
+        1082.0,
+        175.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        991.79,
+        126.26,
+        1293.91,
+        249.88
+      ],
+      "confidence": 0.9508,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "ocr",
+      "class_label": "C. I sometimes wonder if they're single.",
+      "bbox": [
+        280.0,
+        718.0,
+        559.0,
+        732.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "ocr",
+      "class_label": "D. I fantasize about being alone with them, actually....",
+      "bbox": [
+        280.0,
+        742.0,
+        656.0,
+        757.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "ocr",
+      "class_label": "Am I Naughty\nQuiz",
+      "bbox": [
+        1191.0,
+        379.0,
+        1263.0,
+        404.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        995.41,
+        263.49,
+        1292.2,
+        472.3
+      ],
+      "confidence": 0.9481,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        292.12,
+        739.57,
+        655.0,
+        757.25
+      ],
+      "confidence": 0.9174,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        262.51,
+        38.05,
+        947.82,
+        143.34
+      ],
+      "confidence": 0.9157,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1012.78,
+        306.88,
+        1092.83,
+        374.64
+      ],
+      "confidence": 0.914,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1014.43,
+        191.17,
+        1174.21,
+        205.59
+      ],
+      "confidence": 0.912,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "ocr",
+      "class_label": "Am I Quiz",
+      "bbox": [
+        1012.0,
+        392.0,
+        1063.0,
+        402.0
+      ],
+      "confidence": 0.91,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1204.92,
+        222.29,
+        1273.31,
+        235.26
+      ],
+      "confidence": 0.8945,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        238.67,
+        196.9,
+        972.44,
+        255.96
+      ],
+      "confidence": 0.8701,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1013.13,
+        145.74,
+        1046.79,
+        180.8
+      ],
+      "confidence": 0.8651,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        418.26,
+        10.44,
+        562.7,
+        31.02
+      ],
+      "confidence": 0.8622,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1057.82,
+        147.4,
+        1181.06,
+        159.66
+      ],
+      "confidence": 0.8326,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        243.63,
+        5.98,
+        404.29,
+        31.92
+      ],
+      "confidence": 0.8215,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        269.47,
+        287.46,
+        742.04,
+        303.19
+      ],
+      "confidence": 0.8133,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        912.34,
+        4.94,
+        988.09,
+        33.77
+      ],
+      "confidence": 0.799,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        293.76,
+        805.01,
+        588.48,
+        821.65
+      ],
+      "confidence": 0.7979,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        933.22,
+        11.21,
+        969.67,
+        25.43
+      ],
+      "confidence": 0.7912,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1012.08,
+        378.47,
+        1074.93,
+        401.91
+      ],
+      "confidence": 0.777,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_53",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        637.82,
+        322.17,
+        674.16,
+        359.86
+      ],
+      "confidence": 0.733,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_54",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1014.14,
+        13.51,
+        1058.55,
+        22.97
+      ],
+      "confidence": 0.7155,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_55",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1100.64,
+        388.69,
+        1177.42,
+        414.13
+      ],
+      "confidence": 0.6981,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_56",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        589.64,
+        323.17,
+        626.02,
+        360.07
+      ],
+      "confidence": 0.6774,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_57",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        271.24,
+        642.74,
+        585.73,
+        661.4
+      ],
+      "confidence": 0.6759,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_58",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        539.6,
+        322.28,
+        577.87,
+        359.9
+      ],
+      "confidence": 0.659,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_59",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        270.01,
+        122.3,
+        291.23,
+        142.65
+      ],
+      "confidence": 0.6346,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_60",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        280.5,
+        717.0,
+        294.79,
+        730.03
+      ],
+      "confidence": 0.6033,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_61",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        286.85,
+        691.41,
+        666.75,
+        708.84
+      ],
+      "confidence": 0.6012,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_62",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        303.96,
+        715.95,
+        568.46,
+        732.88
+      ],
+      "confidence": 0.5952,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_63",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1085.39,
+        13.64,
+        1132.49,
+        21.68
+      ],
+      "confidence": 0.5949,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_64",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        748.92,
+        2.31,
+        826.79,
+        36.33
+      ],
+      "confidence": 0.5732,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_65",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1192.1,
+        378.17,
+        1264.26,
+        390.88
+      ],
+      "confidence": 0.5706,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_66",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        268.97,
+        781.8,
+        281.85,
+        795.45
+      ],
+      "confidence": 0.4262,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_67",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1102.72,
+        379.13,
+        1171.71,
+        393.95
+      ],
+      "confidence": 0.4172,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_68",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        279.12,
+        740.85,
+        293.73,
+        754.45
+      ],
+      "confidence": 0.3914,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_69",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1056.43,
+        165.25,
+        1079.11,
+        175.64
+      ],
+      "confidence": 0.3452,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_70",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1165.26,
+        13.91,
+        1200.7,
+        21.88
+      ],
+      "confidence": 0.3364,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_71",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        280.82,
+        740.59,
+        294.62,
+        754.2
+      ],
+      "confidence": 0.3134,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_72",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        280.45,
+        805.95,
+        294.17,
+        819.48
+      ],
+      "confidence": 0.3065,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_73",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1192.24,
+        390.0,
+        1214.37,
+        400.53
+      ],
+      "confidence": 0.2821,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_74",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1170.64,
+        191.29,
+        1179.24,
+        201.66
+      ],
+      "confidence": 0.1535,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_75",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1012.12,
+        390.76,
+        1073.86,
+        401.61
+      ],
+      "confidence": 0.1277,
+      "cluster_size": 1
+    }
+  ]
+}

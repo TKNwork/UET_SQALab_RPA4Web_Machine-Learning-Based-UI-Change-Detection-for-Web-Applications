@@ -1,0 +1,684 @@
+{
+  "image": "343_kjvstudy_org.png",
+  "total_elements": 52,
+  "total_raw_nodes": 63,
+  "total_raw_edges": 68,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "ocr",
+      "class_label": "Home",
+      "bbox": [
+        12.0,
+        91.0,
+        43.0,
+        98.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "ocr",
+      "class_label": "Home",
+      "bbox": [
+        289.0,
+        72.0,
+        321.0,
+        81.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "Verse of the Day",
+      "bbox": [
+        14.0,
+        200.0,
+        98.0,
+        213.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        14.26,
+        276.12,
+        75.42,
+        285.84
+      ],
+      "confidence": 0.9216,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        14.15,
+        314.1,
+        47.77,
+        324.36
+      ],
+      "confidence": 0.8654,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        290.25,
+        155.65,
+        371.68,
+        182.32
+      ],
+      "confidence": 0.966,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "Resources",
+      "bbox": [
+        15.0,
+        351.0,
+        62.0,
+        359.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        14.89,
+        512.08,
+        65.56,
+        522.59
+      ],
+      "confidence": 0.918,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Search everything...",
+      "bbox": [
+        21.0,
+        27.0,
+        114.0,
+        39.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "QUICK ACCESS",
+      "bbox": [
+        13.0,
+        61.0,
+        90.0,
+        71.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "Books",
+      "bbox": [
+        13.0,
+        127.0,
+        44.0,
+        138.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "Study Guides",
+      "bbox": [
+        13.0,
+        236.0,
+        80.0,
+        251.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        288.34,
+        218.79,
+        715.89,
+        244.98
+      ],
+      "confidence": 0.9253,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "Download PDF",
+      "bbox": [
+        426.0,
+        272.0,
+        513.0,
+        286.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "Random Verse",
+      "bbox": [
+        14.0,
+        386.0,
+        86.0,
+        398.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        14.51,
+        475.28,
+        119.33,
+        489.12
+      ],
+      "confidence": 0.9327,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_16",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        14.56,
+        600.44,
+        82.77,
+        614.59
+      ],
+      "confidence": 0.9446,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "Starred Pages",
+      "bbox": [
+        14.0,
+        637.0,
+        80.0,
+        653.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        290.73,
+        348.56,
+        396.75,
+        368.17
+      ],
+      "confidence": 0.9566,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "LOVE STANDS at the very center of Christian theology and practice, for \"God is love\" (1 John\n4:8). This divine attribute defines not merely one characteristic among many but God's essential\nnature—His every act flows from perfect love. Biblical love, however, differs radically from\nsentimental affection or romantic emotion. It constitutes a purposeful commitment to seek\nanother's highest good, demonstrated supremely in Christ's sacrificial death for undeserving",
+      "bbox": [
+        288.0,
+        407.0,
+        980.0,
+        564.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "sinners.",
+      "bbox": [
+        289.0,
+        582.0,
+        343.0,
+        594.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        287.11,
+        629.57,
+        993.66,
+        817.31
+      ],
+      "confidence": 0.9241,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "Topics > Love",
+      "bbox": [
+        360.0,
+        68.0,
+        459.0,
+        85.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        389.85,
+        263.88,
+        526.36,
+        295.59
+      ],
+      "confidence": 0.9506,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_24",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        289.69,
+        263.73,
+        378.39,
+        295.09
+      ],
+      "confidence": 0.8644,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_25",
+      "source": "ocr",
+      "class_label": "▾ STUDY RESOURCES",
+      "bbox": [
+        11.0,
+        164.0,
+        132.0,
+        171.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "ocr",
+      "class_label": "▼ REFERENCE TOOLS",
+      "bbox": [
+        12.0,
+        440.0,
+        131.0,
+        447.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "ocr",
+      "class_label": "▾ YOUR LIBRARY",
+      "bbox": [
+        11.0,
+        566.0,
+        109.0,
+        573.0
+      ],
+      "confidence": 0.92,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        167.26,
+        0.0,
+        1097.86,
+        823.24
+      ],
+      "confidence": 0.9152,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        14.74,
+        200.96,
+        96.02,
+        213.85
+      ],
+      "confidence": 0.8951,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        14.31,
+        237.57,
+        80.38,
+        249.07
+      ],
+      "confidence": 0.8942,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        14.78,
+        386.67,
+        85.98,
+        396.47
+      ],
+      "confidence": 0.8939,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        14.39,
+        638.65,
+        79.0,
+        652.01
+      ],
+      "confidence": 0.8881,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        16.06,
+        438.33,
+        131.98,
+        446.11
+      ],
+      "confidence": 0.8752,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        15.14,
+        162.48,
+        131.36,
+        170.09
+      ],
+      "confidence": 0.8337,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        424.47,
+        273.79,
+        512.12,
+        283.7
+      ],
+      "confidence": 0.8317,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        288.18,
+        71.94,
+        322.45,
+        83.52
+      ],
+      "confidence": 0.8203,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "ocr",
+      "class_label": "<> Listen",
+      "bbox": [
+        303.0,
+        274.0,
+        363.0,
+        287.0
+      ],
+      "confidence": 0.82,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        13.41,
+        349.71,
+        63.2,
+        359.6
+      ],
+      "confidence": 0.8179,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        18.47,
+        565.33,
+        108.37,
+        573.47
+      ],
+      "confidence": 0.8178,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        13.27,
+        127.15,
+        43.18,
+        136.77
+      ],
+      "confidence": 0.8089,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        12.97,
+        61.04,
+        91.49,
+        72.92
+      ],
+      "confidence": 0.783,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        13.06,
+        90.64,
+        43.9,
+        98.44
+      ],
+      "confidence": 0.7507,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        11.65,
+        300.36,
+        160.02,
+        338.4
+      ],
+      "confidence": 0.7482,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        324.93,
+        274.53,
+        361.99,
+        284.63
+      ],
+      "confidence": 0.7452,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        359.52,
+        71.0,
+        394.9,
+        85.53
+      ],
+      "confidence": 0.7343,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        22.1,
+        28.17,
+        109.02,
+        39.28
+      ],
+      "confidence": 0.6189,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        430.66,
+        71.42,
+        459.41,
+        82.31
+      ],
+      "confidence": 0.6005,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        333.91,
+        72.26,
+        346.31,
+        81.2
+      ],
+      "confidence": 0.4316,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        404.06,
+        273.92,
+        418.23,
+        286.64
+      ],
+      "confidence": 0.3252,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        407.38,
+        72.32,
+        418.42,
+        80.52
+      ],
+      "confidence": 0.2915,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        303.18,
+        274.07,
+        320.74,
+        285.65
+      ],
+      "confidence": 0.1571,
+      "cluster_size": 1
+    }
+  ]
+}

@@ -1,0 +1,489 @@
+{
+  "image": "196_worldnomads_com.png",
+  "total_elements": 37,
+  "total_raw_nodes": 45,
+  "total_raw_edges": 32,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        737.0,
+        305.0,
+        799.0,
+        308.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        398.0,
+        120.0,
+        479.0,
+        124.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        42.0,
+        1536.0,
+        45.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        82.11,
+        16.99,
+        166.21,
+        26.89
+      ],
+      "confidence": 0.8847,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "World Nomads",
+      "bbox": [
+        63.0,
+        69.0,
+        193.0,
+        83.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "INSURANCE SAFETY EXPLORE TRAVEL WISER",
+      "bbox": [
+        291.0,
+        77.0,
+        707.0,
+        91.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        729.61,
+        79.09,
+        789.59,
+        90.18
+      ],
+      "confidence": 0.953,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "RESPONSIBLE TRAVEL HELP CENTER",
+      "bbox": [
+        819.0,
+        76.0,
+        1119.0,
+        91.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1212.54,
+        79.25,
+        1316.78,
+        90.64
+      ],
+      "confidence": 0.9132,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "TRAVEL INSURANCE",
+      "bbox": [
+        66.0,
+        89.0,
+        173.0,
+        97.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "Travel safely",
+      "bbox": [
+        611.0,
+        229.0,
+        927.0,
+        283.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "weather events and local laws.",
+      "bbox": [
+        565.0,
+        377.0,
+        970.0,
+        399.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        185.79,
+        586.99,
+        483.57,
+        614.36
+      ],
+      "confidence": 0.9599,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "MENU",
+      "bbox": [
+        1478.0,
+        90.0,
+        1512.0,
+        98.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1374.32,
+        515.23,
+        1529.39,
+        530.19
+      ],
+      "confidence": 0.8509,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_15",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        798.79,
+        659.66,
+        1037.17,
+        816.4
+      ],
+      "confidence": 0.9631,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_16",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1098.57,
+        659.85,
+        1337.43,
+        816.43
+      ],
+      "confidence": 0.9632,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "What you need to know about crime, scams, transport,",
+      "bbox": [
+        405.0,
+        340.0,
+        1129.0,
+        367.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "SEARCH MEMBER",
+      "bbox": [
+        1347.0,
+        14.0,
+        1497.0,
+        28.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        194.52,
+        659.99,
+        736.82,
+        826.0
+      ],
+      "confidence": 0.9752,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1202.01,
+        59.99,
+        1327.98,
+        108.37
+      ],
+      "confidence": 0.9422,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "Browse by country >",
+      "bbox": [
+        702.0,
+        448.0,
+        833.0,
+        464.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "FN",
+      "bbox": [
+        48.0,
+        18.0,
+        63.0,
+        25.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "ocr",
+      "class_label": "World Nomads > Travel Safety",
+      "bbox": [
+        669.0,
+        193.0,
+        867.0,
+        208.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        686.0,
+        437.0,
+        850.0,
+        473.0
+      ],
+      "confidence": 0.9378,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        292.2,
+        79.01,
+        382.08,
+        89.91
+      ],
+      "confidence": 0.9335,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        496.5,
+        79.08,
+        567.2,
+        90.15
+      ],
+      "confidence": 0.9302,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        593.32,
+        79.3,
+        705.36,
+        90.46
+      ],
+      "confidence": 0.9293,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        409.64,
+        79.46,
+        468.8,
+        89.97
+      ],
+      "confidence": 0.915,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1014.99,
+        79.39,
+        1120.31,
+        90.42
+      ],
+      "confidence": 0.9114,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        818.82,
+        79.36,
+        985.52,
+        90.35
+      ],
+      "confidence": 0.9031,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        31.28,
+        64.39,
+        190.23,
+        100.69
+      ],
+      "confidence": 0.8673,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        0.0,
+        43.83,
+        861.16,
+        124.74
+      ],
+      "confidence": 0.8645,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1366.71,
+        504.77,
+        1536.0,
+        537.81
+      ],
+      "confidence": 0.5956,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1478.37,
+        88.91,
+        1511.73,
+        98.97
+      ],
+      "confidence": 0.5515,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1502.35,
+        11.48,
+        1521.4,
+        29.84
+      ],
+      "confidence": 0.1915,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1441.97,
+        17.74,
+        1497.17,
+        26.41
+      ],
+      "confidence": 0.1277,
+      "cluster_size": 1
+    }
+  ]
+}

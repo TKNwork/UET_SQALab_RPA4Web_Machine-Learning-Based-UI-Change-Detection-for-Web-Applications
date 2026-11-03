@@ -1,0 +1,489 @@
+{
+  "image": "059_css-tricks_com.png",
+  "total_elements": 37,
+  "total_raw_nodes": 48,
+  "total_raw_edges": 67,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1524.0,
+        686.0,
+        1532.0,
+        807.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        350.0,
+        162.0,
+        1019.0,
+        174.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1464.0,
+        0.0,
+        1473.0,
+        194.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        68.0,
+        166.0,
+        315.0,
+        170.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        50.96,
+        636.72,
+        192.47,
+        647.93
+      ],
+      "confidence": 0.9376,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "Cloudways\nLegal stuff",
+      "bbox": [
+        49.0,
+        693.0,
+        143.0,
+        741.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        49.79,
+        753.62,
+        175.69,
+        768.24
+      ],
+      "confidence": 0.858,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        708.21,
+        525.86,
+        865.72,
+        543.51
+      ],
+      "confidence": 0.9085,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        409.13,
+        664.86,
+        477.74,
+        678.83
+      ],
+      "confidence": 0.8351,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "Advertise with us",
+      "bbox": [
+        409.0,
+        723.0,
+        556.0,
+        739.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "SOCIAL",
+      "bbox": [
+        769.0,
+        637.0,
+        839.0,
+        647.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "RSS Feeds\nCodePen",
+      "bbox": [
+        769.0,
+        665.0,
+        855.0,
+        708.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "Mastodon",
+      "bbox": [
+        768.0,
+        724.0,
+        854.0,
+        739.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "Bluesky",
+      "bbox": [
+        768.0,
+        753.0,
+        835.0,
+        769.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        946.64,
+        526.49,
+        1006.06,
+        538.29
+      ],
+      "confidence": 0.9381,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_15",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        668.92,
+        391.36,
+        1472.28,
+        576.73
+      ],
+      "confidence": 0.978,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        90.73,
+        57.66,
+        289.3,
+        79.88
+      ],
+      "confidence": 0.9214,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "CSS-Tricks is powered by DigitalOcean.",
+      "bbox": [
+        49.0,
+        543.0,
+        548.0,
+        573.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "Write for CSS-Tricks!",
+      "bbox": [
+        409.0,
+        694.0,
+        590.0,
+        709.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        694.64,
+        512.73,
+        914.35,
+        550.94
+      ],
+      "confidence": 0.9374,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "Timeless CSS gems",
+      "bbox": [
+        92.0,
+        118.0,
+        230.0,
+        134.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        408.35,
+        636.51,
+        528.37,
+        648.03
+      ],
+      "confidence": 0.8524,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_22",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        929.44,
+        512.14,
+        1023.51,
+        551.61
+      ],
+      "confidence": 0.9448,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_23",
+      "source": "ocr",
+      "class_label": "Get Curated Front-End Roundups Right in Your Inbox\nComing back really, really soon! See past issues →",
+      "bbox": [
+        695.0,
+        420.0,
+        1264.0,
+        466.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        49.33,
+        662.87,
+        134.07,
+        680.07
+      ],
+      "confidence": 0.8806,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_25",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        62.32,
+        0.0,
+        318.85,
+        168.72
+      ],
+      "confidence": 0.9394,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        0.0,
+        0.0,
+        939.42,
+        442.68
+      ],
+      "confidence": 0.8866,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        769.61,
+        636.72,
+        840.3,
+        648.7
+      ],
+      "confidence": 0.8847,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        49.68,
+        693.82,
+        141.95,
+        712.33
+      ],
+      "confidence": 0.8726,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        3.71,
+        441.77,
+        662.4,
+        825.4
+      ],
+      "confidence": 0.8673,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        91.79,
+        119.97,
+        229.55,
+        136.53
+      ],
+      "confidence": 0.8655,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        909.93,
+        450.59,
+        1021.49,
+        467.56
+      ],
+      "confidence": 0.8285,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        769.36,
+        664.02,
+        854.86,
+        677.7
+      ],
+      "confidence": 0.8116,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        49.82,
+        723.48,
+        139.77,
+        742.29
+      ],
+      "confidence": 0.736,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        651.79,
+        393.88,
+        669.87,
+        440.56
+      ],
+      "confidence": 0.1906,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1508.71,
+        793.97,
+        1535.64,
+        822.42
+      ],
+      "confidence": 0.1546,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        336.47,
+        164.4,
+        350.97,
+        173.16
+      ],
+      "confidence": 0.1148,
+      "cluster_size": 1
+    }
+  ]
+}

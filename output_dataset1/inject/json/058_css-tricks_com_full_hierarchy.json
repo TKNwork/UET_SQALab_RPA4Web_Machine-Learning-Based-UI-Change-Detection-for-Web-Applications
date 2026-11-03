@@ -1,0 +1,502 @@
+{
+  "image": "058_css-tricks_com.png",
+  "total_elements": 38,
+  "total_raw_nodes": 43,
+  "total_raw_edges": 35,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1125.0,
+        56.0,
+        1520.0,
+        59.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1524.0,
+        19.0,
+        1532.0,
+        137.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        761.82,
+        188.61,
+        1468.44,
+        649.85
+      ],
+      "confidence": 0.9569,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "Powered by",
+      "bbox": [
+        313.0,
+        15.0,
+        359.0,
+        23.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        438.07,
+        26.01,
+        505.92,
+        36.14
+      ],
+      "confidence": 0.8619,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "ALMANAC",
+      "bbox": [
+        774.0,
+        26.0,
+        842.0,
+        35.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "SHUFFLE",
+      "bbox": [
+        951.0,
+        24.0,
+        1012.0,
+        37.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Daniel Schwarz on Mar 23, 2026",
+      "bbox": [
+        859.0,
+        575.0,
+        1091.0,
+        588.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        538.32,
+        25.81,
+        585.06,
+        36.01
+      ],
+      "confidence": 0.8545,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "LINKS GUIDES",
+      "bbox": [
+        618.0,
+        26.0,
+        742.0,
+        38.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        875.72,
+        26.21,
+        917.41,
+        36.05
+      ],
+      "confidence": 0.8647,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        523.78,
+        141.48,
+        996.92,
+        155.47
+      ],
+      "confidence": 0.8551,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "ANIMATION CORNER-SHAPE SCROLL DRIVEN ANIMATION",
+      "bbox": [
+        809.0,
+        240.0,
+        1148.0,
+        251.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "Experimenting With\nScroll-Driven corner-",
+      "bbox": [
+        809.0,
+        263.0,
+        1264.0,
+        363.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "shape Animations\nations",
+      "bbox": [
+        808.0,
+        371.0,
+        1191.0,
+        456.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "The new CSS corner-shape() property is mathematical, so it's easily\nanimated. Author Daniel Schwarz pokes at animating the property for\ninteresting UI effects.",
+      "bbox": [
+        809.0,
+        459.0,
+        1397.0,
+        546.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "Article on Feb 9, 2026\nTrying to Make t\nPerfect Pie Cha",
+      "bbox": [
+        374.0,
+        733.0,
+        534.0,
+        804.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "Article on Feb 17, 2026\nSpiral Scrollytell\nCSS With sibling",
+      "bbox": [
+        559.0,
+        732.0,
+        725.0,
+        804.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "Article on Jan 26, 2026\nThere is No Need\nto Trap Focus on\na Dialog Element",
+      "bbox": [
+        747.0,
+        732.0,
+        915.0,
+        825.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "* CSS-TRICKS DigitalOcean",
+      "bbox": [
+        50.0,
+        12.0,
+        406.0,
+        46.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "Article on Feb 11, 2026\nApproximating\ncontrast-color()\nOther CSS Featu",
+      "bbox": [
+        933.0,
+        732.0,
+        1101.0,
+        825.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "Article on Jan 23, 2026\nResponsive Hex:\nGrid Using Mode",
+      "bbox": [
+        1120.0,
+        732.0,
+        1286.0,
+        804.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "Article on Jan 29, 2026\nStyling::search-\nand Other Highli\ny Pseudo-Eleme",
+      "bbox": [
+        1306.0,
+        732.0,
+        1469.0,
+        825.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        52.49,
+        185.97,
+        758.3,
+        650.49
+      ],
+      "confidence": 0.9308,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        0.0,
+        110.98,
+        841.62,
+        822.71
+      ],
+      "confidence": 0.9263,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        47.25,
+        703.51,
+        302.85,
+        826.0
+      ],
+      "confidence": 0.9051,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        774.81,
+        26.48,
+        843.34,
+        35.95
+      ],
+      "confidence": 0.866,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        691.49,
+        25.81,
+        741.77,
+        35.86
+      ],
+      "confidence": 0.7827,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        951.52,
+        26.02,
+        1013.26,
+        36.48
+      ],
+      "confidence": 0.7716,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        618.55,
+        26.51,
+        658.36,
+        36.03
+      ],
+      "confidence": 0.7527,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        48.92,
+        15.57,
+        253.21,
+        41.29
+      ],
+      "confidence": 0.721,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        809.68,
+        561.31,
+        849.94,
+        600.09
+      ],
+      "confidence": 0.6304,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        748.25,
+        732.65,
+        799.82,
+        744.84
+      ],
+      "confidence": 0.2407,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        810.29,
+        239.5,
+        873.58,
+        249.85
+      ],
+      "confidence": 0.1509,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1439.72,
+        16.24,
+        1470.65,
+        47.43
+      ],
+      "confidence": 0.145,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        375.59,
+        732.32,
+        422.47,
+        744.75
+      ],
+      "confidence": 0.1283,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        562.17,
+        732.21,
+        614.21,
+        744.56
+      ],
+      "confidence": 0.1207,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        279.8,
+        15.71,
+        307.92,
+        41.95
+      ],
+      "confidence": 0.1128,
+      "cluster_size": 1
+    }
+  ]
+}

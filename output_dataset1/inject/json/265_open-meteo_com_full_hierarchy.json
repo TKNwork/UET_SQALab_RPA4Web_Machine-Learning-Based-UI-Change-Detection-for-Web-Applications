@@ -1,0 +1,541 @@
+{
+  "image": "265_open-meteo_com.png",
+  "total_elements": 41,
+  "total_raw_nodes": 51,
+  "total_raw_edges": 94,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1162.0,
+        641.0,
+        1444.0,
+        660.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        48.03,
+        152.25,
+        514.72,
+        175.13
+      ],
+      "confidence": 0.9696,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_2",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        770.53,
+        151.72,
+        1345.91,
+        174.97
+      ],
+      "confidence": 0.9707,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "portal",
+      "bbox": [
+        772.0,
+        499.0,
+        813.0,
+        512.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        44.8,
+        193.98,
+        750.47,
+        283.04
+      ],
+      "confidence": 0.9717,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        47.1,
+        376.0,
+        638.89,
+        398.26
+      ],
+      "confidence": 0.9445,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "The free API is accessible to everyone for non-commercial purposes and does not come with any\nservice guarantees. On the other hand, the customer API is specifically designed for commercial use,\noffering dedicated API server instances to ensure sufficient resources and reliable API performance.",
+      "bbox": [
+        47.0,
+        414.0,
+        752.0,
+        490.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        46.27,
+        501.43,
+        728.41,
+        565.25
+      ],
+      "confidence": 0.9584,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        48.27,
+        598.86,
+        367.23,
+        618.44
+      ],
+      "confidence": 0.9564,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        46.08,
+        640.99,
+        748.62,
+        729.21
+      ],
+      "confidence": 0.9739,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        46.77,
+        747.99,
+        751.99,
+        812.2
+      ],
+      "confidence": 0.9652,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        770.69,
+        193.68,
+        1487.98,
+        254.78
+      ],
+      "confidence": 0.9471,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_12",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        798.64,
+        289.58,
+        1451.79,
+        332.34
+      ],
+      "confidence": 0.9593,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "Using the Standard API Plan can I use historical, climate and\nensemble data?",
+      "bbox": [
+        772.0,
+        376.0,
+        1457.0,
+        426.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "Access to historical, climate, and ensemble data is limited to the Professional API Plan. If you are\ninterested in utilizing this data, you can easily upgrade your subscription by visiting the customer",
+      "bbox": [
+        771.0,
+        442.0,
+        1457.0,
+        497.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "Is it necessary to provide attribution to Open-Meteo?\nOpen-Meteo relies on open data that is licenced under Attribution 4.0 International (CC BY 4.0). This\nlicence mandates giving appropriate credit and indicating any modifications made to the data. While\nyou are permitted to utilise and distribute the data, including for commercial purposes, attribution is\na requirement under this licence. For more information, please refer to the licence page.",
+      "bbox": [
+        770.0,
+        597.0,
+        1482.0,
+        730.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        37.3,
+        416.95,
+        748.35,
+        482.26
+      ],
+      "confidence": 0.9523,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        881.67,
+        364.2,
+        1099.43,
+        420.45
+      ],
+      "confidence": 0.9512,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "Frequently Asked Questions.",
+      "bbox": [
+        489.0,
+        50.0,
+        1053.0,
+        102.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        889.59,
+        375.6,
+        1094.44,
+        393.91
+      ],
+      "confidence": 0.937,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        417.05,
+        266.73,
+        530.48,
+        283.02
+      ],
+      "confidence": 0.9197,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        769.16,
+        639.98,
+        1479.63,
+        729.73
+      ],
+      "confidence": 0.9169,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        764.33,
+        59.9,
+        1530.34,
+        826.0
+      ],
+      "confidence": 0.8963,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1297.63,
+        712.65,
+        1388.73,
+        730.64
+      ],
+      "confidence": 0.8936,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        47.83,
+        501.5,
+        203.56,
+        517.69
+      ],
+      "confidence": 0.8935,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        774.0,
+        275.0,
+        1486.0,
+        342.0
+      ],
+      "confidence": 0.8856,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        11.17,
+        0.0,
+        768.54,
+        826.0
+      ],
+      "confidence": 0.8725,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        772.51,
+        375.66,
+        879.49,
+        400.46
+      ],
+      "confidence": 0.8587,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        510.18,
+        501.74,
+        623.66,
+        517.84
+      ],
+      "confidence": 0.8525,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        523.41,
+        524.87,
+        646.96,
+        543.38
+      ],
+      "confidence": 0.8341,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        631.23,
+        502.99,
+        695.1,
+        516.95
+      ],
+      "confidence": 0.79,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1105.05,
+        375.6,
+        1455.52,
+        397.4
+      ],
+      "confidence": 0.7779,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        772.06,
+        407.61,
+        945.45,
+        426.06
+      ],
+      "confidence": 0.6303,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1227.69,
+        448.74,
+        1373.69,
+        465.41
+      ],
+      "confidence": 0.616,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1162.67,
+        639.75,
+        1444.27,
+        657.73
+      ],
+      "confidence": 0.6159,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        47.41,
+        525.51,
+        196.62,
+        542.2
+      ],
+      "confidence": 0.5529,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        791.05,
+        290.73,
+        807.35,
+        303.96
+      ],
+      "confidence": 0.5232,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        772.12,
+        498.1,
+        815.58,
+        513.79
+      ],
+      "confidence": 0.2411,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        821.01,
+        289.31,
+        831.6,
+        304.49
+      ],
+      "confidence": 0.1595,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        819.69,
+        288.77,
+        831.4,
+        303.85
+      ],
+      "confidence": 0.1553,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        61.48,
+        826.0,
+        778.51,
+        826.0
+      ],
+      "confidence": 0.1214,
+      "cluster_size": 1
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "image": "226_alistapart_com.png",
+  "total_elements": 15,
+  "total_raw_nodes": 19,
+  "total_raw_edges": 10,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "ocr",
+      "class_label": "I told you in the introduction of this article that I would give you homework. You\nthought I was joking. So, here's your homework: I want you to grab the personas from\nthe Know About Accessibility website, and use them throughout every design project to\nhelp you recognise accessibility issues while you work-and reclaim design for",
+      "bbox": [
+        419.0,
+        75.0,
+        1111.0,
+        186.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "ocr",
+      "class_label": "everyone.",
+      "bbox": [
+        420.0,
+        202.0,
+        496.0,
+        216.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "LIKE THIS:",
+      "bbox": [
+        420.0,
+        381.0,
+        475.0,
+        391.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        697.03,
+        489.55,
+        839.35,
+        502.74
+      ],
+      "confidence": 0.9553,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "Your mission, should you choose to accept it",
+      "bbox": [
+        419.0,
+        26.0,
+        912.0,
+        45.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        414.73,
+        285.41,
+        1110.11,
+        335.75
+      ],
+      "confidence": 0.9224,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "Like Be the first to like this.",
+      "bbox": [
+        450.0,
+        416.0,
+        611.0,
+        430.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        575.04,
+        582.0,
+        1115.07,
+        766.46
+      ],
+      "confidence": 0.9655,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        574.88,
+        555.61,
+        671.44,
+        568.02
+      ],
+      "confidence": 0.9395,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        422.0,
+        408.0,
+        483.0,
+        436.0
+      ],
+      "confidence": 0.9423,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        419.82,
+        583.54,
+        557.03,
+        721.82
+      ],
+      "confidence": 0.9092,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        420.02,
+        403.45,
+        485.69,
+        439.11
+      ],
+      "confidence": 0.9089,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        419.07,
+        380.57,
+        477.18,
+        390.28
+      ],
+      "confidence": 0.8841,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        492.45,
+        418.03,
+        608.82,
+        427.71
+      ],
+      "confidence": 0.8125,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        432.22,
+        415.68,
+        475.13,
+        429.67
+      ],
+      "confidence": 0.7495,
+      "cluster_size": 1
+    }
+  ]
+}

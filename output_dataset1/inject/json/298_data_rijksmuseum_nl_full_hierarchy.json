@@ -1,0 +1,411 @@
+{
+  "image": "298_data_rijksmuseum_nl.png",
+  "total_elements": 31,
+  "total_raw_nodes": 35,
+  "total_raw_edges": 34,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        445.0,
+        688.0,
+        449.0,
+        736.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        443.0,
+        85.0,
+        539.0,
+        91.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "Tutorials Policy About",
+      "bbox": [
+        352.0,
+        30.0,
+        576.0,
+        53.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        78.54,
+        26.12,
+        206.44,
+        57.33
+      ],
+      "confidence": 0.9449,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "RUKSMUSEUM DATA SERVICES",
+      "bbox": [
+        86.0,
+        677.0,
+        1501.0,
+        751.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        1254.0,
+        15.0,
+        1458.0,
+        68.0
+      ],
+      "confidence": 0.975,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "Docs",
+      "bbox": [
+        281.0,
+        35.0,
+        315.0,
+        47.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        337.69,
+        21.4,
+        428.58,
+        62.88
+      ],
+      "confidence": 0.9357,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        616.0,
+        100.0,
+        686.0,
+        220.0
+      ],
+      "confidence": 0.9607,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        265.78,
+        20.91,
+        330.22,
+        62.41
+      ],
+      "confidence": 0.9203,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        521.0,
+        24.0,
+        586.0,
+        59.0
+      ],
+      "confidence": 0.9556,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        441.0,
+        24.0,
+        506.0,
+        59.0
+      ],
+      "confidence": 0.9556,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "D36\nE36",
+      "bbox": [
+        889.0,
+        622.0,
+        934.0,
+        658.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "Q Search",
+      "bbox": [
+        1267.0,
+        32.0,
+        1337.0,
+        49.0
+      ],
+      "confidence": 0.92,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        1383.0,
+        32.0,
+        1421.0,
+        50.0
+      ],
+      "confidence": 0.9123,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "A5038R",
+      "bbox": [
+        821.0,
+        633.0,
+        873.0,
+        652.0
+      ],
+      "confidence": 0.9,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        438.44,
+        21.94,
+        509.23,
+        62.45
+      ],
+      "confidence": 0.8745,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        353.53,
+        34.79,
+        415.81,
+        47.95
+      ],
+      "confidence": 0.8722,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "SYSAS",
+      "bbox": [
+        1470.0,
+        784.0,
+        1535.0,
+        809.0
+      ],
+      "confidence": 0.87,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        0.0,
+        84.36,
+        828.61,
+        825.43
+      ],
+      "confidence": 0.8608,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "ctrl K",
+      "bbox": [
+        1386.0,
+        34.0,
+        1441.0,
+        48.0
+      ],
+      "confidence": 0.82,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        452.65,
+        34.09,
+        495.31,
+        50.93
+      ],
+      "confidence": 0.7225,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        279.99,
+        35.32,
+        315.21,
+        48.41
+      ],
+      "confidence": 0.7212,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1292.52,
+        34.21,
+        1337.87,
+        46.79
+      ],
+      "confidence": 0.6067,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        559.15,
+        141.01,
+        587.73,
+        172.45
+      ],
+      "confidence": 0.5698,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        697.24,
+        139.48,
+        718.84,
+        167.62
+      ],
+      "confidence": 0.5282,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        349.14,
+        141.07,
+        390.22,
+        181.15
+      ],
+      "confidence": 0.5057,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1379.56,
+        30.82,
+        1420.88,
+        52.12
+      ],
+      "confidence": 0.4121,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        532.73,
+        34.6,
+        574.95,
+        48.02
+      ],
+      "confidence": 0.2585,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_29",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1268.62,
+        33.22,
+        1284.7,
+        50.28
+      ],
+      "confidence": 0.2149,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1424.36,
+        27.73,
+        1445.41,
+        54.23
+      ],
+      "confidence": 0.149,
+      "cluster_size": 1
+    }
+  ]
+}

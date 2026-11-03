@@ -1,0 +1,840 @@
+{
+  "image": "219_martinfowler_com.png",
+  "total_elements": 64,
+  "total_raw_nodes": 76,
+  "total_raw_edges": 34,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        955.0,
+        646.0,
+        1257.0,
+        653.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        958.0,
+        648.0,
+        1251.0,
+        651.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        625.0,
+        646.0,
+        927.0,
+        653.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        628.0,
+        648.0,
+        921.0,
+        651.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        294.0,
+        646.0,
+        596.0,
+        653.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        297.0,
+        648.0,
+        591.0,
+        651.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        955.0,
+        0.0,
+        1257.0,
+        3.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        625.0,
+        0.0,
+        927.0,
+        3.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        294.0,
+        0.0,
+        596.0,
+        3.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "AGILE",
+      "bbox": [
+        307.0,
+        508.0,
+        343.0,
+        517.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "ARTICLE",
+      "bbox": [
+        494.0,
+        421.0,
+        545.0,
+        431.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "21 Feb 2016",
+      "bbox": [
+        493.0,
+        441.0,
+        568.0,
+        450.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        625.21,
+        239.22,
+        920.2,
+        476.67
+      ],
+      "confidence": 0.9742,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "EXTREME PROGRAMMING COLLABORATION",
+      "bbox": [
+        640.0,
+        585.0,
+        913.0,
+        595.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "AGILE REQUIREMENTS ANALYSIS",
+      "bbox": [
+        968.0,
+        359.0,
+        1176.0,
+        370.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        295.12,
+        674.2,
+        475.37,
+        686.56
+      ],
+      "confidence": 0.932,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        626.69,
+        674.52,
+        859.95,
+        690.26
+      ],
+      "confidence": 0.9315,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "Product Owner",
+      "bbox": [
+        288.0,
+        816.0,
+        356.0,
+        824.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        955.32,
+        94.66,
+        1248.98,
+        250.1
+      ],
+      "confidence": 0.9821,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "It's Not Just Standing Up: Patterns\nfor Daily Standup Meetings",
+      "bbox": [
+        295.0,
+        25.0,
+        569.0,
+        69.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "Dany stand-up meetings have become a common\nritual of many teams, especially in Agile software\ndevelopment. However, there are many subtle\ndetails that distinguish effective stand-ups and a\nwaste of time.",
+      "bbox": [
+        294.0,
+        304.0,
+        588.0,
+        397.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "Read more...",
+      "bbox": [
+        295.0,
+        474.0,
+        376.0,
+        483.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "by Birgitta Böckeler and Nina ARTICLE\nSiessegger\n15 Jan 2020",
+      "bbox": [
+        626.0,
+        497.0,
+        896.0,
+        531.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        626.2,
+        550.56,
+        705.39,
+        560.9
+      ],
+      "confidence": 0.9406,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_24",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        956.88,
+        270.83,
+        1065.32,
+        284.25
+      ],
+      "confidence": 0.9455,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_25",
+      "source": "ocr",
+      "class_label": "Read more...",
+      "bbox": [
+        957.0,
+        326.0,
+        1037.0,
+        336.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "ocr",
+      "class_label": "write & decide",
+      "bbox": [
+        357.0,
+        731.0,
+        422.0,
+        740.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        956.17,
+        672.86,
+        1197.42,
+        690.3
+      ],
+      "confidence": 0.929,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_28",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        429.63,
+        799.75,
+        485.59,
+        807.96
+      ],
+      "confidence": 0.8264,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_29",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        956.4,
+        742.84,
+        1254.51,
+        818.89
+      ],
+      "confidence": 0.9552,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_30",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        265.07,
+        66.3,
+        609.34,
+        306.83
+      ],
+      "confidence": 0.9705,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "ocr",
+      "class_label": "On Pair Programming",
+      "bbox": [
+        627.0,
+        23.0,
+        802.0,
+        43.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        956.75,
+        25.37,
+        1042.91,
+        42.32
+      ],
+      "confidence": 0.9213,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_33",
+      "source": "ocr",
+      "class_label": "by Jason Yip",
+      "bbox": [
+        296.0,
+        420.0,
+        373.0,
+        433.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "ocr",
+      "class_label": "NEXT,",
+      "bbox": [
+        688.0,
+        136.0,
+        716.0,
+        162.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1154.97,
+        272.42,
+        1228.87,
+        304.15
+      ],
+      "confidence": 0.878,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_36",
+      "source": "ocr",
+      "class_label": "guide",
+      "bbox": [
+        507.0,
+        793.0,
+        530.0,
+        803.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        493.61,
+        419.46,
+        567.19,
+        448.98
+      ],
+      "confidence": 0.9497,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        658.0,
+        701.0,
+        669.0,
+        826.0
+      ],
+      "confidence": 0.947,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "ocr",
+      "class_label": "WHAT\nABOUT?",
+      "bbox": [
+        839.0,
+        134.0,
+        882.0,
+        163.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "ocr",
+      "class_label": "write",
+      "bbox": [
+        476.0,
+        703.0,
+        497.0,
+        710.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        556.26,
+        814.86,
+        596.97,
+        825.09
+      ],
+      "confidence": 0.795,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_42",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        825.28,
+        496.74,
+        895.53,
+        529.96
+      ],
+      "confidence": 0.9311,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        957.86,
+        356.16,
+        1176.45,
+        369.12
+      ],
+      "confidence": 0.9155,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "ocr",
+      "class_label": "DRIVER NAVIGATOR",
+      "bbox": [
+        725.0,
+        189.0,
+        861.0,
+        216.0
+      ],
+      "confidence": 0.91,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        956.94,
+        324.2,
+        1036.82,
+        335.22
+      ],
+      "confidence": 0.9059,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        295.77,
+        472.42,
+        373.92,
+        481.99
+      ],
+      "confidence": 0.8964,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        294.54,
+        419.16,
+        372.39,
+        431.78
+      ],
+      "confidence": 0.8933,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        296.62,
+        506.61,
+        343.54,
+        518.06
+      ],
+      "confidence": 0.8904,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "ocr",
+      "class_label": "then();",
+      "bbox": [
+        661.0,
+        85.0,
+        703.0,
+        98.0
+      ],
+      "confidence": 0.85,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        626.22,
+        24.78,
+        801.56,
+        41.75
+      ],
+      "confidence": 0.8378,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        955.25,
+        59.55,
+        974.4,
+        78.95
+      ],
+      "confidence": 0.788,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        285.82,
+        814.96,
+        355.3,
+        823.91
+      ],
+      "confidence": 0.7667,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_53",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        626.59,
+        583.85,
+        913.22,
+        593.69
+      ],
+      "confidence": 0.7446,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_54",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        624.04,
+        495.77,
+        812.45,
+        508.55
+      ],
+      "confidence": 0.7387,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_55",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        955.4,
+        709.45,
+        974.27,
+        728.56
+      ],
+      "confidence": 0.6976,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_56",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        624.86,
+        517.47,
+        692.81,
+        530.12
+      ],
+      "confidence": 0.4753,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_57",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1155.87,
+        291.24,
+        1229.4,
+        303.96
+      ],
+      "confidence": 0.3817,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_58",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        943.46,
+        0.0,
+        1260.11,
+        1.83
+      ],
+      "confidence": 0.2954,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_59",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        288.12,
+        0.0,
+        601.91,
+        1.49
+      ],
+      "confidence": 0.204,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_60",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        607.4,
+        0.0,
+        932.32,
+        2.03
+      ],
+      "confidence": 0.1955,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_61",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        670.51,
+        734.96,
+        686.1,
+        743.87
+      ],
+      "confidence": 0.1794,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_62",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1155.7,
+        272.54,
+        1187.02,
+        281.47
+      ],
+      "confidence": 0.1151,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_63",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        628.11,
+        299.1,
+        712.7,
+        310.02
+      ],
+      "confidence": 0.1015,
+      "cluster_size": 1
+    }
+  ]
+}

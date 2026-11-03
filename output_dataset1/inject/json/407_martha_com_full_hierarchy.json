@@ -1,0 +1,320 @@
+{
+  "image": "407_martha_com.png",
+  "total_elements": 24,
+  "total_raw_nodes": 27,
+  "total_raw_edges": 26,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        344.0,
+        757.0,
+        481.0,
+        760.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        264.0,
+        593.0,
+        301.0,
+        596.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        267.0,
+        494.0,
+        379.0,
+        497.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        532.0,
+        529.0,
+        537.0,
+        611.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        198.0,
+        478.0,
+        210.0,
+        645.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        483.57,
+        34.85,
+        706.09,
+        46.12
+      ],
+      "confidence": 0.9283,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "SHOP ON AMAZON",
+      "bbox": [
+        746.0,
+        34.0,
+        893.0,
+        48.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        934.57,
+        34.76,
+        1049.52,
+        46.36
+      ],
+      "confidence": 0.9544,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Find all the simply beautiful home essentials you need\nto elevate your living spaces in Martha's dedicated",
+      "bbox": [
+        998.0,
+        407.0,
+        1455.0,
+        450.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "brand store at Amazon.",
+      "bbox": [
+        998.0,
+        456.0,
+        1197.0,
+        469.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "Shop Martha at Amazon",
+      "bbox": [
+        1018.0,
+        506.0,
+        1182.0,
+        521.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        683.0,
+        923.0,
+        762.0
+      ],
+      "confidence": 0.9736,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        997.31,
+        492.54,
+        1204.73,
+        537.67
+      ],
+      "confidence": 0.8334,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1285.0,
+        221.0,
+        1288.0,
+        256.0
+      ],
+      "confidence": 0.9724,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "Discover Martha's\nCurated Essentials at\nAmazon",
+      "bbox": [
+        996.0,
+        219.0,
+        1422.0,
+        353.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        38.0,
+        374.0,
+        416.0,
+        464.0
+      ],
+      "confidence": 0.9677,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "Martha",
+      "bbox": [
+        767.0,
+        370.0,
+        792.0,
+        395.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        0.0,
+        72.85,
+        918.16,
+        783.69
+      ],
+      "confidence": 0.9599,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        66.0,
+        396.0,
+        153.0,
+        449.0
+      ],
+      "confidence": 0.9461,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        220.0,
+        487.0,
+        227.0,
+        565.0
+      ],
+      "confidence": 0.929,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        745.84,
+        34.4,
+        893.73,
+        46.22
+      ],
+      "confidence": 0.9166,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        922.16,
+        68.65,
+        1536.0,
+        823.97
+      ],
+      "confidence": 0.9101,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1152.0,
+        269.0,
+        1155.0,
+        301.0
+      ],
+      "confidence": 0.8884,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1018.7,
+        507.61,
+        1182.59,
+        521.81
+      ],
+      "confidence": 0.8321,
+      "cluster_size": 1
+    }
+  ]
+}

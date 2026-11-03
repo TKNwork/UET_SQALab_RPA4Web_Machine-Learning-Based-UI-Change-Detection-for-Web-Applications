@@ -1,0 +1,177 @@
+{
+  "image": "126_jsonplaceholder_typicode_com.png",
+  "total_elements": 13,
+  "total_raw_nodes": 16,
+  "total_raw_edges": 8,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        319.91,
+        40.96,
+        478.55,
+        75.49
+      ],
+      "confidence": 0.9613,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_1",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        318.31,
+        769.06,
+        492.68,
+        785.64
+      ],
+      "confidence": 0.9328,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "TOWER",
+      "bbox": [
+        583.0,
+        493.0,
+        902.0,
+        551.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        418.0,
+        466.0,
+        960.0,
+        569.0
+      ],
+      "confidence": 0.9884,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "JSONPlaceholder is supported by the following companies and Sponsors on GitHub, check them out ❤",
+      "bbox": [
+        318.0,
+        106.0,
+        1048.0,
+        121.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "Mockend",
+      "bbox": [
+        572.0,
+        200.0,
+        888.0,
+        250.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "and Monetize your API for Free",
+      "bbox": [
+        660.0,
+        376.0,
+        917.0,
+        393.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        419.95,
+        318.53,
+        960.89,
+        421.07
+      ],
+      "confidence": 0.9357,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        424.05,
+        185.17,
+        888.49,
+        261.87
+      ],
+      "confidence": 0.9448,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "Z zuplo Deploy, Secure, Document.",
+      "bbox": [
+        451.0,
+        335.0,
+        887.0,
+        393.0
+      ],
+      "confidence": 0.91,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "SerpApi",
+      "bbox": [
+        525.0,
+        630.0,
+        832.0,
+        711.0
+      ],
+      "confidence": 0.85,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        766.96,
+        106.17,
+        835.02,
+        121.54
+      ],
+      "confidence": 0.8252,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1033.74,
+        105.49,
+        1050.87,
+        120.16
+      ],
+      "confidence": 0.4566,
+      "cluster_size": 1
+    }
+  ]
+}

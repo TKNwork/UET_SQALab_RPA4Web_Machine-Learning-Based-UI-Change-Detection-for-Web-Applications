@@ -1,0 +1,658 @@
+{
+  "image": "278_usajobs_gov.png",
+  "total_elements": 50,
+  "total_raw_nodes": 61,
+  "total_raw_edges": 55,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        249.0,
+        585.0,
+        377.0,
+        593.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        563.0,
+        1536.0,
+        605.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        15.0,
+        176.0,
+        1521.0,
+        233.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        711.0,
+        179.0,
+        1402.0,
+        231.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        17.0,
+        179.0,
+        708.0,
+        231.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        67.0,
+        1536.0,
+        70.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        16.0,
+        619.0,
+        1520.0,
+        814.0
+      ],
+      "confidence": 0.9942,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "USAJOBS",
+      "bbox": [
+        20.0,
+        30.0,
+        168.0,
+        59.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Find your federal government job",
+      "bbox": [
+        18.0,
+        85.0,
+        651.0,
+        125.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        97.07,
+        287.79,
+        538.08,
+        325.24
+      ],
+      "confidence": 0.9757,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        139.89,
+        366.57,
+        404.02,
+        382.35
+      ],
+      "confidence": 0.9474,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "Upload your resumes and documents",
+      "bbox": [
+        140.0,
+        409.0,
+        406.0,
+        425.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        140.33,
+        453.96,
+        356.27,
+        470.12
+      ],
+      "confidence": 0.9344,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        138.07,
+        498.37,
+        424.52,
+        514.44
+      ],
+      "confidence": 0.9476,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "Create profile",
+      "bbox": [
+        116.0,
+        552.0,
+        219.0,
+        569.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "Where do you want to work?",
+      "bbox": [
+        741.0,
+        197.0,
+        947.0,
+        212.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "Discover federal jobs with the Career Explorer",
+      "bbox": [
+        290.0,
+        642.0,
+        774.0,
+        666.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        291.45,
+        692.52,
+        780.02,
+        709.36
+      ],
+      "confidence": 0.9353,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "Search tips",
+      "bbox": [
+        1439.0,
+        108.0,
+        1519.0,
+        123.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1427.13,
+        197.29,
+        1495.28,
+        214.01
+      ],
+      "confidence": 0.9663,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "An official website of the United States government",
+      "bbox": [
+        43.0,
+        4.0,
+        386.0,
+        19.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        253.42,
+        554.24,
+        318.53,
+        568.91
+      ],
+      "confidence": 0.9171,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_22",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1403.05,
+        178.11,
+        1519.4,
+        231.65
+      ],
+      "confidence": 0.9717,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_23",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        32.84,
+        196.68,
+        336.44,
+        213.99
+      ],
+      "confidence": 0.9401,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_24",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        288.24,
+        755.47,
+        454.24,
+        797.67
+      ],
+      "confidence": 0.8801,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_25",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        95.51,
+        538.66,
+        238.28,
+        580.29
+      ],
+      "confidence": 0.9603,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_26",
+      "source": "ocr",
+      "class_label": "Take the quiz →",
+      "bbox": [
+        309.0,
+        770.0,
+        431.0,
+        786.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "ocr",
+      "class_label": "→Sign in Events Help Center Q Search",
+      "bbox": [
+        1132.0,
+        36.0,
+        1509.0,
+        52.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        739.95,
+        197.23,
+        946.85,
+        214.28
+      ],
+      "confidence": 0.93,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        14.91,
+        178.73,
+        702.31,
+        232.13
+      ],
+      "confidence": 0.9163,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        695.75,
+        179.35,
+        1404.66,
+        232.3
+      ],
+      "confidence": 0.8868,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        640.44,
+        249.57,
+        1535.45,
+        602.76
+      ],
+      "confidence": 0.8808,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        140.59,
+        409.89,
+        404.0,
+        427.32
+      ],
+      "confidence": 0.8793,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        285.5,
+        644.62,
+        772.85,
+        664.94
+      ],
+      "confidence": 0.8693,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        20.29,
+        28.58,
+        169.42,
+        62.38
+      ],
+      "confidence": 0.8508,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        114.81,
+        553.57,
+        219.69,
+        570.5
+      ],
+      "confidence": 0.8443,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1434.62,
+        107.75,
+        1520.29,
+        125.13
+      ],
+      "confidence": 0.7865,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        98.84,
+        444.65,
+        129.32,
+        476.22
+      ],
+      "confidence": 0.7489,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1455.86,
+        36.03,
+        1507.48,
+        49.34
+      ],
+      "confidence": 0.7226,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        35.41,
+        5.43,
+        384.21,
+        20.51
+      ],
+      "confidence": 0.7024,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        100.12,
+        496.21,
+        128.4,
+        516.5
+      ],
+      "confidence": 0.6971,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        309.92,
+        770.13,
+        409.2,
+        787.21
+      ],
+      "confidence": 0.6696,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        99.22,
+        406.46,
+        128.74,
+        429.12
+      ],
+      "confidence": 0.6237,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        100.58,
+        359.8,
+        127.18,
+        386.61
+      ],
+      "confidence": 0.6195,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        24.8,
+        196.43,
+        42.8,
+        212.51
+      ],
+      "confidence": 0.3068,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1421.03,
+        107.59,
+        1438.93,
+        124.49
+      ],
+      "confidence": 0.3061,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        720.97,
+        196.56,
+        734.05,
+        212.46
+      ],
+      "confidence": 0.2448,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1308.37,
+        35.2,
+        1327.0,
+        51.22
+      ],
+      "confidence": 0.1878,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1435.47,
+        34.76,
+        1462.29,
+        49.81
+      ],
+      "confidence": 0.1273,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1131.56,
+        34.69,
+        1153.43,
+        51.53
+      ],
+      "confidence": 0.1003,
+      "cluster_size": 1
+    }
+  ]
+}

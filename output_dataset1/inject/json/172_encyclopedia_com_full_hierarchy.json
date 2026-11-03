@@ -1,0 +1,554 @@
+{
+  "image": "172_encyclopedia_com.png",
+  "total_elements": 42,
+  "total_raw_nodes": 46,
+  "total_raw_edges": 14,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        702.0,
+        1536.0,
+        705.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        585.0,
+        1536.0,
+        697.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        685.0,
+        427.0,
+        774.0,
+        431.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        278.0,
+        239.0,
+        564.0,
+        252.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        570.0,
+        238.0,
+        723.0,
+        242.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        127.0,
+        1536.0,
+        161.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        815.0,
+        155.0,
+        857.0,
+        158.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        583.0,
+        155.0,
+        651.0,
+        158.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1029.0,
+        154.0,
+        1094.0,
+        157.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        509.0,
+        154.0,
+        568.0,
+        157.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1098.0,
+        153.0,
+        1136.0,
+        156.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1178.0,
+        147.0,
+        1338.0,
+        155.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        128.0,
+        140.0,
+        492.0,
+        156.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        86.0,
+        1536.0,
+        151.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        222.65,
+        741.19,
+        395.92,
+        758.3
+      ],
+      "confidence": 0.9424,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "THE WORLD'S #1 ONLINE ENCYCLOPEDIA",
+      "bbox": [
+        401.0,
+        170.0,
+        1136.0,
+        197.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "Search over 200 individual encyclopedias and reference books",
+      "bbox": [
+        517.0,
+        265.0,
+        1019.0,
+        283.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "OXFORD",
+      "bbox": [
+        525.0,
+        366.0,
+        647.0,
+        389.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "UNIVERSITY PRESS",
+      "bbox": [
+        527.0,
+        397.0,
+        649.0,
+        406.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "CENGAGE",
+      "bbox": [
+        910.0,
+        377.0,
+        1031.0,
+        397.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "What do you want to learn today?",
+      "bbox": [
+        579.0,
+        500.0,
+        790.0,
+        513.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "Search",
+      "bbox": [
+        943.0,
+        499.0,
+        989.0,
+        510.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        497.0,
+        470.0,
+        877.0,
+        541.0
+      ],
+      "confidence": 0.9825,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "ocr",
+      "class_label": "COLUMBIA\nUNIVERSITY\nPRESS",
+      "bbox": [
+        739.0,
+        358.0,
+        853.0,
+        409.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        574.41,
+        641.24,
+        962.99,
+        657.6
+      ],
+      "confidence": 0.8974,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_25",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        894.0,
+        471.0,
+        1040.0,
+        540.0
+      ],
+      "confidence": 0.978,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "ocr",
+      "class_label": "HPA",
+      "bbox": [
+        1033.0,
+        817.0,
+        1067.0,
+        825.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        351.0,
+        299.0,
+        880.0,
+        345.0
+      ],
+      "confidence": 0.9583,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "ocr",
+      "class_label": "from the worlds most trusted publishers.com",
+      "bbox": [
+        607.0,
+        297.0,
+        958.0,
+        316.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        211.42,
+        33.84,
+        448.9,
+        56.85
+      ],
+      "confidence": 0.8949,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_30",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1248.77,
+        38.16,
+        1318.32,
+        47.97
+      ],
+      "confidence": 0.8577,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_31",
+      "source": "ocr",
+      "class_label": "British and Irish History: Biographies",
+      "bbox": [
+        242.0,
+        814.0,
+        596.0,
+        825.0
+      ],
+      "confidence": 0.9,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        777.0,
+        776.0,
+        1314.0,
+        826.0
+      ],
+      "confidence": 0.895,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        222.0,
+        776.0,
+        759.0,
+        826.0
+      ],
+      "confidence": 0.895,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "ocr",
+      "class_label": "Biochemistry",
+      "bbox": [
+        796.0,
+        814.0,
+        922.0,
+        825.0
+      ],
+      "confidence": 0.89,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        242.55,
+        812.93,
+        593.99,
+        826.0
+      ],
+      "confidence": 0.8677,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        781.08,
+        800.63,
+        937.45,
+        826.0
+      ],
+      "confidence": 0.8418,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        796.35,
+        812.51,
+        923.81,
+        826.0
+      ],
+      "confidence": 0.7633,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        910.43,
+        372.82,
+        1032.73,
+        402.67
+      ],
+      "confidence": 0.6941,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        863.16,
+        366.76,
+        903.91,
+        404.48
+      ],
+      "confidence": 0.5648,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1115.36,
+        812.4,
+        1141.5,
+        826.0
+      ],
+      "confidence": 0.1308,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        967.44,
+        818.09,
+        1016.86,
+        826.0
+      ],
+      "confidence": 0.112,
+      "cluster_size": 1
+    }
+  ]
+}

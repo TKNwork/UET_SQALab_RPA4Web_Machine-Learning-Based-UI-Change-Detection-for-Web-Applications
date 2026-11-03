@@ -1,0 +1,437 @@
+{
+  "image": "306_librivox_org.png",
+  "total_elements": 33,
+  "total_raw_nodes": 42,
+  "total_raw_edges": 73,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        981.0,
+        371.0,
+        1048.0,
+        376.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        478.0,
+        371.0,
+        546.0,
+        376.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        376.0,
+        264.0,
+        1150.0,
+        668.0
+      ],
+      "confidence": 0.9962,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        763.64,
+        427.53,
+        1145.65,
+        664.71
+      ],
+      "confidence": 0.9659,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        378.33,
+        427.32,
+        762.06,
+        664.93
+      ],
+      "confidence": 0.9322,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        380.0,
+        268.0,
+        1146.0,
+        426.0
+      ],
+      "confidence": 0.9924,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "LibriVox",
+      "bbox": [
+        286.0,
+        74.0,
+        464.0,
+        106.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "free public domain audiobooks",
+      "bbox": [
+        286.0,
+        118.0,
+        493.0,
+        132.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Advanced search",
+      "bbox": [
+        962.0,
+        135.0,
+        1049.0,
+        144.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "Free public domain audiobooks",
+      "bbox": [
+        479.0,
+        309.0,
+        1046.0,
+        344.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "Read by volunteers from around the world.",
+      "bbox": [
+        559.0,
+        366.0,
+        966.0,
+        383.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        536.94,
+        470.31,
+        602.6,
+        491.07
+      ],
+      "confidence": 0.9453,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_12",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        417.09,
+        506.59,
+        706.17,
+        564.61
+      ],
+      "confidence": 0.9514,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        914.47,
+        471.04,
+        995.6,
+        491.75
+      ],
+      "confidence": 0.9569,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_14",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        287.53,
+        790.62,
+        465.02,
+        802.64
+      ],
+      "confidence": 0.8499,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_15",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        921.07,
+        599.87,
+        988.42,
+        609.88
+      ],
+      "confidence": 0.8134,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        968.02,
+        101.84,
+        1176.19,
+        115.57
+      ],
+      "confidence": 0.8254,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "LibriVox audiobooks are free for anyone to\nlisten to, on their computers, iPods or other\nmobile device, or to burn onto a CD.",
+      "bbox": [
+        802.0,
+        506.0,
+        1090.0,
+        563.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        526.34,
+        599.88,
+        613.67,
+        609.8
+      ],
+      "confidence": 0.8505,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_19",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        494.0,
+        586.0,
+        647.0,
+        625.0
+      ],
+      "confidence": 0.9661,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        878.0,
+        586.0,
+        1032.0,
+        625.0
+      ],
+      "confidence": 0.9642,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        476.91,
+        311.61,
+        1051.93,
+        348.45
+      ],
+      "confidence": 0.9518,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "About Contact | Forum | Help",
+      "bbox": [
+        953.0,
+        10.0,
+        1172.0,
+        26.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        287.68,
+        72.03,
+        494.53,
+        133.24
+      ],
+      "confidence": 0.9133,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        345.69,
+        238.28,
+        1084.86,
+        684.55
+      ],
+      "confidence": 0.9009,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        554.31,
+        364.76,
+        970.25,
+        385.73
+      ],
+      "confidence": 0.9,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1011.71,
+        12.05,
+        1061.97,
+        24.71
+      ],
+      "confidence": 0.6346,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1081.68,
+        12.51,
+        1121.44,
+        24.15
+      ],
+      "confidence": 0.5495,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        953.5,
+        11.9,
+        992.03,
+        24.52
+      ],
+      "confidence": 0.485,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1141.71,
+        12.03,
+        1171.63,
+        26.51
+      ],
+      "confidence": 0.4618,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1226.05,
+        11.45,
+        1248.66,
+        27.3
+      ],
+      "confidence": 0.4328,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1192.16,
+        12.28,
+        1212.82,
+        26.54
+      ],
+      "confidence": 0.2948,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1216.68,
+        95.78,
+        1237.96,
+        116.31
+      ],
+      "confidence": 0.2759,
+      "cluster_size": 1
+    }
+  ]
+}

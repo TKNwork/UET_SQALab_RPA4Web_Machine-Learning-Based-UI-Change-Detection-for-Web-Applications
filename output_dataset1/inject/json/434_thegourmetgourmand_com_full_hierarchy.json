@@ -1,0 +1,463 @@
+{
+  "image": "434_thegourmetgourmand_com.png",
+  "total_elements": 35,
+  "total_raw_nodes": 40,
+  "total_raw_edges": 16,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        715.0,
+        1536.0,
+        826.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        473.0,
+        717.0,
+        1059.0,
+        727.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        227.0,
+        207.0,
+        1309.0,
+        212.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        227.0,
+        154.0,
+        1309.0,
+        159.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "THE GOURMET GOURMAND",
+      "bbox": [
+        361.0,
+        48.0,
+        1169.0,
+        88.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "HOME",
+      "bbox": [
+        530.0,
+        179.0,
+        573.0,
+        187.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        626.01,
+        178.92,
+        675.72,
+        187.13
+      ],
+      "confidence": 0.8038,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        729.93,
+        178.78,
+        768.25,
+        187.03
+      ],
+      "confidence": 0.8042,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        821.07,
+        178.65,
+        890.99,
+        187.22
+      ],
+      "confidence": 0.8206,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "RECIPES",
+      "bbox": [
+        945.0,
+        179.0,
+        1004.0,
+        187.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "Diego, California. Click on my photo to learn more!",
+      "bbox": [
+        628.0,
+        387.0,
+        943.0,
+        401.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "beautifully presented",
+      "bbox": [
+        277.0,
+        775.0,
+        403.0,
+        787.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1018.08,
+        767.75,
+        1109.73,
+        777.71
+      ],
+      "confidence": 0.9166,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "ammoth",
+      "bbox": [
+        1133.0,
+        781.0,
+        1179.0,
+        792.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "So nice to meet you. My name is Sarah, and I cook and create out of my home kitchen in San",
+      "bbox": [
+        362.0,
+        363.0,
+        942.0,
+        377.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "food is forbidden, vari",
+      "bbox": [
+        273.0,
+        795.0,
+        402.0,
+        811.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "BECOME A MEMBER",
+      "bbox": [
+        426.0,
+        794.0,
+        525.0,
+        803.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "Earning site & social revenue\nTraffic growth",
+      "bbox": [
+        784.0,
+        739.0,
+        993.0,
+        780.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "e Blend",
+      "bbox": [
+        1133.0,
+        750.0,
+        1176.0,
+        762.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "Speaking on our stages",
+      "bbox": [
+        784.0,
+        793.0,
+        955.0,
+        806.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "In which Sarah Cooks, Eats, and Photographs",
+      "bbox": [
+        649.0,
+        106.0,
+        885.0,
+        118.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "PARTNER NETWORK",
+      "bbox": [
+        422.0,
+        773.0,
+        529.0,
+        781.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1008.29,
+        753.67,
+        1119.14,
+        791.7
+      ],
+      "confidence": 0.9234,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_23",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        422.0,
+        789.0,
+        528.0,
+        808.0
+      ],
+      "confidence": 0.9384,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "ocr",
+      "class_label": "DECENT POSTS",
+      "bbox": [
+        1052.0,
+        716.0,
+        1165.0,
+        731.0
+      ],
+      "confidence": 0.93,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "ocr",
+      "class_label": "ABOUT THE BLOG.",
+      "bbox": [
+        358.0,
+        716.0,
+        496.0,
+        731.0
+      ],
+      "confidence": 0.92,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        996.82,
+        255.78,
+        1214.74,
+        477.35
+      ],
+      "confidence": 0.8649,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "ocr",
+      "class_label": "The Gourmet Gourm SHE",
+      "bbox": [
+        277.0,
+        740.0,
+        518.0,
+        770.0
+      ],
+      "confidence": 0.85,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "ocr",
+      "class_label": "wonderful.",
+      "bbox": [
+        507.0,
+        820.0,
+        572.0,
+        825.0
+      ],
+      "confidence": 0.85,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1495.07,
+        726.23,
+        1528.82,
+        759.1
+      ],
+      "confidence": 0.7234,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        944.25,
+        177.93,
+        1005.02,
+        187.93
+      ],
+      "confidence": 0.7044,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        529.45,
+        178.16,
+        573.95,
+        187.89
+      ],
+      "confidence": 0.6907,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        760.4,
+        790.22,
+        779.36,
+        808.98
+      ],
+      "confidence": 0.2461,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        761.33,
+        759.94,
+        777.91,
+        782.86
+      ],
+      "confidence": 0.1734,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        764.81,
+        733.9,
+        777.2,
+        755.28
+      ],
+      "confidence": 0.1196,
+      "cluster_size": 1
+    }
+  ]
+}

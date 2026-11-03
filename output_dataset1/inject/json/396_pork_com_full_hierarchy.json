@@ -1,0 +1,320 @@
+{
+  "image": "396_pork_com.png",
+  "total_elements": 24,
+  "total_raw_nodes": 27,
+  "total_raw_edges": 30,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        909.0,
+        220.0,
+        996.0,
+        226.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        46.0,
+        1536.0,
+        49.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        123.0,
+        35.0,
+        415.0,
+        40.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "bork.com",
+      "bbox": [
+        663.0,
+        93.0,
+        860.0,
+        122.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "pork",
+      "bbox": [
+        468.0,
+        168.0,
+        525.0,
+        188.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "This website uses cookies to make it function. By continuing to use this website, you agree to the use of cookies in accordance with our Cookie Policy. Digimedia may collect information\nthat is considered personal information under various state privacy laws. Digimedia does not sell user's personal information. To learn what categories of personal information we collect\nor exercise any available rights, please see our Privacy Policy.",
+      "bbox": [
+        20.0,
+        690.0,
+        1499.0,
+        753.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "MORE INFO",
+      "bbox": [
+        42.0,
+        786.0,
+        112.0,
+        799.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        149.09,
+        771.41,
+        279.88,
+        815.92
+      ],
+      "confidence": 0.8171,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        169.56,
+        786.57,
+        258.65,
+        799.97
+      ],
+      "confidence": 0.8115,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        20.05,
+        771.34,
+        135.58,
+        815.81
+      ],
+      "confidence": 0.938,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        0.0,
+        666.86,
+        1051.74,
+        826.0
+      ],
+      "confidence": 0.9629,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "1. (noun) Meat from a pig.",
+      "bbox": [
+        495.0,
+        213.0,
+        701.0,
+        235.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "Privacy Policy - Terms & Conditions - Copyright © 2026 Digimedia.com, L.P.",
+      "bbox": [
+        471.0,
+        374.0,
+        1066.0,
+        389.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1095.91,
+        688.54,
+        1202.51,
+        706.22
+      ],
+      "confidence": 0.9094,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        12.68,
+        688.47,
+        892.14,
+        755.43
+      ],
+      "confidence": 0.8943,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        583.29,
+        688.12,
+        1505.77,
+        730.7
+      ],
+      "confidence": 0.878,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        867.58,
+        145.92,
+        1067.84,
+        344.11
+      ],
+      "confidence": 0.86,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        432.57,
+        19.19,
+        496.55,
+        33.09
+      ],
+      "confidence": 0.7741,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        395.79,
+        735.35,
+        505.12,
+        754.46
+      ],
+      "confidence": 0.7287,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        43.03,
+        787.23,
+        115.5,
+        797.39
+      ],
+      "confidence": 0.6985,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        664.4,
+        93.5,
+        873.48,
+        126.68
+      ],
+      "confidence": 0.646,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        467.91,
+        167.07,
+        526.02,
+        192.01
+      ],
+      "confidence": 0.5255,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        39.9,
+        16.65,
+        62.73,
+        35.81
+      ],
+      "confidence": 0.2142,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        189.7,
+        16.37,
+        208.92,
+        33.43
+      ],
+      "confidence": 0.1184,
+      "cluster_size": 1
+    }
+  ]
+}

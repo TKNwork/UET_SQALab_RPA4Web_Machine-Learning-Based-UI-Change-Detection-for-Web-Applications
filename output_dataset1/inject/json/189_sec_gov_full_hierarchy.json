@@ -1,0 +1,632 @@
+{
+  "image": "189_sec_gov.png",
+  "total_elements": 48,
+  "total_raw_nodes": 60,
+  "total_raw_edges": 56,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        104.82,
+        424.42,
+        203.01,
+        441.56
+      ],
+      "confidence": 0.9677,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_1",
+      "source": "ocr",
+      "class_label": "Get Crypto Task Force alerts sent straight",
+      "bbox": [
+        631.0,
+        9.0,
+        1164.0,
+        30.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        826.35,
+        90.94,
+        968.55,
+        104.46
+      ],
+      "confidence": 0.8657,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_3",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        104.48,
+        482.26,
+        216.52,
+        494.79
+      ],
+      "confidence": 0.9506,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "Budget & Performance",
+      "bbox": [
+        105.0,
+        514.0,
+        275.0,
+        528.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        104.34,
+        548.94,
+        163.97,
+        561.36
+      ],
+      "confidence": 0.9099,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        663.07,
+        482.77,
+        733.67,
+        495.07
+      ],
+      "confidence": 0.8112,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Commission Votes",
+      "bbox": [
+        104.0,
+        582.0,
+        241.0,
+        595.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Contact",
+      "bbox": [
+        104.0,
+        617.0,
+        164.0,
+        629.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "SUBSCRIBE",
+      "bbox": [
+        854.0,
+        195.0,
+        941.0,
+        205.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1089.97,
+        482.74,
+        1379.35,
+        531.24
+      ],
+      "confidence": 0.9733,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1090.32,
+        548.71,
+        1232.02,
+        562.15
+      ],
+      "confidence": 0.9077,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "to your inbox.",
+      "bbox": [
+        808.0,
+        30.0,
+        985.0,
+        54.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        354.75,
+        483.29,
+        459.34,
+        498.12
+      ],
+      "confidence": 0.9296,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_14",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        353.1,
+        512.73,
+        538.56,
+        528.65
+      ],
+      "confidence": 0.9438,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_15",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        354.54,
+        581.41,
+        391.89,
+        594.25
+      ],
+      "confidence": 0.9105,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "Ombuds",
+      "bbox": [
+        355.0,
+        684.0,
+        417.0,
+        697.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "Investor.gov\nRelated Sites\nUSA.gov",
+      "bbox": [
+        662.0,
+        513.0,
+        762.0,
+        597.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "Site Information\nPlain Writing",
+      "bbox": [
+        848.0,
+        483.0,
+        972.0,
+        528.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "Privacy & Security",
+      "bbox": [
+        849.0,
+        547.0,
+        984.0,
+        563.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "Site Map",
+      "bbox": [
+        849.0,
+        582.0,
+        915.0,
+        597.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "SIGN UP",
+      "bbox": [
+        1111.0,
+        666.0,
+        1174.0,
+        677.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "Artificial Intelligence",
+      "bbox": [
+        354.0,
+        546.0,
+        510.0,
+        563.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "ocr",
+      "class_label": "Contracts",
+      "bbox": [
+        105.0,
+        650.0,
+        178.0,
+        662.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "ocr",
+      "class_label": "SEC Excess Personal Property\nGuidance +",
+      "bbox": [
+        355.0,
+        718.0,
+        582.0,
+        754.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        449.3,
+        0.0,
+        1352.48,
+        264.81
+      ],
+      "confidence": 0.9687,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1090.53,
+        650.33,
+        1194.37,
+        692.09
+      ],
+      "confidence": 0.9623,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_27",
+      "source": "ocr",
+      "class_label": "Inspector General",
+      "bbox": [
+        354.0,
+        614.0,
+        487.0,
+        631.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "ocr",
+      "class_label": "No FEAR Act Data",
+      "bbox": [
+        355.0,
+        650.0,
+        490.0,
+        662.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        833.63,
+        179.03,
+        962.4,
+        221.13
+      ],
+      "confidence": 0.937,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_30",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        354.68,
+        615.82,
+        487.76,
+        632.55
+      ],
+      "confidence": 0.9477,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "ocr",
+      "class_label": "U.S. Securities and",
+      "bbox": [
+        186.0,
+        814.0,
+        346.0,
+        825.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        354.14,
+        650.04,
+        490.4,
+        665.58
+      ],
+      "confidence": 0.9305,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1091.68,
+        575.01,
+        1431.03,
+        615.14
+      ],
+      "confidence": 0.9276,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        103.91,
+        513.54,
+        273.06,
+        529.79
+      ],
+      "confidence": 0.9223,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        354.0,
+        716.0,
+        581.0,
+        737.0
+      ],
+      "confidence": 0.9008,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        354.49,
+        683.63,
+        417.41,
+        699.68
+      ],
+      "confidence": 0.8942,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        723.83,
+        120.04,
+        1073.93,
+        159.61
+      ],
+      "confidence": 0.8936,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1110.64,
+        664.01,
+        1174.16,
+        676.34
+      ],
+      "confidence": 0.8877,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1.45,
+        362.62,
+        332.56,
+        825.0
+      ],
+      "confidence": 0.8646,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        354.2,
+        547.35,
+        510.71,
+        565.16
+      ],
+      "confidence": 0.8427,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        354.3,
+        716.58,
+        580.76,
+        733.15
+      ],
+      "confidence": 0.7954,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        853.56,
+        193.5,
+        942.17,
+        204.86
+      ],
+      "confidence": 0.752,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        353.96,
+        740.52,
+        435.99,
+        757.59
+      ],
+      "confidence": 0.7171,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        105.25,
+        649.69,
+        178.37,
+        665.69
+      ],
+      "confidence": 0.7097,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        105.07,
+        580.97,
+        240.45,
+        596.3
+      ],
+      "confidence": 0.6024,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        105.11,
+        797.11,
+        173.9,
+        825.59
+      ],
+      "confidence": 0.5333,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        104.35,
+        617.01,
+        165.15,
+        632.76
+      ],
+      "confidence": 0.2153,
+      "cluster_size": 1
+    }
+  ]
+}

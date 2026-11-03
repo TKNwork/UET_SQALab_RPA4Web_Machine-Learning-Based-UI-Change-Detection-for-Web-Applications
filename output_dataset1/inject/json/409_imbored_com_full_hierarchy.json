@@ -1,0 +1,398 @@
+{
+  "image": "409_imbored_com.png",
+  "total_elements": 30,
+  "total_raw_nodes": 37,
+  "total_raw_edges": 32,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        196.0,
+        775.0,
+        830.0,
+        826.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        166.0,
+        363.0,
+        1370.0,
+        418.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        169.0,
+        365.0,
+        1367.0,
+        368.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        198.73,
+        23.63,
+        323.23,
+        39.65
+      ],
+      "confidence": 0.8963,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "All of your favorite games, fun things to do,",
+      "bbox": [
+        196.0,
+        290.0,
+        518.0,
+        306.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "and more!",
+      "bbox": [
+        198.0,
+        318.0,
+        274.0,
+        331.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "SPORTS",
+      "bbox": [
+        347.0,
+        386.0,
+        399.0,
+        398.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        432.18,
+        387.79,
+        491.65,
+        398.49
+      ],
+      "confidence": 0.9216,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "HEALTH",
+      "bbox": [
+        525.0,
+        386.0,
+        577.0,
+        400.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "STUMBLE",
+      "bbox": [
+        351.0,
+        501.0,
+        444.0,
+        527.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "GUYS",
+      "bbox": [
+        348.0,
+        523.0,
+        441.0,
+        559.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        166.0,
+        425.0,
+        1370.0,
+        577.0
+      ],
+      "confidence": 0.985,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        213.3,
+        387.91,
+        262.07,
+        398.97
+      ],
+      "confidence": 0.8778,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "gs to do when you're bored at home",
+      "bbox": [
+        839.0,
+        778.0,
+        964.0,
+        787.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        198.33,
+        232.96,
+        449.41,
+        264.58
+      ],
+      "confidence": 0.9563,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_15",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        626.93,
+        434.98,
+        760.0,
+        567.73
+      ],
+      "confidence": 0.9526,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_16",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        182.25,
+        434.92,
+        314.99,
+        567.72
+      ],
+      "confidence": 0.9609,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_17",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        775.76,
+        434.51,
+        909.07,
+        567.22
+      ],
+      "confidence": 0.9397,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_18",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        207.36,
+        88.99,
+        317.79,
+        190.44
+      ],
+      "confidence": 0.9416,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        331.1,
+        435.04,
+        462.62,
+        567.47
+      ],
+      "confidence": 0.9366,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        925.61,
+        436.36,
+        1056.11,
+        566.57
+      ],
+      "confidence": 0.9253,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1073.71,
+        436.24,
+        1205.05,
+        566.91
+      ],
+      "confidence": 0.925,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "$997,213,719/s",
+      "bbox": [
+        779.0,
+        440.0,
+        906.0,
+        455.0
+      ],
+      "confidence": 0.91,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        168.24,
+        54.07,
+        1361.07,
+        371.83
+      ],
+      "confidence": 0.9059,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        479.3,
+        436.13,
+        610.85,
+        566.93
+      ],
+      "confidence": 0.8918,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        525.08,
+        387.91,
+        579.17,
+        398.69
+      ],
+      "confidence": 0.8767,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "ocr",
+      "class_label": "C",
+      "bbox": [
+        631.0,
+        436.0,
+        760.0,
+        568.0
+      ],
+      "confidence": 0.86,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        346.77,
+        387.98,
+        400.31,
+        398.71
+      ],
+      "confidence": 0.8264,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        269.98,
+        388.95,
+        281.99,
+        396.2
+      ],
+      "confidence": 0.2212,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1336.19,
+        429.34,
+        1363.39,
+        442.39
+      ],
+      "confidence": 0.1392,
+      "cluster_size": 1
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "image": "286_help_usajobs_gov.png",
+  "total_elements": 35,
+  "total_raw_nodes": 38,
+  "total_raw_edges": 17,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        30.0,
+        802.0,
+        1505.0,
+        826.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        687.0,
+        1536.0,
+        690.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        576.0,
+        116.0,
+        628.0,
+        120.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1270.0,
+        70.0,
+        1401.0,
+        77.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1273.0,
+        72.0,
+        1399.0,
+        75.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        33.04,
+        37.15,
+        188.99,
+        72.58
+      ],
+      "confidence": 0.916,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        32.8,
+        512.01,
+        165.29,
+        535.83
+      ],
+      "confidence": 0.9246,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "New to federal jobs",
+      "bbox": [
+        1014.0,
+        90.0,
+        1150.0,
+        104.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Help Center",
+      "bbox": [
+        1307.0,
+        42.0,
+        1385.0,
+        55.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "Make an impact and learn what it's like to work for the federal government.",
+      "bbox": [
+        534.0,
+        509.0,
+        1303.0,
+        530.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "The federal government offers paid and unpaid internships, scholarships and other\nopportunities for current students in high school, college, trade school, graduate school or\nother qualifying educational institutions.",
+      "bbox": [
+        532.0,
+        566.0,
+        1459.0,
+        659.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "An official website of the United States government Here's how you know",
+      "bbox": [
+        55.0,
+        7.0,
+        450.0,
+        19.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "Working in Government Unique hiring paths Glossary",
+      "bbox": [
+        549.0,
+        90.0,
+        984.0,
+        105.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "Events",
+      "bbox": [
+        1212.0,
+        44.0,
+        1257.0,
+        54.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "Working in Government > Unique Hiring Paths > Students",
+      "bbox": [
+        31.0,
+        729.0,
+        450.0,
+        745.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        137.0,
+        418.0,
+        200.0,
+        489.0
+      ],
+      "confidence": 0.9509,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        116.4,
+        399.8,
+        222.25,
+        506.07
+      ],
+      "confidence": 0.9458,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1416.59,
+        43.03,
+        1479.72,
+        55.25
+      ],
+      "confidence": 0.9099,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_18",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1285.76,
+        40.88,
+        1385.72,
+        56.68
+      ],
+      "confidence": 0.9234,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "How to... FAQS",
+      "bbox": [
+        387.0,
+        88.0,
+        520.0,
+        104.0
+      ],
+      "confidence": 0.92,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        855.0,
+        114.0,
+        888.0,
+        117.0
+      ],
+      "confidence": 0.9167,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        750.93,
+        90.5,
+        888.43,
+        106.01
+      ],
+      "confidence": 0.9125,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1014.19,
+        90.25,
+        1150.75,
+        106.07
+      ],
+      "confidence": 0.9113,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        31.33,
+        729.31,
+        199.74,
+        747.05
+      ],
+      "confidence": 0.9008,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        920.96,
+        91.12,
+        982.08,
+        105.4
+      ],
+      "confidence": 0.8983,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        551.02,
+        90.35,
+        719.04,
+        106.14
+      ],
+      "confidence": 0.8951,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        223.32,
+        729.47,
+        364.0,
+        746.99
+      ],
+      "confidence": 0.895,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1193.04,
+        43.12,
+        1256.99,
+        55.39
+      ],
+      "confidence": 0.8772,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        484.95,
+        91.21,
+        518.55,
+        105.87
+      ],
+      "confidence": 0.8271,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        387.09,
+        91.34,
+        450.94,
+        102.68
+      ],
+      "confidence": 0.7801,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        335.16,
+        6.71,
+        449.71,
+        19.89
+      ],
+      "confidence": 0.5128,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        206.95,
+        731.5,
+        214.41,
+        744.27
+      ],
+      "confidence": 0.2071,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        454.29,
+        10.65,
+        463.64,
+        17.38
+      ],
+      "confidence": 0.1365,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        31.8,
+        6.22,
+        46.3,
+        18.51
+      ],
+      "confidence": 0.1252,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        385.03,
+        729.28,
+        451.64,
+        742.74
+      ],
+      "confidence": 0.1223,
+      "cluster_size": 1
+    }
+  ]
+}

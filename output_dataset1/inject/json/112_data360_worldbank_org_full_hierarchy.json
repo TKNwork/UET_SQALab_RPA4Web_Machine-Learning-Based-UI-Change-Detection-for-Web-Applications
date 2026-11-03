@@ -1,0 +1,879 @@
+{
+  "image": "112_data360_worldbank_org.png",
+  "total_elements": 67,
+  "total_raw_nodes": 76,
+  "total_raw_edges": 170,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        895.0,
+        776.0,
+        1347.0,
+        802.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        230.0,
+        767.0,
+        680.0,
+        793.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        116.25,
+        49.01,
+        431.08,
+        90.04
+      ],
+      "confidence": 0.9788,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "Agriculture and Food",
+      "bbox": [
+        182.0,
+        140.0,
+        425.0,
+        166.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        850.51,
+        143.95,
+        994.44,
+        166.99
+      ],
+      "confidence": 0.9696,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "Healthy Sustainable Diets",
+      "bbox": [
+        150.0,
+        288.0,
+        347.0,
+        305.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "Disclaimer",
+      "bbox": [
+        146.0,
+        748.0,
+        199.0,
+        756.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Disclaimer",
+      "bbox": [
+        813.0,
+        760.0,
+        866.0,
+        767.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1389.83,
+        788.4,
+        1514.63,
+        798.85
+      ],
+      "confidence": 0.8769,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        115.07,
+        110.63,
+        750.69,
+        804.4
+      ],
+      "confidence": 0.9841,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        784.32,
+        106.15,
+        1424.01,
+        815.31
+      ],
+      "confidence": 0.9829,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "16",
+      "bbox": [
+        695.0,
+        165.0,
+        714.0,
+        176.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "Datasets",
+      "bbox": [
+        1346.0,
+        143.0,
+        1395.0,
+        154.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "1",
+      "bbox": [
+        1367.0,
+        164.0,
+        1374.0,
+        176.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "Greenhouse gas (GHG) emissions (CO2eq) (AR5) generated\nfrom agrifood systems",
+      "bbox": [
+        139.0,
+        350.0,
+        713.0,
+        402.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        139.97,
+        409.56,
+        419.76,
+        426.02
+      ],
+      "confidence": 0.9486,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "Aggregation of Producers and their Cooperatives AgTech Solutions\nPhysical Infrastructure Upgrading Skills, Extension, and Research\nBuilding the Financial Ecosystem for Farmers Policy Reforms",
+      "bbox": [
+        815.0,
+        244.0,
+        1350.0,
+        344.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "Median Agricultural Household Cultivated Area\nMost recent values (2009 - 2024), Hectares",
+      "bbox": [
+        808.0,
+        388.0,
+        1277.0,
+        436.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "No data",
+      "bbox": [
+        143.0,
+        768.0,
+        186.0,
+        778.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        140.34,
+        812.15,
+        335.47,
+        825.05
+      ],
+      "confidence": 0.8504,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_20",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        139.28,
+        233.38,
+        359.88,
+        269.72
+      ],
+      "confidence": 0.9697,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "Datasets",
+      "bbox": [
+        680.0,
+        144.0,
+        729.0,
+        154.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "Climate Smart Agriculture Food and Nutrition Security",
+      "bbox": [
+        149.0,
+        244.0,
+        590.0,
+        260.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        649.06,
+        767.94,
+        675.41,
+        778.02
+      ],
+      "confidence": 0.8215,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_24",
+      "source": "ocr",
+      "class_label": "No data",
+      "bbox": [
+        810.0,
+        777.0,
+        852.0,
+        788.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "ocr",
+      "class_label": "0.30",
+      "bbox": [
+        873.0,
+        776.0,
+        896.0,
+        787.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        139.1,
+        354.16,
+        715.57,
+        398.16
+      ],
+      "confidence": 0.9542,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        816.35,
+        285.47,
+        992.49,
+        302.74
+      ],
+      "confidence": 0.9469,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1217.48,
+        243.76,
+        1349.24,
+        261.31
+      ],
+      "confidence": 0.9466,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        147.66,
+        243.98,
+        349.72,
+        261.0
+      ],
+      "confidence": 0.9411,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        528.15,
+        143.75,
+        584.03,
+        174.08
+      ],
+      "confidence": 0.8984,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_31",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1194.88,
+        143.83,
+        1251.55,
+        173.51
+      ],
+      "confidence": 0.8819,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_32",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        149.71,
+        289.46,
+        349.05,
+        306.8
+      ],
+      "confidence": 0.9366,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        0.14,
+        0.0,
+        864.93,
+        826.0
+      ],
+      "confidence": 0.9345,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        375.97,
+        243.98,
+        589.3,
+        261.08
+      ],
+      "confidence": 0.9279,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "ocr",
+      "class_label": "1.1m",
+      "bbox": [
+        433.0,
+        769.0,
+        460.0,
+        779.0
+      ],
+      "confidence": 0.92,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        139.98,
+        471.57,
+        718.97,
+        786.95
+      ],
+      "confidence": 0.9163,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        806.89,
+        233.21,
+        1207.27,
+        269.56
+      ],
+      "confidence": 0.9138,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1189.65,
+        326.08,
+        1302.22,
+        343.82
+      ],
+      "confidence": 0.9081,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1345.39,
+        143.35,
+        1395.93,
+        176.01
+      ],
+      "confidence": 0.9046,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        806.39,
+        477.53,
+        1388.19,
+        788.16
+      ],
+      "confidence": 0.9029,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        806.0,
+        233.0,
+        1203.0,
+        270.0
+      ],
+      "confidence": 0.8941,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "ocr",
+      "class_label": "2.15",
+      "bbox": [
+        1111.0,
+        778.0,
+        1133.0,
+        786.0
+      ],
+      "confidence": 0.89,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        184.51,
+        143.75,
+        426.02,
+        168.15
+      ],
+      "confidence": 0.8814,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1366.07,
+        774.49,
+        1535.91,
+        811.03
+      ],
+      "confidence": 0.8774,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        359.94,
+        233.86,
+        598.26,
+        270.5
+      ],
+      "confidence": 0.8646,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1177.58,
+        316.07,
+        1314.11,
+        351.56
+      ],
+      "confidence": 0.861,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        809.19,
+        243.67,
+        1187.66,
+        261.44
+      ],
+      "confidence": 0.8428,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        808.67,
+        419.53,
+        1132.56,
+        436.51
+      ],
+      "confidence": 0.8335,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1016.43,
+        284.89,
+        1343.48,
+        303.38
+      ],
+      "confidence": 0.8334,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        678.57,
+        143.62,
+        728.19,
+        174.66
+      ],
+      "confidence": 0.8302,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "ocr",
+      "class_label": "6.3",
+      "bbox": [
+        206.0,
+        769.0,
+        223.0,
+        777.0
+      ],
+      "confidence": 0.83,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        816.03,
+        326.91,
+        1138.01,
+        344.01
+      ],
+      "confidence": 0.801,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_53",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1207.5,
+        234.6,
+        1361.63,
+        268.38
+      ],
+      "confidence": 0.7959,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_54",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        807.72,
+        141.13,
+        840.29,
+        168.37
+      ],
+      "confidence": 0.7908,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_55",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        141.19,
+        139.28,
+        173.26,
+        170.62
+      ],
+      "confidence": 0.7561,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_56",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        809.34,
+        387.13,
+        1279.56,
+        406.44
+      ],
+      "confidence": 0.643,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_57",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1351.34,
+        723.01,
+        1384.56,
+        752.12
+      ],
+      "confidence": 0.4148,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_58",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        142.14,
+        767.49,
+        186.5,
+        777.05
+      ],
+      "confidence": 0.3595,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_59",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1111.59,
+        777.29,
+        1136.48,
+        789.35
+      ],
+      "confidence": 0.3564,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_60",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        871.95,
+        777.95,
+        898.92,
+        786.84
+      ],
+      "confidence": 0.2133,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_61",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        962.39,
+        820.57,
+        1023.41,
+        826.0
+      ],
+      "confidence": 0.2062,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_62",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        808.83,
+        776.41,
+        855.73,
+        789.15
+      ],
+      "confidence": 0.1655,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_63",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1333.04,
+        776.67,
+        1344.35,
+        790.06
+      ],
+      "confidence": 0.1612,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_64",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        432.64,
+        767.48,
+        461.94,
+        781.79
+      ],
+      "confidence": 0.1536,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_65",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        688.56,
+        158.45,
+        718.89,
+        175.34
+      ],
+      "confidence": 0.1156,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_66",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1345.65,
+        144.35,
+        1396.09,
+        156.54
+      ],
+      "confidence": 0.1084,
+      "cluster_size": 1
+    }
+  ]
+}

@@ -1,0 +1,411 @@
+{
+  "image": "087_smashingmagazine_com.png",
+  "total_elements": 31,
+  "total_raw_nodes": 38,
+  "total_raw_edges": 37,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1116.91,
+        147.37,
+        1311.52,
+        167.14
+      ],
+      "confidence": 0.8074,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_1",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1062.06,
+        585.26,
+        1157.06,
+        603.0
+      ],
+      "confidence": 0.8998,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "Paradox: Why The Big",
+      "bbox": [
+        328.0,
+        12.0,
+        791.0,
+        53.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        112.85,
+        186.02,
+        853.35,
+        345.0
+      ],
+      "confidence": 0.9601,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        261.14,
+        522.64,
+        811.68,
+        597.09
+      ],
+      "confidence": 0.9723,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1057.39,
+        229.01,
+        1371.68,
+        326.26
+      ],
+      "confidence": 0.9719,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "With tools to help you get your work\ndone better. Subscribe and get Vitaly's\nSmart Interface Design Checklists\nPDF delivered straight into your inbox.",
+      "bbox": [
+        1047.0,
+        369.0,
+        1382.0,
+        495.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Dropdowns Inside Scrollable\nContainers: Why They Break And",
+      "bbox": [
+        264.0,
+        724.0,
+        787.0,
+        803.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1036.28,
+        563.3,
+        1257.87,
+        628.5
+      ],
+      "confidence": 0.9741,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "MAR 26, 2026 in UX, Design, User Research",
+      "bbox": [
+        327.0,
+        131.0,
+        680.0,
+        146.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "Ruben Ferreira Duarte / MAR 24, 2026 in Accessibility, Figma, Tools",
+      "bbox": [
+        264.0,
+        479.0,
+        817.0,
+        496.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1288.11,
+        586.97,
+        1359.6,
+        603.9
+      ],
+      "confidence": 0.9471,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "Godstime Aburu / MAR 20, 2026 in CSS, Tools, Techniques",
+      "bbox": [
+        263.0,
+        685.0,
+        739.0,
+        701.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1256.91,
+        563.95,
+        1389.44,
+        627.89
+      ],
+      "confidence": 0.9697,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1008.06,
+        7.91,
+        1420.9,
+        719.66
+      ],
+      "confidence": 0.9646,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "Box Always Wins",
+      "bbox": [
+        327.0,
+        68.0,
+        682.0,
+        107.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        115.35,
+        384.79,
+        303.63,
+        404.48
+      ],
+      "confidence": 0.9507,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "On front-end & UX. Trusted by 182,000+ folks.",
+      "bbox": [
+        1073.0,
+        662.0,
+        1353.0,
+        678.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1096.29,
+        131.77,
+        1331.4,
+        186.38
+      ],
+      "confidence": 0.9237,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        263.59,
+        478.36,
+        456.15,
+        495.06
+      ],
+      "confidence": 0.9182,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        263.58,
+        683.87,
+        402.78,
+        698.99
+      ],
+      "confidence": 0.9166,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        78.91,
+        470.89,
+        275.57,
+        614.77
+      ],
+      "confidence": 0.903,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1073.14,
+        660.9,
+        1192.45,
+        678.4
+      ],
+      "confidence": 0.8936,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1097.98,
+        0.0,
+        1326.5,
+        120.02
+      ],
+      "confidence": 0.8906,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        592.99,
+        478.27,
+        701.62,
+        496.55
+      ],
+      "confidence": 0.8851,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "ocr",
+      "class_label": "How To Fix Thom Properly",
+      "bbox": [
+        262.0,
+        812.0,
+        676.0,
+        825.0
+      ],
+      "confidence": 0.81,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1194.87,
+        660.83,
+        1353.87,
+        677.72
+      ],
+      "confidence": 0.6634,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        473.36,
+        130.27,
+        681.78,
+        146.22
+      ],
+      "confidence": 0.5574,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1205.45,
+        507.18,
+        1223.31,
+        527.19
+      ],
+      "confidence": 0.5556,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        542.7,
+        684.25,
+        582.93,
+        700.64
+      ],
+      "confidence": 0.2869,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        453.86,
+        130.68,
+        480.9,
+        145.33
+      ],
+      "confidence": 0.1156,
+      "cluster_size": 1
+    }
+  ]
+}

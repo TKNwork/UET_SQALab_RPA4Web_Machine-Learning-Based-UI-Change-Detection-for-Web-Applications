@@ -1,0 +1,333 @@
+{
+  "image": "054_stackoverflow_co.png",
+  "total_elements": 25,
+  "total_raw_nodes": 29,
+  "total_raw_edges": 13,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        967.0,
+        505.0,
+        1305.0,
+        510.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        599.0,
+        505.0,
+        937.0,
+        510.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        231.0,
+        505.0,
+        569.0,
+        510.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        248.09,
+        98.5,
+        389.42,
+        110.33
+      ],
+      "confidence": 0.9295,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "Bloomberg",
+      "bbox": [
+        231.0,
+        214.0,
+        356.0,
+        235.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "See how Intuit drove a six-fold increase\nin development velocity by focusing on\nknowledge reuse.",
+      "bbox": [
+        968.0,
+        262.0,
+        1304.0,
+        323.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        232.52,
+        33.36,
+        969.47,
+        66.95
+      ],
+      "confidence": 0.9586,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "See how Bloomberg's engineers built a\nculture of curiosity, openness and\nknowledge sharing.",
+      "bbox": [
+        231.0,
+        264.0,
+        568.0,
+        321.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Discover how Dropbox saved\nthousands of working hours by building\na simple, searchable system.",
+      "bbox": [
+        599.0,
+        259.0,
+        937.0,
+        323.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "Start building",
+      "bbox": [
+        255.0,
+        703.0,
+        536.0,
+        747.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "knowledge with Stack",
+      "bbox": [
+        256.0,
+        750.0,
+        724.0,
+        794.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "Read case study →",
+      "bbox": [
+        600.0,
+        522.0,
+        766.0,
+        541.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "Read case study →",
+      "bbox": [
+        968.0,
+        522.0,
+        1134.0,
+        542.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        967.27,
+        214.51,
+        1052.63,
+        230.02
+      ],
+      "confidence": 0.918,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "Read case study →",
+      "bbox": [
+        232.0,
+        521.0,
+        399.0,
+        541.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "Internal today.",
+      "bbox": [
+        251.0,
+        800.0,
+        553.0,
+        825.0
+      ],
+      "confidence": 0.93,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        231.87,
+        213.35,
+        355.76,
+        238.35
+      ],
+      "confidence": 0.9139,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        602.11,
+        214.47,
+        711.0,
+        235.05
+      ],
+      "confidence": 0.8089,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_18",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        232.47,
+        85.66,
+        404.88,
+        124.34
+      ],
+      "confidence": 0.832,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        232.91,
+        523.57,
+        380.25,
+        542.54
+      ],
+      "confidence": 0.7615,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        600.66,
+        523.82,
+        746.14,
+        542.26
+      ],
+      "confidence": 0.7419,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        969.44,
+        523.73,
+        1114.24,
+        542.01
+      ],
+      "confidence": 0.6545,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        239.77,
+        262.42,
+        559.98,
+        282.31
+      ],
+      "confidence": 0.5061,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        384.7,
+        527.55,
+        401.25,
+        541.89
+      ],
+      "confidence": 0.3545,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        600.1,
+        214.58,
+        624.35,
+        234.0
+      ],
+      "confidence": 0.2395,
+      "cluster_size": 1
+    }
+  ]
+}

@@ -1,0 +1,983 @@
+{
+  "image": "247_whatismybrowser_com.png",
+  "total_elements": 75,
+  "total_raw_nodes": 89,
+  "total_raw_edges": 118,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        615.0,
+        714.0,
+        842.0,
+        731.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        970.0,
+        557.0,
+        1241.0,
+        574.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        615.0,
+        557.0,
+        915.0,
+        574.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        970.0,
+        396.0,
+        1200.0,
+        413.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        260.0,
+        355.0,
+        513.0,
+        371.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        59.0,
+        1536.0,
+        62.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        51.0,
+        1536.0,
+        54.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        947.85,
+        268.5,
+        1296.53,
+        439.23
+      ],
+      "confidence": 0.9769,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        593.77,
+        269.33,
+        942.37,
+        439.47
+      ],
+      "confidence": 0.9787,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        239.29,
+        268.72,
+        586.55,
+        439.9
+      ],
+      "confidence": 0.9616,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        948.0,
+        448.0,
+        1297.0,
+        600.0
+      ],
+      "confidence": 0.9904,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        594.0,
+        448.0,
+        942.0,
+        600.0
+      ],
+      "confidence": 0.9904,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        240.5,
+        449.78,
+        586.89,
+        598.77
+      ],
+      "confidence": 0.9614,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "Frequently asked questions about updating your web browser",
+      "bbox": [
+        242.0,
+        138.0,
+        1142.0,
+        167.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "Updating your web browser might seem a bit confusing; here are some questions we've been asked about it. Hopefully these answers can make this a bit clearer for\nyou. If anything isn't covered, please send us a message and we'd be happy to explain a bit further.",
+      "bbox": [
+        240.0,
+        213.0,
+        1282.0,
+        249.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "How to update my browser\nClear instructions to update your web browser.\nLearn how to update your web browser",
+      "bbox": [
+        262.0,
+        285.0,
+        559.0,
+        369.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        989.33,
+        285.21,
+        1254.64,
+        318.64
+      ],
+      "confidence": 0.9664,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_17",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        970.3,
+        338.54,
+        1246.73,
+        374.84
+      ],
+      "confidence": 0.9618,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "What updating your browser means",
+      "bbox": [
+        970.0,
+        398.0,
+        1199.0,
+        411.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "Does my browser automatically update?\nDo you need to do anything, or is it automatic?\nWill it update by itself?",
+      "bbox": [
+        259.0,
+        464.0,
+        568.0,
+        549.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "Why should I update my browser?\nWondering why you even need to bother\nupdating?",
+      "bbox": [
+        615.0,
+        465.0,
+        900.0,
+        537.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        614.26,
+        559.0,
+        915.29,
+        571.85
+      ],
+      "confidence": 0.9611,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "Why does my browser seem out of date?\nAre we telling you to update, but you have the\nlatest version?",
+      "bbox": [
+        965.0,
+        466.0,
+        1280.0,
+        534.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        970.09,
+        557.96,
+        1240.87,
+        571.93
+      ],
+      "confidence": 0.9624,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_24",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        614.8,
+        624.9,
+        921.7,
+        658.79
+      ],
+      "confidence": 0.9632,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_25",
+      "source": "ocr",
+      "class_label": "What if I don't update my browser?",
+      "bbox": [
+        615.0,
+        714.0,
+        842.0,
+        728.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        949.79,
+        611.46,
+        1295.42,
+        754.53
+      ],
+      "confidence": 0.9631,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_27",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        595.83,
+        611.47,
+        939.15,
+        754.84
+      ],
+      "confidence": 0.9828,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_28",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        240.48,
+        611.37,
+        585.27,
+        754.26
+      ],
+      "confidence": 0.9721,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_29",
+      "source": "ocr",
+      "class_label": "My browser Guides Detect my settings Tools",
+      "bbox": [
+        363.0,
+        20.0,
+        743.0,
+        37.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        615.89,
+        355.41,
+        781.28,
+        366.78
+      ],
+      "confidence": 0.9505,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_31",
+      "source": "ocr",
+      "class_label": "Is it safe to update Chrome?\nAre there any risks with updating Chrome?\nRisks of updating Chrome",
+      "bbox": [
+        261.0,
+        626.0,
+        532.0,
+        709.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "ocr",
+      "class_label": "What's the worst that could happen?",
+      "bbox": [
+        615.0,
+        681.0,
+        850.0,
+        693.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "ocr",
+      "class_label": "Is it free to update Chrome?\nDoes it cost anything to update Chrome?\nThe cost of updating Chrome",
+      "bbox": [
+        971.0,
+        626.0,
+        1232.0,
+        709.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        664.66,
+        285.97,
+        871.77,
+        301.51
+      ],
+      "confidence": 0.9426,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_35",
+      "source": "ocr",
+      "class_label": "Is your browser out of date?",
+      "bbox": [
+        616.0,
+        318.0,
+        795.0,
+        333.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "ocr",
+      "class_label": "Updated at: Feb 5, 2026",
+      "bbox": [
+        240.0,
+        179.0,
+        379.0,
+        191.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        304.19,
+        625.32,
+        521.3,
+        641.74
+      ],
+      "confidence": 0.9455,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        60.78,
+        17.97,
+        299.84,
+        41.67
+      ],
+      "confidence": 0.945,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "ocr",
+      "class_label": "Homepage > Guides > How to update my browser > FAQs",
+      "bbox": [
+        241.0,
+        82.0,
+        667.0,
+        97.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1013.2,
+        625.61,
+        1230.28,
+        641.63
+      ],
+      "confidence": 0.936,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        415.58,
+        82.24,
+        608.44,
+        97.96
+      ],
+      "confidence": 0.9354,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        545.41,
+        20.77,
+        683.16,
+        38.56
+      ],
+      "confidence": 0.9353,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        615.22,
+        500.82,
+        878.64,
+        537.34
+      ],
+      "confidence": 0.9339,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        308.53,
+        285.98,
+        520.76,
+        302.27
+      ],
+      "confidence": 0.9336,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        240.25,
+        83.0,
+        321.75,
+        98.4
+      ],
+      "confidence": 0.9276,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        261.18,
+        354.56,
+        511.51,
+        369.96
+      ],
+      "confidence": 0.9252,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        258.43,
+        658.81,
+        531.72,
+        674.41
+      ],
+      "confidence": 0.9228,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        970.0,
+        694.0,
+        1158.0,
+        711.0
+      ],
+      "confidence": 0.9216,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        234.16,
+        137.41,
+        1159.89,
+        175.46
+      ],
+      "confidence": 0.9206,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        613.64,
+        679.41,
+        849.64,
+        694.0
+      ],
+      "confidence": 0.9172,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        256.28,
+        465.65,
+        567.58,
+        482.14
+      ],
+      "confidence": 0.9143,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        632.88,
+        465.89,
+        899.68,
+        482.05
+      ],
+      "confidence": 0.911,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_53",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        262.32,
+        695.34,
+        426.15,
+        708.56
+      ],
+      "confidence": 0.9106,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_54",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        970.17,
+        658.98,
+        1229.99,
+        674.89
+      ],
+      "confidence": 0.9104,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_55",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        617.27,
+        714.94,
+        840.28,
+        729.12
+      ],
+      "confidence": 0.9067,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_56",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        261.24,
+        534.67,
+        408.01,
+        549.25
+      ],
+      "confidence": 0.9032,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_57",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        363.53,
+        20.77,
+        451.53,
+        38.18
+      ],
+      "confidence": 0.8954,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_58",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        618.08,
+        320.4,
+        794.83,
+        334.47
+      ],
+      "confidence": 0.8936,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_59",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        967.31,
+        465.79,
+        1277.16,
+        481.74
+      ],
+      "confidence": 0.8902,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_60",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        968.08,
+        500.35,
+        1268.91,
+        532.84
+      ],
+      "confidence": 0.8827,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_61",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        705.41,
+        21.19,
+        744.31,
+        34.59
+      ],
+      "confidence": 0.8783,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_62",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        971.62,
+        695.2,
+        1157.63,
+        708.67
+      ],
+      "confidence": 0.8768,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_63",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        615.0,
+        354.0,
+        783.0,
+        370.0
+      ],
+      "confidence": 0.875,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_64",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        341.33,
+        82.42,
+        391.15,
+        95.76
+      ],
+      "confidence": 0.8627,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_65",
+      "source": "ocr",
+      "class_label": "③> WhatIsMyBrowser.com",
+      "bbox": [
+        20.0,
+        14.0,
+        302.0,
+        42.0
+      ],
+      "confidence": 0.86,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_66",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        413.0,
+        81.0,
+        609.0,
+        100.0
+      ],
+      "confidence": 0.8596,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_67",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        262.51,
+        320.19,
+        551.66,
+        334.03
+      ],
+      "confidence": 0.837,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_68",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        629.53,
+        82.93,
+        667.44,
+        96.42
+      ],
+      "confidence": 0.8322,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_69",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        471.65,
+        21.17,
+        525.14,
+        34.39
+      ],
+      "confidence": 0.8015,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_70",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        19.49,
+        10.13,
+        53.61,
+        43.49
+      ],
+      "confidence": 0.7905,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_71",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        261.7,
+        500.49,
+        561.17,
+        513.78
+      ],
+      "confidence": 0.7544,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_72",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        323.12,
+        86.06,
+        332.2,
+        94.02
+      ],
+      "confidence": 0.3392,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_73",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        396.3,
+        85.03,
+        406.17,
+        94.03
+      ],
+      "confidence": 0.2196,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_74",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        610.38,
+        86.29,
+        619.34,
+        93.89
+      ],
+      "confidence": 0.2096,
+      "cluster_size": 1
+    }
+  ]
+}

@@ -1,0 +1,970 @@
+{
+  "image": "465_thefamilyhandyman_com.png",
+  "total_elements": 74,
+  "total_raw_nodes": 80,
+  "total_raw_edges": 69,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1508.0,
+        463.0,
+        1515.0,
+        547.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1515.0,
+        418.0,
+        1527.0,
+        580.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1524.0,
+        402.0,
+        1534.0,
+        548.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1480.0,
+        336.0,
+        1485.0,
+        459.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1243.0,
+        304.0,
+        1251.0,
+        498.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1118.0,
+        229.0,
+        1125.0,
+        314.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1064.0,
+        228.0,
+        1071.0,
+        342.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1082.0,
+        225.0,
+        1088.0,
+        345.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1123.0,
+        219.0,
+        1134.0,
+        638.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1112.0,
+        216.0,
+        1121.0,
+        343.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1103.0,
+        215.0,
+        1110.0,
+        344.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1073.0,
+        210.0,
+        1079.0,
+        345.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        250.0,
+        549.0,
+        255.0,
+        638.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        710.0,
+        493.0,
+        713.0,
+        603.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        711.0,
+        351.0,
+        716.0,
+        444.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        323.0,
+        274.0,
+        331.0,
+        484.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        260.0,
+        274.0,
+        268.0,
+        491.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        303.0,
+        273.0,
+        311.0,
+        486.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        405.0,
+        270.0,
+        413.0,
+        477.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        711.0,
+        263.0,
+        714.0,
+        350.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        760.0,
+        174.0,
+        769.0,
+        551.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        712.0,
+        167.0,
+        715.0,
+        253.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        251.0,
+        166.0,
+        260.0,
+        632.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        489.0,
+        534.0,
+        494.0,
+        635.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        405.0,
+        522.0,
+        414.0,
+        630.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        425.0,
+        520.0,
+        433.0,
+        627.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        495.0,
+        418.0,
+        503.0,
+        531.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        487.0,
+        408.0,
+        493.0,
+        484.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        342.0,
+        270.0,
+        357.0,
+        506.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        344.0,
+        272.0,
+        352.0,
+        483.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        437.0,
+        195.0,
+        468.0,
+        636.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        444.0,
+        518.0,
+        452.0,
+        624.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        452.0,
+        504.0,
+        459.0,
+        631.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        445.0,
+        268.0,
+        453.0,
+        473.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        363.0,
+        178.0,
+        379.0,
+        483.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        365.0,
+        272.0,
+        372.0,
+        481.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        82.18,
+        165.53,
+        910.69,
+        769.16
+      ],
+      "confidence": 0.9642,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_37",
+      "source": "ocr",
+      "class_label": "Today's Top Picks",
+      "bbox": [
+        24.0,
+        326.0,
+        63.0,
+        607.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        169.87,
+        73.79,
+        209.83,
+        84.05
+      ],
+      "confidence": 0.9004,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_39",
+      "source": "ocr",
+      "class_label": "SEARCH",
+      "bbox": [
+        987.0,
+        56.0,
+        1042.0,
+        64.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "ocr",
+      "class_label": "WATCH FREE",
+      "bbox": [
+        170.0,
+        122.0,
+        258.0,
+        131.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        415.35,
+        121.89,
+        551.69,
+        131.36
+      ],
+      "confidence": 0.919,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_42",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        656.06,
+        121.79,
+        814.54,
+        131.45
+      ],
+      "confidence": 0.9387,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_43",
+      "source": "ocr",
+      "class_label": "PRODUCT REVIEWS",
+      "bbox": [
+        879.0,
+        122.0,
+        1012.0,
+        131.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "ocr",
+      "class_label": "SUBSCRIBE",
+      "bbox": [
+        1077.0,
+        120.0,
+        1152.0,
+        132.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "ocr",
+      "class_label": "How to Build the Entryway Hall",
+      "bbox": [
+        109.0,
+        675.0,
+        475.0,
+        699.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "ocr",
+      "class_label": "Ethan O'Donnell",
+      "bbox": [
+        751.0,
+        694.0,
+        880.0,
+        708.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "ocr",
+      "class_label": "9 Privacy Window Treatment Ideas\nThat Don't Sacrifice Style",
+      "bbox": [
+        942.0,
+        673.0,
+        1342.0,
+        731.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1512.0,
+        400.0,
+        1517.0,
+        459.0
+      ],
+      "confidence": 0.9839,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "ocr",
+      "class_label": "PRO",
+      "bbox": [
+        323.0,
+        122.0,
+        349.0,
+        130.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "ocr",
+      "class_label": "Tree You've Been Dreaming Of",
+      "bbox": [
+        110.0,
+        705.0,
+        463.0,
+        732.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1444.0,
+        346.0,
+        1448.0,
+        393.0
+      ],
+      "confidence": 0.9792,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        941.83,
+        35.61,
+        1304.32,
+        87.15
+      ],
+      "confidence": 0.9736,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_53",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1170.0,
+        311.0,
+        1184.0,
+        472.0
+      ],
+      "confidence": 0.9579,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_54",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        767.0,
+        175.0,
+        904.0,
+        638.0
+      ],
+      "confidence": 0.9499,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_55",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1397.0,
+        342.0,
+        1410.0,
+        490.0
+      ],
+      "confidence": 0.9491,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_56",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        614.0,
+        378.0,
+        618.0,
+        423.0
+      ],
+      "confidence": 0.9374,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_57",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        627.0,
+        166.0,
+        711.0,
+        638.0
+      ],
+      "confidence": 0.9369,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_58",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        343.0,
+        166.0,
+        376.0,
+        169.0
+      ],
+      "confidence": 0.9167,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_59",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        256.9,
+        32.3,
+        508.14,
+        88.79
+      ],
+      "confidence": 0.8793,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_60",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        878.13,
+        121.26,
+        1014.14,
+        131.92
+      ],
+      "confidence": 0.9003,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_61",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        168.79,
+        121.78,
+        259.14,
+        132.31
+      ],
+      "confidence": 0.8992,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_62",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        920.14,
+        167.56,
+        1536.0,
+        762.98
+      ],
+      "confidence": 0.8985,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_63",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        384.0,
+        525.0,
+        394.0,
+        632.0
+      ],
+      "confidence": 0.8913,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_64",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1076.68,
+        121.68,
+        1153.66,
+        131.96
+      ],
+      "confidence": 0.8858,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_65",
+      "source": "ocr",
+      "class_label": "=",
+      "bbox": [
+        175.0,
+        41.0,
+        200.0,
+        60.0
+      ],
+      "confidence": 0.88,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_66",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        260.0,
+        537.0,
+        269.0,
+        630.0
+      ],
+      "confidence": 0.8609,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_67",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        488.0,
+        283.0,
+        494.0,
+        345.0
+      ],
+      "confidence": 0.8609,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_68",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        322.17,
+        121.97,
+        351.92,
+        132.02
+      ],
+      "confidence": 0.8389,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_69",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        753.41,
+        695.89,
+        879.27,
+        706.84
+      ],
+      "confidence": 0.8176,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_70",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        176.59,
+        42.31,
+        202.91,
+        58.52
+      ],
+      "confidence": 0.4097,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_71",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1497.0,
+        444.19,
+        1514.93,
+        477.26
+      ],
+      "confidence": 0.1796,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_72",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        961.87,
+        53.9,
+        974.19,
+        67.58
+      ],
+      "confidence": 0.1537,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_73",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        33.16,
+        327.58,
+        56.84,
+        357.01
+      ],
+      "confidence": 0.1186,
+      "cluster_size": 1
+    }
+  ]
+}

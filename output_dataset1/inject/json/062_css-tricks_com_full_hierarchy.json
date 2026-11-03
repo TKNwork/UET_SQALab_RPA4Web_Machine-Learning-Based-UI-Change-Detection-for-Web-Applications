@@ -1,0 +1,515 @@
+{
+  "image": "062_css-tricks_com.png",
+  "total_elements": 39,
+  "total_raw_nodes": 48,
+  "total_raw_edges": 62,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        48.0,
+        135.0,
+        1373.0,
+        225.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1518.0,
+        0.0,
+        1534.0,
+        826.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        476.99,
+        239.34,
+        1376.14,
+        411.59
+      ],
+      "confidence": 0.9413,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "I'd comment on how incredibly useful this guide is, but i've got some\nserious experimenting to do just now",
+      "bbox": [
+        492.0,
+        30.0,
+        971.0,
+        74.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1310.58,
+        13.3,
+        1351.49,
+        28.9
+      ],
+      "confidence": 0.8744,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        492.09,
+        160.86,
+        997.64,
+        177.28
+      ],
+      "confidence": 0.8923,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1310.8,
+        145.51,
+        1351.28,
+        160.33
+      ],
+      "confidence": 0.8272,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        50.18,
+        249.1,
+        191.47,
+        269.56
+      ],
+      "confidence": 0.9601,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Thanks men now I understand how to use colors.Actually I wish to how\nwas your experience in learning how to build a website.Me am being\ncoached by a friend and now am doing css but sometimes I get hard for",
+      "bbox": [
+        491.0,
+        264.0,
+        993.0,
+        337.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "Dennis Misigo",
+      "bbox": [
+        50.0,
+        435.0,
+        190.0,
+        456.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "Plz men I would wish to know more from you in website development in\ncollege, bcoz me am self taught.",
+      "bbox": [
+        492.0,
+        449.0,
+        997.0,
+        497.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "Thank you so much for this article! Had no idea CSS supported such color\nmanipulation. You have made my life much easier!",
+      "bbox": [
+        493.0,
+        582.0,
+        1008.0,
+        628.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        493.39,
+        759.02,
+        640.2,
+        780.24
+      ],
+      "confidence": 0.8553,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        476.0,
+        560.0,
+        1371.0,
+        673.0
+      ],
+      "confidence": 0.9893,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        476.0,
+        428.0,
+        1371.0,
+        542.0
+      ],
+      "confidence": 0.9893,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        476.0,
+        5.0,
+        1371.0,
+        119.0
+      ],
+      "confidence": 0.9893,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "# November 26, 2025",
+      "bbox": [
+        49.0,
+        284.0,
+        200.0,
+        301.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        49.87,
+        474.51,
+        200.88,
+        489.75
+      ],
+      "confidence": 0.9383,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_18",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        50.28,
+        569.66,
+        92.82,
+        585.06
+      ],
+      "confidence": 0.9236,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "# December 3, 2025",
+      "bbox": [
+        50.0,
+        606.0,
+        190.0,
+        619.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "#June 23, 2025",
+      "bbox": [
+        49.0,
+        51.0,
+        157.0,
+        68.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "Zion Sokoya\n#June 25, 2025",
+      "bbox": [
+        49.0,
+        148.0,
+        175.0,
+        199.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "Reply",
+      "bbox": [
+        1311.0,
+        248.0,
+        1351.0,
+        262.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1310.19,
+        434.41,
+        1350.17,
+        450.93
+      ],
+      "confidence": 0.8948,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_24",
+      "source": "ocr",
+      "class_label": "me.",
+      "bbox": [
+        493.0,
+        353.0,
+        519.0,
+        361.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "ocr",
+      "class_label": "Reply",
+      "bbox": [
+        1311.0,
+        568.0,
+        1351.0,
+        581.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        477.56,
+        0.0,
+        1462.21,
+        824.04
+      ],
+      "confidence": 0.9546,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "ocr",
+      "class_label": "jae lethe",
+      "bbox": [
+        47.0,
+        13.0,
+        133.0,
+        34.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        49.4,
+        287.27,
+        199.2,
+        303.3
+      ],
+      "confidence": 0.9125,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        477.77,
+        136.29,
+        1360.79,
+        222.27
+      ],
+      "confidence": 0.9123,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        49.78,
+        147.17,
+        174.65,
+        168.01
+      ],
+      "confidence": 0.9105,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        50.33,
+        606.15,
+        190.82,
+        621.95
+      ],
+      "confidence": 0.9013,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        50.38,
+        437.54,
+        191.38,
+        458.51
+      ],
+      "confidence": 0.8986,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        49.04,
+        184.63,
+        156.93,
+        199.88
+      ],
+      "confidence": 0.8907,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        49.83,
+        53.32,
+        158.15,
+        67.62
+      ],
+      "confidence": 0.8658,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1310.88,
+        247.2,
+        1351.2,
+        264.06
+      ],
+      "confidence": 0.8534,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        48.79,
+        14.9,
+        134.8,
+        36.12
+      ],
+      "confidence": 0.6194,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        494.02,
+        818.83,
+        710.31,
+        826.0
+      ],
+      "confidence": 0.5558,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1310.29,
+        566.96,
+        1350.65,
+        583.01
+      ],
+      "confidence": 0.5367,
+      "cluster_size": 1
+    }
+  ]
+}

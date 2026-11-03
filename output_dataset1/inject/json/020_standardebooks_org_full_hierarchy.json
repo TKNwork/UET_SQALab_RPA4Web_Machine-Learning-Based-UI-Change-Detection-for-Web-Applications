@@ -1,0 +1,242 @@
+{
+  "image": "020_standardebooks_org.png",
+  "total_elements": 18,
+  "total_raw_nodes": 19,
+  "total_raw_edges": 12,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1214.0,
+        577.0,
+        1218.0,
+        630.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1214.0,
+        476.0,
+        1218.0,
+        574.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        179.0,
+        183.0,
+        1357.0,
+        189.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        179.0,
+        34.0,
+        1357.0,
+        40.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "What makes Standard Ebooks different?",
+      "bbox": [
+        305.0,
+        93.0,
+        1236.0,
+        133.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "Modern & consistent typography",
+      "bbox": [
+        393.0,
+        274.0,
+        1146.0,
+        334.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        308.05,
+        544.13,
+        784.79,
+        652.1
+      ],
+      "confidence": 0.9375,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Other free ebooks don't put much effort into profes-\nsional-quality typography: they use \"straight\" quotes\ninstead of \"curly\" quotes, they ignore details like em-\nand en-dashes, and they look more like early-90's\nweb pages instead of actual books.",
+      "bbox": [
+        308.0,
+        376.0,
+        785.0,
+        514.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "\"Nothing but the impress\n\"I've never lost it.\"",
+      "bbox": [
+        834.0,
+        407.0,
+        1146.0,
+        470.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "\"Nothing but the im\n\"The heart. \"I've never lost it.\"\n\"Then your manuscrip\n\"Is in old, faded ink, a",
+      "bbox": [
+        834.0,
+        475.0,
+        1217.0,
+        626.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "Full proofing with careful corrections",
+      "bbox": [
+        349.0,
+        793.0,
+        1188.0,
+        825.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        382.82,
+        281.7,
+        1143.91,
+        330.52
+      ],
+      "confidence": 0.958,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1142.0,
+        428.0,
+        1146.0,
+        470.0
+      ],
+      "confidence": 0.8754,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        825.86,
+        398.13,
+        1216.33,
+        562.12
+      ],
+      "confidence": 0.8679,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        936.52,
+        600.82,
+        1215.82,
+        628.51
+      ],
+      "confidence": 0.8386,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        935.21,
+        559.74,
+        1217.09,
+        589.79
+      ],
+      "confidence": 0.7515,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        834.6,
+        407.33,
+        1141.28,
+        437.04
+      ],
+      "confidence": 0.6545,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        851.61,
+        519.62,
+        1199.71,
+        541.52
+      ],
+      "confidence": 0.6473,
+      "cluster_size": 1
+    }
+  ]
+}

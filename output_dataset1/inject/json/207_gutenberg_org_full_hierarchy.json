@@ -1,0 +1,1828 @@
+{
+  "image": "207_gutenberg_org.png",
+  "total_elements": 140,
+  "total_raw_nodes": 170,
+  "total_raw_edges": 100,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1144.0,
+        611.0,
+        1213.0,
+        616.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        118.0,
+        1536.0,
+        121.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        517.0,
+        10.0,
+        1019.0,
+        50.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        191.0,
+        0.0,
+        1536.0,
+        62.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "Herman Melville",
+      "bbox": [
+        211.0,
+        440.0,
+        326.0,
+        452.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        211.15,
+        463.03,
+        346.42,
+        475.63
+      ],
+      "confidence": 0.9427,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "Cristo",
+      "bbox": [
+        210.0,
+        538.0,
+        258.0,
+        550.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Alexandre Dumas and",
+      "bbox": [
+        210.0,
+        562.0,
+        371.0,
+        575.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        209.82,
+        608.93,
+        337.54,
+        621.62
+      ],
+      "confidence": 0.8706,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "Twenty years after",
+      "bbox": [
+        211.0,
+        651.0,
+        352.0,
+        665.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "Alexandre Dumas and",
+      "bbox": [
+        210.0,
+        674.0,
+        371.0,
+        687.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "44078 downloads",
+      "bbox": [
+        210.0,
+        722.0,
+        337.0,
+        736.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "Adventures of\nHuckleberry Finn",
+      "bbox": [
+        210.0,
+        772.0,
+        342.0,
+        811.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "Frequently Downloaded Main Categories",
+      "bbox": [
+        496.0,
+        81.0,
+        842.0,
+        99.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        554.64,
+        162.86,
+        984.65,
+        190.36
+      ],
+      "confidence": 0.9536,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "The Wonderful Wizard\nof Oz",
+      "bbox": [
+        556.0,
+        388.0,
+        726.0,
+        424.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        555.24,
+        459.26,
+        682.84,
+        472.07
+      ],
+      "confidence": 0.9168,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_17",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        555.32,
+        572.91,
+        683.37,
+        586.04
+      ],
+      "confidence": 0.9011,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "Twenty Thousand\nLeagues under the Sea\nJules Verne\n16806 downloads",
+      "bbox": [
+        902.0,
+        251.0,
+        1077.0,
+        336.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        902.57,
+        445.76,
+        1028.6,
+        458.61
+      ],
+      "confidence": 0.894,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "The Life and\nAdventures of",
+      "bbox": [
+        901.0,
+        494.0,
+        1012.0,
+        530.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "Daniel Defoe",
+      "bbox": [
+        902.0,
+        565.0,
+        995.0,
+        579.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        902.59,
+        590.03,
+        1029.57,
+        602.38
+      ],
+      "confidence": 0.9043,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_23",
+      "source": "ocr",
+      "class_label": "The Secret of\nChimneys",
+      "bbox": [
+        555.0,
+        613.0,
+        659.0,
+        654.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "ocr",
+      "class_label": "Edgar Rice Burroughs\n15142 downloads",
+      "bbox": [
+        902.0,
+        653.0,
+        1061.0,
+        691.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        556.98,
+        686.13,
+        683.32,
+        698.74
+      ],
+      "confidence": 0.9445,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_26",
+      "source": "ocr",
+      "class_label": "Thousand Nights and a",
+      "bbox": [
+        557.0,
+        757.0,
+        735.0,
+        774.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "ocr",
+      "class_label": "The call of the wild",
+      "bbox": [
+        903.0,
+        751.0,
+        1044.0,
+        767.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "ocr",
+      "class_label": "Jack London\n15124 downloads",
+      "bbox": [
+        901.0,
+        777.0,
+        1029.0,
+        814.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "ocr",
+      "class_label": "The three musketeers\nAlexandre Dumas and\nAuguste Maquet\n14437 downloads",
+      "bbox": [
+        1246.0,
+        252.0,
+        1414.0,
+        337.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "ocr",
+      "class_label": "Jules Verne",
+      "bbox": [
+        1247.0,
+        544.0,
+        1331.0,
+        558.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "ocr",
+      "class_label": "14014 downloads",
+      "bbox": [
+        1248.0,
+        569.0,
+        1374.0,
+        582.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "ocr",
+      "class_label": "A Honeymoon in Space",
+      "bbox": [
+        1247.0,
+        616.0,
+        1427.0,
+        632.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "ocr",
+      "class_label": "George Chetwynd\nGriffith",
+      "bbox": [
+        1247.0,
+        642.0,
+        1377.0,
+        678.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "ocr",
+      "class_label": "13799 downloads",
+      "bbox": [
+        1248.0,
+        690.0,
+        1375.0,
+        703.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "ocr",
+      "class_label": "The Yeoman\nAdventurer",
+      "bbox": [
+        1247.0,
+        740.0,
+        1341.0,
+        776.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "ocr",
+      "class_label": "George W. Gough\n13636 downloads",
+      "bbox": [
+        1247.0,
+        788.0,
+        1377.0,
+        824.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1314.0,
+        37.0,
+        1397.0,
+        44.0
+      ],
+      "confidence": 0.9881,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "ocr",
+      "class_label": "Project\nGutenberg",
+      "bbox": [
+        5.0,
+        21.0,
+        185.0,
+        103.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "ocr",
+      "class_label": "Sort By:",
+      "bbox": [
+        98.0,
+        250.0,
+        160.0,
+        263.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "ocr",
+      "class_label": "Whale",
+      "bbox": [
+        210.0,
+        416.0,
+        258.0,
+        428.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "ocr",
+      "class_label": "The Count of Monte",
+      "bbox": [
+        211.0,
+        514.0,
+        363.0,
+        527.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "ocr",
+      "class_label": "Auguste Maquet",
+      "bbox": [
+        210.0,
+        586.0,
+        329.0,
+        600.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        534.74,
+        23.22,
+        617.74,
+        34.58
+      ],
+      "confidence": 0.9199,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_44",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        882.1,
+        82.71,
+        987.14,
+        98.91
+      ],
+      "confidence": 0.9561,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_45",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1028.11,
+        83.56,
+        1146.85,
+        99.12
+      ],
+      "confidence": 0.955,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_46",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1331.1,
+        23.79,
+        1383.0,
+        37.27
+      ],
+      "confidence": 0.8498,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_47",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1437.99,
+        23.58,
+        1492.96,
+        36.65
+      ],
+      "confidence": 0.9376,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_48",
+      "source": "ocr",
+      "class_label": "Gulliver's Travels into\nSeveral Remote\nNations of the World\nJonathan Swift",
+      "bbox": [
+        556.0,
+        252.0,
+        723.0,
+        336.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        555.08,
+        347.88,
+        681.66,
+        360.52
+      ],
+      "confidence": 0.8779,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_50",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        557.74,
+        435.66,
+        661.64,
+        448.94
+      ],
+      "confidence": 0.8437,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_51",
+      "source": "ocr",
+      "class_label": "Robinson Crusoe",
+      "bbox": [
+        902.0,
+        542.0,
+        1037.0,
+        555.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "ocr",
+      "class_label": "Thuvia, maid of Mars",
+      "bbox": [
+        902.0,
+        630.0,
+        1063.0,
+        644.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_53",
+      "source": "ocr",
+      "class_label": "Agatha Christie",
+      "bbox": [
+        555.0,
+        659.0,
+        666.0,
+        677.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_54",
+      "source": "ocr",
+      "class_label": "The Book of the",
+      "bbox": [
+        557.0,
+        735.0,
+        678.0,
+        748.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_55",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1246.31,
+        496.82,
+        1391.06,
+        534.94
+      ],
+      "confidence": 0.8077,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_56",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        798.96,
+        368.4,
+        866.97,
+        465.02
+      ],
+      "confidence": 0.9651,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_57",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        107.0,
+        644.0,
+        177.0,
+        745.0
+      ],
+      "confidence": 0.975,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_58",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        453.85,
+        608.95,
+        521.17,
+        707.01
+      ],
+      "confidence": 0.9505,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_59",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1144.9,
+        367.31,
+        1212.34,
+        469.02
+      ],
+      "confidence": 0.928,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_60",
+      "source": "ocr",
+      "class_label": "Displaying results 1-25 | Next",
+      "bbox": [
+        98.0,
+        345.0,
+        312.0,
+        360.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_61",
+      "source": "ocr",
+      "class_label": "J. M. Barrie",
+      "bbox": [
+        556.0,
+        549.0,
+        639.0,
+        562.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_62",
+      "source": "ocr",
+      "class_label": "The Man Who Was\nThursday: A Nightmare\nG. K. Chesterton",
+      "bbox": [
+        902.0,
+        374.0,
+        1079.0,
+        434.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_63",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        555.99,
+        807.01,
+        578.34,
+        821.17
+      ],
+      "confidence": 0.824,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_64",
+      "source": "ocr",
+      "class_label": "The Jungle Book\nRudyard Kipling\n14043 downloads",
+      "bbox": [
+        1247.0,
+        373.0,
+        1379.0,
+        435.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_65",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        107.77,
+        386.37,
+        173.15,
+        487.03
+      ],
+      "confidence": 0.8792,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_66",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        453.78,
+        728.65,
+        521.26,
+        782.45
+      ],
+      "confidence": 0.9177,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_67",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        453.66,
+        494.41,
+        521.36,
+        587.81
+      ],
+      "confidence": 0.9534,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_68",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        798.0,
+        278.0,
+        868.0,
+        347.0
+      ],
+      "confidence": 0.9651,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_69",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1413.0,
+        10.6,
+        1516.43,
+        50.06
+      ],
+      "confidence": 0.8593,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_70",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        798.65,
+        517.18,
+        867.42,
+        588.44
+      ],
+      "confidence": 0.7919,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_71",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        453.89,
+        381.94,
+        521.92,
+        470.87
+      ],
+      "confidence": 0.9478,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_72",
+      "source": "ocr",
+      "class_label": "Moby Dick; Or, The",
+      "bbox": [
+        211.0,
+        392.0,
+        357.0,
+        407.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_73",
+      "source": "ocr",
+      "class_label": "TWENTY\nYEARS AFTER",
+      "bbox": [
+        111.0,
+        650.0,
+        172.0,
+        666.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_74",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        965.6,
+        22.92,
+        994.01,
+        35.87
+      ],
+      "confidence": 0.8471,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_75",
+      "source": "ocr",
+      "class_label": "Peter Pan: [Peter and\nWendy]",
+      "bbox": [
+        555.0,
+        501.0,
+        724.0,
+        540.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_76",
+      "source": "ocr",
+      "class_label": "Night - Volume 01 (of",
+      "bbox": [
+        556.0,
+        783.0,
+        728.0,
+        797.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_77",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        798.92,
+        623.53,
+        866.26,
+        723.92
+      ],
+      "confidence": 0.918,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_78",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        1144.0,
+        278.0,
+        1214.0,
+        347.0
+      ],
+      "confidence": 0.9586,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_79",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        1144.0,
+        644.0,
+        1214.0,
+        714.0
+      ],
+      "confidence": 0.9538,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_80",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        1144.0,
+        522.0,
+        1214.0,
+        591.0
+      ],
+      "confidence": 0.9471,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_81",
+      "source": "ocr",
+      "class_label": "Auguste Maquet",
+      "bbox": [
+        209.0,
+        696.0,
+        328.0,
+        713.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_82",
+      "source": "ocr",
+      "class_label": "The Secret",
+      "bbox": [
+        473.0,
+        615.0,
+        506.0,
+        621.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_83",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        495.92,
+        82.81,
+        677.92,
+        99.05
+      ],
+      "confidence": 0.9371,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_84",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        718.03,
+        83.33,
+        842.06,
+        98.99
+      ],
+      "confidence": 0.9353,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_85",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        84.48,
+        328.16,
+        413.32,
+        379.15
+      ],
+      "confidence": 0.9323,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_86",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        900.91,
+        629.86,
+        1063.49,
+        670.3
+      ],
+      "confidence": 0.9067,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_87",
+      "source": "ocr",
+      "class_label": "FUL WIZARD",
+      "bbox": [
+        456.0,
+        396.0,
+        520.0,
+        405.0
+      ],
+      "confidence": 0.9,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_88",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        209.73,
+        513.84,
+        361.0,
+        551.31
+      ],
+      "confidence": 0.8982,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_89",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1249.22,
+        421.72,
+        1375.4,
+        433.96
+      ],
+      "confidence": 0.8972,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_90",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        96.89,
+        249.43,
+        160.23,
+        264.98
+      ],
+      "confidence": 0.8875,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_91",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1246.0,
+        617.0,
+        1427.0,
+        634.0
+      ],
+      "confidence": 0.8873,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_92",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        388.68,
+        84.03,
+        438.33,
+        96.15
+      ],
+      "confidence": 0.8866,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_93",
+      "source": "ocr",
+      "class_label": "The WONDER",
+      "bbox": [
+        456.0,
+        385.0,
+        516.0,
+        395.0
+      ],
+      "confidence": 0.88,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_94",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        901.0,
+        275.0,
+        1079.0,
+        292.0
+      ],
+      "confidence": 0.8725,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_95",
+      "source": "ocr",
+      "class_label": "About ▼",
+      "bbox": [
+        388.0,
+        84.0,
+        455.0,
+        96.0
+      ],
+      "confidence": 0.87,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_96",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        95.93,
+        345.2,
+        289.92,
+        361.91
+      ],
+      "confidence": 0.8554,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_97",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        210.05,
+        391.01,
+        356.1,
+        429.54
+      ],
+      "confidence": 0.8531,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_98",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1248.15,
+        689.1,
+        1374.11,
+        701.7
+      ],
+      "confidence": 0.8515,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_99",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        114.11,
+        287.39,
+        187.36,
+        303.58
+      ],
+      "confidence": 0.8242,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_100",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        109.67,
+        766.34,
+        175.73,
+        825.12
+      ],
+      "confidence": 0.8484,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_101",
+      "source": "ocr",
+      "class_label": "Mark Twain",
+      "bbox": [
+        211.0,
+        819.0,
+        290.0,
+        825.0
+      ],
+      "confidence": 0.83,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_102",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1246.73,
+        617.31,
+        1426.46,
+        634.1
+      ],
+      "confidence": 0.8259,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_103",
+      "source": "ocr",
+      "class_label": "of Chimneys",
+      "bbox": [
+        470.0,
+        622.0,
+        509.0,
+        630.0
+      ],
+      "confidence": 0.82,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_104",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        210.23,
+        721.45,
+        339.39,
+        734.59
+      ],
+      "confidence": 0.8165,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_105",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        903.32,
+        323.89,
+        1029.38,
+        335.38
+      ],
+      "confidence": 0.8133,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_106",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1245.91,
+        810.96,
+        1374.42,
+        825.62
+      ],
+      "confidence": 0.8069,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_107",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        108.35,
+        510.94,
+        174.82,
+        606.34
+      ],
+      "confidence": 0.8067,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_108",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1312.0,
+        17.23,
+        1398.63,
+        42.71
+      ],
+      "confidence": 0.797,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_109",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1247.51,
+        323.44,
+        1374.17,
+        336.03
+      ],
+      "confidence": 0.7616,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_110",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1247.18,
+        373.99,
+        1377.87,
+        412.52
+      ],
+      "confidence": 0.7426,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_111",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1145.75,
+        734.84,
+        1211.42,
+        824.19
+      ],
+      "confidence": 0.7395,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_112",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        207.75,
+        771.04,
+        342.75,
+        826.0
+      ],
+      "confidence": 0.7224,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_113",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        943.02,
+        11.5,
+        1019.27,
+        48.56
+      ],
+      "confidence": 0.7123,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_114",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        555.51,
+        614.48,
+        669.16,
+        680.69
+      ],
+      "confidence": 0.7087,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_115",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1247.21,
+        252.31,
+        1411.27,
+        267.14
+      ],
+      "confidence": 0.6996,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_116",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        903.8,
+        800.19,
+        1029.91,
+        813.22
+      ],
+      "confidence": 0.6948,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_117",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        900.74,
+        752.61,
+        1046.71,
+        789.95
+      ],
+      "confidence": 0.671,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_118",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        458.27,
+        247.11,
+        516.96,
+        338.09
+      ],
+      "confidence": 0.663,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_119",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        901.61,
+        251.69,
+        1045.41,
+        268.0
+      ],
+      "confidence": 0.6538,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_120",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        798.38,
+        748.58,
+        864.97,
+        824.95
+      ],
+      "confidence": 0.6521,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_121",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        902.46,
+        374.13,
+        1040.7,
+        388.78
+      ],
+      "confidence": 0.6131,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_122",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1247.25,
+        567.83,
+        1375.84,
+        580.5
+      ],
+      "confidence": 0.592,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_123",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        557.08,
+        387.5,
+        725.39,
+        403.44
+      ],
+      "confidence": 0.5894,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_124",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1145.66,
+        244.71,
+        1212.46,
+        345.33
+      ],
+      "confidence": 0.5832,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_125",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        556.63,
+        251.89,
+        722.82,
+        267.13
+      ],
+      "confidence": 0.559,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_126",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        556.2,
+        411.47,
+        595.41,
+        426.61
+      ],
+      "confidence": 0.4654,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_127",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1246.8,
+        739.61,
+        1342.54,
+        753.87
+      ],
+      "confidence": 0.5483,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_128",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1246.65,
+        763.74,
+        1334.0,
+        777.65
+      ],
+      "confidence": 0.5311,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_129",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        799.06,
+        488.29,
+        865.6,
+        588.87
+      ],
+      "confidence": 0.5293,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_130",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1246.96,
+        496.28,
+        1376.6,
+        512.34
+      ],
+      "confidence": 0.5269,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_131",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        209.2,
+        584.09,
+        328.23,
+        601.43
+      ],
+      "confidence": 0.5187,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_132",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        902.01,
+        676.74,
+        1027.7,
+        689.86
+      ],
+      "confidence": 0.5169,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_133",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        555.51,
+        525.24,
+        614.75,
+        539.25
+      ],
+      "confidence": 0.5103,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_134",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        274.45,
+        345.76,
+        311.46,
+        360.2
+      ],
+      "confidence": 0.3625,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_135",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        444.77,
+        85.58,
+        453.14,
+        93.91
+      ],
+      "confidence": 0.3128,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_136",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        266.07,
+        439.35,
+        324.51,
+        452.04
+      ],
+      "confidence": 0.2439,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_137",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        370.32,
+        287.4,
+        385.16,
+        300.0
+      ],
+      "confidence": 0.2118,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_138",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        555.91,
+        807.54,
+        581.05,
+        822.35
+      ],
+      "confidence": 0.1992,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_139",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        210.14,
+        439.04,
+        285.71,
+        451.97
+      ],
+      "confidence": 0.1359,
+      "cluster_size": 1
+    }
+  ]
+}

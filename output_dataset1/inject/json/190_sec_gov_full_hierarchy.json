@@ -1,0 +1,437 @@
+{
+  "image": "190_sec_gov.png",
+  "total_elements": 33,
+  "total_raw_nodes": 43,
+  "total_raw_edges": 56,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        758.34,
+        92.21,
+        1038.15,
+        308.32
+      ],
+      "confidence": 0.9814,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_1",
+      "source": "ocr",
+      "class_label": "The Crypto Task Force has\nreceived input from a wide\nrange of individuals and\nentities.",
+      "bbox": [
+        485.0,
+        164.0,
+        670.0,
+        242.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        794.27,
+        131.37,
+        864.42,
+        146.4
+      ],
+      "confidence": 0.9556,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "The Crypto Task Force is\nactively engaging with\nindustry and subject matter\nexperts.",
+      "bbox": [
+        794.0,
+        163.0,
+        986.0,
+        245.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1101.55,
+        130.91,
+        1198.69,
+        146.94
+      ],
+      "confidence": 0.963,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "Learn more about what\ncrypto-related issues staff\nacross the Commission are\nworking on.",
+      "bbox": [
+        1101.0,
+        163.0,
+        1287.0,
+        244.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        486.19,
+        380.16,
+        615.08,
+        398.34
+      ],
+      "confidence": 0.959,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Contact",
+      "bbox": [
+        947.0,
+        381.0,
+        1049.0,
+        397.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        826.42,
+        765.85,
+        968.72,
+        779.3
+      ],
+      "confidence": 0.903,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        450.11,
+        15.8,
+        552.92,
+        28.42
+      ],
+      "confidence": 0.9381,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        485.33,
+        131.29,
+        587.32,
+        146.38
+      ],
+      "confidence": 0.9559,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        628.7,
+        680.39,
+        1165.12,
+        731.25
+      ],
+      "confidence": 0.9178,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "⚫ Resources for Victims of a Scam: Submit a\nTip or Complaint",
+      "bbox": [
+        495.0,
+        436.0,
+        825.0,
+        477.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        448.48,
+        585.96,
+        1349.47,
+        825.78
+      ],
+      "confidence": 0.9637,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        448.92,
+        347.74,
+        887.25,
+        547.76
+      ],
+      "confidence": 0.9594,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        504.09,
+        489.68,
+        721.61,
+        506.36
+      ],
+      "confidence": 0.8934,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "• Email: Crypto@sec.gov",
+      "bbox": [
+        959.0,
+        464.0,
+        1144.0,
+        482.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        447.32,
+        91.05,
+        731.4,
+        308.53
+      ],
+      "confidence": 0.9474,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "• Crypto Points of Contact",
+      "bbox": [
+        958.0,
+        437.0,
+        1155.0,
+        454.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        879.0,
+        629.0,
+        917.0,
+        660.0
+      ],
+      "confidence": 0.9334,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        911.28,
+        345.78,
+        1352.58,
+        549.59
+      ],
+      "confidence": 0.9295,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        513.0,
+        489.0,
+        723.0,
+        508.0
+      ],
+      "confidence": 0.9211,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        722.0,
+        794.0,
+        1074.0,
+        826.0
+      ],
+      "confidence": 0.9167,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        507.87,
+        437.41,
+        825.41,
+        505.25
+      ],
+      "confidence": 0.9165,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1065.15,
+        90.8,
+        1346.46,
+        311.11
+      ],
+      "confidence": 0.914,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1023.63,
+        466.68,
+        1144.14,
+        482.86
+      ],
+      "confidence": 0.9039,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        974.11,
+        438.94,
+        1155.44,
+        454.81
+      ],
+      "confidence": 0.9027,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        721.68,
+        795.15,
+        1073.59,
+        825.75
+      ],
+      "confidence": 0.8762,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        947.22,
+        379.51,
+        1048.83,
+        399.07
+      ],
+      "confidence": 0.8544,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        987.82,
+        251.41,
+        1007.17,
+        271.36
+      ],
+      "confidence": 0.2949,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        670.45,
+        251.82,
+        689.81,
+        271.1
+      ],
+      "confidence": 0.2217,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        975.5,
+        465.71,
+        1017.92,
+        479.88
+      ],
+      "confidence": 0.1405,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_32",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1286.63,
+        252.0,
+        1305.86,
+        270.34
+      ],
+      "confidence": 0.1546,
+      "cluster_size": 1
+    }
+  ]
+}

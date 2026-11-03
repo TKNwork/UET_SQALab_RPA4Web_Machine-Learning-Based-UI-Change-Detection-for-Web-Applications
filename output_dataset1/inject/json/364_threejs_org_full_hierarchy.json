@@ -1,0 +1,1217 @@
+{
+  "image": "364_threejs_org.png",
+  "total_elements": 93,
+  "total_raw_nodes": 108,
+  "total_raw_edges": 104,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        867.0,
+        472.0,
+        971.0,
+        479.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        757.0,
+        320.0,
+        818.0,
+        325.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        664.0,
+        320.0,
+        726.0,
+        325.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "Learn\nexamples",
+      "bbox": [
+        16.0,
+        80.0,
+        87.0,
+        120.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        15.26,
+        183.82,
+        60.91,
+        195.84
+      ],
+      "confidence": 0.9149,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        16.09,
+        211.31,
+        88.03,
+        223.22
+      ],
+      "confidence": 0.9261,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "editor",
+      "bbox": [
+        16.0,
+        239.0,
+        70.0,
+        250.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Design the",
+      "bbox": [
+        379.0,
+        181.0,
+        453.0,
+        197.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "COASTAL",
+      "bbox": [
+        521.0,
+        143.0,
+        608.0,
+        157.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "Community",
+      "bbox": [
+        15.0,
+        290.0,
+        98.0,
+        303.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        15.51,
+        317.44,
+        96.66,
+        331.17
+      ],
+      "confidence": 0.8706,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        15.37,
+        342.99,
+        79.49,
+        354.68
+      ],
+      "confidence": 0.879,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_12",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        16.05,
+        368.95,
+        60.8,
+        381.85
+      ],
+      "confidence": 0.9235,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        16.31,
+        394.72,
+        77.87,
+        406.34
+      ],
+      "confidence": 0.9212,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_14",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        14.96,
+        446.41,
+        51.34,
+        458.3
+      ],
+      "confidence": 0.9445,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_15",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        15.45,
+        473.71,
+        69.77,
+        488.78
+      ],
+      "confidence": 0.758,
+      "cluster_size": 3
+    },
+    {
+      "id": "fused_16",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        15.86,
+        499.71,
+        86.83,
+        511.19
+      ],
+      "confidence": 0.8608,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_17",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        15.48,
+        551.23,
+        96.69,
+        561.94
+      ],
+      "confidence": 0.9547,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "Needle devtools",
+      "bbox": [
+        16.0,
+        657.0,
+        151.0,
+        670.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "GEMINI",
+      "bbox": [
+        353.0,
+        589.0,
+        424.0,
+        600.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        15.5,
+        707.9,
+        60.48,
+        718.64
+      ],
+      "confidence": 0.9284,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "T-Shirts",
+      "bbox": [
+        16.0,
+        736.0,
+        88.0,
+        747.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "Windland",
+      "bbox": [
+        865.0,
+        448.0,
+        967.0,
+        465.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "ocr",
+      "class_label": "Discobrain",
+      "bbox": [
+        504.0,
+        716.0,
+        623.0,
+        735.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "ocr",
+      "class_label": "KUBOTA\nFUTURE\nCUBE",
+      "bbox": [
+        1376.0,
+        162.0,
+        1518.0,
+        235.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1092.0,
+        590.48,
+        1152.81,
+        603.85
+      ],
+      "confidence": 0.8863,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_26",
+      "source": "ocr",
+      "class_label": "Penderecki's Garden",
+      "bbox": [
+        1193.0,
+        586.0,
+        1351.0,
+        602.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "ocr",
+      "class_label": "ROGUE\nENGINE",
+      "bbox": [
+        1439.0,
+        564.0,
+        1519.0,
+        626.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "ocr",
+      "class_label": "Spline",
+      "bbox": [
+        1440.0,
+        719.0,
+        1505.0,
+        738.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        1007.0,
+        530.0,
+        1182.0,
+        661.0
+      ],
+      "confidence": 0.9861,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        15.37,
+        133.78,
+        131.66,
+        145.66
+      ],
+      "confidence": 0.8599,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_31",
+      "source": "ocr",
+      "class_label": "next iPhone",
+      "bbox": [
+        379.0,
+        202.0,
+        459.0,
+        215.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "ocr",
+      "class_label": "WORLD",
+      "bbox": [
+        519.0,
+        157.0,
+        607.0,
+        182.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "ocr",
+      "class_label": "Three.js Journey",
+      "bbox": [
+        16.0,
+        577.0,
+        160.0,
+        593.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "ocr",
+      "class_label": "Three.js Game Development",
+      "bbox": [
+        15.0,
+        605.0,
+        240.0,
+        620.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "ocr",
+      "class_label": "Three.js Resources",
+      "bbox": [
+        16.0,
+        631.0,
+        178.0,
+        645.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "ocr",
+      "class_label": "LEAP FOR MANKIND",
+      "bbox": [
+        666.0,
+        333.0,
+        816.0,
+        344.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "ocr",
+      "class_label": "INFINITE\nPASSERELLA",
+      "bbox": [
+        664.0,
+        440.0,
+        795.0,
+        466.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "ocr",
+      "class_label": "Polygonjs",
+      "bbox": [
+        1085.0,
+        458.0,
+        1151.0,
+        471.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        829.73,
+        397.46,
+        1006.06,
+        528.73
+      ],
+      "confidence": 0.9534,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_40",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        478.58,
+        135.53,
+        651.83,
+        264.71
+      ],
+      "confidence": 0.9751,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        478.0,
+        664.0,
+        653.0,
+        794.0
+      ],
+      "confidence": 0.9729,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        298.12,
+        0.0,
+        1314.86,
+        826.0
+      ],
+      "confidence": 0.9713,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "ocr",
+      "class_label": "three.js r184",
+      "bbox": [
+        17.0,
+        15.0,
+        143.0,
+        35.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "ocr",
+      "class_label": "A NUMBER\nFROM THE\nGHOST",
+      "bbox": [
+        498.0,
+        10.0,
+        634.0,
+        113.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "ocr",
+      "class_label": "UNIQUE\nJEWELRY",
+      "bbox": [
+        752.0,
+        174.0,
+        822.0,
+        204.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "ocr",
+      "class_label": "WORLD",
+      "bbox": [
+        507.0,
+        327.0,
+        623.0,
+        360.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "ocr",
+      "class_label": "nodetoy",
+      "bbox": [
+        347.0,
+        449.0,
+        431.0,
+        478.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "ocr",
+      "class_label": "Gergely Gizella",
+      "bbox": [
+        326.0,
+        708.0,
+        448.0,
+        726.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        1041.0,
+        445.0,
+        1079.0,
+        483.0
+      ],
+      "confidence": 0.947,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        831.11,
+        0.0,
+        1004.63,
+        132.2
+      ],
+      "confidence": 0.9453,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        479.94,
+        265.45,
+        652.15,
+        397.38
+      ],
+      "confidence": 0.9452,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        652.56,
+        133.73,
+        831.28,
+        263.4
+      ],
+      "confidence": 0.9417,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_53",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        15.57,
+        290.19,
+        96.9,
+        305.33
+      ],
+      "confidence": 0.9333,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_54",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1184.66,
+        132.68,
+        1356.3,
+        265.43
+      ],
+      "confidence": 0.9323,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_55",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        900.0,
+        301.0,
+        935.0,
+        326.0
+      ],
+      "confidence": 0.9286,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_56",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        652.9,
+        528.18,
+        830.29,
+        662.38
+      ],
+      "confidence": 0.9245,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_57",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        653.45,
+        1.89,
+        828.5,
+        132.6
+      ],
+      "confidence": 0.9224,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_58",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        957.0,
+        681.0,
+        984.0,
+        708.0
+      ],
+      "confidence": 0.9191,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_59",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        300.0,
+        350.0,
+        355.0,
+        355.0
+      ],
+      "confidence": 0.9167,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_60",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        653.03,
+        265.14,
+        828.27,
+        396.85
+      ],
+      "confidence": 0.9132,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_61",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        478.49,
+        396.61,
+        652.9,
+        529.58
+      ],
+      "confidence": 0.9118,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_62",
+      "source": "ocr",
+      "class_label": "by",
+      "bbox": [
+        762.0,
+        73.0,
+        775.0,
+        81.0
+      ],
+      "confidence": 0.91,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_63",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        830.04,
+        270.57,
+        1007.25,
+        398.15
+      ],
+      "confidence": 0.907,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_64",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        478.75,
+        531.68,
+        651.76,
+        662.77
+      ],
+      "confidence": 0.9068,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_65",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1359.01,
+        0.0,
+        1536.0,
+        131.95
+      ],
+      "confidence": 0.8961,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_66",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        829.66,
+        531.15,
+        1006.22,
+        663.43
+      ],
+      "confidence": 0.889,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_67",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        652.75,
+        662.61,
+        830.1,
+        820.94
+      ],
+      "confidence": 0.8889,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_68",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1183.65,
+        265.37,
+        1352.9,
+        396.9
+      ],
+      "confidence": 0.8886,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_69",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        14.67,
+        79.02,
+        59.86,
+        90.21
+      ],
+      "confidence": 0.8807,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_70",
+      "source": "ocr",
+      "class_label": "MERCURY",
+      "bbox": [
+        1097.0,
+        48.0,
+        1130.0,
+        54.0
+      ],
+      "confidence": 0.88,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_71",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        480.63,
+        0.0,
+        648.76,
+        133.59
+      ],
+      "confidence": 0.8733,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_72",
+      "source": "ocr",
+      "class_label": "JS",
+      "bbox": [
+        964.0,
+        47.0,
+        998.0,
+        82.0
+      ],
+      "confidence": 0.87,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_73",
+      "source": "ocr",
+      "class_label": "Illustration and Development",
+      "bbox": [
+        339.0,
+        730.0,
+        437.0,
+        740.0
+      ],
+      "confidence": 0.87,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_74",
+      "source": "ocr",
+      "class_label": "F*MMXX",
+      "bbox": [
+        721.0,
+        723.0,
+        761.0,
+        730.0
+      ],
+      "confidence": 0.87,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_75",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        478.66,
+        663.28,
+        650.77,
+        822.01
+      ],
+      "confidence": 0.8678,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_76",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1008.04,
+        662.18,
+        1181.97,
+        824.19
+      ],
+      "confidence": 0.8587,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_77",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        831.81,
+        133.55,
+        1006.7,
+        264.2
+      ],
+      "confidence": 0.8576,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_78",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        15.68,
+        734.61,
+        88.05,
+        747.59
+      ],
+      "confidence": 0.8542,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_79",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        653.42,
+        396.95,
+        828.85,
+        510.13
+      ],
+      "confidence": 0.854,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_80",
+      "source": "ocr",
+      "class_label": "UG.1996",
+      "bbox": [
+        299.0,
+        318.0,
+        357.0,
+        350.0
+      ],
+      "confidence": 0.84,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_81",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        16.21,
+        106.23,
+        88.54,
+        121.63
+      ],
+      "confidence": 0.8138,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_82",
+      "source": "ocr",
+      "class_label": "FOLIO NISAMI KU",
+      "bbox": [
+        336.0,
+        270.0,
+        477.0,
+        304.0
+      ],
+      "confidence": 0.8,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_83",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        15.38,
+        237.93,
+        68.66,
+        251.14
+      ],
+      "confidence": 0.7117,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_84",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        16.33,
+        17.3,
+        103.67,
+        35.9
+      ],
+      "confidence": 0.5954,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_85",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        111.23,
+        16.14,
+        146.02,
+        33.25
+      ],
+      "confidence": 0.5755,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_86",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1441.47,
+        717.47,
+        1505.49,
+        739.62
+      ],
+      "confidence": 0.5711,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_87",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1359.43,
+        794.43,
+        1536.0,
+        825.79
+      ],
+      "confidence": 0.5007,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_88",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1084.3,
+        457.14,
+        1150.42,
+        472.5
+      ],
+      "confidence": 0.4268,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_89",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        795.85,
+        109.74,
+        818.07,
+        131.49
+      ],
+      "confidence": 0.3806,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_90",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1377.44,
+        800.88,
+        1399.54,
+        813.86
+      ],
+      "confidence": 0.2231,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_91",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        15.49,
+        656.05,
+        70.18,
+        669.81
+      ],
+      "confidence": 0.1348,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_92",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        772.22,
+        9.87,
+        787.47,
+        24.14
+      ],
+      "confidence": 0.1187,
+      "cluster_size": 1
+    }
+  ]
+}

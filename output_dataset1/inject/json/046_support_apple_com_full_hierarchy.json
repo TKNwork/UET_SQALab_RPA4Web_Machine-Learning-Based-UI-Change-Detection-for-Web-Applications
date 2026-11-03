@@ -1,0 +1,281 @@
+{
+  "image": "046_support_apple_com.png",
+  "total_elements": 21,
+  "total_raw_nodes": 25,
+  "total_raw_edges": 21,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        282.0,
+        511.0,
+        427.0,
+        516.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        482.0,
+        343.0,
+        720.0,
+        354.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        280.0,
+        408.0,
+        411.0,
+        411.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        276.0,
+        118.0,
+        1260.0,
+        175.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        545.89,
+        25.97,
+        991.59,
+        60.64
+      ],
+      "confidence": 0.9545,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        848.19,
+        361.66,
+        1081.33,
+        439.4
+      ],
+      "confidence": 0.9504,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "Care",
+      "bbox": [
+        500.0,
+        490.0,
+        573.0,
+        513.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Every AppleCare plan provides one-stop\nservice for your Apple products, with\nquick and easy repairs for accidents like\ndrops and spills. You're also covered if\nyour iPhone, iPad, or Apple Watch is lost\nor stolen.",
+      "bbox": [
+        848.0,
+        462.0,
+        1159.0,
+        599.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Q Search Support",
+      "bbox": [
+        294.0,
+        134.0,
+        449.0,
+        155.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        849.97,
+        625.86,
+        948.85,
+        638.96
+      ],
+      "confidence": 0.8573,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        279.0,
+        279.0,
+        415.0,
+        407.0
+      ],
+      "confidence": 0.959,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        768.84,
+        266.03,
+        1258.15,
+        735.47
+      ],
+      "confidence": 0.9437,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        832.0,
+        791.0,
+        875.0,
+        818.0
+      ],
+      "confidence": 0.9251,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        277.51,
+        265.72,
+        768.19,
+        736.24
+      ],
+      "confidence": 0.8957,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "iPad Pro",
+      "bbox": [
+        726.0,
+        682.0,
+        756.0,
+        689.0
+      ],
+      "confidence": 0.86,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        327.41,
+        136.92,
+        448.23,
+        154.78
+      ],
+      "confidence": 0.6074,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        767.79,
+        788.38,
+        785.48,
+        824.86
+      ],
+      "confidence": 0.4556,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        833.13,
+        791.82,
+        873.48,
+        815.73
+      ],
+      "confidence": 0.3019,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        293.17,
+        132.38,
+        315.86,
+        156.55
+      ],
+      "confidence": 0.2608,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_19",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1163.49,
+        790.66,
+        1183.81,
+        818.95
+      ],
+      "confidence": 0.2409,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1244.33,
+        788.51,
+        1257.67,
+        824.99
+      ],
+      "confidence": 0.1925,
+      "cluster_size": 1
+    }
+  ]
+}

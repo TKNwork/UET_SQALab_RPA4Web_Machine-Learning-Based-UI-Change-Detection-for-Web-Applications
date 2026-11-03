@@ -1,0 +1,138 @@
+{
+  "image": "293_abebooks_com.png",
+  "total_elements": 10,
+  "total_raw_nodes": 10,
+  "total_raw_edges": 3,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "ocr",
+      "class_label": "This complete collection comprises all five photographs from history's most famous\nphotographic hoax. Created by cousins Frances Griffiths and Elsie Wright between 1917\nand 1920, these images fooled Arthur Conan Doyle and sparked international\ncontroversy.",
+      "bbox": [
+        262.0,
+        336.0,
+        974.0,
+        438.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "ocr",
+      "class_label": "The vintage sepia prints are mounted on original embossed brown card and housed in\ncrown-embossed wallets with tissue guards. In larger format than most examples at\nauction, this near-fine set remained undiscovered as a hoax until 1983, when the\ncousins finally revealed their paper cut-out fairies secured with hat pins.",
+      "bbox": [
+        262.0,
+        463.0,
+        962.0,
+        559.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "Complete set of five sepia photographs on original brown card mounts, showing Frances and Elsie's staged fairy\nencounters in the Cottingley woods",
+      "bbox": [
+        269.0,
+        278.0,
+        977.0,
+        310.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "Sold by Burnside Rare Books",
+      "bbox": [
+        262.0,
+        584.0,
+        494.0,
+        604.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "\"One of the greatest, most heart-warming photographic\nhoaxes of all time, where two young girls set out with a\ncamera to prove the existence of fairies. The photographs\nthey produced garnered a huge amount of publicity and a\ngreat controversy ensued among scientists and writers.",
+      "bbox": [
+        321.0,
+        690.0,
+        902.0,
+        825.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        265.25,
+        627.6,
+        983.61,
+        826.0
+      ],
+      "confidence": 0.9691,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        417.82,
+        1.9,
+        628.12,
+        257.98
+      ],
+      "confidence": 0.9463,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        329.14,
+        587.4,
+        496.09,
+        603.87
+      ],
+      "confidence": 0.9374,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        646.34,
+        1.54,
+        856.93,
+        257.74
+      ],
+      "confidence": 0.8514,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        262.68,
+        587.24,
+        323.79,
+        603.79
+      ],
+      "confidence": 0.3417,
+      "cluster_size": 1
+    }
+  ]
+}

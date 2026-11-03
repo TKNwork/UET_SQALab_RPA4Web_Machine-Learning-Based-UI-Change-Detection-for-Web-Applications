@@ -1,0 +1,268 @@
+{
+  "image": "424_brighteyedbaker_com.png",
+  "total_elements": 20,
+  "total_raw_nodes": 25,
+  "total_raw_edges": 8,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        0.0,
+        1536.0,
+        2.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        450.51,
+        32.53,
+        541.45,
+        51.46
+      ],
+      "confidence": 0.9355,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_2",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        580.97,
+        33.93,
+        663.19,
+        47.66
+      ],
+      "confidence": 0.9458,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "Portfolio",
+      "bbox": [
+        841.0,
+        34.0,
+        911.0,
+        47.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "Subscribe",
+      "bbox": [
+        951.0,
+        34.0,
+        1034.0,
+        47.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "BAKER",
+      "bbox": [
+        356.0,
+        50.0,
+        408.0,
+        61.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        219.77,
+        576.1,
+        813.65,
+        603.22
+      ],
+      "confidence": 0.9469,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        702.46,
+        33.81,
+        801.21,
+        47.72
+      ],
+      "confidence": 0.9516,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "I create, test, and photograph all of the recipes on Bright-Eyed\nBaker. I LOVE desserts and other baked goods - so you'll find\nplenty of those here - but I'm also a big fan of coffee and a good\ncraft cocktail. Be on the lookout for those recipes as well!",
+      "bbox": [
+        703.0,
+        234.0,
+        1239.0,
+        347.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "My goal here is twofold: create from scratch as much as possible, and make it approachable. For me, this means skipping the\nboxed mixes and other heavily-processed products, and opting for whole foods and simple ingredients as often as I can. It also\nmeans that you won't need to take a trip to an obscure grocery store or enroll in culinary school to make my recipes; they're\ndesigned to be made with ingredients that are accessible to the average person who wants to shop focally, using techniques that\nare easy to understand and master.",
+      "bbox": [
+        219.0,
+        634.0,
+        1295.0,
+        780.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        705.23,
+        146.17,
+        925.98,
+        169.06
+      ],
+      "confidence": 0.9487,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        840.92,
+        32.63,
+        911.62,
+        48.44
+      ],
+      "confidence": 0.9007,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "My friends call me Alex",
+      "bbox": [
+        703.0,
+        189.0,
+        906.0,
+        216.0
+      ],
+      "confidence": 0.9,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        950.03,
+        32.97,
+        1036.2,
+        48.44
+      ],
+      "confidence": 0.8877,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        224.1,
+        81.57,
+        642.42,
+        449.08
+      ],
+      "confidence": 0.8819,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        702.51,
+        194.53,
+        907.34,
+        217.93
+      ],
+      "confidence": 0.8514,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1188.45,
+        13.85,
+        1227.42,
+        52.9
+      ],
+      "confidence": 0.6746,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1099.25,
+        14.46,
+        1136.89,
+        52.44
+      ],
+      "confidence": 0.6448,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1143.6,
+        14.22,
+        1181.25,
+        52.76
+      ],
+      "confidence": 0.6385,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1278.86,
+        22.09,
+        1307.71,
+        49.96
+      ],
+      "confidence": 0.4281,
+      "cluster_size": 1
+    }
+  ]
+}

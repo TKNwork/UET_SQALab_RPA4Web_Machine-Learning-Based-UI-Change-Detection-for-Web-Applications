@@ -1,0 +1,268 @@
+{
+  "image": "235_plato_stanford_edu.png",
+  "total_elements": 20,
+  "total_raw_nodes": 26,
+  "total_raw_edges": 28,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1007.0,
+        344.0,
+        1215.0,
+        361.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1291.0,
+        0.0,
+        1294.0,
+        826.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        242.0,
+        0.0,
+        245.0,
+        826.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "Some things to do if special characters aren't displayed:",
+      "bbox": [
+        286.0,
+        708.0,
+        647.0,
+        722.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        287.37,
+        152.51,
+        983.29,
+        179.43
+      ],
+      "confidence": 0.961,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "Mac OS X/Leopard (10.5). The versions of Safari, Firefox, Camino, Mozilla, and OmniWeb that run under Mac OS X 10.5 have all been tested successfully.\nHowever, for the best results, you should set the font to Times or Lucida Grande, since these fonts seems to have the widest support for Unicode\ncharacters in Mac OS X. We've also tested Opera with pretty good success. See also Alan Wood's Unicode Resources: Unicode fonts for Macintosh OS X\ncomputers.",
+      "bbox": [
+        287.0,
+        301.0,
+        1227.0,
+        383.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        292.73,
+        465.52,
+        1197.56,
+        525.69
+      ],
+      "confidence": 0.9595,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Microsoft Windows XP, NT, 2000, ME, and 98",
+      "bbox": [
+        289.0,
+        558.0,
+        842.0,
+        585.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        282.64,
+        607.63,
+        1246.46,
+        687.1
+      ],
+      "confidence": 0.9232,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "Some users need only use the Windows Update mechanism built into Internet Explorer to install support for the East Asian languages on your\nWindows machine. For some reason, this makes the Unicode fonts available to IE!",
+      "bbox": [
+        327.0,
+        746.0,
+        1207.0,
+        781.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        246.26,
+        0.0,
+        1284.78,
+        826.0
+      ],
+      "confidence": 0.9733,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        288.68,
+        10.08,
+        901.52,
+        35.27
+      ],
+      "confidence": 0.913,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_12",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        279.79,
+        58.92,
+        1227.48,
+        117.61
+      ],
+      "confidence": 0.9523,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "Windows/Vista. Though we have had limited opportunities to test our pages on Vista machines, the best results are obtained when using Firefox as the\nbrowser using its default font. We've had reports that Internet Explorer may lack certain special Unicode characters that we use. If you can't install Firefox,\nthen try: Start → Settings → Control Panel; switch to the Classic View of the Control Panel; select Regional and Language → Languages and then check\nboth \"Install files for complex script\" and \"Install files for East Asian languages\". Then Restart your computer so the new fonts will get loaded.",
+      "bbox": [
+        286.0,
+        201.0,
+        1242.0,
+        282.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1294.14,
+        1.48,
+        1535.32,
+        826.0
+      ],
+      "confidence": 0.9676,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        285.78,
+        415.67,
+        861.27,
+        443.44
+      ],
+      "confidence": 0.9399,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_16",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        0.44,
+        4.5,
+        241.67,
+        821.38
+      ],
+      "confidence": 0.9534,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "• In IE select the Tools →→ Windows Update menu item",
+      "bbox": [
+        356.0,
+        791.0,
+        691.0,
+        803.0
+      ],
+      "confidence": 0.93,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        650.0,
+        823.0,
+        681.0,
+        826.0
+      ],
+      "confidence": 0.8611,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        301.97,
+        707.03,
+        645.37,
+        722.91
+      ],
+      "confidence": 0.6469,
+      "cluster_size": 1
+    }
+  ]
+}

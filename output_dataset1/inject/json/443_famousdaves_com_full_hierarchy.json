@@ -1,0 +1,307 @@
+{
+  "image": "443_famousdaves_com.png",
+  "total_elements": 23,
+  "total_raw_nodes": 28,
+  "total_raw_edges": 12,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        140.9,
+        31.08,
+        190.28,
+        44.86
+      ],
+      "confidence": 0.9097,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_1",
+      "source": "ocr",
+      "class_label": "change location",
+      "bbox": [
+        162.0,
+        455.0,
+        270.0,
+        470.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "OUR MENU",
+      "bbox": [
+        611.0,
+        180.0,
+        924.0,
+        222.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "ocr",
+      "class_label": "Grab a seat it's BBQ time!",
+      "bbox": [
+        655.0,
+        260.0,
+        883.0,
+        276.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1210.49,
+        48.39,
+        1294.1,
+        59.09
+      ],
+      "confidence": 0.9213,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        659.74,
+        808.8,
+        876.94,
+        823.42
+      ],
+      "confidence": 0.8189,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "LOCATIONS CATERING GIFT CARDS REWARDS",
+      "bbox": [
+        216.0,
+        31.0,
+        688.0,
+        45.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Find a Famous Dave's",
+      "bbox": [
+        162.0,
+        435.0,
+        307.0,
+        446.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        984.6,
+        30.8,
+        1173.7,
+        45.79
+      ],
+      "confidence": 0.9232,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "SMOKIN APPS",
+      "bbox": [
+        265.0,
+        809.0,
+        401.0,
+        823.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "FAMOUS FEASTS",
+      "bbox": [
+        1123.0,
+        807.0,
+        1284.0,
+        824.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1357.08,
+        32.94,
+        1448.8,
+        42.42
+      ],
+      "confidence": 0.8564,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_12",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1318.48,
+        15.01,
+        1467.31,
+        60.76
+      ],
+      "confidence": 0.9322,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        598.65,
+        31.37,
+        686.99,
+        45.36
+      ],
+      "confidence": 0.9292,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "Dave's",
+      "bbox": [
+        44.0,
+        40.0,
+        103.0,
+        70.0
+      ],
+      "confidence": 0.92,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        216.27,
+        31.3,
+        318.66,
+        44.66
+      ],
+      "confidence": 0.9133,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        461.13,
+        30.78,
+        573.02,
+        45.71
+      ],
+      "confidence": 0.908,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        345.51,
+        31.19,
+        434.41,
+        44.66
+      ],
+      "confidence": 0.9076,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        31.9,
+        6.36,
+        112.73,
+        88.14
+      ],
+      "confidence": 0.6202,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1238.21,
+        16.44,
+        1266.94,
+        43.95
+      ],
+      "confidence": 0.5403,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        960.42,
+        17.88,
+        977.57,
+        57.33
+      ],
+      "confidence": 0.4983,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1483.34,
+        23.69,
+        1500.72,
+        46.98
+      ],
+      "confidence": 0.4428,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        121.53,
+        435.66,
+        148.33,
+        471.7
+      ],
+      "confidence": 0.1453,
+      "cluster_size": 1
+    }
+  ]
+}

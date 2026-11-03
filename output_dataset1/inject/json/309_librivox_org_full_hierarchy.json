@@ -1,0 +1,892 @@
+{
+  "image": "309_librivox_org.png",
+  "total_elements": 68,
+  "total_raw_nodes": 85,
+  "total_raw_edges": 47,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        301.0,
+        809.0,
+        351.0,
+        813.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        287.73,
+        36.64,
+        466.33,
+        48.05
+      ],
+      "confidence": 0.8593,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_2",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        386.37,
+        72.64,
+        429.01,
+        83.11
+      ],
+      "confidence": 0.7974,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_3",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        289.18,
+        190.72,
+        547.84,
+        206.74
+      ],
+      "confidence": 0.9637,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        634.5,
+        72.95,
+        661.7,
+        83.95
+      ],
+      "confidence": 0.8085,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "Genre/Subject",
+      "bbox": [
+        843.0,
+        73.0,
+        933.0,
+        85.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1097.16,
+        71.92,
+        1158.64,
+        86.19
+      ],
+      "confidence": 0.7997,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        970.05,
+        190.94,
+        1086.23,
+        206.59
+      ],
+      "confidence": 0.9625,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Jeremiah",
+      "bbox": [
+        301.0,
+        255.0,
+        350.0,
+        267.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "Jeremiah: Priest and Prophet",
+      "bbox": [
+        409.0,
+        254.0,
+        618.0,
+        269.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "A narrative of travels on the Amazon and Rio Negro",
+      "bbox": [
+        409.0,
+        349.0,
+        777.0,
+        363.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "The Smack in School",
+      "bbox": [
+        410.0,
+        625.0,
+        560.0,
+        636.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        407.61,
+        809.37,
+        761.58,
+        824.1
+      ],
+      "confidence": 0.8837,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        969.81,
+        535.32,
+        1209.6,
+        564.31
+      ],
+      "confidence": 0.9616,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "Alfred Russel Wallace (1823-1913)",
+      "bbox": [
+        408.0,
+        370.0,
+        595.0,
+        383.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "The Black Cat Vol. 06 No. 04 January 1901\nVarious",
+      "bbox": [
+        409.0,
+        440.0,
+        707.0,
+        472.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "LibriVox",
+      "bbox": [
+        300.0,
+        560.0,
+        351.0,
+        570.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "In the Land of the Lion and Sun, or, Modern Persia",
+      "bbox": [
+        409.0,
+        533.0,
+        768.0,
+        546.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "William Pitt Palmer (1805-1884)",
+      "bbox": [
+        409.0,
+        645.0,
+        578.0,
+        658.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        409.72,
+        717.33,
+        537.8,
+        729.76
+      ],
+      "confidence": 0.94,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_20",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        409.22,
+        737.69,
+        609.25,
+        753.93
+      ],
+      "confidence": 0.8321,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "LibriVox Community Podcast\n#162",
+      "bbox": [
+        969.0,
+        228.0,
+        1213.0,
+        258.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "Listen to LibriVox Community Podcast #162",
+      "bbox": [
+        969.0,
+        286.0,
+        1241.0,
+        299.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        291.84,
+        714.42,
+        359.35,
+        781.23
+      ],
+      "confidence": 0.8049,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_24",
+      "source": "ocr",
+      "class_label": "LibriVox",
+      "bbox": [
+        299.0,
+        467.0,
+        351.0,
+        477.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "ocr",
+      "class_label": "Charles James Wills (1842-1912)",
+      "bbox": [
+        409.0,
+        554.0,
+        587.0,
+        567.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "ocr",
+      "class_label": "Posted on December 3, 2025",
+      "bbox": [
+        969.0,
+        267.0,
+        1100.0,
+        278.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "ocr",
+      "class_label": "- Careers and LibriVox. Hosted by jpercival.\nDuration: 12:35 Contributors: jpercival,\nshrimpphish, sjmarky 0:00 -\nIntroduction0:22 - Job Work as read by\nLarry Wilson from the October 13, 2019\nWeekly Poetry Collection 1:52 - New\nLanguage Update2:12 - Statistics and\nLibriversaries3:20 - Archive Diving - What's\nYour Time Budget for [...]",
+      "bbox": [
+        968.0,
+        308.0,
+        1243.0,
+        503.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "ocr",
+      "class_label": "Listen to LibriVox Community Podcast #161",
+      "bbox": [
+        969.0,
+        595.0,
+        1239.0,
+        608.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "ocr",
+      "class_label": "- Continuing the Social Connection\nConversation with the LibriVox Community.\nHosted by jpercival. Duration: 17:10\nContributors: jpercival, shrimpphish,\ncarriemaestreb, sjr8545 0:00 - Introduction\n0:22 - The Twenty Mule Team Brigade from\nthe LibriVox 20th Anniversary Collection 1:28",
+      "bbox": [
+        968.0,
+        615.0,
+        1247.0,
+        765.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "ocr",
+      "class_label": "- 20th Anniversary Congratulations 1:44-\nStatistics and Libriversaries 2:55 - Archive",
+      "bbox": [
+        968.0,
+        775.0,
+        1233.0,
+        809.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        291.62,
+        344.48,
+        359.14,
+        411.33
+      ],
+      "confidence": 0.8441,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_32",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        291.78,
+        252.86,
+        359.4,
+        319.55
+      ],
+      "confidence": 0.8473,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_33",
+      "source": "ocr",
+      "class_label": "Priest and\nProphet",
+      "bbox": [
+        324.0,
+        269.0,
+        357.0,
+        288.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "ocr",
+      "class_label": "Frederick Brotherton Meyer (1847-1929)\nComplete | Solo | English",
+      "bbox": [
+        408.0,
+        278.0,
+        626.0,
+        307.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "ocr",
+      "class_label": "Posted on October 15, 2025",
+      "bbox": [
+        969.0,
+        576.0,
+        1097.0,
+        585.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        292.58,
+        622.51,
+        358.9,
+        689.37
+      ],
+      "confidence": 0.8475,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_37",
+      "source": "ocr",
+      "class_label": "Complete | Collaborative | English",
+      "bbox": [
+        409.0,
+        482.0,
+        574.0,
+        492.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "ocr",
+      "class_label": "Complete | Collaborative | English",
+      "bbox": [
+        408.0,
+        575.0,
+        575.0,
+        586.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        794.9,
+        194.03,
+        930.72,
+        206.09
+      ],
+      "confidence": 0.9211,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_40",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1168.05,
+        196.83,
+        1248.0,
+        204.92
+      ],
+      "confidence": 0.8577,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_41",
+      "source": "ocr",
+      "class_label": "Complete | Poetry_fortnightly | English",
+      "bbox": [
+        408.0,
+        667.0,
+        596.0,
+        678.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "ocr",
+      "class_label": "Complete | Poetry_weekly | English",
+      "bbox": [
+        408.0,
+        759.0,
+        582.0,
+        771.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "ocr",
+      "class_label": "Complete | Solo | English",
+      "bbox": [
+        409.0,
+        390.0,
+        533.0,
+        401.0
+      ],
+      "confidence": 0.93,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        971.2,
+        226.76,
+        1201.33,
+        255.35
+      ],
+      "confidence": 0.9013,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        288.04,
+        518.42,
+        921.64,
+        608.47
+      ],
+      "confidence": 0.895,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        409.82,
+        623.72,
+        559.02,
+        636.72
+      ],
+      "confidence": 0.8886,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "ocr",
+      "class_label": "The Faded\nFlower",
+      "bbox": [
+        305.0,
+        719.0,
+        345.0,
+        735.0
+      ],
+      "confidence": 0.85,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "ocr",
+      "class_label": "The Smack in School",
+      "bbox": [
+        295.0,
+        624.0,
+        357.0,
+        630.0
+      ],
+      "confidence": 0.81,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        842.04,
+        71.3,
+        933.55,
+        86.46
+      ],
+      "confidence": 0.7825,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        299.14,
+        465.93,
+        351.37,
+        476.37
+      ],
+      "confidence": 0.7435,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        408.38,
+        441.37,
+        711.36,
+        455.08
+      ],
+      "confidence": 0.7348,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        412.53,
+        255.38,
+        621.29,
+        269.74
+      ],
+      "confidence": 0.7079,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_53",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        969.18,
+        574.65,
+        1102.59,
+        585.83
+      ],
+      "confidence": 0.681,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_54",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        968.58,
+        266.82,
+        1105.47,
+        276.21
+      ],
+      "confidence": 0.6641,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_55",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        290.15,
+        528.44,
+        357.46,
+        597.51
+      ],
+      "confidence": 0.6363,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_56",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        290.57,
+        436.36,
+        358.05,
+        505.0
+      ],
+      "confidence": 0.5824,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_57",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        292.78,
+        807.13,
+        358.22,
+        825.34
+      ],
+      "confidence": 0.554,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_58",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        410.13,
+        277.04,
+        622.26,
+        294.14
+      ],
+      "confidence": 0.5232,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_59",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        410.35,
+        255.92,
+        480.07,
+        267.07
+      ],
+      "confidence": 0.3173,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_60",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        408.05,
+        460.73,
+        453.8,
+        472.57
+      ],
+      "confidence": 0.2959,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_61",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        299.31,
+        558.41,
+        351.84,
+        568.84
+      ],
+      "confidence": 0.2823,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_62",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        364.27,
+        67.42,
+        377.2,
+        86.18
+      ],
+      "confidence": 0.2667,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_63",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1070.45,
+        69.77,
+        1087.98,
+        89.32
+      ],
+      "confidence": 0.2458,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_64",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        820.04,
+        68.27,
+        829.92,
+        87.7
+      ],
+      "confidence": 0.2144,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_65",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        537.24,
+        482.47,
+        575.14,
+        491.42
+      ],
+      "confidence": 0.2007,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_66",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        602.97,
+        70.47,
+        621.23,
+        85.88
+      ],
+      "confidence": 0.1959,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_67",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1238.31,
+        198.18,
+        1247.34,
+        204.71
+      ],
+      "confidence": 0.121,
+      "cluster_size": 1
+    }
+  ]
+}

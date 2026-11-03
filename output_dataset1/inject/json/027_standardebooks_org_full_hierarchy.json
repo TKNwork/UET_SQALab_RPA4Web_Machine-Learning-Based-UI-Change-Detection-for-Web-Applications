@@ -1,0 +1,164 @@
+{
+  "image": "027_standardebooks_org.png",
+  "total_elements": 12,
+  "total_raw_nodes": 14,
+  "total_raw_edges": 2,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        326.0,
+        806.0,
+        1210.0,
+        826.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        98.0,
+        1536.0,
+        101.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        316.74,
+        302.27,
+        1217.26,
+        655.79
+      ],
+      "confidence": 0.9811,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_3",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        442.54,
+        151.03,
+        1095.14,
+        189.23
+      ],
+      "confidence": 0.9742,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "to receive missives from the vanguard of digital literature",
+      "bbox": [
+        313.0,
+        225.0,
+        1223.0,
+        263.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "ocr",
+      "class_label": "Subscribe to receive news, updates, and more from Standard Ebooks. Your information will never",
+      "bbox": [
+        328.0,
+        705.0,
+        1209.0,
+        724.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "be shared, and you can unsubscribe at any time.",
+      "bbox": [
+        327.0,
+        734.0,
+        753.0,
+        753.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Your email address",
+      "bbox": [
+        327.0,
+        786.0,
+        503.0,
+        800.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        780.53,
+        45.85,
+        786.48,
+        52.72
+      ],
+      "confidence": 0.2926,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        748.72,
+        45.52,
+        755.27,
+        53.12
+      ],
+      "confidence": 0.2801,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        810.36,
+        45.24,
+        818.0,
+        53.56
+      ],
+      "confidence": 0.2516,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        716.89,
+        45.51,
+        724.18,
+        52.98
+      ],
+      "confidence": 0.2143,
+      "cluster_size": 1
+    }
+  ]
+}

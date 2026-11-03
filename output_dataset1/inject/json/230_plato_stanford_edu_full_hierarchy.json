@@ -1,0 +1,619 @@
+{
+  "image": "230_plato_stanford_edu.png",
+  "total_elements": 47,
+  "total_raw_nodes": 56,
+  "total_raw_edges": 94,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        911.0,
+        802.0,
+        1142.0,
+        819.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1039.0,
+        702.0,
+        1238.0,
+        718.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        1291.0,
+        0.0,
+        1294.0,
+        826.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        242.0,
+        0.0,
+        245.0,
+        826.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        290.67,
+        445.28,
+        1251.93,
+        605.59
+      ],
+      "confidence": 0.9808,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        352.43,
+        147.89,
+        416.14,
+        161.93
+      ],
+      "confidence": 0.9157,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "Stanford Encyclopedia of Philosophy",
+      "bbox": [
+        490.0,
+        37.0,
+        1093.0,
+        79.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        462.63,
+        245.52,
+        544.43,
+        267.65
+      ],
+      "confidence": 0.9381,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_8",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        293.84,
+        302.78,
+        397.68,
+        320.02
+      ],
+      "confidence": 0.89,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_9",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        971.86,
+        246.53,
+        1061.46,
+        268.45
+      ],
+      "confidence": 0.9346,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "ocr",
+      "class_label": "Archives",
+      "bbox": [
+        989.0,
+        358.0,
+        1038.0,
+        367.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        313.25,
+        481.92,
+        1180.47,
+        530.03
+      ],
+      "confidence": 0.9345,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_12",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        242.49,
+        0.0,
+        1301.37,
+        825.26
+      ],
+      "confidence": 0.9812,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "About Support SEP",
+      "bbox": [
+        457.0,
+        146.0,
+        671.0,
+        165.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        462.53,
+        355.11,
+        542.62,
+        369.5
+      ],
+      "confidence": 0.7984,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_15",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        955.94,
+        303.84,
+        1102.45,
+        320.09
+      ],
+      "confidence": 0.9089,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "What's New",
+      "bbox": [
+        867.0,
+        357.0,
+        935.0,
+        367.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "Random Entry",
+      "bbox": [
+        1091.0,
+        356.0,
+        1176.0,
+        369.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "Co-Principal Editors: Edward N. Zalta and Uri Nodelman",
+      "bbox": [
+        319.0,
+        558.0,
+        664.0,
+        572.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        285.67,
+        639.84,
+        564.55,
+        658.3
+      ],
+      "confidence": 0.9187,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "• The Offices of the Provost, the Dean of Humanities and Sciences, and the Dean of Research, Stanford University",
+      "bbox": [
+        315.0,
+        675.0,
+        949.0,
+        688.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "• The SEP Library Fund: containing contributions from the National Endowment for the Humanities and the membership dues of academic libraries that have joined\nSEPIA.",
+      "bbox": [
+        315.0,
+        701.0,
+        1237.0,
+        734.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "• The Friends of the SEP Society Fund: containing membership dues from individuals who have joined the Friends of the SEP Society to obtain such member benefits",
+      "bbox": [
+        315.0,
+        804.0,
+        1241.0,
+        817.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "ocr",
+      "class_label": "Masthead | Editorial Board",
+      "bbox": [
+        1038.0,
+        557.0,
+        1201.0,
+        573.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "ocr",
+      "class_label": "• The O.C. Tanner SEP Fund: containing a gift from the O.C. Tanner Company.",
+      "bbox": [
+        315.0,
+        750.0,
+        749.0,
+        763.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "ocr",
+      "class_label": "• The John Perry Fund and The SEP Fund: containing contributions from individual donors.",
+      "bbox": [
+        315.0,
+        777.0,
+        828.0,
+        790.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        837.96,
+        348.16,
+        950.95,
+        379.1
+      ],
+      "confidence": 0.952,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1293.85,
+        0.0,
+        1535.35,
+        825.48
+      ],
+      "confidence": 0.952,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        492.33,
+        41.57,
+        1094.35,
+        82.86
+      ],
+      "confidence": 0.9267,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        955.9,
+        348.36,
+        1053.4,
+        378.56
+      ],
+      "confidence": 0.916,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1056.77,
+        347.88,
+        1190.42,
+        377.82
+      ],
+      "confidence": 0.8997,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        285.12,
+        288.32,
+        723.57,
+        337.04
+      ],
+      "confidence": 0.8791,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1034.94,
+        702.58,
+        1236.29,
+        715.54
+      ],
+      "confidence": 0.8587,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1037.34,
+        558.72,
+        1202.14,
+        573.76
+      ],
+      "confidence": 0.8573,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        561.52,
+        147.36,
+        672.89,
+        167.66
+      ],
+      "confidence": 0.8381,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        859.94,
+        357.19,
+        935.87,
+        370.12
+      ],
+      "confidence": 0.8286,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        320.02,
+        558.04,
+        668.28,
+        574.24
+      ],
+      "confidence": 0.8223,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        431.14,
+        346.21,
+        572.73,
+        377.76
+      ],
+      "confidence": 0.821,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1087.08,
+        356.67,
+        1175.54,
+        370.41
+      ],
+      "confidence": 0.7505,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        910.34,
+        803.3,
+        1059.65,
+        817.11
+      ],
+      "confidence": 0.7387,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        977.04,
+        357.22,
+        1037.85,
+        369.93
+      ],
+      "confidence": 0.6899,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        451.18,
+        147.0,
+        514.94,
+        163.24
+      ],
+      "confidence": 0.6004,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        537.04,
+        146.46,
+        555.95,
+        163.0
+      ],
+      "confidence": 0.5333,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        328.8,
+        146.75,
+        346.1,
+        162.78
+      ],
+      "confidence": 0.426,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1070.26,
+        356.1,
+        1086.06,
+        369.91
+      ],
+      "confidence": 0.2685,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        928.72,
+        303.5,
+        950.49,
+        321.3
+      ],
+      "confidence": 0.2089,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        439.7,
+        147.29,
+        454.83,
+        163.58
+      ],
+      "confidence": 0.1638,
+      "cluster_size": 1
+    }
+  ]
+}

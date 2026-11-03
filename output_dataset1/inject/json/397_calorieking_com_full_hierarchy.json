@@ -1,0 +1,177 @@
+{
+  "image": "397_calorieking_com.png",
+  "total_elements": 13,
+  "total_raw_nodes": 17,
+  "total_raw_edges": 19,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        589.0,
+        1536.0,
+        592.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        287.0,
+        298.0,
+        1249.0,
+        349.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        89.0,
+        1536.0,
+        92.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        424.41,
+        178.96,
+        1114.91,
+        215.48
+      ],
+      "confidence": 0.9618,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        408.2,
+        246.99,
+        1138.49,
+        271.23
+      ],
+      "confidence": 0.9421,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_5",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        630.56,
+        405.0,
+        904.36,
+        413.99
+      ],
+      "confidence": 0.8996,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        663.1,
+        735.15,
+        873.27,
+        757.03
+      ],
+      "confidence": 0.9315,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "QEnter a food or brand name",
+      "bbox": [
+        313.0,
+        314.0,
+        546.0,
+        330.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        0.0,
+        91.61,
+        1232.22,
+        589.33
+      ],
+      "confidence": 0.9599,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "下",
+      "bbox": [
+        866.0,
+        478.0,
+        896.0,
+        502.0
+      ],
+      "confidence": 0.87,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        832.77,
+        441.68,
+        895.41,
+        504.25
+      ],
+      "confidence": 0.5893,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_11",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        639.64,
+        441.45,
+        703.42,
+        503.54
+      ],
+      "confidence": 0.5359,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        312.69,
+        313.67,
+        333.73,
+        333.46
+      ],
+      "confidence": 0.1176,
+      "cluster_size": 1
+    }
+  ]
+}

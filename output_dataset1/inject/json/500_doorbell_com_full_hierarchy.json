@@ -1,0 +1,1022 @@
+{
+  "image": "500_doorbell_com.png",
+  "total_elements": 78,
+  "total_raw_nodes": 80,
+  "total_raw_edges": 39,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        204.0,
+        712.0,
+        207.0,
+        776.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_1",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        587.0,
+        221.0,
+        594.0,
+        395.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        557.0,
+        221.0,
+        564.0,
+        377.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        158.0,
+        1536.0,
+        164.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_4",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        0.0,
+        119.0,
+        1536.0,
+        124.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "cv",
+      "class_label": "divider",
+      "bbox": [
+        525.0,
+        62.0,
+        1139.0,
+        106.0
+      ],
+      "confidence": 1.0,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "doorbells online",
+      "bbox": [
+        79.0,
+        71.0,
+        379.0,
+        100.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Search",
+      "bbox": [
+        537.0,
+        80.0,
+        575.0,
+        89.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "programmable doorbell SD-Card, hifi sound",
+      "bbox": [
+        20.0,
+        411.0,
+        342.0,
+        429.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "ocr",
+      "class_label": "tubular gong, silver-grey",
+      "bbox": [
+        403.0,
+        412.0,
+        589.0,
+        431.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_10",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        788.12,
+        413.65,
+        956.07,
+        429.28
+      ],
+      "confidence": 0.9409,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "lighted doorbell, round, aluminum faceplate,\nwhite LED, wall-mounted",
+      "bbox": [
+        1171.0,
+        413.0,
+        1508.0,
+        445.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "ocr",
+      "class_label": "doorbells bell push doorknockers",
+      "bbox": [
+        45.0,
+        136.0,
+        327.0,
+        150.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_13",
+      "source": "ocr",
+      "class_label": "My Account",
+      "bbox": [
+        1102.0,
+        14.0,
+        1178.0,
+        28.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "Programmable doorchimes with hifi sound and slot\nfor SD card. Best function and brilliance in sound.\nWhite glossy surface...",
+      "bbox": [
+        18.0,
+        442.0,
+        356.0,
+        496.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "$142.90",
+      "bbox": [
+        20.0,
+        513.0,
+        78.0,
+        526.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "tubular gong -two-tone, bright sound with long\nreverberation -high polished, silver-grey surface,\nmat Double stroke Y..",
+      "bbox": [
+        403.0,
+        443.0,
+        720.0,
+        494.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "Exceptional doorbell: -perfectly formed hemisphere -\nhighly polished surface with silver mirror effect -\nbright sound wi..",
+      "bbox": [
+        787.0,
+        441.0,
+        1135.0,
+        496.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "This bell push bridges the gap between modern and\ntraditional design. An all-metal push button is\nsurrounded by a thin hal..",
+      "bbox": [
+        1171.0,
+        458.0,
+        1511.0,
+        512.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "$98.90",
+      "bbox": [
+        1172.0,
+        530.0,
+        1222.0,
+        542.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "ocr",
+      "class_label": "We use cookies to enhance your user experience. By clicking any link on this page your are giving your consent for us to set cookies. More...",
+      "bbox": [
+        273.0,
+        795.0,
+        1183.0,
+        810.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_21",
+      "source": "ocr",
+      "class_label": "USA Canada Australia 30 days return shop@doorbell.com",
+      "bbox": [
+        32.0,
+        15.0,
+        508.0,
+        29.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "knobs switch-buttons",
+      "bbox": [
+        357.0,
+        136.0,
+        524.0,
+        147.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "ocr",
+      "class_label": "Wish List (0) Shopping Cart Checkout",
+      "bbox": [
+        1221.0,
+        15.0,
+        1518.0,
+        28.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "ocr",
+      "class_label": "$186.90",
+      "bbox": [
+        404.0,
+        513.0,
+        462.0,
+        525.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "ocr",
+      "class_label": "$219.90",
+      "bbox": [
+        788.0,
+        512.0,
+        847.0,
+        526.0
+      ],
+      "confidence": 0.97,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_26",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        1253.0,
+        671.0,
+        1435.0,
+        777.0
+      ],
+      "confidence": 0.9698,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "ocr",
+      "class_label": "+ ADD TO CART",
+      "bbox": [
+        844.0,
+        598.0,
+        951.0,
+        610.0
+      ],
+      "confidence": 0.96,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "ocr",
+      "class_label": "0 item(s) - $0.00",
+      "bbox": [
+        1308.0,
+        77.0,
+        1395.0,
+        90.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_29",
+      "source": "ocr",
+      "class_label": "+ ADD TO CART",
+      "bbox": [
+        77.0,
+        598.0,
+        183.0,
+        611.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "ocr",
+      "class_label": "+ ADD TO CART",
+      "bbox": [
+        461.0,
+        597.0,
+        565.0,
+        609.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        1202.0,
+        787.0,
+        1255.0,
+        815.0
+      ],
+      "confidence": 0.9417,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "ocr",
+      "class_label": "+ ADD TO CART",
+      "bbox": [
+        1228.0,
+        596.0,
+        1334.0,
+        609.0
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        476.48,
+        662.02,
+        675.6,
+        777.29
+      ],
+      "confidence": 0.9384,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        1337.0,
+        726.0,
+        1397.0,
+        743.0
+      ],
+      "confidence": 0.9191,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        1257.69,
+        216.13,
+        1431.18,
+        389.82
+      ],
+      "confidence": 0.9109,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        404.27,
+        413.62,
+        588.29,
+        429.85
+      ],
+      "confidence": 0.9002,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "ocr",
+      "class_label": "I agree",
+      "bbox": [
+        1206.0,
+        796.0,
+        1252.0,
+        810.0
+      ],
+      "confidence": 0.9,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        236.36,
+        135.94,
+        325.91,
+        146.51
+      ],
+      "confidence": 0.8944,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        426.6,
+        136.12,
+        537.87,
+        146.57
+      ],
+      "confidence": 0.864,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        398.22,
+        580.73,
+        609.36,
+        622.67
+      ],
+      "confidence": 0.8513,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        17.74,
+        413.04,
+        346.27,
+        429.66
+      ],
+      "confidence": 0.8454,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        524.4,
+        63.58,
+        709.49,
+        106.14
+      ],
+      "confidence": 0.83,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        356.03,
+        136.05,
+        395.49,
+        146.34
+      ],
+      "confidence": 0.8279,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        238.27,
+        14.7,
+        346.73,
+        28.81
+      ],
+      "confidence": 0.8177,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1051.05,
+        64.76,
+        1138.34,
+        104.68
+      ],
+      "confidence": 0.8131,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_46",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        781.96,
+        580.65,
+        994.72,
+        622.78
+      ],
+      "confidence": 0.7835,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_47",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1085.98,
+        14.19,
+        1179.81,
+        29.18
+      ],
+      "confidence": 0.7789,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_48",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        142.98,
+        135.77,
+        216.84,
+        150.49
+      ],
+      "confidence": 0.7698,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_49",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        359.15,
+        14.05,
+        510.36,
+        28.94
+      ],
+      "confidence": 0.7524,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_50",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        13.64,
+        580.77,
+        229.13,
+        622.73
+      ],
+      "confidence": 0.7345,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_51",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1223.01,
+        14.36,
+        1302.11,
+        29.65
+      ],
+      "confidence": 0.6866,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_52",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1291.68,
+        77.53,
+        1397.18,
+        91.38
+      ],
+      "confidence": 0.667,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_53",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        859.64,
+        63.83,
+        1051.72,
+        106.01
+      ],
+      "confidence": 0.6598,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_54",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        67.09,
+        597.67,
+        182.75,
+        607.79
+      ],
+      "confidence": 0.6338,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_55",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        45.71,
+        135.93,
+        121.89,
+        146.21
+      ],
+      "confidence": 0.6043,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_56",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        28.51,
+        16.76,
+        62.21,
+        25.33
+      ],
+      "confidence": 0.6208,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_57",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        683.8,
+        580.22,
+        751.86,
+        623.28
+      ],
+      "confidence": 0.5991,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_58",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        82.58,
+        15.2,
+        134.19,
+        26.04
+      ],
+      "confidence": 0.5882,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_59",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1279.88,
+        781.76,
+        1311.52,
+        806.49
+      ],
+      "confidence": 0.5361,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_60",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        299.46,
+        580.08,
+        368.09,
+        623.31
+      ],
+      "confidence": 0.5326,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_61",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        157.13,
+        14.37,
+        220.03,
+        25.98
+      ],
+      "confidence": 0.5315,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_62",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1204.1,
+        790.36,
+        1255.08,
+        814.02
+      ],
+      "confidence": 0.5041,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_63",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        537.07,
+        78.52,
+        577.0,
+        89.97
+      ],
+      "confidence": 0.4788,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_64",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1205.01,
+        795.54,
+        1254.26,
+        811.47
+      ],
+      "confidence": 0.354,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_65",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        255.97,
+        596.01,
+        271.0,
+        609.0
+      ],
+      "confidence": 0.3224,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_66",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1024.17,
+        595.67,
+        1038.98,
+        608.93
+      ],
+      "confidence": 0.3074,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_67",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        710.0,
+        597.79,
+        725.81,
+        607.81
+      ],
+      "confidence": 0.2845,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_68",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        640.03,
+        595.38,
+        655.43,
+        609.18
+      ],
+      "confidence": 0.2747,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_69",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        325.99,
+        597.88,
+        341.74,
+        607.93
+      ],
+      "confidence": 0.2683,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_70",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1205.35,
+        15.44,
+        1219.73,
+        26.5
+      ],
+      "confidence": 0.2546,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_71",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1093.84,
+        597.79,
+        1109.72,
+        607.86
+      ],
+      "confidence": 0.2394,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_72",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        60.89,
+        597.4,
+        77.34,
+        609.63
+      ],
+      "confidence": 0.2058,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_73",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1477.71,
+        597.69,
+        1493.2,
+        607.65
+      ],
+      "confidence": 0.2042,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_74",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        17.36,
+        16.62,
+        39.28,
+        25.19
+      ],
+      "confidence": 0.1741,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_75",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        1407.93,
+        595.85,
+        1422.79,
+        608.88
+      ],
+      "confidence": 0.1725,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_76",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        828.62,
+        597.43,
+        845.23,
+        609.56
+      ],
+      "confidence": 0.1437,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_77",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        444.46,
+        597.37,
+        460.56,
+        609.73
+      ],
+      "confidence": 0.1427,
+      "cluster_size": 1
+    }
+  ]
+}

@@ -1,0 +1,606 @@
+{
+  "image": "179_encyclopedia_com.png",
+  "total_elements": 46,
+  "total_raw_nodes": 57,
+  "total_raw_edges": 51,
+  "elements": [
+    {
+      "id": "fused_0",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        34.88,
+        22.1,
+        175.27,
+        78.65
+      ],
+      "confidence": 0.8529,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_1",
+      "source": "ocr",
+      "class_label": "Environment",
+      "bbox": [
+        45.0,
+        144.0,
+        168.0,
+        161.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_2",
+      "source": "ocr",
+      "class_label": "History",
+      "bbox": [
+        45.0,
+        193.0,
+        114.0,
+        210.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_3",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        45.28,
+        238.53,
+        261.8,
+        254.85
+      ],
+      "confidence": 0.9565,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_4",
+      "source": "ocr",
+      "class_label": "Medicine",
+      "bbox": [
+        45.0,
+        283.0,
+        131.0,
+        300.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_5",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        423.1,
+        21.32,
+        512.11,
+        44.78
+      ],
+      "confidence": 0.8957,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_6",
+      "source": "ocr",
+      "class_label": "People",
+      "bbox": [
+        45.0,
+        332.0,
+        113.0,
+        350.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_7",
+      "source": "ocr",
+      "class_label": "Philosophy and\nReligion",
+      "bbox": [
+        44.0,
+        375.0,
+        194.0,
+        422.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_8",
+      "source": "ocr",
+      "class_label": "Places",
+      "bbox": [
+        45.0,
+        451.0,
+        113.0,
+        467.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_9",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        44.81,
+        496.29,
+        232.66,
+        513.28
+      ],
+      "confidence": 0.9587,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_10",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        44.39,
+        543.7,
+        165.8,
+        588.04
+      ],
+      "confidence": 0.8918,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_11",
+      "source": "ocr",
+      "class_label": "Social Sciences and",
+      "bbox": [
+        45.0,
+        616.0,
+        243.0,
+        632.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_12",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        44.94,
+        688.82,
+        250.35,
+        731.32
+      ],
+      "confidence": 0.8831,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_13",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        44.6,
+        761.41,
+        259.85,
+        778.25
+      ],
+      "confidence": 0.9329,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_14",
+      "source": "ocr",
+      "class_label": "Articles",
+      "bbox": [
+        44.0,
+        808.0,
+        115.0,
+        823.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_15",
+      "source": "ocr",
+      "class_label": "Africa",
+      "bbox": [
+        421.0,
+        537.0,
+        477.0,
+        551.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_16",
+      "source": "ocr",
+      "class_label": "Asia",
+      "bbox": [
+        422.0,
+        577.0,
+        464.0,
+        591.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_17",
+      "source": "ocr",
+      "class_label": "Australia and Oceania",
+      "bbox": [
+        421.0,
+        616.0,
+        638.0,
+        632.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_18",
+      "source": "ocr",
+      "class_label": "Britain, Ireland, France, and the Low Countries",
+      "bbox": [
+        422.0,
+        656.0,
+        876.0,
+        674.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_19",
+      "source": "ocr",
+      "class_label": "Latin America and the Caribbean",
+      "bbox": [
+        422.0,
+        776.0,
+        741.0,
+        792.0
+      ],
+      "confidence": 0.99,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_20",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        601.62,
+        93.35,
+        762.89,
+        254.26
+      ],
+      "confidence": 0.9696,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_21",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        421.71,
+        72.6,
+        583.24,
+        233.7
+      ],
+      "confidence": 0.9733,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_22",
+      "source": "ocr",
+      "class_label": "Earth and",
+      "bbox": [
+        45.0,
+        120.0,
+        139.0,
+        136.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_23",
+      "source": "ocr",
+      "class_label": "Sahara. Wikimedia",
+      "bbox": [
+        602.0,
+        261.0,
+        751.0,
+        274.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_24",
+      "source": "ocr",
+      "class_label": "the Law",
+      "bbox": [
+        44.0,
+        643.0,
+        119.0,
+        660.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_25",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        430.8,
+        370.99,
+        1473.7,
+        497.62
+      ],
+      "confidence": 0.9754,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_26",
+      "source": "ocr",
+      "class_label": "Commonwealth of Independent States and the Baltic Nations",
+      "bbox": [
+        422.0,
+        696.0,
+        1016.0,
+        714.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_27",
+      "source": "ocr",
+      "class_label": "Germany, Scandinavia, and Central Europe",
+      "bbox": [
+        422.0,
+        735.0,
+        846.0,
+        755.0
+      ],
+      "confidence": 0.98,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_28",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        421.37,
+        238.92,
+        550.14,
+        319.5
+      ],
+      "confidence": 0.9107,
+      "cluster_size": 2
+    },
+    {
+      "id": "fused_29",
+      "source": "cv",
+      "class_label": "rectangle_box",
+      "bbox": [
+        34.0,
+        435.0,
+        277.0,
+        484.0
+      ],
+      "confidence": 0.9688,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_30",
+      "source": "ocr",
+      "class_label": "Commons (Holger\nReineccius, GFDL)",
+      "bbox": [
+        602.0,
+        281.0,
+        752.0,
+        319.0
+      ],
+      "confidence": 0.95,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_31",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        46.17,
+        331.35,
+        113.4,
+        352.72
+      ],
+      "confidence": 0.94,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_32",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        601.25,
+        261.19,
+        751.85,
+        319.35
+      ],
+      "confidence": 0.9384,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_33",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        45.71,
+        451.36,
+        114.67,
+        469.98
+      ],
+      "confidence": 0.9347,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_34",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        46.43,
+        285.08,
+        133.4,
+        301.06
+      ],
+      "confidence": 0.9262,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_35",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        421.64,
+        535.35,
+        478.44,
+        552.73
+      ],
+      "confidence": 0.9234,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_36",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        46.53,
+        192.06,
+        113.71,
+        212.05
+      ],
+      "confidence": 0.9081,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_37",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        421.68,
+        576.25,
+        466.55,
+        592.54
+      ],
+      "confidence": 0.9017,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_38",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        46.06,
+        377.09,
+        193.14,
+        398.91
+      ],
+      "confidence": 0.8762,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_39",
+      "source": "large",
+      "class_label": "ui_element",
+      "bbox": [
+        403.33,
+        0.0,
+        1536.0,
+        824.01
+      ],
+      "confidence": 0.8643,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_40",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        44.09,
+        806.88,
+        117.61,
+        825.07
+      ],
+      "confidence": 0.8607,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_41",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        45.72,
+        117.61,
+        169.8,
+        162.58
+      ],
+      "confidence": 0.8417,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_42",
+      "source": "ocr",
+      "class_label": "Oceans. Continents and Polar Regions.",
+      "bbox": [
+        421.0,
+        814.0,
+        811.0,
+        825.0
+      ],
+      "confidence": 0.8,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_43",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        1456.2,
+        705.8,
+        1517.73,
+        766.69
+      ],
+      "confidence": 0.7487,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_44",
+      "source": "medium",
+      "class_label": "ui_element",
+      "bbox": [
+        46.07,
+        402.1,
+        124.54,
+        425.22
+      ],
+      "confidence": 0.6354,
+      "cluster_size": 1
+    },
+    {
+      "id": "fused_45",
+      "source": "small",
+      "class_label": "ui_element",
+      "bbox": [
+        45.55,
+        715.79,
+        80.32,
+        731.85
+      ],
+      "confidence": 0.1851,
+      "cluster_size": 1
+    }
+  ]
+}
