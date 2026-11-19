@@ -210,17 +210,62 @@ def groups(predictions,cfg):
                                         'human_correct':None})
     return result
 
-def infer(before_path,after_path,before_image,after_image,cfg=None):
+def reuse_geometry_pairs(records, before, after):
+    """Map geometry duplicate groups to unambiguous OCR representatives."""
+    lookups = [
+        {member: elem for elem in elements for member in elem['group_members']}
+        for elements in (before, after)
+    ]
+    candidates = []
+    for record in records:
+        if set(record.get('quality_flags', ())) - {'possible_ocr_segmentation_or_content_change'}:
+            continue
+        endpoints = []
+        for side, lookup in zip(('before', 'after'), lookups):
+            members = record[side + '_group_members']
+            ocr = [lookup[member] for member in members if member in lookup]
+            if len(ocr) != 1:
+                break
+            endpoints.append(ocr[0])
+        if len(endpoints) != 2:
+            continue
+        b, a = endpoints
+        if shared.bbox_iou(b['bbox'], a['bbox']) < .5:
+            continue
+        candidates.append({
+            'before_id': b['id'], 'after_id': a['id'],
+            'before_bbox': b['bbox'], 'after_bbox': a['bbox'],
+            'match_type': 'geometry_reuse',
+            'geometry_pair': [record['before_id'], record['after_id']],
+        })
+    counts = [Counter(row[key] for row in candidates) for key in ('before_id', 'after_id')]
+    return [row for row in candidates
+            if counts[0][row['before_id']] == counts[1][row['after_id']] == 1]
+
+
+def infer(before_path,after_path,before_image,after_image,cfg=None,*,ocr_only=False,detection_loader=None,images=None,geometry_pairs=None):
     """GT-free API, with no pair ID, GT labels or selectors in its arguments."""
     cfg=cfg or CONFIG;bcfg=dict(shared.NORMALIZATION_CONFIG)
-    braw,bwarn=shared.load_normalized(Path(before_path));araw,awarn=shared.load_normalized(Path(after_path))
+    load = detection_loader or shared.load_normalized
+    braw,bwarn=load(Path(before_path));araw,awarn=load(Path(after_path))
+    if ocr_only:
+        braw = [element for element in braw if element['source'] == 'ocr']
+        araw = [element for element in araw if element['source'] == 'ocr']
     bd=shared.build_duplicate_groups(braw,bcfg);ad=shared.build_duplicate_groups(araw,bcfg)
     bs=shared.group_representative_elems(braw,bd);ats=shared.group_representative_elems(araw,ad)
-    bi=Image.open(before_image).convert('RGB');ai=Image.open(after_image).convert('RGB')
+    if images is None:
+        bi=Image.open(before_image).convert('RGB');ai=Image.open(after_image).convert('RGB')
+    else:
+        bi,ai=images
+    reused = reuse_geometry_pairs(geometry_pairs, bs, ats) if geometry_pairs is not None else []
+    used_b = {row['before_id'] for row in reused}
+    used_a = {row['after_id'] for row in reused}
+    pending_b = [elem for elem in bs if elem['id'] not in used_b]
+    pending_a = [elem for elem in ats if elem['id'] not in used_a]
     anchors=shared.build_ocr_anchors(bs,ats,bcfg)
     anchors['container_candidates']=shared.match_containers(bs,ats,anchors,bcfg)
     anchors['textures']={}
-    for side,es,im in [('before',bs,bi),('after',ats,ai)]:
+    for side,es,im in [('before',pending_b,bi),('after',pending_a,ai)]:
         descriptors={}
         for e in es:
             box=intersect(e['bbox'],[0,0,im.width,im.height])
@@ -229,8 +274,14 @@ def infer(before_path,after_path,before_image,after_image,cfg=None):
                 descriptors[e['id']]=(ar-np.median(ar)).tolist()
         anchors['textures'][side]=descriptors
     # Exact OCR is a soft bonus/prior only. Every representative enters assignment.
-    bh=shared.precompute_crop_histograms(bs,bi,32);ah=shared.precompute_crop_histograms(ats,ai,32)
-    result=shared.solve_assignment(bs,ats,set(),set(),math.hypot(bi.width,bi.height),anchors,cfg,bh,ah,cost_builder=content_cost)
+    bh=shared.precompute_crop_histograms(pending_b,bi,32);ah=shared.precompute_crop_histograms(pending_a,ai,32)
+    result=shared.solve_assignment(pending_b,pending_a,set(),set(),math.hypot(bi.width,bi.height),anchors,cfg,bh,ah,cost_builder=content_cost)
+    result['matched_pairs'] = reused + result['matched_pairs']
+    if geometry_pairs is not None:
+        result['geometry_reuse'] = {
+            'pairs': len(reused), 'before_total': len(bs), 'after_total': len(ats),
+            'before_remaining': len(pending_b), 'after_remaining': len(pending_a),
+        }
     bl={e['id']:e for e in bs};al={e['id']:e for e in ats}
     for record in result['matched_pairs']+result['uncertain_pairs']:
         b,a=bl[record['before_id']],al[record['after_id']]

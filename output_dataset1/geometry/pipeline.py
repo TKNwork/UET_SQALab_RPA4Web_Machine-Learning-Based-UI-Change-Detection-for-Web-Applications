@@ -372,10 +372,24 @@ def process_pair(pair_dir: Path, output_dir: Path, cfg: dict,
     a_elems_raw, a_warn = load_normalized(pair_dir / "after.json")
 
     image_paths = resolve_images(pair_dir, cfg.get("image_root"))
+    result = infer_detections(
+        pair_id, (b_elems_raw, b_warn), (a_elems_raw, a_warn), image_paths, cfg, ablation
+    )
+    (out_dir / f"matching_result_{ablation}.json").write_text(
+        json.dumps(result, indent=2, ensure_ascii=False), encoding="utf-8"
+    )
+    return result
+
+
+def infer_detections(pair_id, before, after, image_paths, cfg, ablation="full", *, images=None):
+    b_elems_raw, b_warn = before
+    a_elems_raw, a_warn = after
     # Load images and precompute crop histograms
     b_img = a_img = None
     bins = cfg["crop_histogram_bins"]
-    if _PIL_OK:
+    if images is not None:
+        b_img, a_img = images
+    elif _PIL_OK:
         bp = image_paths["before"]
         if bp.exists():
             try:
@@ -558,10 +572,6 @@ def process_pair(pair_dir: Path, output_dir: Path, cfg: dict,
         "image_paths": {k:str(v.resolve()) for k,v in image_paths.items()},
         "warnings": b_warn + a_warn + (["Crop images unavailable; appearance evidence missing"] if b_img is None or a_img is None else []),
     }
-
-    (out_dir / f"matching_result_{ablation}.json").write_text(
-        json.dumps(result, indent=2, ensure_ascii=False)
-    , encoding='utf-8')
 
     return result
 

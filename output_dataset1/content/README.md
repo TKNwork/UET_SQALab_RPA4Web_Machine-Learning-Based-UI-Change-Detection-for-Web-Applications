@@ -1,5 +1,24 @@
 # Content
 
+Đánh giá thay đổi text trực tiếp từ `*_full_hierarchy.json` bằng `scripts/evaluate_text_pairs.py --full-hierarchy-ocr`. Bộ đọc lấy `text` khi `source` là OCR hoặc `sources` có OCR. JSON cũ có thể dùng `class_label` khi `source == "ocr"`. Bbox sử dụng là bbox sau WBF. Bản ghi inference giữ ID, nguồn chính và nhãn gốc để truy vết. Matcher ghép một-một trước khi đọc GT. Prediction cần OCR khác nhau và bằng chứng pixel, sau đó được chấm bằng envelope.
+
+```powershell
+# Từ thư mục gốc repository. Manifest cần trỏ baseline/inject tới JSON full hierarchy.
+$env:PYTHONPATH = 'output_dataset1'
+$env:OPENBLAS_NUM_THREADS = '1'
+.\.venv\Scripts\python.exe -m content.scripts.evaluate_text_pairs --workers 4 --full-hierarchy-ocr --accept-contained-envelope --input-manifest output_dataset1/content/results/restored_inputs/input_manifest_refreshed_inject.json --output-root output_dataset1/content/results/full_hierarchy_ocr_new_run
+```
+
+Luồng matching text theo B1–B9 của Geometry: `scripts/evaluate_text_pairs.py` lọc OCR trước assignment, lưu cặp và prediction trước khi đọc GT, tạo envelope đơn/nhóm và chấm IoU hoặc CCR. Xem kết quả 500 mẫu tại `results/restored_inputs/text_pairs_geometry_v1/REPORT.md`.
+
+Luồng đánh giá detection hiện tại: `scripts/evaluate_text_detection.py` lấy detection `source == ocr` và GT có nhãn `content`, ghép trực tiếp bằng singleton IoU≥0.30 hoặc intersection/GT_area≥0.50. Báo riêng baseline, inject, ít nhất một phía và cả hai phía. Kết quả 500 mẫu tại `results/restored_inputs/text_detection_gt_first500_v2/REPORT.md`; các profile replacement bên dưới là thí nghiệm trước.
+
+Protocol hiện tại theo định nghĩa thay thế text/image/icon và giữ presentation: [EVALUATION_REPLACEMENT_1005.md](EVALUATION_REPLACEMENT_1005.md). Dùng `--replacement --count 1005`; ứng viên và coverage tạm thời được tách khỏi GT pure đã review và correctness. `--text-only` là profile nghiên cứu trước, không đại diện toàn bộ định nghĩa hiện tại.
+
+Định nghĩa text-only và protocol 1005 mẫu: [EVALUATION_TEXT_1005.md](EVALUATION_TEXT_1005.md). Chạy evaluator với `--text-only --count 1005` để dùng profile `visible-text-v1`; không tính visual-only candidate là text change, giữ nguyên baseline lịch sử.
+
+Nghiên cứu 500 mẫu đầu: [EVALUATION_FIRST500.md](EVALUATION_FIRST500.md). Script `scripts/evaluate_first500.py` kiểm tra đủ ID, trích GT, freeze prediction toàn cohort rồi xuất bảng GT–prediction; không ghi đè run cũ. Phân biệt số liệu lịch sử với số liệu đã tái tính và các nguồn còn thiếu tại checkout.
+
 - `pipeline.py`: inventory → correspondence before/after → content evidence → prediction/nhóm → GT coverage. `infer()` không nhận GT, selector hoặc metadata thao tác inject.
 - `scripts/build_content_report.py`: báo cáo Markdown và viewer HTML độc lập; bảng/click overlay detection, matching, uncertain, unmatched, prediction và GT.
 - `scripts/survey_content.py`: contact sheet GT/detector và cặp before/after; chỉ review.

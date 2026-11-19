@@ -108,6 +108,10 @@ def load_normalized(json_path: Path) -> tuple[list[dict], list[str]]:
     except Exception as e:
         raise ValueError(f"Cannot load {json_path}: {e}") from e
 
+    return normalize_hierarchy(data, json_path)
+
+
+def normalize_hierarchy(data, json_path):
     elems_raw = data.get("elements", [])
     normed = []
     warnings = []
